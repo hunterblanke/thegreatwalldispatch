@@ -1,164 +1,116 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "metrics": {
-    "sources_scanned": 7,
-    "articles_total": 19,
-    "high_priority": 5,
+    "sources_scanned": 6,
+    "articles_total": 16,
+    "high_priority": 6,
     "by_category": {
-      "foreign_relations": 10,
-      "military": 4,
-      "economy": 5
+      "foreign_relations": 9,
+      "economy": 5,
+      "military": 2
     },
-    "updated_at": "2026-06-18T18:39:36.299660Z"
+    "updated_at": "2026-06-19T17:33:47.021157Z"
   },
   "articles": [
     {
-      "headline": "UK Border Force official convicted of espionage for China",
-      "brief": "A Border Force official was convicted of spying for Chinese intelligence after misusing access to Home Office data to obtain information about Chinese dissidents in the UK. The case demonstrates Chinese intelligence's targeting of government employees with access to sensitive information and highlights vulnerabilities in UK border security. This incident underscores broader concerns about foreign intelligence operations within UK government institutions.",
+      "headline": "Xi-Trump talks highlight Taiwan's role in U.S.-China strategic competition",
+      "brief": "Recent discussions between Xi and Trump have elevated focus on Taiwan and the South China Sea as central elements of Beijing's maritime strategy and broader U.S.-China rivalry. Analysts assess that China views control or influence over both territories as critical to its strategic positioning against American interests in the Indo-Pacific region. This framing suggests Taiwan remains a key flashpoint in great power competition rather than a separate bilateral issue.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "BBC News"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:45:50 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+      "published": "Tue, 19 May 2026 22:22:38 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "British court convicts Hong Kong trade office staff of espionage",
-      "brief": "A UK court sentenced two men affiliated with Hong Kong's London trade office to up to 10 years imprisonment for spying on activists on behalf of a foreign intelligence service. Hong Kong's government disputed the convictions as unfounded allegations. The case represents a significant deterioration in UK-Hong Kong relations and underscores ongoing tensions over intelligence operations and activism monitoring.",
+      "headline": "Chinese Military Confidence Becomes Key Taiwan Invasion Assessment Factor",
+      "brief": "Analysis suggests Xi Jinping's confidence in military capabilities may be as critical as objective assessments of China's ability to invade Taiwan. The convergence of actual military capability and leadership confidence could influence decision-making regarding Taiwan contingencies. This assessment has significant implications for cross-strait stability and regional security planning.",
+      "category": "military",
+      "severity": "high",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
+      "published": "Fri, 19 Jun 2026 22:33:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China Expands Strategic Presence Across Arctic Domain",
+      "brief": "China is developing a comprehensive three-dimensional presence in the Arctic spanning space, maritime, and polar capabilities, positioning itself across what it terms a \"strategic new frontier.\" This expansion represents a significant shift in China's geopolitical ambitions beyond traditional terrestrial and near-space domains. The Arctic initiative has implications for regional power dynamics, resource competition, and military positioning in a strategically critical area.",
+      "category": "military",
+      "severity": "high",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/06/from-space-to-the-polar-depths-china-aims-for-a-three-dimensional-presence-in-the-arctic/",
+      "published": "Fri, 19 Jun 2026 21:02:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Chinese AI developers accelerate trillion-parameter model development amid US export controls",
+      "brief": "Chinese artificial intelligence companies are intensifying development of massive foundation models exceeding one trillion parameters to compete with US counterparts like OpenAI and Anthropic, as Washington implements new export restrictions on advanced AI software. This represents a significant competitive escalation in the global AI sector, with China attempting to close capability gaps despite facing technological access constraints. The development has implications for both the AI technology race and US-China technological competition.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
+      "published": "Fri, 19 Jun 2026 06:00:10 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "UK court sentences Hong Kong officials for espionage against activists",
+      "brief": "A British court sentenced two individuals linked to Hong Kong's London office to up to 10 years imprisonment for conducting surveillance on pro-democracy activists. The Chinese embassy has protested the convictions, demanding the UK cease what it characterizes as \"slander and suppression.\" This case reflects escalating tensions between Beijing and London over national security concerns and Hong Kong autonomy issues.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357604/uk-court-jails-2-hongkongers-tied-trade-office-10-years-spying?utm_source=rss_feed",
-      "published": "Thu, 18 Jun 2026 12:20:23 +0000",
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3357710/chinese-embassy-uk-decries-jailing-2-hongkongers-spying?utm_source=rss_feed",
+      "published": "Fri, 19 Jun 2026 10:20:31 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "China and Russia advance quantum computing threat to encryption",
-      "brief": "China and Russia are reportedly harvesting encrypted data and making progress toward quantum computing capabilities that could decrypt currently secured communications. This development poses significant risks to national security, economic data protection, and classified government communications. The ability to retroactively decrypt stored sensitive information represents a critical long-term vulnerability for governments and private institutions globally.",
-      "category": "military",
-      "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis",
-      "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Asian nations advance AI capabilities while EU lags behind",
-      "brief": "China, South Korea, Japan, India, and Singapore are pursuing ambitious artificial intelligence development goals, while European Union efforts remain comparatively slower. This widening technological gap could have significant implications for global economic competitiveness and military-technological capabilities in the coming decade.",
-      "category": "military",
-      "severity": "high",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/06/asia-is-sprinting-on-ai-europe-is-still-tying-its-laces/",
-      "published": "Thu, 18 Jun 2026 00:56:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Hong Kong National Security Law suppresses Tiananmen anniversary commemoration",
-      "brief": "Hong Kong's Victoria Park remained silent during the Tiananmen crackdown anniversary for the first time in decades, with the government preventing the annual vigil that previously attracted approximately 180,000 participants. The suppression reflects the enforcement of the National Security Law's restrictions on public assembly and political expression. This development demonstrates Beijing's expanded control over Hong Kong's civil liberties and public discourse following the law's implementation.",
+      "headline": "China Advances Internet Sovereignty as Global Governance Model",
+      "brief": "China is promoting 'Internet sovereignty' as a key governing principle for the global Internet, according to CSIS analysis. This initiative represents China's effort to establish state control over digital infrastructure and content within national borders, with significant implications for international cybersecurity, data governance, and digital espionage capabilities. The concept challenges Western-led Internet governance frameworks and signals China's intent to shape future global digital standards.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "Radio Free Asia"
+        "CSIS"
       ],
-      "original_link": "https://rfa.org/english/china/2026/06/03/hong-kong-victoria-park-tiananmen-square-china/",
-      "published": "Wed, 03 Jun 2026 21:16:48 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
     },
     {
-      "headline": "China's South China Sea buildup could complicate Taiwan conflict response",
-      "brief": "According to a report cited by Radio Free Asia, China's maritime outposts in the South China Sea could potentially distract Taiwan's allies in the event of a Beijing-led invasion, though experts assess this scenario as unlikely during actual conflict. The buildup is understood to be strategically linked to Taiwan contingency planning. The implications suggest China may be developing multiple regional leverage points to influence potential international responses to cross-strait military action.",
+      "headline": "U.S. Arms Sales to Taiwan Remain Central to Cross-Strait Security Dynamic",
+      "brief": "The delayed U.S. arms package to Taiwan has highlighted the ongoing security relationship between Washington and Taipei, which serves as a counterbalance to Beijing's military capabilities across the Taiwan Strait. Taiwan seeks advanced U.S. weapons systems to maintain defensive capabilities, while the United States continues to supply them despite diplomatic sensitivities with China. This arrangement reflects the strategic importance both nations place on maintaining the current cross-strait balance.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
-      "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+      "published": "Tue, 26 May 2026 03:18:46 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "North Korea upgrading ports to accommodate larger naval destroyers",
-      "brief": "Satellite imagery indicates North Korea is undertaking shipyard upgrades as part of its five-year naval modernization plan, suggesting capability to construct and deploy larger destroyer-class vessels. This development reflects North Korea's strategic efforts to enhance its naval power projection, with potential implications for regional security dynamics in Northeast Asia.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-      "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "North Korea-Russia bridge nears completion amid deepening ties",
-      "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Experts interpret the rapid construction pace as evidence of Kim Jong Un's commitment to strengthening cooperation with Moscow. The bridge project represents a significant expansion of North Korea-Russia bilateral engagement.",
+      "headline": "China Excludes Taiwan from Maritime Ecology Platform",
+      "brief": "China successfully prevented Taiwan's participation in a Track 2 maritime ecology initiative, representing an escalation of political pressure tactics. The exclusion demonstrates Beijing's willingness to leverage multilateral forums to isolate Taiwan diplomatically. This action signals potential willingness to subordinate environmental cooperation to geopolitical objectives in regional maritime governance.",
       "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
-      "published": "Thu, 21 May 2026 00:44:51 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Philippines Confirms Removal of Chinese Floating Platform at Scarborough Shoal",
-      "brief": "China deployed a floating platform at the disputed Scarborough Shoal in the South China Sea, citing scientific research purposes. The Philippines subsequently confirmed the platform's removal from the contested atoll. The incident highlights ongoing tensions over competing territorial claims and China's maritime activities in the strategically significant region.",
-      "category": "military",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/06/philippines-confirms-removal-of-floating-platform-at-scarborough-shoal/",
-      "published": "Thu, 18 Jun 2026 15:22:00 +0900",
+      "original_link": "https://thediplomat.com/2026/06/beijings-bullying-of-taiwan-threatens-ocean-ecology/",
+      "published": "Fri, 19 Jun 2026 23:33:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Vietnam accelerates Spratly Islands construction but lags China",
-      "brief": "Satellite imagery shows Vietnam has undertaken significant reclamation and construction activities on 27 features in the disputed Spratly Islands chain, yet experts assess that Vietnam's efforts remain insufficient to match China's extensive military and infrastructure development in the region. This disparity underscores the asymmetric competition for control of strategically vital South China Sea territory and highlights ongoing tensions over competing territorial claims.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
-      "published": "Mon, 08 Jun 2026 14:07:06 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Hong Kong regulators strengthen capital controls compliance under Beijing pressure",
-      "brief": "Hong Kong's financial regulators have committed to stricter compliance standards and enhanced oversight of cross-border capital flows in response to Beijing's tightened capital control measures. The Securities and Futures Commission pledged to maintain regulatory rigor while supporting market development, signaling alignment with mainland China's efforts to monitor and restrict illicit financial outflows. This development indicates Beijing's continued prioritization of capital account management and potential implications for Hong Kong's financial market operations and international competitiveness.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3356892/hong-kong-regulators-vow-strict-compliance-beijing-tightens-capital-controls?utm_source=rss_feed",
-      "published": "Fri, 12 Jun 2026 09:30:07 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's Export Strategy May Limit Development Opportunities for Poor Countries",
-      "brief": "China is implementing export policies that restrict poor countries' access to manufacturing and development pathways that Beijing itself utilized during its rise. This approach to trade strategy could impede economic advancement for developing nations seeking to replicate China's industrialization model. The shift represents a potential recalibration of global economic competition and developing-world growth prospects.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it",
-      "published": "Thu, 18 Jun 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "U.S.-China Economic Stalemate Poses Long-term Strategic Risk",
-      "brief": "The article argues that Washington's current approach to managing economic competition with Beijing through stalemate rather than negotiated agreement may produce unfavorable long-term outcomes. The analysis suggests that the status quo lacks sustainability and could eventually disadvantage U.S. interests. The implication is that the absence of a stabilizing economic framework between the world's two largest economies creates strategic vulnerability.",
+      "headline": "U.S.-China Economic Stalemate Carries Long-Term Risks",
+      "brief": "The article argues that Washington's current stalemate approach with Beijing in economic relations may prove counterproductive over time. The analysis suggests that prolonged deadlock rather than resolution could generate unforeseen strategic complications for U.S. interests. This perspective highlights growing concerns about the sustainability of the current U.S.-China economic posture.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -169,76 +121,88 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Analysis examines structural vulnerabilities in China's economic power",
-      "brief": "The article discusses strategic weaknesses in China's economic position that the United States could potentially leverage in bilateral relations. The analysis suggests identifying and exploiting these fault lines represents a key component of U.S. strategic competition with Beijing. The piece implies China's economic model contains exploitable vulnerabilities despite its overall strength.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby",
-      "published": "Wed, 10 Jun 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Beijing accused of misrepresenting foreign dignitaries' statements",
-      "brief": "Radio Free Asia reports that China has a pattern of mischaracterizing statements from visiting officials to suggest endorsement of its domestic policies. The article warns of potential similar misrepresentation during high-level diplomatic summits, particularly regarding sensitive policy positions. This practice could complicate diplomatic communications and create tensions over divergent policy interpretations.",
+      "headline": "Quad partners plan Fiji port project to counter China's Pacific influence",
+      "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of broader efforts to challenge China's dominance in Pacific supply-chain infrastructure. The initiative signals to regional actors that the Quad coalition can provide alternative economic partnerships and investments beyond those offered by Beijing. The project represents a strategic competition for influence and economic leverage in the Indo-Pacific region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/uyghur/2026/05/12/trump-xi-china-meeting-uyghur/",
-      "published": "Tue, 12 May 2026 15:26:55 +0000",
+      "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+      "published": "Fri, 29 May 2026 20:35:15 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Chinese Foreign Minister Wang Yi discusses US-China relations at CSIS",
-      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for high-level dialogue on strategic issues between the two powers during a period of significant geopolitical tension.",
+      "headline": "Solomon Islands leadership change signals potential shift in China relations",
+      "brief": "Matthew Wale's ascension to Solomon Islands Prime Minister is expected to result in a more moderate approach to China compared to his predecessors. Experts assess Wale will be less enthusiastic about deepening ties with Beijing, potentially realigning the nation's strategic orientation toward Australia and Western partners. This represents a significant recalibration of the Solomon Islands' foreign policy trajectory in the Indo-Pacific region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "CSIS"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
+      "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
+      "published": "Fri, 15 May 2026 22:53:07 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Influences Great Powers Without Strategic Control",
-      "brief": "According to The Diplomat, China has successfully drawn major powers into its sphere of influence while lacking the ability to control their strategic decision-making. This suggests a shift in global power dynamics where Beijing wields significant economic and diplomatic leverage without achieving hegemonic control over other nations' foreign policies.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/06/china-is-indispensable-but-not-dominant/",
-      "published": "Thu, 18 Jun 2026 03:01:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "European Family Offices Establish Hong Kong Operations",
-      "brief": "Approximately 30 European family offices are establishing operations in Hong Kong, representing 19 percent of 160 total family offices being assisted by InvestHK. The relocation is driven by Hong Kong's tax incentives and renewed investor confidence in China's technology sector and Hong Kong's property market. This trend indicates a potential shift in international wealth management patterns toward Asia-Pacific financial hubs.",
+      "headline": "China expands digital yuan infrastructure with 26 bank participants",
+      "brief": "China has onboarded 26 domestic and international financial institutions to its Cross-border e-CNY Transfer Services (CBETS) platform, managed by the People's Bank of China. This expansion represents a significant step in scaling digital yuan adoption and building cross-border payment infrastructure. The move signals Beijing's continued commitment to internationalize the e-CNY and reduce reliance on dollar-denominated payment systems.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3356945/european-wealth-turns-hong-kong-30-family-offices-eye-operations-city?utm_source=rss_feed",
-      "published": "Sun, 14 Jun 2026 08:00:12 +0000",
+      "original_link": "https://www.scmp.com/economy/china-economy/article/3357430/china-accelerates-digital-yuan-push-26-banks-join-new-cross-border-platform?utm_source=rss_feed",
+      "published": "Wed, 17 Jun 2026 11:30:05 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Mainland Chinese families cite education as primary driver of Hong Kong relocation",
-      "brief": "Over 90 percent of mainland Chinese families utilizing Hong Kong's talent visa schemes report children's education as their primary motivation for relocating, with nearly 80 percent moving during their children's upper secondary school years. This trend indicates significant educational disparities between mainland China and Hong Kong, potentially affecting talent retention and demographic patterns in both regions. The relocation preference underscores ongoing concerns about mainland education quality and Hong Kong's perceived advantages in academic standards.",
+      "headline": "HSBC China launches cross-border fund custodian services for mainland investors",
+      "brief": "HSBC China has become the first foreign bank to offer custodian services for cross-border fund products enabling mainland investors to legally access foreign markets. The move signals Beijing's continued commitment to regulated capital outflows despite recent crackdowns on illegal cross-border trading, suggesting a balanced approach to liberalizing overseas investment channels while maintaining financial controls.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3357411/hsbc-china-pioneers-cross-border-fund-services-mainland-investors?utm_source=rss_feed",
+      "published": "Wed, 17 Jun 2026 09:15:04 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "HKEX Chief: Global Investors Remain Committed to Chinese Tech",
+      "brief": "Hong Kong Exchanges and Clearing CEO Bonnie Chan stated that international investors continue prioritizing Chinese technology companies and Asian markets despite SpaceX's major IPO potentially drawing capital away. The statement reflects confidence in China's investment appeal among global institutional investors despite competitive pressures from U.S. space sector developments.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3357483/global-investors-remain-chinas-orbit-despite-spacex-blockbuster-ipo-hkex-chief?utm_source=rss_feed",
+      "published": "Thu, 18 Jun 2026 00:14:37 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Northern Marianas faces tourism trade-off over Chinese visa waiver program",
+      "brief": "The Northern Marianas' visa waiver program for Chinese visitors (EVS-TAP) has boosted tourism but raised security concerns among critics. Ending the program could significantly impact the U.S. territory's economy while potentially addressing security risks, presenting policymakers with a difficult trade-off between economic and national security interests.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/education/article/3357579/93-mainland-chinese-top-talent-move-hong-kong-childrens-education?utm_source=rss_feed",
-      "published": "Thu, 18 Jun 2026 10:21:08 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://rfa.org/english/pacific/2026/05/13/cnmi-china-visa-waiver-evstap/",
+      "published": "Wed, 13 May 2026 13:22:41 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Classifies Christianity as Cult, Increases Suppression",
+      "brief": "The Chinese Communist Party has determined that fundamental Christian tenets qualify the religion as a cult requiring active suppression. This policy reflects Beijing's broader efforts to control religious organizations and prevent ideologies it views as threats to party authority. The designation could intensify restrictions on Christian communities and churches operating within China.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/06/in-china-christianity-is-treated-as-a-cult/",
+      "published": "Fri, 19 Jun 2026 21:47:00 +0900",
+      "raw_source": "The Diplomat"
     }
   ],
   "deep_dive": {
@@ -257,52 +221,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technology competition, and geopolitical disputes over Taiwan and the South China Sea."
+      "summary": "Strategic competition marked by trade tensions, technology restrictions, and geopolitical rivalry, though communication channels remain open."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with increased coordination on energy, defense, and opposition to Western sanctions and influence."
+      "summary": "Strengthened partnership through increased energy trade, military coordination, and shared opposition to Western sanctions and influence."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, market access, and strategic autonomy."
+      "summary": "Complex relationship balancing significant economic interdependence with growing concerns over technology competition, human rights, and geopolitical divergence."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and maintains military pressure while refusing to renounce force, creating an adversarial relationship."
+      "summary": "Fundamental antagonism over sovereignty with military pressure, political isolation efforts, and rejection of Taiwan's democratic governance."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "Japan-China relations are strained by historical disputes, territorial disagreements over the Senkaku Islands, and strategic competition in the region."
+      "summary": "Strained ties complicated by disputes over the Senkaku Islands, historical grievances, security alliances with the US, and regional competition."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "China-India relations are characterized by border disputes, military standoffs, and growing strategic rivalry in Asia."
+      "summary": "Relationship deteriorated following border clashes in Ladakh, with ongoing military tensions and strategic competition in South Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains cooperative relations with Saudi Arabia focused on energy trade, investment, and Belt and Road Initiative projects."
+      "summary": "Pragmatic partnership centered on energy trade, investment, and mutual interest in regional stability independent of US alignment."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Philippines-China relations oscillate between cooperation on economic and infrastructure projects and tensions over South China Sea territorial claims."
+      "summary": "Complicated dynamic mixing economic cooperation and Chinese investment with tensions over South China Sea territorial disputes."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China-Brazil relations are cooperative, centered on trade, resource extraction, and investment with growing strategic coordination."
+      "summary": "Growing economic partnership focused on trade and investment, with Brazil balancing relations between China and traditional Western allies."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations remain strained following Australian calls for COVID-19 investigations and security concerns, with ongoing trade friction."
+      "summary": "Relationship strained by trade disputes, technology concerns, national security investigations, and alignment with US-led Indo-Pacific strategies."
     }
   ]
 }
