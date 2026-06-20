@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-06-19",
+      "articles": [
+        {
+          "headline": "Xi-Trump talks highlight Taiwan's role in U.S.-China strategic competition",
+          "brief": "Recent discussions between Xi and Trump have elevated focus on Taiwan and the South China Sea as central elements of Beijing's maritime strategy and broader U.S.-China rivalry. Analysts assess that China views control or influence over both territories as critical to its strategic positioning against American interests in the Indo-Pacific region. This framing suggests Taiwan remains a key flashpoint in great power competition rather than a separate bilateral issue.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Chinese Military Confidence Becomes Key Taiwan Invasion Assessment Factor",
+          "brief": "Analysis suggests Xi Jinping's confidence in military capabilities may be as critical as objective assessments of China's ability to invade Taiwan. The convergence of actual military capability and leadership confidence could influence decision-making regarding Taiwan contingencies. This assessment has significant implications for cross-strait stability and regional security planning.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
+          "published": "Fri, 19 Jun 2026 22:33:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Expands Strategic Presence Across Arctic Domain",
+          "brief": "China is developing a comprehensive three-dimensional presence in the Arctic spanning space, maritime, and polar capabilities, positioning itself across what it terms a \"strategic new frontier.\" This expansion represents a significant shift in China's geopolitical ambitions beyond traditional terrestrial and near-space domains. The Arctic initiative has implications for regional power dynamics, resource competition, and military positioning in a strategically critical area.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/from-space-to-the-polar-depths-china-aims-for-a-three-dimensional-presence-in-the-arctic/",
+          "published": "Fri, 19 Jun 2026 21:02:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese AI developers accelerate trillion-parameter model development amid US export controls",
+          "brief": "Chinese artificial intelligence companies are intensifying development of massive foundation models exceeding one trillion parameters to compete with US counterparts like OpenAI and Anthropic, as Washington implements new export restrictions on advanced AI software. This represents a significant competitive escalation in the global AI sector, with China attempting to close capability gaps despite facing technological access constraints. The development has implications for both the AI technology race and US-China technological competition.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
+          "published": "Fri, 19 Jun 2026 06:00:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "UK court sentences Hong Kong officials for espionage against activists",
+          "brief": "A British court sentenced two individuals linked to Hong Kong's London office to up to 10 years imprisonment for conducting surveillance on pro-democracy activists. The Chinese embassy has protested the convictions, demanding the UK cease what it characterizes as \"slander and suppression.\" This case reflects escalating tensions between Beijing and London over national security concerns and Hong Kong autonomy issues.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3357710/chinese-embassy-uk-decries-jailing-2-hongkongers-spying?utm_source=rss_feed",
+          "published": "Fri, 19 Jun 2026 10:20:31 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty as Global Governance Model",
+          "brief": "China is promoting 'Internet sovereignty' as a key governing principle for the global Internet, according to CSIS analysis. This initiative represents China's effort to establish state control over digital infrastructure and content within national borders, with significant implications for international cybersecurity, data governance, and digital espionage capabilities. The concept challenges Western-led Internet governance frameworks and signals China's intent to shape future global digital standards.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "U.S. Arms Sales to Taiwan Remain Central to Cross-Strait Security Dynamic",
+          "brief": "The delayed U.S. arms package to Taiwan has highlighted the ongoing security relationship between Washington and Taipei, which serves as a counterbalance to Beijing's military capabilities across the Taiwan Strait. Taiwan seeks advanced U.S. weapons systems to maintain defensive capabilities, while the United States continues to supply them despite diplomatic sensitivities with China. This arrangement reflects the strategic importance both nations place on maintaining the current cross-strait balance.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Excludes Taiwan from Maritime Ecology Platform",
+          "brief": "China successfully prevented Taiwan's participation in a Track 2 maritime ecology initiative, representing an escalation of political pressure tactics. The exclusion demonstrates Beijing's willingness to leverage multilateral forums to isolate Taiwan diplomatically. This action signals potential willingness to subordinate environmental cooperation to geopolitical objectives in regional maritime governance.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/beijings-bullying-of-taiwan-threatens-ocean-ecology/",
+          "published": "Fri, 19 Jun 2026 23:33:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "U.S.-China Economic Stalemate Carries Long-Term Risks",
+          "brief": "The article argues that Washington's current stalemate approach with Beijing in economic relations may prove counterproductive over time. The analysis suggests that prolonged deadlock rather than resolution could generate unforeseen strategic complications for U.S. interests. This perspective highlights growing concerns about the sustainability of the current U.S.-China economic posture.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/us-chinese-relations/false-promise-us-china-stability",
+          "published": "Mon, 15 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Quad partners plan Fiji port project to counter China's Pacific influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of broader efforts to challenge China's dominance in Pacific supply-chain infrastructure. The initiative signals to regional actors that the Quad coalition can provide alternative economic partnerships and investments beyond those offered by Beijing. The project represents a strategic competition for influence and economic leverage in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands leadership change signals potential shift in China relations",
+          "brief": "Matthew Wale's ascension to Solomon Islands Prime Minister is expected to result in a more moderate approach to China compared to his predecessors. Experts assess Wale will be less enthusiastic about deepening ties with Beijing, potentially realigning the nation's strategic orientation toward Australia and Western partners. This represents a significant recalibration of the Solomon Islands' foreign policy trajectory in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
+          "published": "Fri, 15 May 2026 22:53:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China expands digital yuan infrastructure with 26 bank participants",
+          "brief": "China has onboarded 26 domestic and international financial institutions to its Cross-border e-CNY Transfer Services (CBETS) platform, managed by the People's Bank of China. This expansion represents a significant step in scaling digital yuan adoption and building cross-border payment infrastructure. The move signals Beijing's continued commitment to internationalize the e-CNY and reduce reliance on dollar-denominated payment systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3357430/china-accelerates-digital-yuan-push-26-banks-join-new-cross-border-platform?utm_source=rss_feed",
+          "published": "Wed, 17 Jun 2026 11:30:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HSBC China launches cross-border fund custodian services for mainland investors",
+          "brief": "HSBC China has become the first foreign bank to offer custodian services for cross-border fund products enabling mainland investors to legally access foreign markets. The move signals Beijing's continued commitment to regulated capital outflows despite recent crackdowns on illegal cross-border trading, suggesting a balanced approach to liberalizing overseas investment channels while maintaining financial controls.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3357411/hsbc-china-pioneers-cross-border-fund-services-mainland-investors?utm_source=rss_feed",
+          "published": "Wed, 17 Jun 2026 09:15:04 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HKEX Chief: Global Investors Remain Committed to Chinese Tech",
+          "brief": "Hong Kong Exchanges and Clearing CEO Bonnie Chan stated that international investors continue prioritizing Chinese technology companies and Asian markets despite SpaceX's major IPO potentially drawing capital away. The statement reflects confidence in China's investment appeal among global institutional investors despite competitive pressures from U.S. space sector developments.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3357483/global-investors-remain-chinas-orbit-despite-spacex-blockbuster-ipo-hkex-chief?utm_source=rss_feed",
+          "published": "Thu, 18 Jun 2026 00:14:37 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Northern Marianas faces tourism trade-off over Chinese visa waiver program",
+          "brief": "The Northern Marianas' visa waiver program for Chinese visitors (EVS-TAP) has boosted tourism but raised security concerns among critics. Ending the program could significantly impact the U.S. territory's economy while potentially addressing security risks, presenting policymakers with a difficult trade-off between economic and national security interests.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/13/cnmi-china-visa-waiver-evstap/",
+          "published": "Wed, 13 May 2026 13:22:41 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Classifies Christianity as Cult, Increases Suppression",
+          "brief": "The Chinese Communist Party has determined that fundamental Christian tenets qualify the religion as a cult requiring active suppression. This policy reflects Beijing's broader efforts to control religious organizations and prevent ideologies it views as threats to party authority. The designation could intensify restrictions on Christian communities and churches operating within China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/in-china-christianity-is-treated-as-a-cult/",
+          "published": "Fri, 19 Jun 2026 21:47:00 +0900",
+          "raw_source": "The Diplomat"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 16,
+        "high_priority": 6,
+        "by_category": {
+          "foreign_relations": 9,
+          "economy": 5,
+          "military": 2
+        },
+        "updated_at": "2026-06-19T17:33:47.021157Z"
+      }
+    },
+    {
       "date": "2026-06-18",
       "articles": [
         {
