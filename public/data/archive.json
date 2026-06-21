@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-06-20",
+      "articles": [
+        {
+          "headline": "U.S. Arms Supplies to Taiwan Reflect Evolving Security Partnership",
+          "brief": "Recent delays in U.S. military aid deliveries to Taiwan have highlighted the complex security relationship between Washington and Taipei, driven by Taiwan's need for defensive capabilities amid regional tensions. The arrangement reflects U.S. commitment to Taiwan's security under the Taiwan Relations Act, while Beijing views such transfers as interference in its internal affairs. This dynamic represents a critical flashpoint in U.S.-China relations with implications for broader Indo-Pacific stability.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Pursues Multi-Domain Arctic Presence Strategy",
+          "brief": "China is developing capabilities across space, maritime, and polar domains to establish a three-dimensional strategic presence in the Arctic. This initiative represents part of China's broader expansion into what it considers 'strategic new frontiers.' The diversified approach suggests China aims to enhance its influence and operational capacity across multiple technological and geographic domains in a geopolitically sensitive region.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/from-space-to-the-polar-depths-china-aims-for-a-three-dimensional-presence-in-the-arctic/",
+          "published": "Fri, 19 Jun 2026 21:02:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China and Russia advance quantum computing capabilities threatening encryption",
+          "brief": "China and Russia are reportedly collecting encrypted communications and making progress toward quantum computing capabilities that could decrypt current security systems. The development of quantum decryption capabilities poses significant risks to classified communications, financial systems, and digital infrastructure across government and private sectors. This technological advancement represents a potential shift in global cybersecurity vulnerabilities with wide-ranging implications for national security and economic systems.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis",
+          "published": "Wed, 17 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Xi's Military Confidence May Drive Taiwan Invasion Timeline",
+          "brief": "Analysis suggests that China's capability to invade Taiwan, measured by the 'Davidson Window,' is increasingly influenced by Xi Jinping's confidence in military readiness rather than purely technical capacity. Leadership perception of military capability may be a more significant factor than actual force modernization in determining potential military action across the Taiwan Strait.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
+          "published": "Fri, 19 Jun 2026 22:33:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "UK jails men for espionage on behalf of Chinese intelligence",
+          "brief": "British authorities convicted multiple individuals of spying for Chinese intelligence, including a Border Force official who exploited his access to Home Office data to obtain information on Chinese dissidents. The case demonstrates China's sustained intelligence collection efforts targeting the UK government and vulnerable populations within British borders. This incident highlights vulnerabilities in insider threat detection and the targeting of sensitive government databases for counterintelligence purposes.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 18 Jun 2026 15:45:50 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China's Communist Party Classifies Christianity as Cult Requiring Suppression",
+          "brief": "The Chinese Communist Party has officially classified Christianity as a cult based on fundamental theological tenets, implementing vigorous suppression measures. This policy represents Beijing's intensified control over religious practice and civil society organizations. The classification has significant implications for religious freedom, potential restrictions on Christian communities, and broader international concerns regarding human rights practices in China.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/in-china-christianity-is-treated-as-a-cult/",
+          "published": "Fri, 19 Jun 2026 21:47:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's South China Sea buildup could complicate Taiwan conflict response",
+          "brief": "China's maritime infrastructure development in the South China Sea is assessed by experts as strategically linked to potential Taiwan contingencies. The buildup could theoretically distract Taiwan's regional allies, though analysts note this scenario would be unlikely to materialize if military conflict erupts. The assessment highlights Beijing's multi-theater strategic positioning amid cross-strait tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
+          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Vietnam expands construction in Spratlys but lags behind China",
+          "brief": "Vietnam has undertaken significant reclamation and construction activities on 27 features in the disputed Spratly Islands, yet remains substantially behind China's development pace in the region. The disparity in construction capacity highlights the ongoing strategic competition between the two nations over territorial claims in the South China Sea. This development underscores China's continued military and infrastructural advantage in the contested waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
+          "published": "Mon, 08 Jun 2026 14:07:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Upgrades Ports to Support Larger Naval Vessels",
+          "brief": "Satellite imagery indicates North Korea is undertaking shipyard upgrades consistent with its stated 5-year naval modernization plan, suggesting investment in larger destroyer-class vessels. This modernization effort represents a significant expansion of North Korea's naval capabilities and reflects strategic efforts to enhance maritime power projection in the region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Satellite imagery reveals North Korea-Russia bridge nearing completion",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, with experts interpreting the accelerated timeline as evidence of Kim Jong Un's commitment to deepening cooperation with Moscow. The infrastructure project signals strengthening bilateral ties between Pyongyang and Russia, potentially facilitating increased trade and military coordination between the two nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China accused of misrepresenting foreign officials' statements",
+          "brief": "According to Radio Free Asia, Beijing has a pattern of distorting statements made by visiting dignitaries to suggest endorsement of Chinese policies. The report raises concerns about potential mischaracterization during high-level diplomatic engagements, particularly regarding U.S.-China summits. This practice could complicate diplomatic relations and create friction over public interpretations of bilateral discussions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/05/12/trump-xi-china-meeting-uyghur/",
+          "published": "Tue, 12 May 2026 15:26:55 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands' new PM signals potential shift away from China",
+          "brief": "Matthew Wale's ascension to Prime Minister of the Solomon Islands is expected to represent a significant policy reorientation toward Australia, with analysts characterizing him as more moderate and less enthusiastic about China than previous leadership. This leadership change could reshape the strategic alignment of a key Pacific nation, potentially affecting Beijing's regional influence and security partnerships in Oceania.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
+          "published": "Fri, 15 May 2026 22:53:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's Export Strategy May Limit Development Opportunities for Poorer Nations",
+          "brief": "China is reportedly adopting export policies that could restrict economic advancement for developing countries. The strategy suggests Beijing may be consolidating competitive advantages in global trade rather than allowing emerging economies comparable market access. This approach has significant implications for global development patterns and bilateral economic relationships.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it",
+          "published": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese Foreign Minister Wang Yi Discusses US-China Relations",
+          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for direct dialogue on strategic issues between the two major powers during a period of significant geopolitical tension.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China positions Hong Kong as hub for global governance reform",
+          "brief": "China's State Council released a white paper outlining its vision for reshaping global governance, with analysts suggesting Hong Kong could serve as a center for international organizations and standard-setting. The initiative represents Beijing's attempt to expand its influence over international institutional frameworks and governance structures. This move signals China's intent to play a more prominent role in shaping multilateral institutions and global rule-making.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357772/what-hong-kongs-role-under-chinas-new-vision-better-global-governance?utm_source=rss_feed",
+          "published": "Sat, 20 Jun 2026 07:53:45 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Uyghur activist questions death sentences in Bangkok bombing case",
+          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has called for scrutiny of the legal process and evidence in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. The statement raises questions about judicial transparency and potential connections between terrorism cases and Uyghur political figures, with implications for China-Thailand relations and international perceptions of justice in Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
+          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "PLA opens Hong Kong barracks to thousands for handover anniversary",
+          "brief": "The People's Liberation Army opened its Stonecutters Island barracks in Hong Kong to thousands of residents on July 1, marking the 29th anniversary of Hong Kong's return to Chinese rule. The public display of military equipment and personnel reflects Beijing's approach to maintaining civil-military engagement and reinforcing sovereignty messaging in the territory. This routine commemorative gesture demonstrates the PLA's visible presence and integration within Hong Kong's civic life.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3357764/thousands-visit-pla-barracks-hong-kong-celebrate-citys-return-chinese-rule?utm_source=rss_feed",
+          "published": "Sat, 20 Jun 2026 06:25:16 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 17,
+        "high_priority": 6,
+        "by_category": {
+          "foreign_relations": 12,
+          "military": 3,
+          "economy": 2
+        },
+        "updated_at": "2026-06-20T15:59:21.122336Z"
+      }
+    },
+    {
       "date": "2026-06-19",
       "articles": [
         {
