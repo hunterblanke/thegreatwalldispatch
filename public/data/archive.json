@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-06-24",
+      "articles": [
+        {
+          "headline": "Xi-Trump talks highlight Taiwan role in U.S.-China strategic competition",
+          "brief": "Recent discussions between Chinese and U.S. leadership have drawn analyst attention to Beijing's integrated strategy treating Taiwan and the South China Sea as interconnected elements of great power competition. Chinese officials view control over these maritime domains as central to offsetting perceived U.S. strategic advantages in the Indo-Pacific region. The framing suggests Beijing may link Taiwan policy to broader South China Sea assertions in future negotiations.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Analysis: Economic Coercion Could Enable China Taiwan Unification",
+          "brief": "A Foreign Affairs analysis suggests China may achieve political control over Taiwan through economic pressure rather than military force, exploiting potential gaps in U.S. security commitments under Trump administration policies. This approach would leverage Taiwan's economic dependence and trade vulnerabilities as coercive tools. The analysis implies shifting threat vectors from military to economic domains in cross-strait dynamics.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting",
+          "published": "Mon, 22 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Alibaba challenges US military-linked blacklist designation",
+          "brief": "Chinese e-commerce giant Alibaba has filed a lawsuit against the US Department of Defense following its inclusion on a list of companies with alleged ties to the Chinese military. This legal challenge represents a significant escalation in US-China tech tensions and could have major implications for Alibaba's international operations and market access. The case highlights ongoing US efforts to restrict Chinese firms deemed security risks and Beijing's willingness to contest such designations through legal means.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 23 Jun 2026 23:25:07 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Xi Jinping Targets Senior Party Officials Beyond Military Leadership",
+          "brief": "Chinese leader Xi Jinping has moved against Wang Qishan, a former Politburo Standing Committee member and prominent economic official, extending his consolidation of power beyond military structures. This purge of senior party figures suggests Xi is systematically removing potential rivals across multiple sectors of government. The targeting of economic leadership alongside military purges indicates a comprehensive effort to concentrate authority across all major power centers.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/not-just-the-military-xi-jinpings-other-senior-party-purge/",
+          "published": "Wed, 24 Jun 2026 20:59:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's South China Sea buildup could complicate Taiwan contingency responses",
+          "brief": "Security experts assess that China's maritime infrastructure development in the South China Sea may be designed to distract Taiwan's regional allies during a potential military conflict over Taiwan. However, analysts conclude such a diversionary scenario would be unlikely to materialize if armed conflict erupted. The report underscores Beijing's strategic calculations linking its maritime expansion to Taiwan contingencies.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
+          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea upgrades ports to accommodate larger naval destroyers",
+          "brief": "Satellite imagery indicates North Korea is undertaking shipyard upgrades as part of its 5-year naval modernization plan, suggesting capability expansion beyond its current fleet. These infrastructure improvements could enable deployment of larger, more advanced destroyer vessels, potentially altering regional naval balance dynamics. The upgrades align with Pyongyang's broader strategic objective to strengthen its maritime military capabilities.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea-Russia bridge nears completion, signaling deepened cooperation",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, with experts interpreting the accelerated construction timeline as evidence of Kim Jong Un's commitment to strengthening ties with Moscow. The infrastructure project suggests expanding economic and potentially military coordination between the two countries, particularly significant given current geopolitical tensions and international sanctions on North Korea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China restricts total return swaps to limit offshore asset exposure",
+          "brief": "Chinese regulators have closed additional loopholes in derivatives channels that allow domestic investors to access overseas assets, continuing systematic efforts to control capital outflows and reduce exposure to high-risk offshore markets. This regulatory action follows recent crackdowns on unlicensed offshore brokers and represents an ongoing tightening of financial controls targeting cross-border investments.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358240/china-closes-another-offshore-investing-loophole-trs-faces-restrictions?utm_source=rss_feed",
+          "published": "Wed, 24 Jun 2026 12:35:19 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "ECB Chief Calls for Global Dialogue on Chinese Yuan Valuation",
+          "brief": "European Central Bank President Christine Lagarde has called for international discussions regarding the undervaluation of the Chinese yuan, citing it as a contributor to global economic imbalances. China's significant trade surpluses and currency practices are among the macroeconomic concerns raised by G7 leaders, alongside US deficits and European economic challenges. The issue highlights growing tensions between major economies over currency policy and trade dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation?utm_source=rss_feed",
+          "published": "Mon, 22 Jun 2026 18:13:40 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Japan-China Trade Dialogue Resumes Despite Political Tensions",
+          "brief": "A Japanese business delegation led by an LDP politician visited Beijing to reopen commercial channels between the two nations, suggesting potential diplomatic warming despite ongoing political friction. The resumption of business-level engagement indicates both countries may be seeking to compartmentalize economic ties from their broader geopolitical disagreements. This development could signal a strategic shift toward stabilizing bilateral relations through non-governmental channels.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/china-reopens-a-business-channel-to-japan-while-political-ties-remain-frozen/",
+          "published": "Wed, 24 Jun 2026 23:04:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Japan-China Relations Face Sustained Diplomatic Tensions",
+          "brief": "Japan and China continue to experience prolonged diplomatic deadlock with no clear resolution pathway emerging. The deterioration in bilateral relations reflects broader strategic competition in the Indo-Pacific region and raises questions about whether current tensions represent an entrenched new status quo. The deadlock has implications for regional stability and broader great power dynamics in Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/is-there-a-way-to-break-the-deadlock-in-japan-china-relations/",
+          "published": "Wed, 24 Jun 2026 21:10:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "CCP Language Controls Increasingly Influence Global Media Reporting",
+          "brief": "Under Xi Jinping, the Chinese Communist Party has expanded control over political language and messaging to shape global news narratives. This expansion of information control extends beyond China's borders and affects international journalism's ability to report accurately on Chinese affairs. The development represents a significant escalation in Beijing's efforts to manage its global image and constrain critical reporting.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/how-chinas-red-lines-are-quietly-shaping-global-news-reporting/",
+          "published": "Tue, 23 Jun 2026 23:21:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "EU adopts dual approach balancing dialogue and trade defense with China",
+          "brief": "The European Council has established a new policy mandate toward China that combines diplomatic engagement with strengthened trade defense mechanisms. This institutionalized approach aims to protect EU economic interests while maintaining communication channels, though it may complicate long-term bilateral relationships with Beijing. The strategy reflects growing EU concerns about economic competition and market access issues with China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/the-structural-limits-of-the-eus-china-policy/",
+          "published": "Tue, 23 Jun 2026 22:11:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Beijing's brokerage probes driven by forex leakage and investor protection concerns",
+          "brief": "Hong Kong's Financial Secretary Paul Chan disclosed that Beijing's recent investigations into three major brokerages\u2014Futu Securities, Tiger Brokers, and Long Bridge\u2014were motivated by concerns over foreign exchange outflows and safeguarding mainland retail investors. The statement indicates China's regulatory focus on capital control and financial stability, while Beijing maintains overall support for Hong Kong's financial sector development.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358180/beijings-brokerage-probe-stop-leakage-paul-chan-tells-davos-dalian-event?utm_source=rss_feed",
+          "published": "Wed, 24 Jun 2026 07:23:19 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China risks misrepresenting Trump summit statements for policy support",
+          "brief": "According to Radio Free Asia, Beijing has a pattern of mischaracterizing statements from visiting dignitaries to falsely imply endorsement of Chinese domestic policies. The concern is particularly relevant ahead of potential Trump-Xi discussions, where Beijing could distort diplomatic rhetoric to legitimize its repressive practices. This misrepresentation tactic has significant implications for U.S.-China diplomatic credibility and messaging clarity.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/05/12/trump-xi-china-meeting-uyghur/",
+          "published": "Tue, 12 May 2026 15:26:55 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands' new PM expected to reduce Chinese influence",
+          "brief": "Matthew Wale's appointment as Solomon Islands Prime Minister signals a potential shift in the nation's foreign policy orientation, with regional experts characterizing him as more moderate and less supportive of Beijing than his predecessors. This transition could reshape Solomon Islands' strategic alignment in the Pacific region, potentially strengthening ties with Australia and other Western partners. The change represents a significant reversal in China's regional diplomatic gains in the South Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
+          "published": "Fri, 15 May 2026 22:53:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong authorities arrest bookstore owner on sedition charges",
+          "brief": "Hong Kong national security police arrested the owner of an independent bookstore and another individual on suspicion of sedition and money laundering. The arrest underscores continued enforcement of national security laws in Hong Kong's civil society and reflects ongoing restrictions on dissenting voices and independent media outlets in the territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358252/national-security-police-arrest-2-people-hong-kong-bookshop?utm_source=rss_feed",
+          "published": "Wed, 24 Jun 2026 17:03:32 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Opens Domestic Stock Markets to Qualified Foreign Companies",
+          "brief": "China announced support for qualified foreign-invested companies to list on its onshore stock exchanges, signaling a capital market liberalization effort to attract foreign direct investment. The move includes enhanced communication services from stock exchanges to streamline the listing application process. This policy reflects Beijing's strategy to reverse recent foreign investment outflows and strengthen its economic competitiveness.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3357888/china-back-qualified-foreign-firms-listing-domestic-markets?utm_source=rss_feed",
+          "published": "Mon, 22 Jun 2026 06:16:00 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Detains Two Japanese Nationals on Smuggling Charges",
+          "brief": "China detained two Japanese nationals in Dalian in May on suspicion of smuggling, according to Japan's government. The detention occurs amid ongoing tensions between China and Japan, potentially indicating efforts by Chinese authorities to increase pressure on Japanese citizens or interests. The incident may signal an escalation in bilateral friction and could affect Japanese business operations and citizens' security in China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/06/24/world/asia/japan-china-detained-smuggling-rare-earths.html",
+          "published": "Wed, 24 Jun 2026 11:32:56 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Uyghur activist questions legal process in Bangkok bombing death sentences",
+          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has called for scrutiny of the legal proceedings and evidence in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her intervention suggests ongoing international attention to judicial fairness concerns involving individuals connected to Uyghur communities. This reflects persistent tensions between China-related communities and regional judicial systems regarding human rights standards.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
+          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 20,
+        "high_priority": 4,
+        "by_category": {
+          "foreign_relations": 12,
+          "economy": 7,
+          "military": 1
+        },
+        "updated_at": "2026-06-24T17:26:55.907910Z"
+      }
+    },
+    {
       "date": "2026-06-23",
       "articles": [
         {
