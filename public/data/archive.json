@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-06-25",
+      "articles": [
+        {
+          "headline": "Economic Pressure Could Enable China Taiwan Unification Without Military Action",
+          "brief": "The article suggests China may achieve control over Taiwan through economic coercion rather than military force, potentially leveraging ambiguity in U.S. security commitments under Trump administration policies. This represents a significant shift in cross-strait dynamics, as economic pressure and political isolation could accomplish Beijing's objectives without direct conflict. The implications for regional stability and U.S. alliance credibility in Asia are substantial.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting",
+          "published": "Mon, 22 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan Crisis Could Expose U.S. Industrial Base Vulnerabilities",
+          "brief": "A potential Taiwan crisis would reveal significant risks to U.S. military readiness stemming from dependence on offshored manufacturing and supply chains. The article highlights how geopolitical disruption in the Taiwan Strait could constrain America's ability to rapidly produce critical defense materials and equipment. This vulnerability underscores strategic concerns about industrial capacity resilience during major conflict scenarios.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/a-taiwan-crisis-and-americas-industrial-base/",
+          "published": "Thu, 25 Jun 2026 08:21:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "North Korea-Russia bridge construction nears completion amid deepening ties",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, with experts interpreting the accelerated timeline as evidence of Kim Jong Un's commitment to strengthening cooperation with Moscow. The infrastructure project suggests increasing integration between the two countries and may facilitate expanded trade and military coordination.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. arms delays highlight Taiwan security relationship complexity",
+          "brief": "Recent delays in U.S. military aid shipments to Taiwan have drawn attention to the ongoing security arrangement between Washington and Taipei, which relies on American weapons supplies for Taiwan's defense capabilities. The relationship reflects U.S. strategic interests in maintaining stability across the Taiwan Strait while managing diplomatic sensitivity with Beijing. Continued arms provision remains central to Taiwan's deterrence posture amid cross-strait tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea expands naval shipyard capacity for larger destroyer vessels",
+          "brief": "Satellite imagery indicates North Korea is upgrading its ports and shipyards to accommodate larger naval vessels as part of a five-year military modernization plan. The infrastructure improvements suggest Pyongyang intends to expand its destroyer fleet, potentially enhancing its regional naval capabilities. This development carries implications for maritime security dynamics in East Asia and signals continued North Korean efforts to modernize its military infrastructure.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Vietnam escalates Spratly Islands construction despite falling behind China",
+          "brief": "Satellite imagery shows Vietnam has undertaken significant reclamation and construction activities on 27 features in the disputed Spratly Islands chain. However, experts assess that Vietnam's development efforts remain substantially behind China's military and infrastructural expansion in the region. This represents an intensification of competing claims in one of the world's most contested maritime territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
+          "published": "Mon, 08 Jun 2026 14:07:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Scientific Research to Advance Territorial Claims",
+          "brief": "China is conducting environmental surveys in disputed waters, with analysts asserting these activities serve to normalize Beijing's presence and substantiate territorial claims rather than purely scientific purposes. The strategy represents an effort to establish de facto control over contested maritime areas through civilian research operations. This approach has significant implications for regional stability and competing territorial claims in the South China Sea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Quad nations plan Fiji port project to counter China's Pacific influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of efforts to compete with China's economic dominance in the Pacific region. Experts assess the initiative signals to regional actors that the Quad coalition can provide alternative infrastructure and supply-chain partnerships to Chinese offerings. The project represents a coordinated strategic response to Beijing's growing economic influence through regional connectivity initiatives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Anthropic alleges Alibaba fraudulently accessed Claude AI model data",
+          "brief": "US-based AI firm Anthropic has accused Chinese tech company Alibaba of using fraudulent accounts to illicitly extract capabilities from its Claude AI model. The allegation highlights escalating competition and intellectual property concerns in the global AI sector between American and Chinese technology firms. If substantiated, the incident could prompt regulatory scrutiny and intensify calls for stricter safeguards protecting proprietary AI systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 25 Jun 2026 03:12:17 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Analysis Questions Validity of Perceived Chinese Military Advantage",
+          "brief": "A Foreign Affairs article argues that concerns about China's military edge may be overstated and that panic-driven responses could prove counterproductive to strategic interests. The piece suggests a more measured assessment of Chinese military capabilities is warranted to inform rational policy decisions.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Shifts Local Leadership Evaluation Metrics Amid Economic Slowdown",
+          "brief": "China is moving away from traditional performance metrics such as GDP growth and infrastructure expansion for evaluating local Communist Party officials, reflecting broader concerns about economic deceleration. This policy shift suggests Beijing recognizes the unsustainability of previous growth-focused models and may redirect focus toward alternative measures of political legitimacy and governance effectiveness.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/amid-a-slowing-economy-china-is-changing-how-it-judges-local-party-leaders/",
+          "published": "Thu, 25 Jun 2026 22:34:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's EV Battery Dominance Driven by Local Government Support",
+          "brief": "China's commanding position in electric vehicle battery manufacturing, exemplified by companies like CATL, results significantly from coordinated local government industrial policy rather than market forces alone. This state-directed approach to strategic industry development reflects China's broader industrial strategy and has critical implications for global supply chain dependencies, particularly in critical technologies essential to military modernization and energy security.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/building-a-battery-champion-what-catl-and-dongqiao-reveal-about-chinas-industrial-model/",
+          "published": "Thu, 25 Jun 2026 21:39:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong's Position as Financial Hub Faces Competitive Pressures",
+          "brief": "Hong Kong confronts challenges to maintaining its status as a leading global financial center amid evolving market dynamics and regional competition. The analysis examines structural factors affecting Hong Kong's financial competitiveness and its ability to retain market prominence. Sustained financial leadership remains strategically significant for Hong Kong's economic development and regional influence.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/series/3358277/can-hong-kong-keep-its-financial-crown?utm_source=rss_feed",
+          "published": "Thu, 25 Jun 2026 03:36:40 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Beijing strengthens Shanghai's offshore finance capabilities amid Hong Kong competition",
+          "brief": "China is accelerating Shanghai's development as an offshore financial center, potentially challenging Hong Kong's established position as a global financial hub. This strategic push reflects Beijing's broader effort to consolidate financial capabilities within mainland China while Hong Kong maintains its traditional advantages. The competitive dynamic between the two cities signals shifting priorities in China's financial architecture.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358213/tale-two-cities-can-shanghai-challenge-hong-kongs-offshore-finance-crown?utm_source=rss_feed",
+          "published": "Thu, 25 Jun 2026 03:30:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Uyghur activist challenges Bangkok bombing death sentences",
+          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has publicly questioned the legal proceedings and evidentiary standards in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her scrutiny of the case highlights potential concerns regarding judicial transparency and due process in Thai courts, with implications for how regional states handle sensitive security cases involving minority groups.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
+          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong seeks resumption of suspended extradition agreements",
+          "brief": "Hong Kong's Security Secretary Chris Tang stated that restoring fugitive transfer agreements suspended by foreign countries is the responsibility of those nations, characterizing the loss of such deals as detrimental to law enforcement. The remarks reflect ongoing tensions over extradition arrangements following Hong Kong's political changes, with the Hong Kong government viewing resumed agreements as essential for combating transnational crime.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358247/loss-fugitive-transfer-deals-pity-and-only-helps-criminals-chris-tang-says?utm_source=rss_feed",
+          "published": "Thu, 25 Jun 2026 02:00:13 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China doubles maximum penalties for auditors signing fraudulent reports",
+          "brief": "China's National People's Congress Standing Committee is reviewing a draft amendment to the Certified Public Accountants Law that would increase maximum fines for false audit reports to 10 times fraudulent gains, doubling current penalties. This escalation reflects Beijing's intensifying campaign against financial fraud by listed companies and signals stricter enforcement of corporate accounting standards. The enhanced penalties aim to strengthen auditor accountability and investor protection in China's capital markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3357954/china-moves-raise-penalties-auditors-fraud-campaign-deepens?utm_source=rss_feed",
+          "published": "Tue, 23 Jun 2026 01:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese PCB equipment maker CFMEE oversubscribed 1,009 times in Hong Kong IPO",
+          "brief": "Circuit Fabology Microelectronics Equipment (CFMEE), a Hefei-based lithography and integrated-circuit manufacturer, achieved exceptional investor demand with its Hong Kong IPO oversubscribed over 1,000 times and priced at the upper range of HK$252.73 per share. The massive oversubscription reflects strong market appetite for Chinese semiconductor manufacturing equipment amid global technology competition. This signals continued investor confidence in China's domestic semiconductor supply chain capabilities.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3358307/chinese-pcb-equipment-maker-cfmee-tops-1000-times-oversubscription-hong-kong-ipo?utm_source=rss_feed",
+          "published": "Thu, 25 Jun 2026 07:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong exports surge 41% in May driven by AI demand",
+          "brief": "Hong Kong's exports rose 40.8% year-on-year in May to HK$611.2 billion, marking the second consecutive month of robust growth fueled by artificial intelligence-related products. The sustained export momentum indicates strong global demand for AI-related goods and Hong Kong's role as a key trading hub for technology products in the Asia-Pacific region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358330/hong-kong-exports-jumped-nearly-41-may?utm_source=rss_feed",
+          "published": "Thu, 25 Jun 2026 08:49:19 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Apple supplier Luxshare clears Hong Kong listing regulatory approval",
+          "brief": "Luxshare Precision Industry, a major supplier for Apple's AirPods and iPhones, has passed regulatory hearings for a Hong Kong listing after receiving Chinese regulatory approval. The move reflects growing efforts by mainland Chinese technology manufacturers to diversify capital sources through Hong Kong exchanges, potentially enhancing liquidity and international market access for Chinese supply chain companies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/big-tech/article/3358183/apple-supplier-luxshare-precision-industry-passes-hearing-hong-kong-listing?utm_source=rss_feed",
+          "published": "Wed, 24 Jun 2026 07:30:26 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 20,
+        "high_priority": 3,
+        "by_category": {
+          "economy": 10,
+          "foreign_relations": 7,
+          "military": 3
+        },
+        "updated_at": "2026-06-25T17:33:22.437288Z"
+      }
+    },
+    {
       "date": "2026-06-24",
       "articles": [
         {

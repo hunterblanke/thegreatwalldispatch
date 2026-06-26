@@ -1,20 +1,20 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "metrics": {
     "sources_scanned": 6,
     "articles_total": 20,
-    "high_priority": 3,
+    "high_priority": 4,
     "by_category": {
-      "economy": 10,
-      "foreign_relations": 7,
-      "military": 3
+      "economy": 6,
+      "military": 4,
+      "foreign_relations": 10
     },
-    "updated_at": "2026-06-25T17:33:22.437288Z"
+    "updated_at": "2026-06-26T17:09:14.097587Z"
   },
   "articles": [
     {
-      "headline": "Economic Pressure Could Enable China Taiwan Unification Without Military Action",
-      "brief": "The article suggests China may achieve control over Taiwan through economic coercion rather than military force, potentially leveraging ambiguity in U.S. security commitments under Trump administration policies. This represents a significant shift in cross-strait dynamics, as economic pressure and political isolation could accomplish Beijing's objectives without direct conflict. The implications for regional stability and U.S. alliance credibility in Asia are substantial.",
+      "headline": "Analysis: Economic Coercion Could Facilitate China's Taiwan Objectives",
+      "brief": "The article examines how China might achieve control over Taiwan through economic leverage and coercive measures rather than military confrontation. The analysis suggests that ambiguity in U.S. commitment regarding Taiwan's security could create vulnerabilities that China exploits through economic pressure. This represents a significant shift in the potential methodology of cross-strait reunification, with implications for regional stability and U.S. strategic credibility.",
       "category": "economy",
       "severity": "high",
       "sources_used": [
@@ -25,44 +25,68 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Taiwan Crisis Could Expose U.S. Industrial Base Vulnerabilities",
-      "brief": "A potential Taiwan crisis would reveal significant risks to U.S. military readiness stemming from dependence on offshored manufacturing and supply chains. The article highlights how geopolitical disruption in the Taiwan Strait could constrain America's ability to rapidly produce critical defense materials and equipment. This vulnerability underscores strategic concerns about industrial capacity resilience during major conflict scenarios.",
+      "headline": "Beijing integrates Taiwan into broader South China Sea strategy",
+      "brief": "Recent Xi-Trump discussions have highlighted China's strategic view of Taiwan and the South China Sea as interconnected components of competition with the United States. Analysts assess that Beijing considers control or influence over both territories essential to its maritime strategy and long-term great power rivalry. This framing suggests potential linkages between Taiwan policy and broader Indo-Pacific territorial assertions.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+      "published": "Tue, 19 May 2026 22:22:38 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "US Counterterrorism Aircraft Could Play Significant Role in Taiwan Conflict",
+      "brief": "According to The Diplomat, specialized aircraft developed for counterterrorism operations in the Global War on Terror could serve important functions in a potential military conflict involving Taiwan and China. This assessment suggests existing U.S. military platforms may have broader strategic applications beyond their original intended purpose. The implications underscore potential vulnerabilities in China's military capabilities or operational planning against Taiwan.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/06/a-taiwan-crisis-and-americas-industrial-base/",
-      "published": "Thu, 25 Jun 2026 08:21:00 +0900",
+      "original_link": "https://thediplomat.com/2026/06/us-counterterrorism-aircraft-could-be-surprisingly-useful-in-a-taiwan-war/",
+      "published": "Fri, 26 Jun 2026 03:02:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "North Korea-Russia bridge construction nears completion amid deepening ties",
-      "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, with experts interpreting the accelerated timeline as evidence of Kim Jong Un's commitment to strengthening cooperation with Moscow. The infrastructure project suggests increasing integration between the two countries and may facilitate expanded trade and military coordination.",
+      "headline": "Hong Kong silences annual Tiananmen vigil under National Security Law",
+      "brief": "Hong Kong's Victoria Park remained silent during the anniversary of the 1989 Tiananmen crackdown, marking the absence of a yearly vigil that previously attracted approximately 180,000 participants. The cessation reflects enforcement of the National Security Law, which has significantly restricted public commemoration of sensitive historical events. This development demonstrates Beijing's expanding control over Hong Kong's civil liberties and freedom of assembly.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
-      "published": "Thu, 21 May 2026 00:44:51 +0000",
+      "original_link": "https://rfa.org/english/china/2026/06/03/hong-kong-victoria-park-tiananmen-square-china/",
+      "published": "Wed, 03 Jun 2026 21:16:48 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "U.S. arms delays highlight Taiwan security relationship complexity",
-      "brief": "Recent delays in U.S. military aid shipments to Taiwan have drawn attention to the ongoing security arrangement between Washington and Taipei, which relies on American weapons supplies for Taiwan's defense capabilities. The relationship reflects U.S. strategic interests in maintaining stability across the Taiwan Strait while managing diplomatic sensitivity with Beijing. Continued arms provision remains central to Taiwan's deterrence posture amid cross-strait tensions.",
-      "category": "foreign_relations",
+      "headline": "Taiwan to Establish Semiconductor and EV Manufacturing in Poland",
+      "brief": "Taiwan is planning to build chip and electric vehicle factories in Poland, redirecting investment from China and the United States. This shift reflects Poland's strategic effort to diversify its technology supply chains and reduce dependence on established semiconductor powers. The development has significant implications for global semiconductor supply chain resilience and represents a strategic repositioning of Taiwan's manufacturing footprint in Europe.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/06/taiwan-to-build-chip-and-ev-factories-in-poland-replacing-china-and-the-us/",
+      "published": "Fri, 26 Jun 2026 21:13:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Taiwan deploys robodogs for unmanned South China Sea monitoring",
+      "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned military capabilities amid competition with China. Both Taipei and Beijing are adopting autonomous technologies for regional surveillance, reflecting broader defense modernization efforts in the contested waters. This development indicates Taiwan's effort to enhance operational efficiency and reduce personnel risk in strategically sensitive areas.",
+      "category": "military",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
-      "published": "Tue, 26 May 2026 03:18:46 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+      "published": "Thu, 25 Jun 2026 20:00:57 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "North Korea expands naval shipyard capacity for larger destroyer vessels",
-      "brief": "Satellite imagery indicates North Korea is upgrading its ports and shipyards to accommodate larger naval vessels as part of a five-year military modernization plan. The infrastructure improvements suggest Pyongyang intends to expand its destroyer fleet, potentially enhancing its regional naval capabilities. This development carries implications for maritime security dynamics in East Asia and signals continued North Korean efforts to modernize its military infrastructure.",
+      "headline": "North Korea Upgrades Ports to Support Larger Naval Destroyers",
+      "brief": "Satellite imagery indicates North Korea is undertaking shipyard upgrades as part of a five-year naval modernization plan, suggesting plans to deploy larger destroyer-class vessels. The upgrade efforts represent a significant expansion of North Korea's naval capability and reflect broader military modernization goals that could affect regional security dynamics in East Asia.",
       "category": "military",
       "severity": "medium",
       "sources_used": [
@@ -73,8 +97,20 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Vietnam escalates Spratly Islands construction despite falling behind China",
-      "brief": "Satellite imagery shows Vietnam has undertaken significant reclamation and construction activities on 27 features in the disputed Spratly Islands chain. However, experts assess that Vietnam's development efforts remain substantially behind China's military and infrastructural expansion in the region. This represents an intensification of competing claims in one of the world's most contested maritime territories.",
+      "headline": "China's South China Sea buildup could complicate Taiwan defense scenario",
+      "brief": "According to expert analysis, China's maritime infrastructure development in the South China Sea is strategically linked to potential Taiwan contingencies. The buildup could theoretically distract Taiwan's regional allies during a conflict, though analysts assess this scenario as unlikely to materialize if military hostilities occur. The assessment highlights Beijing's multi-domain approach to regional military positioning.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
+      "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Vietnam accelerates Spratly Islands construction but lags China",
+      "brief": "Vietnam has undertaken significant reclamation and construction activities across 27 features in the disputed Spratly Islands, though experts assess these efforts remain substantially behind China's extensive development. This escalation reflects competing claims over strategically important territory and demonstrates Vietnam's attempt to consolidate its territorial position, despite the asymmetry in construction capacity.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -85,44 +121,56 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Uses Scientific Research to Advance Territorial Claims",
-      "brief": "China is conducting environmental surveys in disputed waters, with analysts asserting these activities serve to normalize Beijing's presence and substantiate territorial claims rather than purely scientific purposes. The strategy represents an effort to establish de facto control over contested maritime areas through civilian research operations. This approach has significant implications for regional stability and competing territorial claims in the South China Sea.",
+      "headline": "U.S. Arms Sales to Taiwan Remain Central to Security Partnership",
+      "brief": "Recent delays in U.S. arms package deliveries to Taiwan have highlighted the strategic importance of American military support to the island's defense capabilities. The United States maintains an unusual security relationship with Taiwan despite lacking formal diplomatic recognition, with weapons transfers serving as a key mechanism for maintaining the cross-strait military balance. This dynamic reflects broader U.S. strategic interests in the Indo-Pacific and ongoing tensions between Washington and Beijing over Taiwan's status.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-      "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+      "published": "Tue, 26 May 2026 03:18:46 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Quad nations plan Fiji port project to counter China's Pacific influence",
-      "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of efforts to compete with China's economic dominance in the Pacific region. Experts assess the initiative signals to regional actors that the Quad coalition can provide alternative infrastructure and supply-chain partnerships to Chinese offerings. The project represents a coordinated strategic response to Beijing's growing economic influence through regional connectivity initiatives.",
+      "headline": "Australia-Indonesia Fertilizer Deal Reflects Strengthened Bilateral Ties",
+      "brief": "Australia is receiving fertilizer shipments from Indonesia as part of an ongoing deepening of diplomatic and economic relations between Canberra and Jakarta. The arrangement represents a sustained effort to strengthen bilateral cooperation beyond one-time transactions. Enhanced Australia-Indonesia ties have strategic significance for regional stability and economic interdependence in the Indo-Pacific.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/06/the-deepening-of-australia-indonesia-ties-yields-dividends-with-fertilizer-shipment/",
+      "published": "Thu, 25 Jun 2026 22:07:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Solomon Islands' new PM signals potential shift away from China alignment",
+      "brief": "Matthew Wale's appointment as Solomon Islands Prime Minister is expected to represent a more moderate stance toward China compared to his predecessors. Experts assess this leadership change could result in a strategic reorientation of the nation's foreign policy toward greater alignment with Australia and Western partners. The shift carries significant implications for regional geopolitical dynamics in the South Pacific.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
-      "published": "Fri, 29 May 2026 20:35:15 +0000",
+      "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
+      "published": "Fri, 15 May 2026 22:53:07 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Anthropic alleges Alibaba fraudulently accessed Claude AI model data",
-      "brief": "US-based AI firm Anthropic has accused Chinese tech company Alibaba of using fraudulent accounts to illicitly extract capabilities from its Claude AI model. The allegation highlights escalating competition and intellectual property concerns in the global AI sector between American and Chinese technology firms. If substantiated, the incident could prompt regulatory scrutiny and intensify calls for stricter safeguards protecting proprietary AI systems.",
+      "headline": "China Restricts Total Return Swaps to Control Offshore Asset Access",
+      "brief": "Chinese regulators have restricted total return swaps (TRS), closing another channel for domestic investors to access overseas assets and higher-risk offshore markets. This action represents the latest in a series of regulatory measures to close loopholes and maintain capital controls, following previous crackdowns on unlicensed offshore brokers. The move indicates authorities' continued determination to limit capital outflows and manage financial risk exposure through derivative markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 03:12:17 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3358240/china-closes-another-offshore-investing-loophole-trs-faces-restrictions?utm_source=rss_feed",
+      "published": "Wed, 24 Jun 2026 12:35:19 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Analysis Questions Validity of Perceived Chinese Military Advantage",
-      "brief": "A Foreign Affairs article argues that concerns about China's military edge may be overstated and that panic-driven responses could prove counterproductive to strategic interests. The piece suggests a more measured assessment of Chinese military capabilities is warranted to inform rational policy decisions.",
+      "headline": "Analysis Suggests Concerns Over China Military Superiority May Be Overstated",
+      "brief": "A Foreign Affairs analysis challenges prevailing assumptions about China's military capabilities, arguing that current concerns may be exaggerated and counterproductive to strategic planning. The assessment implies that policymakers should recalibrate threat evaluations based on more nuanced military analysis rather than worst-case assumptions. This reassessment could influence defense spending priorities and military strategy formulation.",
       "category": "military",
       "severity": "medium",
       "sources_used": [
@@ -133,123 +181,75 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "China Shifts Local Leadership Evaluation Metrics Amid Economic Slowdown",
-      "brief": "China is moving away from traditional performance metrics such as GDP growth and infrastructure expansion for evaluating local Communist Party officials, reflecting broader concerns about economic deceleration. This policy shift suggests Beijing recognizes the unsustainability of previous growth-focused models and may redirect focus toward alternative measures of political legitimacy and governance effectiveness.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/06/amid-a-slowing-economy-china-is-changing-how-it-judges-local-party-leaders/",
-      "published": "Thu, 25 Jun 2026 22:34:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China's EV Battery Dominance Driven by Local Government Support",
-      "brief": "China's commanding position in electric vehicle battery manufacturing, exemplified by companies like CATL, results significantly from coordinated local government industrial policy rather than market forces alone. This state-directed approach to strategic industry development reflects China's broader industrial strategy and has critical implications for global supply chain dependencies, particularly in critical technologies essential to military modernization and energy security.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/06/building-a-battery-champion-what-catl-and-dongqiao-reveal-about-chinas-industrial-model/",
-      "published": "Thu, 25 Jun 2026 21:39:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Hong Kong's Position as Financial Hub Faces Competitive Pressures",
-      "brief": "Hong Kong confronts challenges to maintaining its status as a leading global financial center amid evolving market dynamics and regional competition. The analysis examines structural factors affecting Hong Kong's financial competitiveness and its ability to retain market prominence. Sustained financial leadership remains strategically significant for Hong Kong's economic development and regional influence.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/series/3358277/can-hong-kong-keep-its-financial-crown?utm_source=rss_feed",
-      "published": "Thu, 25 Jun 2026 03:36:40 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Beijing strengthens Shanghai's offshore finance capabilities amid Hong Kong competition",
-      "brief": "China is accelerating Shanghai's development as an offshore financial center, potentially challenging Hong Kong's established position as a global financial hub. This strategic push reflects Beijing's broader effort to consolidate financial capabilities within mainland China while Hong Kong maintains its traditional advantages. The competitive dynamic between the two cities signals shifting priorities in China's financial architecture.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3358213/tale-two-cities-can-shanghai-challenge-hong-kongs-offshore-finance-crown?utm_source=rss_feed",
-      "published": "Thu, 25 Jun 2026 03:30:09 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Uyghur activist challenges Bangkok bombing death sentences",
-      "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has publicly questioned the legal proceedings and evidentiary standards in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her scrutiny of the case highlights potential concerns regarding judicial transparency and due process in Thai courts, with implications for how regional states handle sensitive security cases involving minority groups.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
-      "published": "Thu, 11 Jun 2026 18:16:57 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Hong Kong seeks resumption of suspended extradition agreements",
-      "brief": "Hong Kong's Security Secretary Chris Tang stated that restoring fugitive transfer agreements suspended by foreign countries is the responsibility of those nations, characterizing the loss of such deals as detrimental to law enforcement. The remarks reflect ongoing tensions over extradition arrangements following Hong Kong's political changes, with the Hong Kong government viewing resumed agreements as essential for combating transnational crime.",
+      "headline": "Hong Kong bookshop owners arrested on sedition charges, released on bail",
+      "brief": "Two owners of Hunter Bookstore in Hong Kong were arrested by national security police on suspicion of sedition and money laundering, then released on bail after two days. The arrests underscore ongoing enforcement of national security legislation in Hong Kong, particularly targeting independent media and civic-minded business operators. This incident reflects tensions between Beijing's security priorities and Hong Kong's traditional civil liberties.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358247/loss-fugitive-transfer-deals-pity-and-only-helps-criminals-chris-tang-says?utm_source=rss_feed",
-      "published": "Thu, 25 Jun 2026 02:00:13 +0000",
+      "original_link": "https://www.scmp.com/news/hong-kong/article/3358534/hong-kong-bookshop-owners-bailed-after-arrests-suspicion-sedition?utm_source=rss_feed",
+      "published": "Fri, 26 Jun 2026 10:57:41 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "China doubles maximum penalties for auditors signing fraudulent reports",
-      "brief": "China's National People's Congress Standing Committee is reviewing a draft amendment to the Certified Public Accountants Law that would increase maximum fines for false audit reports to 10 times fraudulent gains, doubling current penalties. This escalation reflects Beijing's intensifying campaign against financial fraud by listed companies and signals stricter enforcement of corporate accounting standards. The enhanced penalties aim to strengthen auditor accountability and investor protection in China's capital markets.",
+      "headline": "China's Foreign Minister to Discuss US-China Relations at CSIS",
+      "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for high-level dialogue on bilateral relations and strategic issues between the two major powers.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "China Advances Internet Sovereignty as Global Governance Model",
+      "brief": "China is promoting 'Internet sovereignty' as a governing concept for the global Internet, representing a strategic initiative to reshape international digital governance standards. This approach has significant implications for cybersecurity policy, data protection frameworks, and U.S.-China technological competition.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Indonesia Plans $1 Billion Panda Bond Issuance in China",
+      "brief": "Indonesia's Ministry of Finance intends to issue at least US$1 billion in yuan-denominated panda bonds in China's domestic markets by mid-July, pending Beijing's approval. The issuance reflects Jakarta's strategic effort to diversify currency exposure and reduce reliance on the US dollar for financing domestic needs. This development indicates growing financial integration between Southeast Asia and China's capital markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3357954/china-moves-raise-penalties-auditors-fraud-campaign-deepens?utm_source=rss_feed",
-      "published": "Tue, 23 Jun 2026 01:00:13 +0000",
+      "original_link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
+      "published": "Fri, 26 Jun 2026 08:30:10 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Chinese PCB equipment maker CFMEE oversubscribed 1,009 times in Hong Kong IPO",
-      "brief": "Circuit Fabology Microelectronics Equipment (CFMEE), a Hefei-based lithography and integrated-circuit manufacturer, achieved exceptional investor demand with its Hong Kong IPO oversubscribed over 1,000 times and priced at the upper range of HK$252.73 per share. The massive oversubscription reflects strong market appetite for Chinese semiconductor manufacturing equipment amid global technology competition. This signals continued investor confidence in China's domestic semiconductor supply chain capabilities.",
+      "headline": "Hong Kong FDI inflows surge 36% as Western firms expand presence",
+      "brief": "Hong Kong attracted 413 new or expanded foreign firms in the first half of 2026, a 9% year-on-year increase, with expected inflows exceeding HK$53 billion (US$6.75 billion). US and European companies continued strengthening their operations in the city, reinforcing Hong Kong's position as a financial and investment hub connecting Western and Asian markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/markets/article/3358307/chinese-pcb-equipment-maker-cfmee-tops-1000-times-oversubscription-hong-kong-ipo?utm_source=rss_feed",
-      "published": "Thu, 25 Jun 2026 07:00:09 +0000",
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
+      "published": "Fri, 26 Jun 2026 08:00:21 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Hong Kong exports surge 41% in May driven by AI demand",
-      "brief": "Hong Kong's exports rose 40.8% year-on-year in May to HK$611.2 billion, marking the second consecutive month of robust growth fueled by artificial intelligence-related products. The sustained export momentum indicates strong global demand for AI-related goods and Hong Kong's role as a key trading hub for technology products in the Asia-Pacific region.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358330/hong-kong-exports-jumped-nearly-41-may?utm_source=rss_feed",
-      "published": "Thu, 25 Jun 2026 08:49:19 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Apple supplier Luxshare clears Hong Kong listing regulatory approval",
-      "brief": "Luxshare Precision Industry, a major supplier for Apple's AirPods and iPhones, has passed regulatory hearings for a Hong Kong listing after receiving Chinese regulatory approval. The move reflects growing efforts by mainland Chinese technology manufacturers to diversify capital sources through Hong Kong exchanges, potentially enhancing liquidity and international market access for Chinese supply chain companies.",
+      "headline": "Mainland investors drive Hong Kong stock flows to record $152 billion",
+      "brief": "Southbound Stock Connect flows reached a record US$151.8 billion in the 12 months to March, reflecting renewed mainland investor confidence in Hong Kong's financial markets. The surge is primarily driven by a robust pipeline of initial public offerings in Hong Kong. This capital inflow indicates strengthening integration between mainland and Hong Kong financial markets and suggests growing appetite for Hong Kong-listed assets among Chinese investors.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/tech/big-tech/article/3358183/apple-supplier-luxshare-precision-industry-passes-hearing-hong-kong-listing?utm_source=rss_feed",
-      "published": "Wed, 24 Jun 2026 07:30:26 +0000",
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3358201/southbound-stock-connect-flows-surge-record-us152b-driven-hong-kongs-ipo-revival?utm_source=rss_feed",
+      "published": "Thu, 25 Jun 2026 02:00:08 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     }
   ],
@@ -269,52 +269,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technology competition, Taiwan policy disagreements, and strategic rivalry in the Indo-Pacific."
+      "summary": "China-US relations remain strained over trade, technology competition, Taiwan, and strategic rivalry, though both maintain diplomatic channels and economic interdependence."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepening military, energy, and trade cooperation, though each pursues independent interests."
+      "summary": "China and Russia maintain a strategic partnership with deepening energy ties, joint military exercises, and coordinated positions on international issues despite no formal alliance."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations balance economic interdependence with growing security concerns over technology, human rights, and strategic autonomy."
+      "summary": "EU-China relations are mixed, combining economic interdependence with growing concerns over human rights, intellectual property, and technological competition."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure while opposing any formal independence or international recognition."
+      "summary": "China views Taiwan as a renegade province and has increased military pressure, while Taiwan maintains de facto independence with strong US support, creating fundamental conflict."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by territorial disputes over the Senkaku Islands, historical grievances, and strategic competition in East Asia."
+      "summary": "China-Japan relations are strained by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in the region despite significant trade ties."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, military clashes, and strategic rivalry over regional influence create persistent tensions between China and India."
+      "summary": "China-India relations are tense due to unresolved border disputes, military clashes, and strategic competition for regional influence in South and East Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain pragmatic energy and economic ties while cooperating on regional stability despite differing geopolitical alignments."
+      "summary": "China and Saudi Arabia maintain cooperative relations centered on energy trade, investment, and Belt and Road Initiative projects with limited political friction."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Philippines-China relations fluctuate between cooperation on infrastructure and investment, and tensions over South China Sea territorial claims."
+      "summary": "China-Philippines relations oscillate between cooperation on economic issues and tension over South China Sea territorial disputes and the US alliance."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China and Brazil maintain strong economic and trade relations, though Brazil balances this with Western alignments and environmental concerns."
+      "summary": "China and Brazil maintain a pragmatic partnership focused on trade, investment, and resource extraction, with alignment on multipolar world views."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations remain strained following Australian calls for COVID-19 inquiries, security concerns, and trade restrictions on Australian exports."
+      "summary": "China-Australia relations remain strained following Australian security concerns about Chinese influence, calls for COVID-19 investigations, and trade restrictions imposed by China."
     }
   ]
 }
