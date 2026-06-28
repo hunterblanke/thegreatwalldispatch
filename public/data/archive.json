@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-06-27",
+      "articles": [
+        {
+          "headline": "China's Fujian carrier demonstrates progress amid operational constraints",
+          "brief": "China's third aircraft carrier, the Fujian, recently transited the Taiwan Strait, marking progress toward a three-carrier operational capability. However, the transit also reveals limitations in China's carrier ambitions, suggesting challenges remain in achieving full deployment readiness. The development represents a significant advancement in China's naval modernization but indicates constraints on sustained carrier operations.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
+          "published": "Sat, 27 Jun 2026 00:02:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China integrates Taiwan, South China Sea into U.S. strategic competition",
+          "brief": "Analysts indicate Beijing views Taiwan and the South China Sea as interconnected components of its strategic rivalry with the United States, a positioning that emerged during recent Xi-Trump discussions. This framing suggests China may pursue coordinated policies across both maritime domains as part of broader great power competition. The development carries significant implications for regional stability and U.S.-China strategic calculations.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trump threatens 100% tariffs on European nations over digital tax",
+          "brief": "US President Trump has threatened to impose 100% tariffs on European countries considering digital service taxes, citing concerns about levies targeting American technology companies. The threat represents an escalation in US-EU trade tensions and could trigger retaliatory measures, potentially disrupting transatlantic commerce and technology sector relations.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 01:37:18 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China uses environmental surveys to advance territorial claims",
+          "brief": "China is conducting environmental research operations in disputed waters as a strategy to normalize its presence and strengthen territorial claims in the region. Analysts assess these scientific activities serve dual purposes of data collection and establishing de facto control through routine operations. This approach represents China's use of civilian research activities to support geopolitical objectives in contested maritime areas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea-Russia bridge construction nears completion",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerating economic and logistical cooperation between Pyongyang and Moscow. Expert analysis attributes the rapid construction pace to Kim Jong Un's prioritization of strengthening ties with Russia, potentially facilitating trade and military supply routes amid international sanctions and geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "ASEAN Avoids Endorsing South China Sea Arbitration Ruling",
+          "brief": "A decade after the 2016 arbitration tribunal ruled against China's South China Sea claims under UNCLOS, ASEAN states have not officially recognized the legal judgment despite supporting the convention itself. This persistent diplomatic silence reflects the bloc's reluctance to directly confront China, potentially undermining the legal precedent and raising questions about ASEAN's commitment to rules-based maritime governance in strategically critical waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/10-years-after-the-south-china-sea-arbitration-will-asean-remain-silent/",
+          "published": "Fri, 26 Jun 2026 23:05:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Shifts Middle East Strategy to Counter US Gulf Influence",
+          "brief": "Following regional tensions, China is prioritizing strengthened relations with Gulf states, particularly Saudi Arabia and the UAE, to prevent their alignment with the United States. This strategic pivot reflects China's effort to establish regional influence and counter American diplomatic initiatives in a critical energy and trade corridor. The shift demonstrates China's broader competition with the US for geopolitical leverage in the Middle East.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/after-the-iran-war-chinas-middle-east-strategy-will-prioritize-the-gulf/",
+          "published": "Fri, 26 Jun 2026 22:23:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Taiwan Establishes Advanced Manufacturing in Poland Amid Supply Chain Shifts",
+          "brief": "Taiwan is building semiconductor and electric vehicle factories in Poland, repositioning supply chains away from China and reducing U.S. dependence. This strategic manufacturing shift reflects broader efforts to diversify critical technology production and reduce geopolitical vulnerability in key supply chains.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/taiwan-to-build-chip-and-ev-factories-in-poland-replacing-china-and-the-us/",
+          "published": "Fri, 26 Jun 2026 21:13:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Analysis Questions Concerns Over China's Military Capabilities",
+          "brief": "A Foreign Affairs article challenges prevailing anxieties regarding China's military advantages, arguing that widespread alarm may be misplaced and counterproductive to strategic planning. The piece suggests policymakers should reassess assumptions about Chinese military superiority rather than react from a position of panic.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China's Foreign Minister Discusses Beijing-Washington Relations",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for China to articulate its diplomatic positions to American policy audiences during a period of strategic competition between the two powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Quad Nations Plan Fiji Port to Counter China's Pacific Influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a joint port development project in Fiji to compete with China's growing dominance in Pacific supply chains and regional infrastructure. The initiative signals to Pacific nations that the Quad alliance offers alternative development partnerships beyond Chinese investment. This represents a strategic effort to enhance the Quad's regional presence and provide competing economic opportunities in a traditionally China-focused area.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong grapples with unregulated prediction markets despite potential ban",
+          "brief": "Prediction markets in Hong Kong operate in a legal gray area under gambling laws, with experts warning of market manipulation and consumer protection risks. Legal authorities acknowledge that while a ban could restrict access to these platforms, enforcement would face significant practical challenges in evidence gathering and prosecution. The growing popularity of largely unregulated betting platforms presents regulatory challenges for Hong Kong's financial oversight.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358576/prediction-markets-hong-kong-ban-alone-will-not-solve-risks-legal-experts-say?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 04:00:19 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong pursues exchange reforms to strengthen competitiveness",
+          "brief": "Hong Kong authorities are advancing regulatory reforms to enhance the city's financial market competitiveness, including modifications to weighted voting rights, expansion of overseas listing options, and new financial products. These structural changes aim to address competitive pressures facing Hong Kong Exchanges and Clearing as a major regional financial hub amid broader economic challenges.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 00:00:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong elite civil servants departing at accelerating rate",
+          "brief": "Hong Kong experienced a 33 percent increase in resignations and retirements among elite administrative officers in 2025-26, with 36 departures compared to 27 the previous year. The trend suggests potential challenges in government capacity and institutional continuity, prompting authorities to consider expanding recruitment methods for senior positions. The exodus of experienced personnel may impact Hong Kong's governance effectiveness and administrative stability.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3358608/rise-elite-civil-servants-leaving-prompts-calls-hiring-rethink?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 12:01:53 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "North Korea's border cities show increased nighttime illumination from solar expansion",
+          "brief": "Satellite imagery indicates North Korea is experiencing a renewable energy boom, particularly visible in border cities like Sinuiju that were previously darkened by chronic power shortages. This infrastructure development suggests potential economic improvements and reduced energy dependency, though the scale and sustainability of the initiative remain unclear. The shift has implications for regional stability and inter-Korean economic dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/27/north-korea-solar-plant-boom/",
+          "published": "Sat, 27 Jun 2026 01:59:54 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Dalai Lama undergoes left knee surgery in New Delhi",
+          "brief": "The Tibetan spiritual leader underwent left knee replacement surgery in New Delhi, following a right knee replacement procedure in New York in 2024. The surgery underscores the Dalai Lama's continued presence and medical access in India, where he has maintained exile since 1959, which remains a sensitive point in China-India relations.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/06/08/dalai-lama-knee-surgery/",
+          "published": "Mon, 08 Jun 2026 18:09:19 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 16,
+        "high_priority": 3,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 9,
+          "economy": 5
+        },
+        "updated_at": "2026-06-27T15:04:50.368870Z"
+      }
+    },
+    {
       "date": "2026-06-26",
       "articles": [
         {
