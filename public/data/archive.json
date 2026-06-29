@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-06-28",
+      "articles": [
+        {
+          "headline": "Economic Leverage Could Enable China Taiwan Acquisition Without Military Action",
+          "brief": "Analysis suggests China may achieve control over Taiwan through economic coercion rather than military force, leveraging trade dependencies and financial pressure. The assessment indicates that ambiguous U.S. security commitments under current leadership could reduce deterrence effectiveness and increase Beijing's confidence in pursuing non-kinetic strategies. This represents a shift in potential acquisition methods with significant implications for regional stability and U.S. alliance credibility.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting",
+          "published": "Mon, 22 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Xi-Trump talks highlight Taiwan's role in China's maritime strategy",
+          "brief": "Recent discussions between Xi Jinping and Donald Trump have drawn attention to Beijing's strategic approach toward Taiwan and the South China Sea as interconnected elements of its competition with the United States. Chinese analysts characterize both Taiwan and the South China Sea as integral components of China's broader maritime and geopolitical strategy in countering U.S. influence in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US arms sales to Taiwan remain central to cross-strait security dynamics",
+          "brief": "The U.S. maintains a security relationship with Taiwan through ongoing weapons transfers, a practice that reflects Washington's commitment to Taiwan's defense capabilities amid cross-strait tensions. Reports of delayed arms packages underscore the strategic importance of this arrangement and the complexity of U.S.-Taiwan military cooperation. The continued supply of weapons represents a key element of U.S. foreign policy in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's Third Aircraft Carrier Demonstrates Naval Capability Progress",
+          "brief": "China's Fujian aircraft carrier recently transited the Taiwan Strait, marking the nation's advancement toward a three-carrier operational capability. The transit highlights both technological progress in carrier development and ongoing constraints in fully operationalizing multiple carriers simultaneously. This development signals China's continued military modernization while revealing limitations in sustaining sustained multi-carrier operations.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/has-china-really-entered-the-three-carrier-era/",
+          "published": "Sat, 27 Jun 2026 00:02:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Taiwan deploys robodogs for South China Sea military monitoring",
+          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea as part of a broader military shift toward unmanned surveillance capabilities. This development reflects Taiwan's strategic response to China's presence in the region and signals an escalating technological competition between Taipei and Beijing in autonomous defense systems. The deployment of such systems indicates Taiwan's effort to enhance situational awareness and reduce personnel risk in disputed maritime areas.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's South China Sea buildup could complicate Taiwan defense",
+          "brief": "Military experts assess that China's maritime infrastructure development in the South China Sea may be designed to distract Taiwan's potential allies during a conflict scenario. However, analysts suggest this strategy would likely prove ineffective if actual military hostilities commenced. The assessment highlights Beijing's strategic calculations regarding regional influence and potential constraints on Taiwan's external support.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
+          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Vietnam expands Spratly Islands construction but lags behind China",
+          "brief": "Satellite imagery shows Vietnam has undertaken significant construction activities on 27 features in the disputed Spratly Islands chain, though analysts assess these efforts remain substantially behind China's extensive reclamation and development programs. This disparity underscores the asymmetric pace of infrastructure competition in the South China Sea and reflects the ongoing territorial dispute between the two nations in this strategically important region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
+          "published": "Mon, 08 Jun 2026 14:07:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "ASEAN Faces Pressure on South China Sea Arbitration Decision",
+          "brief": "A decade after an international arbitration ruling on the South China Sea under UNCLOS, ASEAN member states have not formally recognized the legal judgment despite supporting the convention itself. This continued silence suggests internal divisions within ASEAN regarding how to address the ruling and manage relations with China, potentially undermining the credibility of international maritime law frameworks in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/10-years-after-the-south-china-sea-arbitration-will-asean-remain-silent/",
+          "published": "Fri, 26 Jun 2026 23:05:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Taiwan to Establish Chip and EV Manufacturing Facilities in Poland",
+          "brief": "Taiwan is expanding semiconductor and electric vehicle production to Poland, repositioning supply chains away from both China and the United States. This strategic shift reflects growing efforts to diversify critical technology manufacturing across allied nations and reduce dependence on geopolitically sensitive regions. The development has significant implications for global semiconductor supply chain resilience and NATO ally economic positioning.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/taiwan-to-build-chip-and-ev-factories-in-poland-replacing-china-and-the-us/",
+          "published": "Fri, 26 Jun 2026 21:13:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "North Korea upgrades ports to accommodate larger naval vessels",
+          "brief": "Satellite imagery indicates North Korea is expanding shipyard facilities as part of a five-year naval modernization plan, suggesting the country intends to deploy larger destroyer-class vessels. The upgrade represents a significant capability enhancement to North Korea's maritime forces and reflects ongoing efforts to strengthen its naval posture amid regional tensions.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea expands solar energy capacity along Chinese border",
+          "brief": "Satellite imagery indicates North Korea is rapidly deploying renewable energy infrastructure in border city Sinuiju, reversing previous chronic power shortages that darkened the city at night. This development suggests potential shifts in North Korea's energy strategy and infrastructure investment priorities. The expansion may have implications for cross-border economic activity and regional energy dynamics on the China-North Korea border.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/27/north-korea-solar-plant-boom/",
+          "published": "Sat, 27 Jun 2026 01:59:54 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The forum addressed U.S. military priorities and regional security challenges in one of the world's most strategically significant areas.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China's Foreign Minister Discusses US-China Relations at CSIS Forum",
+          "brief": "Wang Yi, China's Minister of Foreign Affairs, participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for direct dialogue on diplomatic issues between the two major powers during a period of strategic competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Analysis examines structural constraints on China's transactional foreign policy",
+          "brief": "Foreign Affairs examines limitations of China's 'China First' approach to international relations, arguing that a purely transactional foreign policy strategy faces inherent structural constraints. The analysis suggests this approach may undermine China's long-term strategic objectives and international relationships, with implications for Beijing's economic and diplomatic engagement strategies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/why-china-first-will-fail-patricia-kim",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Analysis Questions Threat Perception of China Military Capabilities",
+          "brief": "A Foreign Affairs analysis challenges prevailing concerns about China's military advantage, suggesting current threat assessments may be overstated. The piece argues that panic-driven policy responses could prove counterproductive to strategic interests. The assessment implies need for more measured evaluation of China's actual military capabilities versus perceived threats.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Global plastics crisis poses economic and environmental challenges",
+          "brief": "The article addresses the growing threat posed by plastic pollution as a systemic global problem requiring coordinated international response. The plastics crisis has significant economic implications for industries, supply chains, and waste management systems worldwide. Addressing this challenge will require strategic policy interventions and cross-sector cooperation to mitigate long-term costs.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/world/quiet-rise-plastics-crisis",
+          "published": "Fri, 19 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US Alliance Network Maintains Advantage Over China in Asia",
+          "brief": "According to The Diplomat, while the United States faces challenges in direct bilateral competition with China for regional influence, the combined strength of the U.S. and its allied partners in Asia provides a strategic advantage. The analysis suggests that maintaining and strengthening Northeast Asian alliances is critical to preserving U.S. influence across the broader Asian region, particularly in Southeast Asia.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/to-not-lose-southeast-asia-the-us-must-look-to-northeast-asia/",
+          "published": "Fri, 26 Jun 2026 21:40:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Uyghur activist questions judicial process in Bangkok bombing case",
+          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has publicly challenged the legal proceedings and evidentiary standards in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her scrutiny of the case raises questions about due process and potential connections to Uyghur-related grievances, potentially affecting China-Thailand bilateral relations and international perceptions of justice in high-profile terrorism cases.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
+          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China pushes for tourism barrier removal at Apec meeting",
+          "brief": "China's culture and tourism minister called for easing travel restrictions and strengthening regional cooperation to promote tourism as an economic driver across the Apec community. The initiative signals Beijing's intent to increase intra-regional travel and economic integration through the tourism sector. This effort reflects China's strategy to leverage tourism development as a tool for regional economic cooperation and soft power.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358612/china-urges-easing-travel-barriers-apec-tourism-ministers-meet-macau?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 11:53:38 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong boy dies from heatstroke at sports facility",
+          "brief": "An 11-year-old Hong Kong resident died after experiencing heatstroke symptoms during a 400-meter training run at a local sports ground. The incident raises concerns about safety protocols and heat management practices at public athletic facilities in Hong Kong during warm weather conditions.",
+          "category": "economy",
+          "severity": "low",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358614/boy-dies-after-suspected-heatstroke-tseung-kwan-o-sports-ground-hong-kong?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 12:33:47 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 20,
+        "high_priority": 3,
+        "by_category": {
+          "economy": 5,
+          "military": 6,
+          "foreign_relations": 9
+        },
+        "updated_at": "2026-06-28T15:06:46.544821Z"
+      }
+    },
+    {
       "date": "2026-06-27",
       "articles": [
         {
