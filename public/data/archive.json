@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-06-29",
+      "articles": [
+        {
+          "headline": "Trump's Taiwan Policy Ambiguity May Favor China's Strategic Position",
+          "brief": "The article argues that uncertainty in U.S. commitment to Taiwan under Trump administration policies could undermine Taiwan's defensive posture without military conflict. Economic and political leverage, combined with weakened security guarantees, may enable China to achieve strategic objectives through non-military means. This shift in U.S. policy credibility represents a significant geopolitical realignment affecting regional stability and U.S.-China competition.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting",
+          "published": "Mon, 22 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Beijing integrates Taiwan into broader South China Sea strategy amid U.S. rivalry",
+          "brief": "Recent Xi-Trump discussions have highlighted Beijing's strategic view of Taiwan as inseparable from its maritime ambitions in the South China Sea. Analysts assess that China views both territories as central to its long-term competition with the United States. This positioning suggests potential escalation risks in multiple contested regions simultaneously.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Tightens Control Over Private Companies' Foreign Investments",
+          "brief": "China's Decree No. 837 strengthens state control over Chinese private companies' international investments, effectively enabling Beijing to restrict technology transfer to foreign entities. This regulation impacts investment recipient countries and signals China's prioritization of protecting strategic technologies from foreign acquisition. The measure extends Chinese government oversight beyond domestic borders, affecting global investment patterns and technology security.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/chinas-new-investment-regulations-block-strategic-technology-transfer/",
+          "published": "Mon, 29 Jun 2026 21:57:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "U.S. Arms Transfers to Taiwan Remain Central to Security Dynamic",
+          "brief": "Recent delays in U.S. military aid deliveries to Taiwan have highlighted the ongoing security relationship between Washington and Taipei, which serves as a critical counterbalance to Beijing's military capabilities. Taiwan's reliance on American weapons systems reflects its strategic vulnerability and Washington's commitment to maintaining cross-strait stability. This arms supply arrangement remains a sensitive issue in U.S.-China relations and directly impacts the military balance in the Taiwan Strait.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trump threatens 100% tariffs on European nations over digital tax",
+          "brief": "US President Trump has threatened to impose 100% tariffs on European countries considering digital service taxes, escalating trade tensions. The threat targets multiple EU nations discussing new technology levies, potentially widening the scope of US-Europe trade disputes beyond existing agreements. This escalation could significantly impact transatlantic trade relations and complicate ongoing economic negotiations.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 27 Jun 2026 01:37:18 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governing Concept",
+          "brief": "China is advancing an \"Internet sovereignty\" initiative as a key governing framework for the global Internet, representing a challenge to current international norms of open internet governance. This initiative could significantly reshape international digital policy and establish Chinese standards for state control over internet infrastructure and content. The concept carries implications for cybersecurity, information control, and geopolitical competition in cyberspace.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "2016 South China Sea Arbitration Award Clarifies Maritime Law Interpretation",
+          "brief": "A decade after the 2016 arbitration award, the ruling has not resolved maritime disputes in the South China Sea but has significantly clarified how countries must interpret maritime entitlements under international law (UNCLOS). The award's lasting significance lies in forcing regional claimants to explicitly define and justify their territorial claims based on established legal frameworks. This legal clarification has become a reference point for ongoing maritime disputes in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/the-2016-south-china-sea-arbitration-award-at-10-its-lasting-significance/",
+          "published": "Mon, 29 Jun 2026 23:04:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Vietnam accelerates construction in disputed Spratly Islands",
+          "brief": "Satellite imagery shows Vietnam has undertaken significant reclamation and construction activities on 27 features in the contested Spratly Islands chain. Despite these efforts, experts assess that Vietnam remains substantially behind China's infrastructure development in the disputed territory, which carries implications for regional territorial claims and maritime competition in the South China Sea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
+          "published": "Mon, 08 Jun 2026 14:07:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Satellite imagery reveals North Korea-Russia bridge nearing completion",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Experts interpret the rapid construction timeline as evidence of Kim Jong Un's commitment to deepening cooperation with Moscow. The bridge's completion would facilitate increased trade and military coordination between Pyongyang and Moscow.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China uses environmental surveys to reinforce disputed territorial claims",
+          "brief": "China is conducting environmental research in disputed waters as a strategic tool to normalize its presence and reinforce territorial claims in the region. Analysts characterize these scientific expeditions as a method to establish de facto control while maintaining a civilian research veneer. This approach represents China's effort to advance territorial objectives through non-military means.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Quad nations plan Fiji port project to counter China's Pacific influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of broader efforts to expand their regional presence and offer alternatives to Chinese infrastructure investments in the Pacific. The initiative signals the Quad's intent to challenge China's dominant position in Pacific supply chains and demonstrate competitive capacity in the region. This development reflects intensifying great power competition for influence and economic leverage across the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Bangladesh Maintains China Relations Despite Domestic Political Change",
+          "brief": "Bangladesh has experienced significant domestic political transitions over the past two years while maintaining continuity in its relationship with China. This suggests that regardless of which government is in power in Dhaka, engagement with Beijing remains a consistent policy priority. The stability of Bangladesh-China relations indicates the strategic importance China maintains in Bangladesh's foreign policy calculus despite internal political shifts.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/3-governments-1-china-policy-dhakas-evolving-engagement-with-beijing/",
+          "published": "Mon, 29 Jun 2026 18:31:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "South Korea launches $880 billion chip and AI investment initiative",
+          "brief": "South Korea has announced an $880 billion investment plan focused on semiconductor and artificial intelligence development, responding to aggressive technology infrastructure spending by regional competitors Taiwan, China, and Japan. This regional technology competition reflects broader strategic positioning in high-value chip manufacturing and AI capabilities, with significant implications for global semiconductor supply chains and technological leadership in Asia.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 08:55:29 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Indonesia to Issue $1 Billion Panda Bonds in China",
+          "brief": "Indonesia plans to issue at least US$1 billion in yuan-denominated panda bonds through China's domestic bond market by mid-July, pending Beijing's approval. The issuance aims to stabilize Indonesia's domestic finances and reduce reliance on US dollar-denominated debt. This move reflects growing financial integration between Southeast Asia and China, expanding Beijing's influence in regional capital markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
+          "published": "Fri, 26 Jun 2026 08:30:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Analysis questions validity of perceived Chinese military superiority",
+          "brief": "A Foreign Affairs article challenges prevailing assumptions about China's military advantages, arguing that current concern may be exaggerated. The analysis suggests that panic-driven responses to perceived Chinese military capabilities could be counterproductive to strategic planning. This reassessment has implications for U.S. defense spending priorities and regional security posture in the Indo-Pacific.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Bahrain Expands Hong Kong Presence to Access Mainland Chinese Capital",
+          "brief": "Bahrain is intensifying its financial presence in Hong Kong to attract mainland Chinese investment, as the Gulf state seeks to diversify its foreign capital sources amid regional tensions. The kingdom's investment promotion agency is implementing financial deregulation measures and leveraging existing Bahraini investor activity in Hong Kong to strengthen economic ties with China. This strategic pivot indicates growing competition among Middle Eastern states to secure Chinese capital amid geopolitical uncertainty.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358707/bahrain-doubles-down-hong-kong-woo-mainland-china-capital-amid-middle-east-tensions?utm_source=rss_feed",
+          "published": "Mon, 29 Jun 2026 06:01:03 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Analysis: Transactional Foreign Policy Approach Faces Structural Limitations",
+          "brief": "Foreign Affairs examines the constraints of China's 'China First' transactional foreign policy framework, arguing such narrowly self-interested approaches have inherent limits in achieving sustained diplomatic and economic objectives. The analysis suggests that purely transactional engagement strategies may undermine longer-term relationship-building and multilateral cooperation necessary for sustained economic and geopolitical influence.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/why-china-first-will-fail-patricia-kim",
+          "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "India's Pharmaceutical Sector Remains Dependent on Chinese Supply",
+          "brief": "While the United States has exempted India's generic pharmaceuticals from new tariffs, India's drug manufacturing industry faces significant upstream vulnerability to Chinese supplies and disruptions. This dependency represents a broader Western supply chain risk, as India's role as a major global generic drug supplier means Chinese leverage extends beyond India to Western healthcare systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/tariff-proof-but-not-china-proof-the-geopolitics-of-indias-pharma-power/",
+          "published": "Fri, 26 Jun 2026 23:16:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong FDI inflows surge 36% as Western firms expand presence",
+          "brief": "Hong Kong attracted 413 new or expanding foreign companies in the first half of 2026, a 9% year-on-year increase, with expected inflows exceeding US$6.75 billion. US and European firms continue to strengthen Hong Kong's position as a regional financial and business hub, signaling sustained international confidence in the territory's investment environment despite broader geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
+          "published": "Fri, 26 Jun 2026 08:00:21 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "PLA Navy Vessels Conduct Port Visit to Hong Kong",
+          "brief": "Two PLA guided-missile vessels will conduct a five-day port call in Hong Kong beginning July 2, coinciding with the 29th anniversary of Hong Kong's return to Chinese sovereignty. The visit includes public access and cultural exchange activities, demonstrating continued PLA presence and engagement in Hong Kong waters.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3358785/2-pla-navy-ships-visit-hong-kong-5-day-port-call?utm_source=rss_feed",
+          "published": "Mon, 29 Jun 2026 12:11:10 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 20,
+        "high_priority": 6,
+        "by_category": {
+          "foreign_relations": 11,
+          "economy": 8,
+          "military": 1
+        },
+        "updated_at": "2026-06-29T18:20:32.583962Z"
+      }
+    },
+    {
       "date": "2026-06-28",
       "articles": [
         {
