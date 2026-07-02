@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-07-01",
+      "articles": [
+        {
+          "headline": "China Enacts Ethnic Unity Law Targeting Taiwanese Identity",
+          "brief": "China has implemented an Ethnic Unity Law that effectively criminalizes Taiwanese identity and separatism, representing a significant escalation in legal and political pressure against Taiwan. The legislation extends Beijing's authority to prosecute activities deemed threatening to ethnic unity, signaling a shift toward non-kinetic coercion against the island. This move demonstrates China's use of legal mechanisms as instruments of political control alongside military capabilities.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/xi-jinping-just-made-it-a-crime-to-be-taiwanese/",
+          "published": "Tue, 30 Jun 2026 21:51:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Xi-Trump discussions highlight Taiwan role in China's maritime strategy",
+          "brief": "Recent Xi-Trump talks have renewed focus on Taiwan's significance within Beijing's broader strategic competition with the United States, with analysts noting that China views both Taiwan and the South China Sea as critical components of this rivalry. The positioning of Taiwan within China's maritime strategy indicates potential implications for regional stability and U.S.-China competition in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
+          "published": "Tue, 19 May 2026 22:22:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. Arms Transfers to Taiwan Remain Central to Cross-Strait Dynamics",
+          "brief": "Recent delays in U.S. arms deliveries to Taiwan have highlighted the strategic importance of American military support to the island's defense capabilities. The security relationship between Washington and Taipei reflects broader geopolitical competition in the Indo-Pacific region and underscores Taiwan's dependency on external military assistance to maintain its defensive posture. This arrangement remains a significant point of contention in U.S.-China relations.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
+          "published": "Tue, 26 May 2026 03:18:46 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's ethnic unity law may enable transnational targeting of critics",
+          "brief": "China has enacted a new 'ethnic unity' law that rights groups assert could provide Beijing with legal justification to pursue individuals located outside its borders. The legislation potentially expands China's enforcement mechanisms beyond its territorial limits, raising concerns about the extraterritorial application of Chinese law against diaspora communities and international critics. This development has significant implications for freedom of expression and the legal protections of Chinese nationals abroad.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 05:34:03 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "New North Korea-Russia bridge nearing completion signals deepening ties",
+          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Expert analysis attributes the construction pace to Kim Jong Un's prioritization of enhanced cooperation with Moscow, signaling intensified bilateral engagement amid ongoing geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
+          "published": "Thu, 21 May 2026 00:44:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Australia and Vanuatu Sign Security Agreement",
+          "brief": "Australia and Vanuatu have signed the Nakamal Agreement, a new security pact between the two nations. While less comprehensive than Australia's other regional security arrangements, the agreement is assessed as significant in countering Chinese influence in the Pacific island region. The pact represents Australia's continued strategic engagement in the South Pacific.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/australia-vanuatu-sign-security-pact/",
+          "published": "Tue, 30 Jun 2026 20:06:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "SpaceX IPO reflects intensifying US-China space technology competition",
+          "brief": "The SpaceX IPO demonstrates the commercial space sector's strategic importance in US-China competition, highlighting American private sector capabilities in advanced aerospace technology. China's space program development and commercial space initiatives represent a parallel competitive track that underscores the significance of space dominance in broader great power competition.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/what-the-spacex-ipo-tells-us-about-china-us-competition/",
+          "published": "Wed, 01 Jul 2026 22:54:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Foreign firms reassess China investments amid regulatory uncertainty",
+          "brief": "Foreign companies are reconsidering their China operations due to divergence between Beijing's stated pro-investment messaging and actual regulatory implementation through the National Intelligence Law and new State Council decrees. This regulatory inconsistency creates investment uncertainty and suggests Beijing's policies may be prioritizing security concerns over economic openness, potentially impacting foreign direct investment flows into China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/why-foreign-companies-are-re-assessing-their-china-portfolio/",
+          "published": "Wed, 01 Jul 2026 04:35:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Invests $295 Billion in AI Infrastructure Excluding Foreign Firms",
+          "brief": "China is committing $295 billion to develop domestic AI data centers while explicitly excluding foreign companies from participation. This strategy is intended to consolidate technological control, reduce reliance on foreign technology providers, and strengthen domestic high-tech industries. The initiative underscores Beijing's broader effort to achieve strategic autonomy in critical technologies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/06/chinas-295-billion-ambitions-for-ai-will-drive-up-domestic-high-tech-stocks/",
+          "published": "Tue, 30 Jun 2026 22:42:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Quad partners plan Fiji port project to counter China's Pacific influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a port development initiative in Fiji designed to challenge China's dominant position in Pacific regional supply chains. The project represents a coordinated effort by the Quad alliance to demonstrate alternative infrastructure and investment options to Pacific island nations. This move reflects broader strategic competition between Western-aligned powers and China for influence and economic leverage in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Environmental Research to Advance Territorial Claims",
+          "brief": "China is conducting scientific surveys in disputed waters, which analysts assess as a strategy to normalize Beijing's presence and reinforce territorial assertions. The use of environmental research as a tool for geopolitical positioning represents an indirect approach to consolidating control over contested areas. This activity underscores China's multi-faceted approach to territorial disputes beyond traditional military or diplomatic channels.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "South Korea announces $880 billion chip and AI investment plan",
+          "brief": "South Korea has unveiled a substantial $880 billion investment initiative focused on semiconductor and artificial intelligence development, responding to competitive initiatives by regional powers Taiwan, China, and Japan. This escalating technological competition reflects broader geopolitical competition for semiconductor supply chain dominance and AI capability development in the Indo-Pacific region. The investment signals South Korea's strategic commitment to maintaining technological leadership and reducing dependence on external chip sources.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 29 Jun 2026 08:55:29 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty as Global Governance Model",
+          "brief": "China is promoting Internet sovereignty as a key governing concept for the global Internet, representing a strategic shift in how Beijing seeks to shape international digital norms and standards. This initiative has significant implications for international cybersecurity, data governance, and the future structure of global Internet regulation. The concept reflects China's broader effort to establish alternative frameworks to Western-dominated Internet governance institutions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "European banks shift funding strategies toward Hong Kong market",
+          "brief": "European financial institutions are increasingly accessing Hong Kong's capital markets as an alternative funding source, driven by geopolitical fragmentation, rising financing costs, and energy supply instability. OTP Bank, Hungary's largest lender, represents a notable example of this strategic reorientation away from traditional European capital markets. This trend suggests a broader structural shift in global financial flows with potential implications for Hong Kong's role as a regional financial hub.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358853/otp-gives-hong-kong-vote-confidence-european-banks-look-east?utm_source=rss_feed",
+          "published": "Tue, 30 Jun 2026 08:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong FDI inflows surge 36% as Western firms expand presence",
+          "brief": "Hong Kong attracted over HK$53 billion (US$6.75 billion) in foreign direct investment in the first half of 2026, with 413 companies establishing or expanding operations in the city, representing a 9% year-on-year increase. The continued expansion by US and European firms underscores Hong Kong's sustained role as a critical financial hub and gateway for Western capital into Asia, despite geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
+          "published": "Fri, 26 Jun 2026 08:00:21 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong pursues listing reforms and new financial products",
+          "brief": "Hong Kong authorities are implementing comprehensive reforms to its exchange operations, including optimized voting rights structures and expanded secondary listing pathways for overseas companies. These initiatives aim to enhance Hong Kong's competitiveness as a regional financial hub and attract greater capital inflows through new bond futures and gold trading products.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed",
+          "published": "Sat, 27 Jun 2026 00:00:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Indonesia to issue $1 billion panda bonds in China",
+          "brief": "Indonesia's Ministry of Finance plans to issue at least $1 billion in yuan-denominated bonds (panda bonds) in China's domestic market before mid-July, pending Beijing's approval. The issuance reflects Southeast Asia's broader effort to reduce dollar dependence and stabilize domestic finances through alternative funding channels. This move demonstrates China's expanding role in regional financial markets and growing use of yuan internationalization.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
+          "published": "Fri, 26 Jun 2026 08:30:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 17,
+        "high_priority": 4,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 7,
+          "economy": 7
+        },
+        "updated_at": "2026-07-01T17:31:01.058840Z"
+      }
+    },
+    {
       "date": "2026-06-30",
       "articles": [
         {
