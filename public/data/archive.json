@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-07-05",
+      "articles": [
+        {
+          "headline": "China Expands Coast Guard Patrols Near Taiwan Waters",
+          "brief": "China has deployed coast guard ships to patrol waters east of Taiwan as part of an expanded pressure campaign against the island. The patrols target strategically important maritime areas that would be critical to any military operation across the Taiwan Strait. This escalation represents China's continued efforts to challenge Taiwan's territorial control and raise the operational costs of defending the island.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/05/world/asia/china-taiwan-east-coast-guard-patrols.html",
+          "published": "Sun, 05 Jul 2026 08:21:38 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China's new ethnic unity law raises concerns about extraterritorial enforcement",
+          "brief": "Beijing has enacted new legislation on ethnic unity that rights groups warn could provide legal grounds to pursue critics and dissidents outside Chinese territory. The law's extraterritorial scope represents a potential expansion of China's ability to target opposition voices globally, raising questions about its enforcement mechanisms and international legal implications.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 01 Jul 2026 05:34:03 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Tibetan activist dies after self-immolation outside UN headquarters",
+          "brief": "A Tibetan activist died after setting himself on fire outside UN headquarters in New York, an incident occurring one day after China's new 'ethnic unity law' took effect. The timing suggests potential protest against Beijing's ethnic policies. The incident may elevate international scrutiny of China's treatment of Tibetan populations and ethnic minorities.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
+          "published": "Fri, 03 Jul 2026 15:10:50 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan Intensifies Drone Defense Spending Amid Political Debate",
+          "brief": "Taiwan's defense budget discussions have increasingly centered on drone procurement following KMT chair Cheng Li-wun's recent U.S. visit. The elevated focus on unmanned systems reflects Taiwan's strategic effort to modernize its defense capabilities against potential military threats. This budgetary shift indicates shifting priorities within Taiwan's defense planning toward asymmetric warfare capabilities.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/taiwans-drone-industry-take-centerstage-in-defense-spending-debate/",
+          "published": "Thu, 02 Jul 2026 21:36:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Quad partners plan Fiji port project to counter Chinese influence",
+          "brief": "The United States, Japan, India, and Australia are pursuing a port development project in Fiji as part of their Indo-Pacific strategy. The initiative aims to demonstrate that the Quad alliance can provide viable economic alternatives to Chinese investment and supply-chain dominance in the Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
+          "published": "Fri, 29 May 2026 20:35:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Climate Adaptation Failures Could Shift U.S.-China Economic Competition",
+          "brief": "Extreme weather events pose significant economic and competitive risks to both the United States and China, with countries that fail to adequately prepare for climate impacts facing substantial disadvantages. The article suggests that climate adaptation capacity will become a critical factor in determining economic competitiveness between the two powers. Nations investing in resilience infrastructure and climate preparedness may gain strategic advantages over those that lag in these efforts.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition",
+          "published": "Tue, 30 Jun 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Xi Jinping Consolidates Power with Trusted Lieutenant Cai Qi",
+          "brief": "Chinese leader Xi Jinping is preparing to extend his rule and restructure the Communist Party's senior leadership, with longtime ally Cai Qi playing a key role in this transition. The appointment signals Xi's continued consolidation of power within China's political hierarchy. This succession planning reflects Xi's strategy to ensure loyalists occupy key positions in the party elite.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/05/world/asia/china-xi-leadership-cai-qi.html",
+          "published": "Sun, 05 Jul 2026 04:01:07 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China Releases Detained Pastor Following Trump-Xi Diplomatic Engagement",
+          "brief": "China released Pastor Ezra Jin Mingri, who had been detained during a religious crackdown, approximately two months after President Trump raised the case with Xi Jinping during a Beijing visit. The release suggests potential diplomatic leverage through high-level engagement on human rights issues. This indicates evolving U.S.-China bilateral dynamics on religious freedom and detainee cases.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/05/world/asia/ezra-jin-mingri-china-christian-xi-trump.html",
+          "published": "Sun, 05 Jul 2026 08:40:19 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China, US explore nuclear stability through mutual vulnerability recognition",
+          "brief": "The Diplomat reports that establishing constructive strategic stability between China and the United States requires both nations to acknowledge their mutual nuclear vulnerability. This approach suggests potential diplomatic engagement on nuclear deterrence frameworks to reduce miscalculation risks. Such mutual recognition could form the foundation for broader strategic stability mechanisms between the competing powers.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/forging-china-us-constructive-strategic-stability-starts-in-the-nuclear-realm/",
+          "published": "Thu, 02 Jul 2026 22:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China uses environmental surveys to strengthen disputed territory claims",
+          "brief": "China is conducting scientific research operations in disputed waters, which analysts characterize as a strategy to normalize Beijing's presence and reinforce territorial claims in the region. This approach represents a shift toward using environmental and scientific initiatives as tools for asserting sovereignty over contested areas. The tactic demonstrates China's multi-faceted approach to territorial disputes beyond traditional military or diplomatic channels.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US business leaders participate in Trump's Beijing diplomatic visit",
+          "brief": "Citigroup CEO Jane Fraser joined 17 other US business leaders invited by President Trump during his May 13-15 visit to Beijing, suggesting renewed engagement between American corporations and Chinese leadership. Fraser's optimistic outlook following the trip indicates potential progress in US-China business relations despite broader geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3359326/why-citigroup-ceo-jane-fraser-left-us-china-summit-feeling-optimistic?utm_source=rss_feed",
+          "published": "Sat, 04 Jul 2026 03:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China drops to fifth in global financial competitiveness ranking",
+          "brief": "China's ranking in global financial competitiveness declined one position to fifth place in 2026, according to a report by the Chinese Academy of Social Sciences, trailing the United States, Japan, the United Kingdom, and Germany. The downgrade by a state-affiliated think tank is notable given Beijing's stated commitment to establishing China as a financial superpower. This deterioration suggests potential structural challenges in China's financial sector competitiveness despite leadership ambitions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3359418/why-has-china-lowered-its-own-ranking-global-financial-competitiveness?utm_source=rss_feed",
+          "published": "Sun, 05 Jul 2026 06:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong wealth management assets reach record $5.38 trillion",
+          "brief": "Hong Kong's managed assets surged 20% year-over-year to US$5.38 trillion in 2025, driven by renewed global investor appetite for Chinese assets. This record level reinforces Hong Kong's position as a leading international wealth management hub, surpassing Switzerland in competitiveness and indicating investor confidence in China's financial markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3359181/hong-kong-assets-hit-record-us538-trillion-renewed-china-appetite-sfc?utm_source=rss_feed",
+          "published": "Thu, 02 Jul 2026 09:29:58 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Bahrain expands Hong Kong presence to attract mainland Chinese capital",
+          "brief": "Bahrain is strengthening its financial footprint in Hong Kong to access mainland Chinese investment capital, with major Bahraini investors already establishing positions and the kingdom's investment agency promoting financial deregulation. This strategic shift appears motivated by geopolitical tensions in the Middle East and represents Bahrain's effort to diversify its investor base by tapping into China's capital markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3358707/bahrain-doubles-down-hong-kong-woo-mainland-china-capital-amid-middle-east-tensions?utm_source=rss_feed",
+          "published": "Mon, 29 Jun 2026 06:01:03 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong warns of AI bubble risk and quantum computing threats",
+          "brief": "Hong Kong's monetary authority chief Eddie Yue has warned of emerging financial risks from an artificial intelligence sector bubble and quantum computers capable of breaching encrypted financial systems. The HKMA plans to prioritize yuan internationalization efforts in coming years. These warnings reflect growing regulatory concerns about technological disruptions to financial stability and China's currency objectives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359457/hong-kong-must-brace-ai-bubble-risk-and-quantum-computer-threat-hkma-chief?utm_source=rss_feed",
+          "published": "Sun, 05 Jul 2026 06:35:45 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Uyghur activist challenges death sentences in Bangkok bombing trial",
+          "brief": "Rebiya Kadeer has publicly questioned the legal proceedings and evidentiary standards in Thailand's prosecution of individuals convicted in connection with the 2015 Erawan Shrine bombing. Her scrutiny of the trial process highlights ongoing concerns about judicial transparency in the case and reflects broader tensions surrounding Uyghur representation in regional security matters. This statement carries implications for China-Thailand relations and the treatment of Uyghur issues in Southeast Asian diplomacy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
+          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Czech Government Moderates Taiwan Rhetoric While Maintaining Substantive Ties",
+          "brief": "The Czech Republic's new government has adopted a more cautious public tone regarding Taiwan, though practical aspects of the bilateral relationship remain largely unchanged. This rhetorical shift reflects evolving political dynamics in Central Europe while preserving underlying diplomatic and economic engagement. The approach suggests Prague is balancing domestic political considerations with the need to maintain functional ties with Taiwan.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/czech-taiwan-ties-are-cooling-in-rhetoric-not-reality/",
+          "published": "Fri, 03 Jul 2026 02:16:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "North Korea's Border Cities Show Increased Solar Energy Development",
+          "brief": "Satellite imagery indicates North Korea is experiencing a renewable energy expansion in border cities like Sinuiju, which previously suffered from chronic power shortages. This development suggests efforts to address longstanding energy deficits through solar infrastructure. The energy improvements in border regions may have implications for cross-border economic activity and regional stability on the China-North Korea frontier.",
+          "category": "economy",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/27/north-korea-solar-plant-boom/",
+          "published": "Sat, 27 Jun 2026 01:59:54 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 18,
+        "high_priority": 3,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 8,
+          "economy": 7
+        },
+        "updated_at": "2026-07-05T15:01:56.200973Z"
+      }
+    },
+    {
       "date": "2026-07-04",
       "articles": [
         {
