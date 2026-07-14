@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-07-13",
+      "articles": [
+        {
+          "headline": "China's South China Sea buildup could complicate Taiwan conflict response",
+          "brief": "Security experts assess that China's maritime infrastructure development in the South China Sea is strategically linked to potential military action against Taiwan, potentially designed to distract or constrain Taiwan's regional allies. However, analysts note that such a scenario would be unlikely to fully materialize during actual conflict. The assessment underscores China's multifaceted approach to regional dominance and the interconnected nature of security challenges in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
+          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan's Military Preparedness Gaps Highlighted by Ukraine Conflict",
+          "brief": "Analysis suggests Taiwan faces significant vulnerabilities in defense infrastructure beyond drone technology, drawing lessons from Ukraine's experience in modern conflict. The assessment indicates Taiwan's readiness depends on comprehensive military modernization rather than single-technology solutions. This has implications for regional security dynamics and defense spending priorities in the Indo-Pacific.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
+          "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Pentagon designates major Chinese tech firms as military companies",
+          "brief": "The U.S. Department of Defense has added prominent Chinese companies including Tencent, DJI, Unitree, and Alibaba to its official list of Chinese Military Companies. This designation has significant implications for U.S.-China relations and may trigger restrictions on these firms' access to American technology and investment. The move reflects escalating U.S. scrutiny of Chinese private sector entities deemed to have military connections or applications.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/what-the-pentagons-cmc-list-means-for-china-us-relations/",
+          "published": "Sat, 11 Jul 2026 02:05:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducts Pacific missile test amid regional military activities",
+          "brief": "China conducted a missile test in the Pacific region that coincided with Australia and Fiji signing a new defense pact and allied military exercises across the region. Analysts assess the test as a messaging effort directed at U.S. allies, reflecting tensions over military cooperation and security arrangements in the Indo-Pacific. The timing suggests China is responding to or attempting to counter strengthening defense partnerships among regional U.S.-aligned nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan deploys robodogs for unmanned South China Sea monitoring",
+          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea, marking a strategic shift toward unmanned military capabilities in its competition with China. Both Taipei and Beijing are adopting autonomous technology for regional surveillance operations. This development reflects Taiwan's effort to enhance operational efficiency and reduce personnel exposure in disputed maritime territories.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea upgrades ports to support larger naval destroyers",
+          "brief": "Satellite imagery indicates North Korea is enhancing shipyard facilities as part of its 5-year naval modernization plan, according to expert analysis. The port upgrades suggest capability to construct and deploy larger destroyer-class vessels, potentially altering regional maritime balance of power in East Asia. This development reflects Pyongyang's continued investment in naval force modernization despite international sanctions.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China uses environmental surveys to normalize presence in disputed waters",
+          "brief": "According to analysts, China is conducting environmental research in contested maritime territories as a strategy to establish and normalize its presence in disputed areas. The scientific surveys serve a dual purpose of appearing legitimate while advancing Beijing's territorial claims through increased activity and presence in these regions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Japan Establishes New Intelligence Agency With Western Support",
+          "brief": "Prime Minister Sanae Takaichi is establishing a new intelligence agency with assistance from Western partners to address security threats from Russia and China, marking a departure from post-World War II restrictions on Japanese security capabilities. This institutional restructuring reflects Tokyo's strategic shift toward enhanced autonomous intelligence gathering and military preparedness in response to regional threats.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
+          "published": "Mon, 13 Jul 2026 04:37:31 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Global investors surge into Chinese hard tech firms amid record capital inflow",
+          "brief": "International capital has poured into China's advanced manufacturing and technology sector at unprecedented levels, with northbound Stock Connect holdings reaching an all-time high of 3.13 trillion yuan ($461.65 billion) by end of June. This record foreign investment reflects growing confidence in China's hard technology champions and signals a significant shift in global capital allocation toward Chinese innovation sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360310/chinese-hard-tech-giants-see-value-surge-first-half-global-investors-pour-capital?utm_source=rss_feed",
+          "published": "Mon, 13 Jul 2026 03:17:17 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Pursues Expanded Global Role for Yuan Currency",
+          "brief": "China is advancing its efforts to increase the yuan's international usage and establish it as a global reserve currency alternative. This initiative reflects Beijing's broader strategy to reduce reliance on dollar-denominated transactions and enhance China's economic influence worldwide. Successfully internationalizing the yuan would have significant implications for global financial markets and geopolitical balance.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3359916/yuan-global-ambitions?utm_source=rss_feed",
+          "published": "Thu, 09 Jul 2026 02:41:53 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Communist Party Warns Against AI Investment Speculation",
+          "brief": "China's official Communist Party theoretical journal Qiushi has published multiple commentaries advocating for \"patient capital\" approaches to investment, signaling concerns about speculative excess in the artificial intelligence sector. The messaging reflects Beijing's intent to channel investment toward long-term innovation while maintaining financial stability amid an AI investment boom. This shift suggests potential regulatory measures may follow to temper excessive speculation and ensure sustainable technology development.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3360127/top-chinese-political-journal-calls-patient-capital-amid-ai-investment-frenzy?utm_source=rss_feed",
+          "published": "Fri, 10 Jul 2026 11:30:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Global investors increasingly view China as portfolio diversification asset",
+          "brief": "BlackRock's global chief investment strategist states that Chinese assets are gaining appeal among international investors as a diversification tool amid rising inflation and market volatility. The shift reflects growing recognition of China's exposure to different economic drivers beyond traditional growth narratives. This repositioning may increase capital inflows into Chinese markets as institutional investors rebalance their portfolios.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360071/chinas-appeal-portfolio-diversifier-grows-blackrock-strategist-says?utm_source=rss_feed",
+          "published": "Fri, 10 Jul 2026 06:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Futu Holdings expects mainland China brokerage decline amid regulatory pressure",
+          "brief": "Futu Holdings, a Nasdaq-listed Chinese broker recently penalized by China's securities regulator, projects gradual contraction of its mainland business while maintaining Hong Kong operations. Mainland Chinese-funded accounts comprised only 13 percent of total accounts and 17 percent of client assets as of March 2026, signaling potential capital outflows from China's equity market. This reflects ongoing regulatory constraints on Chinese brokerages and investors' preference for offshore financial platforms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
+          "published": "Mon, 13 Jul 2026 11:00:23 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong expands autonomous vehicle testing with Baidu robotaxi trials",
+          "brief": "Hong Kong authorities are expanding roads available for autonomous vehicle testing as Chinese tech company Baidu advances its Apollo Go robotaxi platform toward fully remote-controlled operations in the city. Baidu demonstrated its sixth-generation autonomous vehicle on Lantau Island, marking progress in commercializing driverless technology. This expansion reflects China's strategic push to develop and validate autonomous vehicle technology through Hong Kong's regulatory environment.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360345/hong-kong-ramps-autonomous-vehicle-tests-baidu-expands-trials-city?utm_source=rss_feed",
+          "published": "Mon, 13 Jul 2026 07:11:03 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong IPO market cools as small-cap listings underperform",
+          "brief": "Hong Kong's IPO market has weakened, with five of thirteen companies listing this week closing below their issue prices, including Apple supplier Luxshare which dropped 9 percent. The shift reflects investor preference for high-profile mega-deals like Zhipu AI over smaller company offerings, creating a liquidity squeeze for non-mega-cap issuers. This market bifurcation may impact smaller firms' access to capital and signals a more selective investment environment in Hong Kong's equity markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3359991/small-cap-ipos-struggle-hong-kong-amid-lack-ai-megadeals?utm_source=rss_feed",
+          "published": "Thu, 09 Jul 2026 09:22:37 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong Exchange Attracts Increased Foreign Company Listings",
+          "brief": "The Hong Kong stock exchange is successfully attracting growing numbers of foreign companies from Asia and North America seeking international capital, including Kazakhstan's railway operator which filed for listing in June. This trend demonstrates Hong Kong's strengthening position as a global fundraising hub. The development has implications for China's financial markets influence and Hong Kong's competitive standing relative to other international exchanges.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3360049/hong-kong-exchange-marks-progress-luring-more-listings-abroad?utm_source=rss_feed",
+          "published": "Fri, 10 Jul 2026 02:30:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 16,
+        "high_priority": 3,
+        "by_category": {
+          "foreign_relations": 5,
+          "military": 4,
+          "economy": 7
+        },
+        "updated_at": "2026-07-13T12:26:33.285046Z"
+      }
+    },
+    {
       "date": "2026-07-12",
       "articles": [
         {
