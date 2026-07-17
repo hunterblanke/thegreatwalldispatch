@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-07-16",
+      "articles": [
+        {
+          "headline": "Global Opinion Survey Shows Increasing Preference for China",
+          "brief": "According to a Pew Research Center annual survey, more countries now view China favorably compared to the United States. This shift in global sentiment reflects changing perceptions of the two powers' international standing. The trend carries significant implications for U.S. soft power and international influence, particularly in contested regions.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/16/world/asia/pew-opinion-survey-china-united-states.html",
+          "published": "Thu, 16 Jul 2026 10:43:34 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China's Expanding Influence Complicates Cuba-US Relations",
+          "brief": "China is increasingly a factor in Cuba-US tensions, with Beijing's growing strategic presence in the Western Hemisphere affecting bilateral dynamics. This development raises concerns about geopolitical competition in regions traditionally within the US sphere of influence. The intersection of Chinese interests with Cuba-US relations represents a significant shift in hemispheric power dynamics.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/the-china-factor-in-cuba-us-tensions/",
+          "published": "Wed, 15 Jul 2026 22:44:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Taiwan's Defense Strategy Overlooks Broader Ukraine Conflict Lessons",
+          "brief": "An analysis suggests Taiwan's military focus on drone technology may miss critical operational lessons from Ukraine's experience, where comprehensive defensive infrastructure proved essential. The article implies Taiwan's defense preparations require broader strategic considerations beyond specific weapons systems to effectively counter potential military threats.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
+          "published": "Wed, 08 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief, targets Japan alliance strategy",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts assessing this as an attempt to delegitimize Manila's South China Sea territorial claims by invoking historical grievances involving Japan. The move highlights Beijing's strategy of leveraging regional tensions and historical narratives to undermine the emerging Japan-Philippines security partnership and complicate U.S.-aligned coalition building in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea court ruling",
+          "brief": "The Philippines marked the 10th anniversary of a significant international court ruling on South China Sea disputes, though China continues to reject the decision's legitimacy. The ruling remains a focal point of regional tension, with ongoing disagreement among stakeholders on dispute resolution mechanisms. This impasse reflects the persistent challenge to establishing international legal frameworks in contested maritime territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trade tensions between China and Europe appear structurally unavoidable",
+          "brief": "Analysis suggests fundamental economic and policy differences between China and Europe make a trade conflict increasingly likely in the near term. The divergence reflects competing interests in technology, manufacturing, and market access that current diplomatic channels may struggle to resolve. This development carries significant implications for global supply chains and multilateral trade relationships.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe",
+          "published": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China's Economic Policies Create Tensions With Western Trade Partners",
+          "brief": "China is pursuing economic strategies that conflict with Western interests, representing a strategic shift that challenges the existing international order that facilitated its economic growth. This approach signals Beijing's willingness to accept increased tensions with developed economies, with potential implications for global trade relationships and supply chains. The strategy reflects China's confidence in its economic position but carries significant risks of escalating economic competition and potential retaliatory measures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
+          "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China uses scientific research to normalize presence in disputed waters",
+          "brief": "According to analysts, China is conducting environmental surveys in contested maritime areas as a means to establish and normalize its presence there, rather than purely for scientific purposes. This strategy represents an indirect approach to bolstering territorial claims in disputed waters. The tactic demonstrates China's use of civilian research activities as a tool to advance geopolitical objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Global confidence in China's Xi surpasses US leadership, Pew survey finds",
+          "brief": "A Pew Research Center survey indicates that international public confidence in China's Xi Jinping now exceeds confidence in US leadership under Donald Trump. This shift in global perception reflects changing attitudes toward US and Chinese influence on the world stage. The trend has potential implications for US soft power and international alignment in strategic competitions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 17:02:41 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong police arrest five in independent bookshop raids",
+          "brief": "Hong Kong authorities arrested five individuals suspected of selling books deemed 'seditious' that allegedly incited hatred against government officials. The raids on independent bookshops represent continued enforcement of sedition-related charges under Hong Kong's security framework. This action signals ongoing restrictions on media freedom and political expression in Hong Kong.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 16:51:07 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Pursues Broader Global Yuan Access Amid Currency Appreciation",
+          "brief": "China's central bank has announced plans to introduce additional measures facilitating global investor access to yuan-denominated assets, citing strong yuan appreciation and increased panda bond demand as evidence of growing international confidence in the currency. This initiative reflects Beijing's strategic effort to internationalize the yuan and expand its role in global financial markets during a period of economic volatility.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3360693/china-eyes-broader-global-access-yuan-assets-panda-bond-demand-surges?utm_source=rss_feed",
+          "published": "Wed, 15 Jul 2026 12:01:48 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Global investors drive record capital inflow into Chinese tech sector",
+          "brief": "International capital has surged into China's advanced manufacturing and technology companies, pushing northbound holdings under the Stock Connect scheme to a record 3.13 trillion yuan ($461.65 billion) by mid-2024. This unprecedented investment reflects growing confidence in China's hard tech champions among global investors seeking exposure to the sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360310/chinese-hard-tech-giants-see-value-surge-first-half-global-investors-pour-capital?utm_source=rss_feed",
+          "published": "Mon, 13 Jul 2026 03:17:17 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Europe Struggles to Reduce Dependence on US and Chinese Technology",
+          "brief": "France and Germany are attempting to decrease reliance on American and Chinese technology in critical sectors such as artificial intelligence, but face significant implementation challenges. European efforts to establish technological autonomy reflect broader concerns about strategic vulnerability and supply chain dependencies on major powers. The difficulty in achieving this transition underscores Europe's technological constraints and economic interdependencies with both the US and China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+          "published": "Thu, 16 Jul 2026 08:20:56 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Hong Kong officials enforce national security book restrictions",
+          "brief": "Hong Kong's security chief warned booksellers they are responsible for ensuring publications comply with national security laws, following police raids on independent bookstores and five arrests for sedition. The government declined to publish a banned books list, arguing that doing so would enable circumvention of the law. The statement signals intensified enforcement of content restrictions under Hong Kong's national security legislation.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360811/booksellers-must-ensure-titles-dont-violate-national-security-laws-chris-tang?utm_source=rss_feed",
+          "published": "Thu, 16 Jul 2026 09:57:28 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Former World Bank Official Warns of US Market Concentration Risk",
+          "brief": "A former World Bank vice-president has warned of excessive capital concentration in US technology equities, advocating for global market diversification to prevent a valuation correction. The warning, made at a Hong Kong event, highlights concerns about financial stability risks stemming from overreliance on concentrated US markets. This reflects growing international focus on reducing exposure to potential corrections in highly valued tech sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360789/ex-world-bank-official-warns-need-diversify-away-us-markets-people-will-suffer?utm_source=rss_feed",
+          "published": "Thu, 16 Jul 2026 08:01:15 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Mainland Chinese funds increase Hong Kong biotech investments amid licensing surge",
+          "brief": "Mainland Chinese institutional fund managers, including E Fund Management, have significantly increased stakes in Hong Kong-listed biotechnology companies, capitalizing on attractive valuations and a surge in cross-border licensing deals. This investment trend reflects growing confidence in Hong Kong's biotech sector and deepening financial integration between mainland and Hong Kong markets. The movement suggests potential opportunities for biotech sector consolidation and strengthened commercial ties across the Greater Bay Area.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3360741/mainland-china-funds-increase-stakes-hong-kong-biotech-amid-surge-licensing-deals?utm_source=rss_feed",
+          "published": "Thu, 16 Jul 2026 03:03:20 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese dissident escapes to Canada via South Korea by boat",
+          "brief": "Dong Guangping, a Chinese dissident, successfully fled China by boat to South Korea and has since resettled in Canada. His escape highlights ongoing challenges to regime control and the willingness of individuals to undertake dangerous maritime routes to reach freedom. The incident underscores potential security vulnerabilities in China's border enforcement and growing emigration pressure from political opposition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 22:04:12 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese Foreign Minister Discusses PRC Foreign Policy and US Relations",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China bilateral relations. The forum provided a platform for dialogue on strategic issues between the two major powers. No specific policy announcements or developments were detailed in the available summary.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 8,
+        "articles_total": 18,
+        "high_priority": 2,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 10,
+          "economy": 7
+        },
+        "updated_at": "2026-07-16T11:27:56.658969Z"
+      }
+    },
+    {
       "date": "2026-07-15",
       "articles": [
         {
