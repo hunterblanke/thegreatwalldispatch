@@ -1,6 +1,250 @@
 {
   "entries": [
     {
+      "date": "2026-07-17",
+      "articles": [
+        {
+          "headline": "Tibetan activist dies after self-immolation at UN headquarters",
+          "brief": "A Tibetan activist died after setting himself on fire outside UN headquarters, occurring one day after China implemented a new 'ethnic unity law.' The incident highlights ongoing tensions between Beijing's ethnic assimilation policies and Tibetan independence advocates, with potential implications for China's international reputation and UN diplomatic relations.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
+          "published": "Fri, 03 Jul 2026 15:10:50 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty as Global Governance Model",
+          "brief": "China is promoting 'Internet sovereignty' as a foundational principle for global Internet governance, representing a significant shift in how Beijing seeks to shape international digital policy. This initiative has major implications for cybersecurity, information control, and the future structure of the global Internet, potentially fragmenting the current international framework.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Chinese private companies enhance Beijing's influence in developing nations",
+          "brief": "Private Chinese companies are serving as instruments of Beijing's soft power strategy in developing countries, effectively advancing Chinese interests abroad. This approach allows the government to extend its influence while maintaining plausible distance from official policy, presenting potential economic and geopolitical implications for developing nation relationships.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-winning-friends-and-influencing-people",
+          "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Restricts J-35 Fighter Jet Sales to Pakistan",
+          "brief": "China has decided against selling its J-35 fifth-generation fighter jets to Pakistan at this time, citing implications that would exceed those of previous Chinese arms sales. The decision reflects strategic considerations regarding technology transfer, regional security dynamics, and potential international ramifications. This restraint suggests China is carefully managing the proliferation of advanced military capabilities despite its close partnership with Pakistan.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/why-china-will-not-sell-5th-generation-j-35-fighter-jets-to-pakistan-yet/",
+          "published": "Thu, 16 Jul 2026 22:38:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducts Pacific missile test amid regional military alignment",
+          "brief": "China conducted a missile test in the Pacific coinciding with Australia and Fiji signing a new defense pact and allied military exercises in the region. Analysts assess the test as a demonstration of military capability intended to signal displeasure with increasing U.S.-aligned security cooperation among regional partners. The timing suggests Beijing is using military posturing to counter what it views as efforts to encircle or constrain its regional influence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan deploys robodogs for unmanned South China Sea monitoring",
+          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned military capabilities in its rivalry with China. Beijing is similarly adopting autonomous technologies for regional surveillance. This development reflects both sides' efforts to enhance monitoring capabilities in disputed waters while reducing personnel risk.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Environmental Research to Advance Territorial Claims",
+          "brief": "China is conducting environmental surveys in disputed waters, which analysts characterize as efforts to normalize Beijing's presence and bolster territorial claims rather than purely scientific endeavors. This strategy represents a non-military approach to consolidating control over contested regions. The tactic reflects China's broader pattern of using civilian activities to establish de facto sovereignty in disputed areas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Upgrading Ports to Support Larger Naval Vessels",
+          "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades as part of its 5-year naval modernization plan, according to expert analysis. The infrastructure improvements suggest Pyongyang intends to deploy larger destroyer-class vessels, potentially expanding its maritime capabilities in regional waters.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts assessing that Beijing is leveraging historical grievances against Japan to undermine Manila's territorial claims in the South China Sea. The move reflects China's use of diplomatic pressure and historical narratives as instruments to isolate Philippine decision-makers and weaken regional alliance formations. This escalation indicates Beijing's strategy to drive wedges between allied nations through selective targeting of senior officials.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines Protests Chinese State Media AI Video Depicting Nation as Monkey",
+          "brief": "The Philippine Department of Foreign Affairs issued a formal protest demanding removal of an AI-generated video by Chinese state media that depicted the Philippines in dehumanizing terms. The incident reflects escalating tensions in China-Philippines relations and demonstrates the use of sophisticated media tools in bilateral disputes. This development signals deteriorating diplomatic civility between the two nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/philippines-issues-formal-protest-to-china-over-dehumanizing-state-media-video/",
+          "published": "Fri, 17 Jul 2026 14:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Philippines Protests AI Video by Chinese State Media Over South China Sea",
+          "brief": "The Philippines lodged a diplomatic complaint with China after Chinese state media posted an AI-generated video depicting the Philippines as a monkey in relation to South China Sea territorial disputes. The incident reflects escalating information warfare tactics in regional territorial tensions. The use of AI-generated propaganda by state actors signals a new dimension in strategic communications during ongoing maritime disputes.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/17/world/asia/philippines-ai-video-china-racist.html",
+          "published": "Fri, 17 Jul 2026 08:31:06 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese police in Urumqi arrested a Uyghur mother and two sisters, with authorities citing support for terrorism as the charge according to their eldest sister who was receiving the goods abroad. The arrests reflect ongoing tensions between China's security apparatus and Uyghur communities, with goods transfers to Turkey potentially viewed as suspicious under current counterterrorism frameworks. This incident highlights the stringent monitoring of cross-border activities and communications involving Uyghurs.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trump claims China interfered in 2020 US election",
+          "brief": "Former President Trump alleged that China meddled in the 2020 US presidential election and raised concerns about voting security before the midterm elections. China denied the claims as fabricated, while US Democrats criticized the allegations as an attempt to undermine election integrity. The dispute reflects escalating US-China tensions and domestic political divisions over election security.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 11:06:39 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Links Yuan Payment Networks with UAE to Reduce Western Financial Dependence",
+          "brief": "China has established a cross-border QR code payment link between its retail payment systems and the United Arab Emirates, enabling users to transact in either currency using domestic mobile applications. The agreement between Bank of China, UnionPay International, and UAE's Al Etihad Payments represents Beijing's continued effort to internationalize the yuan and reduce reliance on Western-dominated financial infrastructure. This development signals accelerating financial de-dollarization efforts among major trading partners.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3360913/china-and-uae-cross-border-qr-payment-link-boost-global-yuan?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 07:00:54 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Expands Global Yuan Access Amid Rising Asset Demand",
+          "brief": "Chinese central bank officials announced plans to introduce additional measures facilitating global investor access to yuan-denominated assets, citing strong currency performance and increased panda bond demand as evidence of growing international confidence in the Chinese currency. The initiative reflects Beijing's strategic effort to internationalize the yuan and strengthen its position in global financial markets amid volatile economic conditions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3360693/china-eyes-broader-global-access-yuan-assets-panda-bond-demand-surges?utm_source=rss_feed",
+          "published": "Wed, 15 Jul 2026 12:01:48 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Foreign Minister Discusses US-China Relations at CSIS Forum",
+          "brief": "Wang Yi, China's Minister of Foreign Affairs, participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and US-China bilateral relations. The forum provided a platform for high-level dialogue on strategic issues between the two nations during a period of significant geopolitical tension.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Beijing monitors Japan, Philippines military integration in South China Sea",
+          "brief": "Chinese officials are closely examining the military capabilities of Japan and the Philippines, reflecting Beijing's concerns about deepening military coordination in the South China Sea region. Despite this focus, analysts assess that the United States remains China's primary strategic rival. The increased scrutiny suggests China views regional military partnerships as a potential constraint on its strategic interests in disputed waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
+          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong approves co-location arrangement at Huanggang border crossing",
+          "brief": "Hong Kong's legislature passed the Huanggang Port Hong Kong Port Area Bill, establishing legal framework for a co-location arrangement at the upgraded border crossing with mainland China. The rapid passage under accelerated procedures reflects Hong Kong's streamlined legislative process following 2021 governance reforms. This arrangement facilitates closer integration of cross-border operations between Hong Kong and Guangdong province.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3360923/hong-kong-passes-bill-huanggang-co-location-arrangement?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 07:43:47 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Philippines protests racist AI video by Chinese state media",
+          "brief": "China Daily published an AI-generated video depicting a monkey in Philippine clothing singing claims to the South China Sea, which the Philippine government condemned as racist. The incident reflects escalating tensions between China and the Philippines over disputed maritime territories in the South China Sea. The use of state media to disseminate such content signals continued Chinese rhetorical aggression in territorial disputes.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 02:37:45 GMT",
+          "raw_source": "BBC News"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 8,
+        "articles_total": 19,
+        "high_priority": 2,
+        "by_category": {
+          "economy": 3,
+          "military": 3,
+          "foreign_relations": 13
+        },
+        "updated_at": "2026-07-17T11:15:24.822758Z"
+      }
+    },
+    {
       "date": "2026-07-16",
       "articles": [
         {
