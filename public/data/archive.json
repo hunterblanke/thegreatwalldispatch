@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-07-18",
+      "articles": [
+        {
+          "headline": "Taiwan reassesses U.S. security strategy amid American political shifts",
+          "brief": "An analysis suggests Taiwan may be relying on outdated assumptions about American security commitments in light of generational changes and transactional foreign policy approaches in the U.S. The article recommends Taiwan adopt strategic lessons from Singapore's model of reducing dependency on external security guarantees. This reflects growing concerns in Taiwan about the reliability of U.S. security partnerships under changing American political conditions.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
+          "published": "Fri, 17 Jul 2026 23:34:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Papua New Guinea Closes Taiwan Economic Office, Narrows Diplomatic Space",
+          "brief": "Papua New Guinea has closed Taiwan's economic office, further reducing Taiwan's diplomatic presence in the Pacific region along a strategically important energy corridor. This action reflects China's expanding influence in the Pacific and represents a significant loss of Taiwan's diplomatic footprint in a region critical to regional stability and economic interests. The closure indicates Taiwan's continued isolation in the Pacific despite its economic and security partnerships.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/papua-new-guinea-just-closed-taiwans-economic-office/",
+          "published": "Fri, 17 Jul 2026 23:15:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China, North Korea Exchange High-Level Diplomatic Visits",
+          "brief": "China and North Korea have conducted a series of high-level reciprocal visits, reflecting Beijing's efforts to maintain influence over Pyongyang as North Korea strengthens its relationship with Moscow. These exchanges underscore China's strategic interest in preventing North Korea from becoming overly dependent on Russia, particularly amid broader geopolitical realignment in Northeast Asia. The diplomatic activity suggests intensifying great power competition for influence on the Korean Peninsula.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/china-north-korea-exchange-high-level-visits/",
+          "published": "Fri, 17 Jul 2026 21:29:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea court ruling",
+          "brief": "The Philippines marked the 10th anniversary of a landmark international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The unresolved disagreement underscores persistent tensions in the region and the absence of consensus on dispute resolution mechanisms. This impasse reflects ongoing challenges to the international legal framework and regional stability in one of the world's most strategically important waterways.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-Europe Trade Tensions Escalate Toward Inevitable Conflict",
+          "brief": "Analysis indicates structural economic differences between China and Europe make trade conflict increasingly difficult to avoid. The tensions reflect diverging industrial policies, market access disputes, and competitive pressures that existing diplomatic frameworks appear unable to resolve. An escalating trade conflict would have significant implications for global supply chains and economic stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe",
+          "published": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China pursues policies undermining Western-led economic system",
+          "brief": "China is adopting strategic positions that challenge the Western-dominated international economic order that has facilitated its own economic development and rise. This represents a significant shift in Beijing's approach to global economic integration, with potential consequences for trade relationships and international institutions. The move signals China's confidence in pursuing independent economic strategies despite reliance on Western markets and systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
+          "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Denies Election Interference Claims While Maintaining Strategic Restraint",
+          "brief": "Chinese officials rejected Trump's allegations of election meddling as baseless, but notably avoided escalating the dispute, suggesting Beijing's preference to maintain diplomatic stability. Analysts attribute China's measured response to efforts to preserve a fragile d\u00e9tente amid broader US-China tensions. The restrained posture indicates China may be prioritizing de-escalation over public confrontation on the matter.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+          "published": "Fri, 17 Jul 2026 09:56:14 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "EU's Security Classification of China May Undermine Trade Cooperation",
+          "brief": "The European Union is maintaining dual approaches toward China, attempting to sustain trade negotiations and practical cooperation while simultaneously adopting a new security-focused definition that characterizes China as a potential threat. This contradictory positioning risks complicating ongoing economic and diplomatic engagement. The tension between these competing narratives may impact the EU's ability to advance its strategic interests with Beijing.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/the-eus-contradictory-narratives-on-china/",
+          "published": "Fri, 17 Jul 2026 23:55:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Europe Maintains Strategic Leverage Over China, Window Closing",
+          "brief": "The article argues that European institutions retain diplomatic and economic influence over China but face diminishing opportunity to exercise this leverage effectively. The significance lies in the implication that Europe's negotiating position may weaken if action is not taken promptly, affecting future EU-China relations on trade, technology, and security matters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/europe-still-has-leverage-over-china/",
+          "published": "Fri, 17 Jul 2026 23:51:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China and UAE establish cross-border QR payment system",
+          "brief": "China has partnered with the UAE through state-owned Bank of China, UnionPay International, and Al Etihad Payments to enable cross-border mobile payments using QR codes in both countries' domestic apps. This initiative represents China's continued effort to internationalize the yuan and reduce reliance on Western-dominated financial infrastructure. The development facilitates direct payment flows between the two nations while supporting Beijing's broader strategy to establish alternative payment mechanisms outside traditional dollar-based systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3360913/china-and-uae-cross-border-qr-payment-link-boost-global-yuan?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 07:00:54 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China and US compete for nuclear reactor export dominance in Southeast Asia",
+          "brief": "China and the United States are increasingly competing for nuclear reactor export contracts in Southeast Asia, with these sales becoming a significant arena of strategic competition. Control over nuclear technology exports provides geopolitical leverage and economic benefits to the exporting power. This competition reflects broader efforts by both powers to expand their influence and technological reach in a strategically important region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/china-the-us-and-nuclear-energy-geopolitics-in-southeast-asia/",
+          "published": "Sat, 18 Jul 2026 01:09:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong police arrest five in independent bookshop raids",
+          "brief": "Hong Kong authorities arrested five individuals during raids on independent bookshops, alleging they sold books considered seditious and inciting hatred against authorities. The operation reflects continued enforcement of Hong Kong's national security framework and suppression of dissenting publications, signifying tightening restrictions on freedom of expression and printed media in the territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 16:51:07 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong police release five booksellers arrested on sedition charges",
+          "brief": "Five booksellers from independent Hong Kong bookshops were arrested on suspicion of sedition by national security police and subsequently released on bail pending investigation. The arrests signal continued enforcement of national security provisions in Hong Kong's publishing sector, with potential implications for press freedom and autonomous media operations in the territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360934/five-hong-kong-booksellers-arrested-alleged-sedition-released-bail?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 08:14:30 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China's Moonshot AI unveils Kimi K3 model to compete with US firms",
+          "brief": "Chinese AI company Moonshot has launched its new Kimi K3 artificial intelligence model, claiming it can compete with leading American AI systems from OpenAI and Anthropic. This development reflects China's continued investment in closing technological gaps with the United States in the critical AI sector, which has significant implications for global competitive dynamics in advanced technology markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 16:53:04 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese DRAM producer CXMT IPO receives record 212x retail oversubscription",
+          "brief": "ChangXin Memory Technologies' Shanghai IPO was oversubscribed 212 times by retail investors, with over 9.4 million accounts applying for shares, reflecting strong domestic investor confidence in China's domestic semiconductor manufacturing capability. This record demand underscores China's strategic push toward semiconductor self-sufficiency and signals robust investor appetite for homegrown memory chip producers competing in a sector critical to national technological independence.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 07:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong ETP market ranks fourth globally, driven by AI and semiconductor demand",
+          "brief": "Hong Kong's exchange-traded products market has achieved fourth-place global ranking following a decade of rapid growth, with continued expansion expected from investor appetite for artificial intelligence and semiconductor investments. This growth trajectory is strengthening Hong Kong's wealth management sector and positioning it as a significant financial hub for technology-focused investment products. The sustained demand for AI and chip-related ETPs suggests ongoing capital flows into these sectors through Hong Kong's markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3360867/ai-chip-boom-lifting-hong-kongs-etp-market-new-heights-hkex-director?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 03:00:41 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 16,
+        "high_priority": 2,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 9,
+          "economy": 6
+        },
+        "updated_at": "2026-07-18T10:56:15.464371Z"
+      }
+    },
+    {
       "date": "2026-07-17",
       "articles": [
         {
