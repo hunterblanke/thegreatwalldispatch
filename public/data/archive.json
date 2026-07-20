@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-07-19",
+      "articles": [
+        {
+          "headline": "Taiwan May Need to Reassess Strategic Reliance on U.S. Support",
+          "brief": "An analysis in The Diplomat suggests Taiwan's defense strategy may be based on outdated assumptions about American commitment, particularly given shifts in U.S. political priorities toward transactionalism. The article proposes Taiwan should adopt a more self-reliant approach similar to Singapore's model. This raises questions about the sustainability of Taiwan's current security posture amid evolving U.S.-China dynamics.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
+          "published": "Fri, 17 Jul 2026 23:34:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's property sector poses systemic risks to banking system stability",
+          "brief": "Chinese regulators took over Zhongbang Bank due to credit risks stemming from property sector exposure, following a similar precedent with Shengjing Bank during the Evergrande crisis. The article indicates a structural problem where deep interconnection between property developers and commercial lenders creates systemic financial vulnerabilities that require government intervention to manage.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/opinion/china-opinion/article/3360683/why-china-must-end-lucrative-marriage-between-property-and-banks?utm_source=rss_feed",
+          "published": "Sun, 19 Jul 2026 08:30:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Trade tensions between China and Europe appear increasingly unavoidable",
+          "brief": "Analysis indicates structural economic differences between China and Europe make a trade conflict likely in the near term. The escalating tensions could significantly disrupt bilateral commerce and broader global trade patterns. This development has implications for multinational supply chains and economic growth in both regions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe",
+          "published": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China's Strategic Actions Risk Global Economic System Stability",
+          "brief": "China is pursuing policies that challenge the Western-led international order that has facilitated its economic rise and integration into global markets. This strategy carries significant risks to the interconnected global economy from which China derives substantial benefits. The shift signals potential long-term disruption to trade relationships and institutional frameworks that underpin current economic arrangements.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
+          "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese Private Companies Enhance Beijing's Influence in Developing Nations",
+          "brief": "Chinese private enterprises are strengthening Beijing's diplomatic and economic position in developing countries through commercial activities and investment. This private sector engagement complements official state initiatives and expands China's soft power reach beyond traditional government channels. The trend indicates China's strategy of leveraging commercial networks to build relationships and influence in strategic markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-winning-friends-and-influencing-people",
+          "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China and North Korea Conduct High-Level Military Exchanges",
+          "brief": "China and North Korea have exchanged high-level visits as Beijing seeks to maintain its strategic influence over Pyongyang amid the latter's expanding military cooperation with Russia. The diplomatic engagement reflects China's effort to counter North Korea's deepening ties with Moscow and preserve its regional leverage. These exchanges underscore the triangular dynamics between Beijing, Pyongyang, and Moscow in Northeast Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/china-north-korea-exchange-high-level-visits/",
+          "published": "Fri, 17 Jul 2026 21:29:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China-Kyrgyzstan-Uzbekistan Railway Construction Advances After Two Decades",
+          "brief": "The long-planned China-Kyrgyzstan-Uzbekistan (CKU) Railway has entered construction phase after 20 years of discussion, with some obstacles overcome though challenges remain. The project represents significant infrastructure development connecting China to Central Asian markets and enhancing regional connectivity. Completion would strengthen China's economic and strategic position in Central Asia while facilitating trade across the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/progress-on-the-china-kyrgyzstan-uzbekistan-railway-some-challenges-remain/",
+          "published": "Fri, 17 Jul 2026 21:38:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducts Pacific missile test amid regional military activity",
+          "brief": "China conducted a missile test in the Pacific region that coincided with Australia and Fiji signing a new defense pact and ongoing allied military exercises in the area. Analysts assess the test as a deliberate messaging effort directed at U.S. allies regarding China's military capabilities and strategic presence in the region. The timing suggests an effort to counter-signal against strengthening security partnerships among regional democracies.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Beijing monitors Japan, Philippines military capabilities in South China Sea",
+          "brief": "Chinese experts are assessing the military capabilities of Japan and the Philippines, reflecting Beijing's concerns about potential military integration between these nations in the South China Sea region. Despite this focus, the United States remains China's primary strategic rival. The Chinese scrutiny suggests growing concern over coordinated defense arrangements that could challenge Beijing's regional interests.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
+          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan deploys robodogs for South China Sea military monitoring",
+          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea as part of a broader shift toward unmanned military capabilities. This development reflects Taiwan's strategic response to Chinese military modernization in the region. The deployment of such autonomous technology signals an emerging technological competition in military surveillance and autonomous systems between Taipei and Beijing.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Environmental Research to Assert Disputed Territory Claims",
+          "brief": "China is conducting environmental surveys in disputed waters, with analysts assessing these scientific activities as a mechanism to normalize Beijing's presence and strengthen territorial claims. This approach represents an indirect strategy to establish de facto control over contested areas while maintaining a civilian research cover. The tactic has implications for regional maritime disputes and the precedent it sets for using scientific activities as geopolitical tools.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Upgrading Ports to Support Larger Naval Vessels",
+          "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades aligned with its 5-year naval modernization plan, according to expert analysis. The infrastructure improvements suggest preparation for operating larger destroyer-class vessels, potentially expanding North Korea's maritime capabilities and regional military posture.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Expands Global Yuan Access Amid Rising Currency Demand",
+          "brief": "China's central bank announced plans to introduce additional measures facilitating global investor access to yuan-denominated assets, citing recent currency appreciation and surging panda bond demand as evidence of growing international confidence in the Chinese currency. This initiative reflects Beijing's strategic effort to internationalize the yuan and enhance its role in global financial markets despite ongoing economic volatility.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3360693/china-eyes-broader-global-access-yuan-assets-panda-bond-demand-surges?utm_source=rss_feed",
+          "published": "Wed, 15 Jul 2026 12:01:48 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "EU balances trade cooperation with new China security framework",
+          "brief": "The European Union is attempting to maintain commercial engagement with China while simultaneously adopting a more security-focused approach to Beijing. This dual-track strategy creates potential friction that could undermine ongoing trade negotiations and practical cooperation between the EU and China. The contradiction between economic interests and security concerns may significantly impact future EU-China relations and regional stability.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/the-eus-contradictory-narratives-on-china/",
+          "published": "Fri, 17 Jul 2026 23:55:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "European Union Retains Negotiating Advantages Against China",
+          "brief": "The article argues that Europe maintains significant leverage in its relationship with China, though this advantage may diminish over time. The analysis suggests Brussels should strategically employ this leverage in ongoing negotiations before geopolitical circumstances shift. The piece emphasizes the time-sensitive nature of Europe's current negotiating position.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/europe-still-has-leverage-over-china/",
+          "published": "Fri, 17 Jul 2026 23:51:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese gold producers capitalize on record prices from overseas acquisitions",
+          "brief": "Chinese mining companies have significantly expanded overseas gold operations through acquisitions across Africa and Latin America, positioning themselves to benefit from elevated global gold prices driven by central bank demand and investor safe-haven seeking. With gold prices reaching record highs and analysts projecting further increases to $4,500 per ounce, these strategic resource investments represent a substantial financial opportunity for Chinese producers amid global economic uncertainty.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3360924/how-chinas-resources-deals-have-literally-turned-gold-mine?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 08:00:21 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Global confidence in China's Xi exceeds US leadership, Pew survey finds",
+          "brief": "A Pew Research Center survey indicates growing international preference for Chinese leadership under Xi Jinping compared to US leadership. This shift in global perception reflects evolving geopolitical alignments and could influence strategic partnerships, diplomatic initiatives, and regional stability calculations. The trend suggests increasing soft power advantages for China in competition for global influence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 15 Jul 2026 17:02:41 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Philippines Protests Chinese State Media AI Video Depicting Nation as Monkey",
+          "brief": "The Philippines formally protested to China over an AI-generated video released by Chinese state media that depicted the Philippines as a monkey, demanding its immediate removal. The incident reflects escalating tensions in bilateral relations and demonstrates the use of dehumanizing propaganda in state-sponsored communications. This development underscores the strategic messaging competition and diplomatic friction between Beijing and Manila.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/philippines-issues-formal-protest-to-china-over-dehumanizing-state-media-video/",
+          "published": "Fri, 17 Jul 2026 14:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over regional disputes",
+          "brief": "China has imposed sanctions on Philippine Defense Secretary Gilberto Teodoro, with analysts indicating Beijing is leveraging historical grievances against Japan to undermine Manila's South China Sea territorial claims. The move reflects escalating tensions between China and the Philippines over maritime disputes and signals Beijing's use of diplomatic pressure tactics involving third parties. This development highlights the interconnected nature of regional security concerns and China's strategy of fragmenting allied responses to its territorial assertions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China criticizes UK steel industry nationalization decision",
+          "brief": "The UK government has moved to nationalize British Steel, citing the need to preserve critical national industrial capability. China has expressed opposition to this decision. The move reflects broader tensions over strategic industry control and supply chain security between Western nations and China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 16:44:22 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese DRAM producer CXMT IPO oversubscribed 212 times",
+          "brief": "ChangXin Memory Technologies' Shanghai IPO attracted over 9.4 million investor accounts with retail demand reaching 212 times the available shares, demonstrating strong domestic investor appetite for China's leading DRAM manufacturer. This oversubscription reflects confidence in China's semiconductor industry and domestic capital market strength during a period of strategic focus on technology self-sufficiency.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo?utm_source=rss_feed",
+          "published": "Fri, 17 Jul 2026 07:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 21,
+        "high_priority": 2,
+        "by_category": {
+          "economy": 9,
+          "military": 3,
+          "foreign_relations": 9
+        },
+        "updated_at": "2026-07-19T11:04:34.563841Z"
+      }
+    },
+    {
       "date": "2026-07-18",
       "articles": [
         {
