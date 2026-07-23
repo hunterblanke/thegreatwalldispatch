@@ -1,44 +1,116 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "metrics": {
-    "sources_scanned": 5,
-    "articles_total": 14,
-    "high_priority": 1,
+    "sources_scanned": 6,
+    "articles_total": 19,
+    "high_priority": 5,
     "by_category": {
-      "military": 3,
-      "foreign_relations": 5,
-      "economy": 6
+      "military": 5,
+      "foreign_relations": 10,
+      "economy": 4
     },
-    "updated_at": "2026-07-22T11:42:26.214226Z"
+    "updated_at": "2026-07-23T11:46:04.023793Z"
   },
   "articles": [
     {
-      "headline": "China Conducts Live-Fire Drills Near Okinotorishima",
-      "brief": "China conducted live-fire military exercises near Okinotorishima, demonstrating enhanced naval coordination with Russia and highlighting disputed interpretations of international maritime law. The drill reflects escalating military activities in contested waters and growing strategic alignment between Beijing and Moscow in the Indo-Pacific region.",
+      "headline": "Chinese Coast Guard confrontation with Philippine Navy vessel reported",
+      "brief": "Video evidence appears to show a Chinese Coast Guard member using a wooden baton to strike someone aboard a Philippine Navy vessel, according to Philippine Armed Forces accounts. The incident represents an escalation in physical confrontations between Chinese and Philippine maritime forces in contested waters. Such direct contact between coast guard and naval personnel increases risks of unintended escalation in an already tense region.",
       "category": "military",
+      "severity": "high",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/videos/c9w0l50wegzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 03:58:21 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "China conducts Pacific missile test amid U.S. allied military activities",
+      "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji signing a defense pact and concurrent allied military drills. Analysts assess the test as a messaging effort aimed at U.S. allies in the region. The incident reflects escalating military posturing amid increased security cooperation among Indo-Pacific nations.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+      "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Tibetan activist dies in self-immolation protest at UN",
+      "brief": "A Tibetan activist died after self-immolating outside UN headquarters, occurring one day after China's new ethnic unity law took effect. The incident highlights ongoing tensions regarding Tibet and ethnic policies, with the timing suggesting the act was a protest against the legislation. The death represents a significant symbolic challenge to China's governance narrative at an international venue.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
+      "published": "Fri, 03 Jul 2026 15:10:50 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Advances AI Governance Strategy to Shape International Norms",
+      "brief": "Beijing is intensifying efforts to influence international AI governance standards, positioning itself to advance both technological capabilities and its policy preferences globally. This strategy reflects China's dual objective of closing gaps in AI development while promoting governance models aligned with its political system. The initiative carries significant implications for the future structure of international AI regulation and global technology standards.",
+      "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/07/chinas-live-fire-drill-near-okinotorishima-tests-japans-maritime-nerves/",
-      "published": "Tue, 21 Jul 2026 22:57:00 +0900",
+      "original_link": "https://thediplomat.com/2026/07/keep-an-eye-on-chinas-ai-governance-offensive/",
+      "published": "Wed, 22 Jul 2026 20:43:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China uses environmental surveys to normalize disputed territory presence",
-      "brief": "China is conducting environmental research in disputed waters as part of a strategy to establish and normalize its presence in contested maritime areas, according to analysts. The scientific surveys serve a dual purpose of appearing legitimate while advancing territorial claims. This approach demonstrates Beijing's use of civilian research activities to support geopolitical objectives in strategically significant regions.",
+      "headline": "China pursuing policies risking Western economic relationship foundations",
+      "brief": "China is implementing policies that potentially undermine the Western-led economic system that has facilitated its own rise and integration into global markets. This strategic shift carries significant risk of economic friction and could destabilize the international trade relationships upon which Chinese growth has depended. The move suggests Beijing may be prioritizing geopolitical positioning over the maintenance of mutually beneficial economic ties.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
+      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "Philippines and China Exchange Protests Over South China Sea Incident",
+      "brief": "The Philippine and Chinese foreign ministers disputed responsibility for a clash at Second Thomas Shoal during ASEAN meetings in Manila. The incident highlights escalating tensions in the South China Sea and demonstrates the difficulty of managing maritime disputes through diplomatic channels. The disagreement underscores ongoing strategic competition between Beijing and Manila in contested waters.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/07/philippine-chinese-foreign-ministers-exchange-protests-over-south-china-sea-clash/",
+      "published": "Thu, 23 Jul 2026 09:51:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China Coast Guard conducts exercises in Japan's exclusive economic zone",
+      "brief": "China's Coast Guard has conducted exercises asserting jurisdiction within Japan's exclusive economic zone (EEZ), prompting Japan to develop a strategic response. The incident reflects ongoing maritime tensions in the region and China's increasingly assertive posture in disputed waters. This action signals China's willingness to challenge established international maritime boundaries and may escalate bilateral tensions.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/07/china-coast-guard-exercises-jurisdiction-in-japans-exclusive-economic-zone/",
+      "published": "Thu, 23 Jul 2026 08:18:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China sanctions Philippine defense chief over Japan security ties",
+      "brief": "China has imposed sanctions on the Philippine defense chief, with analysts noting Beijing is leveraging historical grievances against Japan to undermine Manila's South China Sea territorial claims. The action reflects China's strategy to isolate the Philippines diplomatically by attacking its security partnerships, particularly with Japan. This demonstrates Beijing's escalating use of political pressure alongside territorial disputes in the region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-      "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+      "published": "Tue, 14 Jul 2026 18:23:28 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Taiwan deploys robotic systems amid unmanned technology arms race",
-      "brief": "Taiwan and China are increasingly integrating autonomous technologies to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned systems in their military competition. This development reflects broader efforts by both parties to leverage advanced robotics for surveillance and operational capabilities in contested maritime regions. The proliferation of autonomous systems represents a significant escalation in cross-strait technological competition with potential implications for regional security dynamics.",
+      "headline": "Taiwan deploys robodogs for South China Sea military monitoring",
+      "brief": "Taiwan is deploying autonomous robotic systems to monitor remote outposts in the South China Sea as part of a strategic shift toward unmanned military capabilities. China is similarly integrating autonomous technology for similar surveillance purposes in the disputed region. This technological competition signals an escalation in unmanned systems deployment among regional rivals, with potential implications for military posture and surveillance capabilities in contested waters.",
       "category": "military",
       "severity": "medium",
       "sources_used": [
@@ -49,44 +121,44 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "North Korea Upgrading Ports to Accommodate Larger Naval Vessels",
-      "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades as part of its five-year naval modernization plan, with improvements designed to accommodate new, larger destroyer-class vessels. These infrastructure enhancements suggest Pyongyang is prioritizing naval capability expansion, which could alter regional maritime balance and complicate security dynamics in East Asia.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-      "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China-North Korea bridge nears opening after 12-year delay",
-      "brief": "Satellite imagery indicates the Sino-North Korean bridge is approaching completion approximately 12 years after its initial construction concluded. The bridge is expected to significantly increase bilateral trade capacity and strengthen economic ties between the two countries. The infrastructure project's delayed opening reflects broader challenges in cross-border development and logistics between China and North Korea.",
+      "headline": "Tibetan Self-Immolation Highlights Limited International Pressure on China",
+      "brief": "A Tibetan protester's self-immolation outside the United Nations was intended to elevate Tibet's status on the international agenda, but instead revealed the constraints Tibetan activists face in countering China's expanding global influence. The incident underscores the challenge of maintaining international focus on Tibet-related issues amid Beijing's growing diplomatic and economic leverage worldwide.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Radio Free Asia"
+        "The Diplomat"
       ],
-      "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
-      "published": "Tue, 21 Jul 2026 20:41:21 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://thediplomat.com/2026/07/why-a-tibetan-protester-set-himself-on-fire-outside-the-united-nations/",
+      "published": "Wed, 22 Jul 2026 22:05:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "China pursues policies undermining Western-led economic system",
-      "brief": "China is implementing economic and strategic policies that risk destabilizing the international order that has supported its own economic development. This approach reflects Beijing's willingness to challenge Western institutions and frameworks despite potential costs to global stability. The shift signals a fundamental recalibration of China's relationship with the existing international economic system.",
+      "headline": "Taiwan Urged to Develop Complete Drone Ecosystem for Defense",
+      "brief": "Taiwan should expand beyond exporting drone hardware and components to develop a comprehensive drone ecosystem to strengthen its defensive capabilities. This integrated approach would create a more robust 'drone shield' rather than relying solely on component-level exports. The shift reflects Taiwan's strategic need to build indigenous defense capabilities amid regional security concerns.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/07/beyond-a-non-red-supply-chain-taiwan-should-export-a-drone-ecosystem/",
+      "published": "Wed, 22 Jul 2026 01:15:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Trade tensions between China and Europe appear structurally inevitable",
+      "brief": "Analysis suggests escalating trade friction between China and Europe is becoming difficult to avoid due to underlying economic and policy divergences. The friction reflects broader structural imbalances in trade relationships and regulatory approaches. A potential trade conflict would have significant implications for global commerce and geopolitical alignment.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
-      "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
-      "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "original_link": "https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe",
+      "published": "Thu, 16 Jul 2026 00:00:00 -0400",
       "raw_source": "FA RSS"
     },
     {
-      "headline": "China prioritizes trade expansion over regional responsibility",
-      "brief": "China is expanding trade relationships with Gulf states while avoiding deeper commitments to regional stability and governance issues. This approach reflects Beijing's transactional economic strategy that prioritizes commercial access without reciprocal political or security obligations. The dynamic creates tensions as Gulf partners seek more comprehensive engagement beyond trade arrangements.",
+      "headline": "China pursues Gulf trade while avoiding geopolitical commitments",
+      "brief": "China is expanding economic engagement with Gulf states but resisting corresponding political and security responsibilities in the region. This strategy reflects Beijing's preference for transactional relationships focused on trade and resource access without deeper strategic entanglement. The approach may create friction with regional partners seeking more comprehensive partnerships and aligned interests.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -97,88 +169,76 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Philippines marks decade since South China Sea court ruling",
-      "brief": "The Philippines commemorated ten years since an international court ruling that invalidated China's expansive South China Sea claims, though Beijing continues to reject the decision. The dispute remains unresolved with divided international opinion on resolution pathways, underscoring persistent maritime tensions in Southeast Asia.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-      "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China monitors Japan, Philippines military capabilities in South China Sea",
-      "brief": "Beijing is increasing scrutiny of Japan and Philippines military capabilities, reflecting concerns about growing military integration between these U.S. allies in the South China Sea region. Despite this focus, analysts assess that the United States remains China's primary strategic rival. The development suggests China views coordinated allied military presence in the region as a significant strategic challenge.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
-      "published": "Fri, 03 Jul 2026 02:00:28 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China's CBDC Platform Processes Record Cross-Border Transactions",
-      "brief": "The mBridge multilateral central bank digital currency platform processed two transactions exceeding $1.7 billion each through Bank of China branches in June and July, demonstrating its capacity for high-value cross-border settlements. This milestone advances China's strategic objective of internationalizing the yuan and establishing alternative payment infrastructure independent of traditional Western-dominated systems. The development indicates accelerating progress in CBDC adoption among participating central banks and potential shifts in global financial settlement mechanisms.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
-      "published": "Wed, 22 Jul 2026 06:00:47 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China reforms panda bond credit ratings to attract foreign investors",
-      "brief": "Chinese regulators implemented reforms to improve credit rating quality for panda bonds (yuan-denominated securities) to attract foreign sovereign and institutional investors. The reforms mandate that credit-rating agencies adhere to independence, objectivity, and prudence principles, supporting Beijing's yuan internationalization strategy. This regulatory action signals China's effort to strengthen its offshore yuan market and increase foreign capital inflows.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3361457/china-targets-panda-bond-reform-mandates-global-credit-mapping-lure-foreign-capital?utm_source=rss_feed",
-      "published": "Wed, 22 Jul 2026 09:00:39 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
-      "brief": "Chinese authorities in Urumqi arrested a mother and two Uyghur sisters allegedly for sending goods to Turkey, with officials characterizing their actions as 'supporting terrorists.' The arrests highlight continued security concerns and enforcement actions in Xinjiang, with potential implications for diaspora communities and international trade patterns involving the region.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-      "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China criticizes UK nationalization of British Steel",
-      "brief": "The UK government has moved to nationalize British Steel, citing protection of critical national industrial capability. China has publicly objected to the decision. The move reflects strategic competition over control of critical industrial assets and supply chains in advanced manufacturing sectors.",
+      "headline": "US adviser alleges Chinese AI firm stole from Anthropic",
+      "brief": "A Trump technology adviser has accused China's Moonshot AI of intellectual property theft from American AI company Anthropic. The allegation emerges amid intensifying US government scrutiny of Chinese AI companies, potentially signaling escalating technological competition and trade tensions between the two nations. The incident highlights growing concerns over IP protection and competitive dynamics in the strategically important AI sector.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "BBC News"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Jul 2026 16:44:22 GMT",
+      "original_link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 23 Jul 2026 01:52:10 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "HKEX implements listing reforms to enhance international competitiveness",
-      "brief": "Hong Kong Exchanges and Clearing plans to introduce confidential filings and lower market capitalization thresholds for start-up listings, following months of market consultation. These regulatory changes aim to increase HKEX's competitive positioning in attracting international capital and emerging companies, with formal announcement expected by month-end.",
-      "category": "economy",
+      "headline": "China Advances Internet Sovereignty Initiative for Global Internet Governance",
+      "brief": "China is promoting 'Internet sovereignty' as a governing principle for the global Internet, establishing a framework that prioritizes national control over online infrastructure and content. This initiative has significant implications for international digital governance, cybersecurity standards, and the balance of power in cyberspace between state and non-state actors. The concept directly challenges existing multilateral Internet governance models and could influence how nations approach digital regulation and cross-border data flows.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "CSIS"
       ],
-      "original_link": "https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say?utm_source=rss_feed",
-      "published": "Tue, 21 Jul 2026 02:30:21 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "China moderates assertive 'wolf warrior' diplomatic approach",
+      "brief": "Beijing has become increasingly selective in deploying assertive diplomatic tactics previously characterized as 'wolf warrior' diplomacy. This shift suggests a recalibration of China's international engagement strategy, potentially indicating evolving calculations regarding the effectiveness and costs of confrontational diplomatic posturing.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/07/whatever-happened-to-wolf-warrior-diplomacy/",
+      "published": "Thu, 23 Jul 2026 01:11:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Hong Kong Intensifies Customs Scrutiny of Taiwan Book Shipments",
+      "brief": "Hong Kong customs has significantly increased inspections of book shipments from Taiwan, with authorities checking almost every incoming shipment in recent months. Logistics companies have advised bookstores to ensure compliance with Hong Kong's national security laws, suggesting Beijing is using trade mechanisms to enforce ideological control over cross-strait information flows. This escalation reflects growing tensions in Hong Kong-Taiwan relations and potential restrictions on intellectual freedom.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3361582/hong-kong-checks-almost-every-book-shipment-taiwan?utm_source=rss_feed",
+      "published": "Thu, 23 Jul 2026 09:43:05 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong opposition leader Wu Chi-wai gains UK entry after initial denial",
+      "brief": "Former Democratic Party chairman Wu Chi-wai was initially denied entry to the UK using his British National (Overseas) passport but was subsequently allowed to enter. The incident highlights ongoing tensions between Beijing-aligned Hong Kong authorities and pro-democracy figures seeking refuge abroad, with potential implications for UK-China relations regarding BNO passport holders.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3361535/ex-hong-kong-opposition-leader-reportedly-denied-uk-entry-faces-deportation?utm_source=rss_feed",
+      "published": "Thu, 23 Jul 2026 02:57:48 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "China uses music video to reinforce South China Sea territorial claims",
+      "brief": "China released a music video featuring its coast guard that experts say is designed to humanize the organization while advancing Beijing's disputed claims in the South China Sea. The propaganda effort reflects China's continued use of cultural messaging to support its geopolitical stance in the strategically important waterway. This indicates Beijing's multifaceted approach to asserting sovereignty claims beyond traditional diplomatic and military channels.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+      "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+      "raw_source": "Radio Free Asia"
     }
   ],
   "deep_dive": {
@@ -197,52 +257,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain adversarial with ongoing trade tensions, technological competition, and strategic rivalry despite periodic diplomatic engagement."
+      "summary": "China-US relations remain strained over trade, technology competition, Taiwan, and strategic rivalry, though both maintain diplomatic channels and some economic interdependence."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepened economic and military ties, particularly following Russia's isolation over Ukraine."
+      "summary": "China and Russia have deepened strategic partnership through energy deals, military coordination, and shared opposition to Western-led order, though relations remain pragmatic rather than formal alliance."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, trade practices, and geopolitical competition."
+      "summary": "EU-China relations are mixed, combining economic interdependence with growing strategic concerns over human rights, technology, and geopolitical competition, resulting in a cautious engagement posture."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure while rejecting its democratic governance and independence aspirations."
+      "summary": "China views Taiwan as a breakaway province and has intensified military pressure, diplomatic isolation efforts, and coercive measures while rejecting Taiwan's democratic governance."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "Japan-China relations are strained by territorial disputes over the Senkaku Islands, historical grievances, and competing regional influence."
+      "summary": "China-Japan relations are strained by disputes over the Senkaku Islands, historical grievances, security concerns, and competing regional influence, though trade ties remain significant."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, the 2020 Galwan Valley clash, and strategic competition in Asia have created significant friction in India-China relations."
+      "summary": "Border tensions, territorial disputes in Ladakh, military skirmishes, and strategic competition have made China-India relations adversarial despite historical cultural connections."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains strong energy and economic ties with Saudi Arabia while carefully balancing its Middle East relations and avoiding direct involvement in regional conflicts."
+      "summary": "China and Saudi Arabia maintain strong bilateral ties centered on energy trade, investment, and regional cooperation, with alignment on reducing US dominance in Middle East affairs."
     },
     {
       "country": "Philippines",
-      "status": "Tense",
-      "summary": "China-Philippines relations oscillate between cooperation and tension due to South China Sea territorial disputes and competing maritime claims."
+      "status": "Neutral",
+      "summary": "Philippines-China relations fluctuate between cooperation on economic projects and tensions over South China Sea territorial disputes, reflecting Manila's balancing act between Beijing and Washington."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China and Brazil maintain pragmatic economic and trade relations despite occasional tensions over agricultural and mining interests."
+      "summary": "China-Brazil relations are pragmatically cooperative, driven by significant trade and investment, though Brazil maintains independent foreign policy and concerns about Chinese economic dominance."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations remain strained following trade restrictions, security concerns, and Australia's alignment with Western allies on regional security issues."
+      "summary": "Australia-China relations have deteriorated significantly due to security concerns, technology restrictions, human rights criticism, and trade disputes, with limited signs of near-term improvement."
     }
   ]
 }

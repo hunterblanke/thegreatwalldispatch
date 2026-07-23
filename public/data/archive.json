@@ -1,6 +1,190 @@
 {
   "entries": [
     {
+      "date": "2026-07-22",
+      "articles": [
+        {
+          "headline": "China Conducts Live-Fire Drills Near Okinotorishima",
+          "brief": "China conducted live-fire military exercises near Okinotorishima, demonstrating enhanced naval coordination with Russia and highlighting disputed interpretations of international maritime law. The drill reflects escalating military activities in contested waters and growing strategic alignment between Beijing and Moscow in the Indo-Pacific region.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/chinas-live-fire-drill-near-okinotorishima-tests-japans-maritime-nerves/",
+          "published": "Tue, 21 Jul 2026 22:57:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China uses environmental surveys to normalize disputed territory presence",
+          "brief": "China is conducting environmental research in disputed waters as part of a strategy to establish and normalize its presence in contested maritime areas, according to analysts. The scientific surveys serve a dual purpose of appearing legitimate while advancing territorial claims. This approach demonstrates Beijing's use of civilian research activities to support geopolitical objectives in strategically significant regions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
+          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan deploys robotic systems amid unmanned technology arms race",
+          "brief": "Taiwan and China are increasingly integrating autonomous technologies to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned systems in their military competition. This development reflects broader efforts by both parties to leverage advanced robotics for surveillance and operational capabilities in contested maritime regions. The proliferation of autonomous systems represents a significant escalation in cross-strait technological competition with potential implications for regional security dynamics.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Upgrading Ports to Accommodate Larger Naval Vessels",
+          "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades as part of its five-year naval modernization plan, with improvements designed to accommodate new, larger destroyer-class vessels. These infrastructure enhancements suggest Pyongyang is prioritizing naval capability expansion, which could alter regional maritime balance and complicate security dynamics in East Asia.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
+          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates the Sino-North Korean bridge is approaching completion approximately 12 years after its initial construction concluded. The bridge is expected to significantly increase bilateral trade capacity and strengthen economic ties between the two countries. The infrastructure project's delayed opening reflects broader challenges in cross-border development and logistics between China and North Korea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China pursues policies undermining Western-led economic system",
+          "brief": "China is implementing economic and strategic policies that risk destabilizing the international order that has supported its own economic development. This approach reflects Beijing's willingness to challenge Western institutions and frameworks despite potential costs to global stability. The shift signals a fundamental recalibration of China's relationship with the existing international economic system.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
+          "published": "Wed, 15 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China prioritizes trade expansion over regional responsibility",
+          "brief": "China is expanding trade relationships with Gulf states while avoiding deeper commitments to regional stability and governance issues. This approach reflects Beijing's transactional economic strategy that prioritizes commercial access without reciprocal political or security obligations. The dynamic creates tensions as Gulf partners seek more comprehensive engagement beyond trade arrangements.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/gulfs-china-problem",
+          "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Philippines marks decade since South China Sea court ruling",
+          "brief": "The Philippines commemorated ten years since an international court ruling that invalidated China's expansive South China Sea claims, though Beijing continues to reject the decision. The dispute remains unresolved with divided international opinion on resolution pathways, underscoring persistent maritime tensions in Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China monitors Japan, Philippines military capabilities in South China Sea",
+          "brief": "Beijing is increasing scrutiny of Japan and Philippines military capabilities, reflecting concerns about growing military integration between these U.S. allies in the South China Sea region. Despite this focus, analysts assess that the United States remains China's primary strategic rival. The development suggests China views coordinated allied military presence in the region as a significant strategic challenge.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
+          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's CBDC Platform Processes Record Cross-Border Transactions",
+          "brief": "The mBridge multilateral central bank digital currency platform processed two transactions exceeding $1.7 billion each through Bank of China branches in June and July, demonstrating its capacity for high-value cross-border settlements. This milestone advances China's strategic objective of internationalizing the yuan and establishing alternative payment infrastructure independent of traditional Western-dominated systems. The development indicates accelerating progress in CBDC adoption among participating central banks and potential shifts in global financial settlement mechanisms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 06:00:47 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China reforms panda bond credit ratings to attract foreign investors",
+          "brief": "Chinese regulators implemented reforms to improve credit rating quality for panda bonds (yuan-denominated securities) to attract foreign sovereign and institutional investors. The reforms mandate that credit-rating agencies adhere to independence, objectivity, and prudence principles, supporting Beijing's yuan internationalization strategy. This regulatory action signals China's effort to strengthen its offshore yuan market and increase foreign capital inflows.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361457/china-targets-panda-bond-reform-mandates-global-credit-mapping-lure-foreign-capital?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 09:00:39 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested a mother and two Uyghur sisters allegedly for sending goods to Turkey, with officials characterizing their actions as 'supporting terrorists.' The arrests highlight continued security concerns and enforcement actions in Xinjiang, with potential implications for diaspora communities and international trade patterns involving the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China criticizes UK nationalization of British Steel",
+          "brief": "The UK government has moved to nationalize British Steel, citing protection of critical national industrial capability. China has publicly objected to the decision. The move reflects strategic competition over control of critical industrial assets and supply chains in advanced manufacturing sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 17 Jul 2026 16:44:22 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "HKEX implements listing reforms to enhance international competitiveness",
+          "brief": "Hong Kong Exchanges and Clearing plans to introduce confidential filings and lower market capitalization thresholds for start-up listings, following months of market consultation. These regulatory changes aim to increase HKEX's competitive positioning in attracting international capital and emerging companies, with formal announcement expected by month-end.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say?utm_source=rss_feed",
+          "published": "Tue, 21 Jul 2026 02:30:21 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 14,
+        "high_priority": 1,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 5,
+          "economy": 6
+        },
+        "updated_at": "2026-07-22T11:42:26.214226Z"
+      }
+    },
+    {
       "date": "2026-07-21",
       "articles": [
         {
