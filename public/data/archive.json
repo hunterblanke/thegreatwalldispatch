@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-07-24",
+      "articles": [
+        {
+          "headline": "Hong Kong National Security Law Expands to Target Bookstores",
+          "brief": "Hong Kong's National Security Law is being applied to restrict bookstores and civil society organizations, continuing the erosion of the city's previously open information environment. This expansion demonstrates Beijing's broadening interpretation of national security to encompass cultural and intellectual spaces. The development signals intensified control over public discourse and potentially limits access to information critical of mainland policies.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/hong-kongs-national-security-law-comes-for-the-bookstores/",
+          "published": "Fri, 24 Jul 2026 00:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "US implements new tariffs on multiple countries citing forced labour",
+          "brief": "The United States has imposed tariffs on dozens of countries, citing forced labour concerns as justification. These levies replace temporary global duties that were struck down by the US Supreme Court in February. The move signals renewed protectionist measures that could significantly impact global trade relationships and supply chains across multiple sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 08:59:31 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea court ruling",
+          "brief": "The Philippines marked ten years since an international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The ruling remains a focal point of contention between Beijing and Manila, with no consensus approach to resolution established. The unresolved territorial disagreement continues to impact regional stability and bilateral relations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan adopts robotic systems for South China Sea surveillance",
+          "brief": "Taiwan is deploying autonomous robodogs and unmanned technologies to monitor remote military outposts in the South China Sea as part of a strategic shift toward unmanned systems. This development reflects Taiwan's technological response to operational challenges in contested waters where China also operates similar systems. The trend signals an intensifying competition between Taipei and Beijing in autonomous defense capabilities within the region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
+          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates the Sino-North Korean bridge is approaching operational status, more than a decade after its completion. The infrastructure is expected to significantly facilitate bilateral trade and strengthen economic ties between the two countries. The opening could have implications for regional trade patterns and the enforcement of international sanctions on North Korea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Pursues Planetary Defense for Strategic and Diplomatic Gains",
+          "brief": "China is investing in planetary defense capabilities as a means to enhance its international image and strengthen national security interests. The dual-use nature of these investments, however, creates tensions between China's domestic security objectives and its potential contributions to global planetary protection efforts. This approach reflects China's broader strategy of leveraging scientific and technological advancement for geopolitical positioning.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/why-china-is-investing-in-planetary-defense/",
+          "published": "Thu, 23 Jul 2026 22:43:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "BAE Systems CEO warns UK underestimates military security threats",
+          "brief": "The chief executive of Europe's largest defence contractor has cautioned that the threat of military attack is at unprecedented levels, implying insufficient UK preparedness. This warning suggests potential increased defense spending requirements and defense sector expansion opportunities.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:04:19 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese AI firm accused of stealing Anthropic technology",
+          "brief": "A Trump administration technology adviser has alleged that Chinese AI company Moonshot AI engaged in intellectual property theft from US-based Anthropic. The accusation reflects growing US government scrutiny of Chinese AI companies and highlights escalating concerns over technology transfer and competitive advantage in artificial intelligence development. This allegation underscores broader tensions in the US-China technological competition and potential implications for AI security and innovation protection.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:50:38 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China's CBDC Platform Processes Record Cross-Border Transactions",
+          "brief": "The mBridge multilateral central bank digital currency platform, led by China, successfully processed two cross-border transactions exceeding $1.7 billion each through Bank of China branches in June and July. This milestone demonstrates the platform's capacity for high-value settlements and advances Beijing's strategic objective of internationalizing the yuan in global financial systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 06:00:47 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China implements panda bond reforms to attract foreign investment",
+          "brief": "Chinese regulators introduced stricter credit rating standards for panda bonds (yuan-denominated securities) to improve transparency and investor confidence. The move aims to enhance the attractiveness of yuan-denominated assets to foreign sovereign and institutional investors, supporting Beijing's broader currency internationalization objectives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361457/china-targets-panda-bond-reform-mandates-global-credit-mapping-lure-foreign-capital?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 09:00:39 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese High-Net-Worth Individuals Shift Investments to Hong Kong, US",
+          "brief": "Approximately 50% of Chinese investors with assets exceeding 1 million yuan plan to increase investments in Hong Kong and the United States over the next 12 months, according to a DBS survey of 1,617 affluent individuals. This diversification trend persists despite Beijing's regulatory crackdown on cross-border brokerages, suggesting capital outflow pressures and investor hedging against domestic economic conditions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/money/wealth/article/3361494/despite-regulatory-crackdown-chinese-investors-look-hong-kong-us-diversify?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 12:07:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Private Securities Funds Exceed $1.2 Trillion Milestone",
+          "brief": "Chinese private securities investment funds surpassed 8 trillion yuan ($1.2 trillion) for the first time as of June 30, driven by robust investor appetite for alternative investments. The broader private fund industry reached a record 23.66 trillion yuan in assets under management, indicating sustained capital reallocation toward private markets. This expansion suggests growing investor confidence in China's domestic financial markets despite broader economic uncertainties.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361488/chinese-investors-rush-private-funds-pouring-us12-trillion-securities?utm_source=rss_feed",
+          "published": "Thu, 23 Jul 2026 00:00:16 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "U.S. Maintains Economic Advantage Over China Through Allied Coordination",
+          "brief": "The article argues that the United States retains strategic economic superiority over China and can strengthen this position by coordinating with allied nations. The key implication is that multilateral economic cooperation may be more effective than unilateral approaches in maintaining competitive advantage in U.S.-China economic competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china",
+          "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China faces economic challenges amid shifting U.S. strategic positioning",
+          "brief": "China is experiencing economic deterioration that presents strategic opportunities for the United States to advance its competitive position. The article suggests China's current economic weakness may create a window for the U.S. to pursue advantageous diplomatic and strategic initiatives. This development has significant implications for bilateral economic competition and global market dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+          "published": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "AI geopolitics increasingly restrict tool access in Hong Kong",
+          "brief": "International banks in Hong Kong are experiencing restrictions on accessing advanced AI tools like Anthropic's Claude, reflecting broader geopolitical tensions over AI technology. The article highlights how AI is transitioning from abstract policy discussion to concrete operational constraints affecting financial services and international business operations in the territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3361470/hong-kong-must-wake-cold-hard-geopolitics-ai?utm_source=rss_feed",
+          "published": "Fri, 24 Jul 2026 01:30:09 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Namibia Demonstrates Strategic Framework for African-China Partnerships",
+          "brief": "Namibia's recent state visit with China illustrates how African nations can leverage high-level diplomacy to secure industrial partnerships and development investments. The engagement suggests a model for African governments to translate diplomatic engagement into concrete economic benefits and value-added industrial outcomes. This approach reflects growing African sophistication in negotiating bilateral relationships with major powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/as-the-world-courts-beijing-namibia-shows-how-africa-can-sharpen-its-china-strategy/",
+          "published": "Fri, 24 Jul 2026 02:37:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested three Uyghur women\u2014two sisters and their mother\u2014allegedly for sending goods to Turkey, with family members claiming they were detained on charges of \"supporting terrorists.\" The arrests reflect ongoing security concerns and enforcement operations in Xinjiang related to cross-border activities. This incident highlights potential tensions in China's treatment of Uyghur communities and may have implications for China's relations with Turkey and international human rights organizations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Beijing Monitors Japan, Philippines Military Capabilities in South China Sea",
+          "brief": "Chinese officials are closely scrutinizing the military capabilities and integration efforts of Japan and the Philippines, reflecting Beijing's concerns about increased regional military coordination that could challenge its interests in the South China Sea. Despite this focus on Tokyo and Manila, the United States remains China's primary strategic rival. The development suggests China views military partnerships among regional allies as a significant emerging challenge to its regional position.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
+          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 18,
+        "high_priority": 1,
+        "by_category": {
+          "economy": 8,
+          "foreign_relations": 9,
+          "military": 1
+        },
+        "updated_at": "2026-07-24T11:30:55.736087Z"
+      }
+    },
+    {
       "date": "2026-07-23",
       "articles": [
         {
