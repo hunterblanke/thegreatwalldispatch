@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-07-26",
+      "articles": [
+        {
+          "headline": "Chinese authorities arrest Uyghur family members for sending goods to Turkey",
+          "brief": "Chinese police in Urumqi arrested a Uyghur mother and her two daughters, with authorities characterizing their act of sending goods to Turkey as supporting terrorists. The arrests reflect Beijing's expansive interpretation of terrorism financing and highlight ongoing tensions between China's security policies in Xinjiang and international concerns over ethnic minority treatment. The case underscores potential risks for diaspora communities maintaining family connections across borders.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates the cross-border bridge between China and North Korea is approaching operational status, more than a decade after its completion. The infrastructure project is expected to significantly facilitate bilateral trade and strengthen economic connectivity between the two countries. The bridge's opening represents a notable development in Sino-North Korean relations and regional trade dynamics.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
+          "brief": "The Philippines marked the 10th anniversary of an international court ruling on South China Sea disputes, though China continues to reject the decision's legitimacy. The unresolved territorial disagreement remains a significant point of contention between Beijing and Manila, with no consensus approach emerging among stakeholders on dispute resolution. The persistent rejection of the arbitral ruling underscores ongoing tension in regional maritime claims.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US implements new tariffs on dozens of countries citing forced labor",
+          "brief": "The United States has imposed a new wave of tariffs on multiple countries, citing forced labor concerns as justification. These levies replace temporary global duties that were struck down by the US Supreme Court in February. The tariff action could significantly impact trade relationships and supply chains across numerous economies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 12:40:44 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Trump tariffs continue amid questions about economic effectiveness",
+          "brief": "President Trump has implemented additional tariffs affecting the US economy, with the BBC analyzing their impact on consumers and businesses. The analysis examines who bears the economic cost of tariff policies and whether they are achieving their intended objectives. The ongoing tariff strategy represents a significant policy variable affecting US economic conditions and trade relationships.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 24 Jul 2026 10:21:31 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese AI firm allegedly misappropriated Anthropic technology",
+          "brief": "A Trump technology adviser has alleged that China's Moonshot AI company stole intellectual property from US-based Anthropic. The accusation reflects broader US government concerns about Chinese AI companies' access to advanced technology and competitive practices. This incident underscores escalating US-China technological competition and potential vulnerabilities in AI development supply chains.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:50:38 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Beijing's State Capital Increasingly Dominates China's Frontier Tech Funding",
+          "brief": "Chinese state entities have become primary investors in the country's advanced technology sector, including AI firms like DeepSeek and hardware companies such as Unitree Robotics, marking a structural shift from Western venture capital models. This state-directed investment approach signals Beijing's strategic prioritization of technological self-sufficiency and control over critical innovation sectors, diverging from Silicon Valley's private venture capital ecosystem.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
+          "published": "Sat, 25 Jul 2026 02:00:15 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong's National Security Law Expands Control Over Civil Society",
+          "brief": "Hong Kong authorities are applying the National Security Law to restrict bookstores and publishing, further constraining the city's civil society organizations. This expansion of the law's enforcement demonstrates Beijing's continued tightening of political control mechanisms in Hong Kong. The targeting of literary and informational venues signals an intensified effort to regulate public discourse and limit access to potentially sensitive materials.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/hong-kongs-national-security-law-comes-for-the-bookstores/",
+          "published": "Fri, 24 Jul 2026 00:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China-Europe trade tensions expected to escalate into broader conflict",
+          "brief": "Analysis indicates that economic frictions between China and Europe have reached a point where trade war escalation appears unavoidable. The deteriorating commercial relationship carries significant implications for global supply chains and economic stability. Key factors driving the conflict remain unspecified in available reporting.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe",
+          "published": "Thu, 16 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Hong Kong businesses explore Xinjiang as gateway to Central Asia markets",
+          "brief": "Hong Kong firms are considering leveraging Xinjiang's connectivity to expand into Central Asian markets, while offering regional businesses access to Southeast Asian financial and trade services. However, economists and industry experts warn of significant risks for Hong Kong businesses engaging in Xinjiang due to Western sanctions on officials and entities linked to the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361841/how-xinjiang-offers-hong-kong-bridge-central-asia-and-what-risks-are?utm_source=rss_feed",
+          "published": "Sun, 26 Jul 2026 01:00:12 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China's Foreign Minister to Discuss Beijing's Strategic Priorities",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for high-level dialogue on Beijing's strategic approach to bilateral and multilateral issues.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Hong Kong lawmakers return from Beijing with five-year plan insights",
+          "brief": "A Hong Kong Legislative Council delegation completed a week-long study trip to Beijing, meeting with Xia Baolong, director of the Hong Kong and Macao Affairs Office, to discuss the city's first five-year development plan. The trip represents increased coordination between Hong Kong's legislature and Beijing's central government on strategic planning. This engagement signals closer alignment on Hong Kong's governance priorities and economic development framework.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3361845/lawmakers-return-historic-beijing-trip-insights-hong-kongs-5-year-plan?utm_source=rss_feed",
+          "published": "Sat, 25 Jul 2026 12:03:34 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China's CBDC Platform Processes Record Cross-Border Transactions",
+          "brief": "The mBridge multilateral central bank digital currency platform, led by China, processed its largest cross-border transactions to date in June and July, with two transactions exceeding US$1.7 billion each conducted by Bank of China branches. This milestone demonstrates mBridge's capacity for high-value settlements and represents progress toward Beijing's strategic objective of internationalizing the yuan and reducing reliance on traditional payment systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
+          "published": "Wed, 22 Jul 2026 06:00:47 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Namibia's China Visit Models African Diplomatic Strategy",
+          "brief": "Namibia's recent state visit to China demonstrates how African nations can leverage high-level diplomacy to secure industrial partnerships and development outcomes. The visit illustrates a potential framework for African governments to translate diplomatic engagement with Beijing into tangible economic and developmental benefits. This approach may influence how other African states calibrate their China strategies to maximize value from bilateral relationships.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/as-the-world-courts-beijing-namibia-shows-how-africa-can-sharpen-its-china-strategy/",
+          "published": "Fri, 24 Jul 2026 02:37:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "BAE Systems chief warns of elevated security threats to UK",
+          "brief": "The CEO of Europe's largest defence contractor BAE Systems has warned that the threat of attack against the UK has reached unprecedented levels, suggesting complacency in national defense preparedness. This warning carries significant implications for defense spending priorities and security policy formulation. The statement underscores industry concerns about adequacy of current defense investments and strategic readiness.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 23 Jul 2026 23:04:19 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Admiral Harris discusses U.S. Pacific Command strategic priorities in Indo-Asia-Pacific",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The event reflects ongoing U.S. military engagement and strategic planning in a region of significant geopolitical importance amid evolving regional dynamics.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China's Economic Slowdown Creates Strategic Vulnerabilities",
+          "brief": "China is experiencing significant economic deterioration that may be creating openings for U.S. strategic advantage. The combination of structural economic challenges and reduced Chinese leverage presents potential opportunities for policy shifts in U.S.-China relations. This economic weakness could reshape the competitive dynamics between the two powers in coming years.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+          "published": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 17,
+        "high_priority": 0,
+        "by_category": {
+          "foreign_relations": 9,
+          "economy": 7,
+          "military": 1
+        },
+        "updated_at": "2026-07-26T11:14:08.638690Z"
+      }
+    },
+    {
       "date": "2026-07-25",
       "articles": [
         {
