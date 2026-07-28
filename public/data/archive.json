@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-07-27",
+      "articles": [
+        {
+          "headline": "China enacts ethnic unity law with extraterritorial reach",
+          "brief": "China has passed a new 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and entities internationally. The law's extraterritorial scope raises significant concerns regarding China's ability to enforce domestic ethnic and political policies globally and may impact foreign relations, particularly with countries hosting diaspora communities or critical voices regarding Chinese minority policies.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines Conducts Joint Exercises With US, Japan in South China Sea",
+          "brief": "The Philippines held joint military exercises with the United States and Japan in the South China Sea as tensions with China escalated following recent clashes at disputed maritime features. Manila and Beijing have traded accusations regarding the series of incidents, reflecting ongoing territorial disputes in the region. The trilateral exercises underscore efforts by US allies to strengthen military cooperation and demonstrate commitment to freedom of navigation in contested waters.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/philippines-holds-joint-exercises-with-us-japan-in-south-china-sea-amid-tensions-with-china/",
+          "published": "Mon, 27 Jul 2026 10:00:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducts Pacific missile test amid U.S. allied military activity",
+          "brief": "China conducted a missile test in the Pacific region coinciding with the signing of an Australia-Fiji defense pact and allied military exercises in the area. Analysts assess the test as a strategic message directed at U.S. allies regarding China's military capabilities and regional presence. The timing suggests a deliberate demonstration of force in response to strengthening defense partnerships among Indo-Pacific allies.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan security ties",
+          "brief": "China has imposed sanctions on the Philippine defense chief in response to Manila's strengthening security relationship with Japan, particularly regarding South China Sea operations. Analysts assess that Beijing is leveraging historical grievances about Japan's wartime conduct to undermine the legitimacy of Philippine and Japanese territorial claims in disputed waters. This action reflects Beijing's use of diplomatic pressure to counter regional coalitions that challenge its interests in the South China Sea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Music Video to Reinforce South China Sea Territorial Claims",
+          "brief": "China has released a music video featuring a love song that experts assess is designed to humanize the Chinese coast guard while reinforcing Beijing's position in the disputed South China Sea. The production represents a soft-power approach to asserting China's contested maritime claims in a strategically significant region. This cultural messaging reflects ongoing tensions over territorial disputes involving multiple claimant states in the area.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US Maintains Economic Advantage Over China Through Allied Coordination",
+          "brief": "According to Foreign Affairs, the United States retains strategic economic superiority over China, with potential for strengthened position through coordinated multilateral engagement. The analysis suggests that allied cooperation amplifies Washington's competitive advantages in the ongoing economic competition. This assessment indicates that coalition-building approaches may be more effective than unilateral measures in managing US-China economic competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china",
+          "published": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China faces economic deterioration amid shifting US strategy",
+          "brief": "China is experiencing significant economic weakness that presents strategic opportunities for the United States. The economic challenges create potential openings for US policy adjustments in the competitive relationship between the two powers. The timing of China's economic difficulties may influence bilateral negotiations and global market dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+          "published": "Thu, 23 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Prioritizes Gulf Trade While Avoiding Political Commitments",
+          "brief": "China is expanding economic engagement with Gulf states but resisting deeper political or security responsibilities in the region. This approach reflects Beijing's strategy to maximize commercial benefits while limiting entanglement in regional disputes and obligations. The disconnect between China's trade interests and its unwillingness to assume responsibility for regional stability may create friction with Gulf partners expecting reciprocal commitments.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/gulfs-china-problem",
+          "published": "Tue, 21 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+          "brief": "China is advancing 'Internet sovereignty' as a foundational principle for global Internet governance, seeking to establish national control over digital infrastructure and content within territorial boundaries. This initiative represents a significant strategic effort to reshape international norms regarding cyberspace governance and digital information control.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Chinese state emerges as primary investor in domestic tech sector",
+          "brief": "China's leading technology companies, including AI firms DeepSeek and Zhipu AI alongside hardware manufacturers, are increasingly funded by state investors rather than traditional venture capital. This represents a structural shift in China's frontier technology financing, with Beijing's direct involvement contrasting with Western venture capital-backed models. The state's dominant role in funding cutting-edge tech development has implications for technology sovereignty, innovation patterns, and competitive dynamics in global tech markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
+          "published": "Sat, 25 Jul 2026 02:00:15 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China investigates former top securities regulator for corruption",
+          "brief": "Fang Xinghai, former vice-chairman of the China Securities Regulatory Commission (CSRC), is under investigation by China's Central Commission for Discipline Inspection for suspected serious legal and disciplinary violations. The investigation of a high-ranking financial official reflects ongoing anti-corruption efforts within China's regulatory apparatus and may signal potential governance concerns within the financial sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361782/china-places-former-deputy-top-financial-regulator-under-investigation?utm_source=rss_feed",
+          "published": "Fri, 24 Jul 2026 12:19:16 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Shein reports $99 million loss amid Trump tariff impact",
+          "brief": "Chinese fast fashion retailer Shein has swung to a $99 million loss, with tariff pressures cited as a significant factor affecting sales. The announcement occurs as Shein prepares for its Hong Kong stock market debut, raising questions about the company's near-term profitability and the broader impact of U.S. trade policies on Chinese e-commerce firms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 02:08:36 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Shein reports $99M Q1 loss amid Western tariff pressures",
+          "brief": "Chinese-founded fast-fashion e-commerce giant Shein swung to a $99 million loss in Q1 2026 as rising Western tariffs eroded profit margins, despite modest revenue growth of 1.1 percent to $9.05 billion. The company's Hong Kong listing prospectus reveals significant margin compression, with full-year 2025 revenue growth slowing to 8 percent, indicating that escalating trade barriers are materially impacting profitability for major Chinese-origin exporters.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361931/fast-fashion-giant-shein-swings-us99m-first-quarter-loss-ahead-hong-kong-listing?utm_source=rss_feed",
+          "published": "Mon, 27 Jul 2026 03:00:19 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese firms persist with US IPOs despite regulatory and geopolitical challenges",
+          "brief": "Mainland Chinese companies completed only two US IPO listings in the first half of 2024, raising $59.5 million\u2014the lowest in five years\u2014yet some firms continue pursuing Wall Street debuts despite mounting regulatory obstacles and geopolitical tensions. This trend reflects ongoing strategic interest in US capital markets despite deteriorating conditions, with significant implications for cross-border investment flows and financial market access between the two economies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3361697/why-do-mainland-chinese-firms-refuse-give-wall-street-ipos?utm_source=rss_feed",
+          "published": "Sun, 26 Jul 2026 14:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's securities regulator launches measures to stabilize stock markets",
+          "brief": "China's Securities Regulatory Commission announced measures to attract medium and long-term capital into domestic stock markets and strengthen financial resilience against external shocks. The initiative follows recent market turbulence and reflects authorities' prioritization of market stability and investor confidence. These actions signal efforts to fortify China's capital markets amid broader economic uncertainties.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361682/securities-watchdog-channel-more-medium-and-long-term-capital-china-markets?utm_source=rss_feed",
+          "published": "Fri, 24 Jul 2026 05:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese chipmaker shares surge 470% on AI-driven demand",
+          "brief": "A Chinese chipmaker experienced an exceptional 470% share price increase during its stock market debut, reflecting strong investor confidence driven by surging global AI demand. The exceptional performance demonstrates China's growing capacity in semiconductor manufacturing and suggests significant market appetite for domestic chip solutions as international competition intensifies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 10:19:36 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese GPU maker MetaX files confidentially for Hong Kong IPO",
+          "brief": "MetaX, a Shanghai-based graphics processing unit manufacturer, has confidentially filed for a Hong Kong listing targeting completion by year-end, with Huatai International Financial Holdings as the underwriter. The IPO reflects continued capital-raising activity among Chinese semiconductor companies amid ongoing tech sector development and export control pressures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3361754/chinese-gpu-maker-confidentially-files-hong-kong-ipo-amid-fundraising-wave-sources?utm_source=rss_feed",
+          "published": "Fri, 24 Jul 2026 10:34:48 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HKEX implements major listing reforms to attract more IPOs",
+          "brief": "Hong Kong Exchanges and Clearing has enacted its most significant reforms since 2018, including confidential filing for all listing applications and reduced market-capitalization requirements for startups and international companies. These changes aim to enhance HKEX's competitiveness and attract a broader range of initial public offerings to the exchange.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3361742/hong-kong-exchanges-biggest-reform-8-years-opens-gates-more-ipos?utm_source=rss_feed",
+          "published": "Fri, 24 Jul 2026 09:05:16 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong exports surge 53% in June amid AI product demand",
+          "brief": "Hong Kong's exports reached a record HK$641.1 billion in June 2024, representing a 53.4% year-on-year increase\u2014the sharpest rise in 42 years\u2014driven primarily by strong international demand for AI-related products. This exceptional export performance reflects Hong Kong's strategic positioning as a hub for technology product distribution and indicates robust global appetite for AI technologies. The surge suggests China's broader tech ecosystem is capitalizing on the global AI boom through established trade channels.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3361989/ai-fuels-boom-hong-kong-exports-soar-53-record-hk641-billion-june?utm_source=rss_feed",
+          "published": "Mon, 27 Jul 2026 09:13:21 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong opposition leader Wu Chi-wai appeals UK temporary admission decision",
+          "brief": "Former Hong Kong opposition leader Wu Chi-wai has appealed the UK government's decision to grant him only seven days' temporary admission, challenging an order requiring him to leave by Wednesday. Wu is seeking reconsideration from the British Home Office and may pursue judicial review if the appeal is rejected. The case reflects ongoing tensions between Beijing-aligned Hong Kong authorities and opposition figures seeking refuge in Western countries.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362011/ex-hong-kong-opposition-leader-appeals-uk-order-leave-he-seeks-bno-route?utm_source=rss_feed",
+          "published": "Mon, 27 Jul 2026 10:51:01 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 20,
+        "high_priority": 1,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 6,
+          "economy": 13
+        },
+        "updated_at": "2026-07-27T12:51:04.884713Z"
+      }
+    },
+    {
       "date": "2026-07-26",
       "articles": [
         {
