@@ -1,6 +1,202 @@
 {
   "entries": [
     {
+      "date": "2026-07-28",
+      "articles": [
+        {
+          "headline": "Philippines commemorates decade since South China Sea court ruling",
+          "brief": "The Philippines marked ten years since an international court ruling on South China Sea disputes, though China continues to reject the decision and regional consensus on resolution remains elusive. The unresolved disagreement highlights ongoing tensions between China and Southeast Asian claimants over maritime territorial claims. The persistence of this dispute without resolution indicates continued potential for regional instability and diplomatic friction.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
+          "brief": "China imposed sanctions on the Philippine defense chief, with analysts noting Beijing is leveraging historical references to Japan's wartime actions to undermine Manila's South China Sea territorial claims. The move reflects escalating diplomatic tensions between China and the Philippines over competing maritime interests. This strategy suggests China is attempting to isolate the Philippines diplomatically while using historical grievances as a rhetorical tool to discredit rival claimants.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese police in Urumqi arrested a Uyghur mother and two daughters for sending goods to Turkey, with authorities characterizing the activity as \"supporting terrorists.\" The arrests reflect continued security operations in Xinjiang targeting cross-border commerce and communications. This incident underscores ongoing tensions between Beijing's counterterrorism measures and international concerns regarding Uyghur freedoms and family connections abroad.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates the completed bridge connecting China and North Korea is preparing for operational status, twelve years after its construction finished. The crossing is expected to significantly increase bilateral trade volume between the two countries. The bridge's opening represents a potential expansion of economic ties despite international sanctions pressures on North Korea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Pakistan and China Sign $850 Million Pharmaceutical Cooperation Agreement",
+          "brief": "Pakistan and China have signed $850 million in deals to strengthen pharmaceutical cooperation, aimed at reducing Pakistan's significant import dependence for medicines and vaccines. Chinese investment in Pakistan's pharmaceutical sector could enhance domestic production capacity and reduce reliance on foreign suppliers. This development strengthens bilateral economic ties while potentially improving Pakistan's healthcare self-sufficiency.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/pakistan-china-sign-850-million-deals-to-boost-pharmaceutical-cooperation/",
+          "published": "Mon, 27 Jul 2026 17:44:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Historical Memory Disputes Complicate Sino-Japanese Strategic Communication",
+          "brief": "Conflicting historical narratives between China and Japan are distorting strategic signaling and complicating bilateral relations. Disagreements over historical interpretation create misunderstandings that undermine efforts to establish clear communication channels and mutual understanding on security matters. This 'memory security dilemma' poses risks for regional stability by preventing accurate assessment of each side's intentions and capabilities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/china-japan-and-the-memory-security-dilemma/",
+          "published": "Mon, 27 Jul 2026 23:00:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's UN Influence Remains Selective Despite Growing Engagement",
+          "brief": "China's participation at the United Nations is more cautious and constrained than its apparent expansion suggests, according to analysis in The Diplomat. Beijing's UN engagement remains strategically selective rather than comprehensive across all issues. This limitation on China's institutional influence has implications for multilateral decision-making and Beijing's ability to shape global governance outcomes.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/the-limits-of-chinas-growing-influence-at-the-united-nations/",
+          "published": "Tue, 28 Jul 2026 04:09:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Multiple Asian Maritime Disputes Extend Beyond South China Sea",
+          "brief": "Beyond the widely-discussed South China Sea disputes, numerous other Asian waterways including open ocean areas, marshlands, and rivers face territorial contention among regional states. The existence of these overlooked maritime flashpoints suggests a broader pattern of maritime competition across Asia that extends beyond commonly monitored areas. These additional disputed waterways could escalate regional tensions and complicate maritime security dynamics if left unaddressed.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/asias-overlooked-maritime-flashpoints/",
+          "published": "Mon, 27 Jul 2026 21:44:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "PRC Foreign Minister Wang Yi Discusses China Policy at CSIS Forum",
+          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and US-China relations. The forum provided a platform for high-level dialogue on bilateral and multilateral strategic issues between the two powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Chinese chipmaker debuts with 470% stock surge amid AI demand",
+          "brief": "A Chinese chipmaker experienced an exceptional 470% share price increase during its initial public offering, reflecting strong investor demand driven by the global artificial intelligence boom. This surge underscores China's strategic push to develop domestic semiconductor capabilities and reduce reliance on foreign chip imports. The blockbuster debut signals growing confidence in China's ability to compete in advanced chip manufacturing amid ongoing U.S.-China technology competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 10:19:36 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese state becomes dominant investor in frontier technology sector",
+          "brief": "China's leading tech companies in AI, robotics, and semiconductors are increasingly funded by the Chinese state rather than traditional venture capital, marking a structural shift in how frontier technology development is financed. This state-led investment approach contrasts with Western venture capital models and suggests Beijing is strategically directing capital toward strategic technology sectors. The trend indicates China's move toward state-directed innovation funding for competitive advantage in critical technologies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
+          "published": "Sat, 25 Jul 2026 02:00:15 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China faces AI-generated disinformation during natural disaster response",
+          "brief": "Recent storms and flooding in China have been accompanied by proliferation of fake AI-generated videos on social media, complicating disaster response and public information efforts. The emergence of synthetic media during crisis situations presents challenges for information control and potential implications for emergency response coordination and public trust.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 22:07:23 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong activist granted UK stay after deportation attempt",
+          "brief": "A Hong Kong activist was detained at London's Heathrow Airport and initially refused entry before being allowed to remain in the UK. The incident reflects ongoing tensions between Beijing and Western nations over Hong Kong autonomy and highlights the UK's willingness to provide refuge to Hong Kong political figures despite potential diplomatic friction with China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 28 Jul 2026 04:59:36 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong banks unprepared for quantum computing cybersecurity threats",
+          "brief": "The Hong Kong Monetary Authority launched a Quantum Preparedness Index revealing the banking sector scored only 2.3 out of 10, indicating early-stage readiness for quantum computing security risks. Most financial institutions are still in foundational phases of transitioning to quantum-resistant cybersecurity measures. This significant vulnerability gap could expose Hong Kong's financial system to future quantum-enabled cyberattacks if not addressed promptly.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362033/hong-kong-banks-early-stages-preparing-quantum-computing-threats-hkma-says?utm_source=rss_feed",
+          "published": "Mon, 27 Jul 2026 13:50:35 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong secures first major Southeast Asian bond listing from Malaysia",
+          "brief": "Hong Kong has attracted a US$1.5 billion Malaysian Islamic bond dual listing on HKEX and Bursa Malaysia, representing the first concrete outcome of Hong Kong's strategic outreach to Southeast Asian financial markets. The listing reflects Hong Kong's efforts to position itself as a financing hub for ASEAN companies and demonstrates initial success in deepening financial ties with the region. This development strengthens Hong Kong's role in cross-border Islamic finance and regional capital markets integration.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3362099/hong-kongs-asean-charm-offensive-bags-us15-billion-malaysian-bond-listing?utm_source=rss_feed",
+          "published": "Tue, 28 Jul 2026 08:00:08 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 15,
+        "high_priority": 0,
+        "by_category": {
+          "foreign_relations": 8,
+          "economy": 5,
+          "military": 2
+        },
+        "updated_at": "2026-07-28T11:50:55.816343Z"
+      }
+    },
+    {
       "date": "2026-07-27",
       "articles": [
         {
