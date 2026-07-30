@@ -1,165 +1,33 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "metrics": {
     "sources_scanned": 7,
-    "articles_total": 22,
-    "high_priority": 4,
+    "articles_total": 18,
+    "high_priority": 1,
     "by_category": {
-      "economy": 9,
-      "foreign_relations": 12,
-      "military": 1
+      "military": 3,
+      "foreign_relations": 6,
+      "economy": 9
     },
-    "updated_at": "2026-07-29T11:54:19.577955Z"
+    "updated_at": "2026-07-30T11:46:05.869144Z"
   },
   "articles": [
     {
-      "headline": "RIMPAC 2026 Exercise Emphasizes Indo-Pacific Naval Deterrence",
-      "brief": "The 2026 iteration of RIMPAC, a multinational maritime exercise, reflects strategic concepts focused on countering Chinese naval capabilities in the Indo-Pacific region. The exercise demonstrates allied coordination in maritime operations and represents a continued military presence aimed at addressing China's expanding naval influence. This signals sustained U.S. and allied commitment to maintaining freedom of navigation and regional stability.",
+      "headline": "China Coast Guard Establishes Regular Presence East of Taiwan",
+      "brief": "The China Coast Guard has established a sustained operational presence in waters east of Taiwan, signaling Beijing's assertion of jurisdictional claims over the region. This move appears timed to strengthen China's negotiating position ahead of potential high-level diplomatic engagement. The increased military presence could escalate tensions in the Taiwan Strait and complicate future U.S.-China discussions.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/07/rimpac-2026-and-the-future-of-multinational-maritime-operations-in-the-indo-pacific/",
-      "published": "Tue, 28 Jul 2026 04:39:00 +0900",
+      "original_link": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
+      "published": "Wed, 29 Jul 2026 23:19:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China enacts law extending ethnic unity enforcement globally",
-      "brief": "China has passed an 'ethnic unity and progress promotion' law with extraterritorial reach, potentially affecting individuals and organizations outside its borders. The legislation signals Beijing's intent to enforce domestic ethnic policies internationally, raising concerns about compliance obligations for foreign entities and individuals. This represents an expansion of China's regulatory authority beyond its territory with implications for foreign relations and international business operations.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-      "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Promotes Internet Sovereignty as Global Governing Concept",
-      "brief": "China is advancing an 'Internet sovereignty' initiative to establish state control as a foundational principle for global internet governance. This concept challenges the existing international framework and could have significant implications for cybersecurity, information control, and great power competition in the digital domain.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Tibetan activist dies after self-immolation outside UN headquarters",
-      "brief": "A Tibetan activist died after setting himself on fire outside United Nations headquarters, an incident occurring one day after China's new 'ethnic unity law' took effect. The self-immolation represents a significant protest against Chinese policies and draws international attention to tensions surrounding Tibet. The timing and location suggest deliberate messaging regarding concerns over China's ethnic policy implementation.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
-      "published": "Fri, 03 Jul 2026 15:10:50 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "US bans new Chinese humanoid robots in technology competition",
-      "brief": "The Trump administration has imposed a ban on new Chinese humanoid robots, escalating US-China competition in robotics and artificial intelligence. The measure reflects broader strategic concerns about technological dominance in emerging AI sectors. This development signals intensifying restrictions on Chinese advanced technology imports as both nations vie for leadership in robotics and AI capabilities.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 02:30:50 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "China Consolidates South China Sea Control Through Normalization Strategy",
-      "brief": "China is implementing measures to solidify its administrative control over the South China Sea, effectively normalizing its presence in disputed waters. This strategy has significant implications for regional trade routes, resource access, and the balance of power in one of the world's most economically vital maritime regions. The approach appears designed to gradually establish de facto control while avoiding acute confrontation with rival claimants.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/beijings-next-play-south-china-sea",
-      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "U.S. Maintains Strategic Economic Advantage Through Allied Coordination",
-      "brief": "The article asserts that the United States retains competitive advantage over China in economic competition, contingent upon coordinated strategy with allied nations. The analysis suggests that multilateral cooperation is essential for sustaining U.S. economic positioning relative to China.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china",
-      "published": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China faces economic challenges amid shifting US strategic calculus",
-      "brief": "China is experiencing economic deterioration that presents strategic opportunities for the United States to reassess its competitive positioning. The confluence of China's economic weakness and American strategic interests may reshape bilateral dynamics and regional balances of power. This development has significant implications for global trade, investment patterns, and great power competition.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
-      "published": "Thu, 23 Jul 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China Imposes Sanctions on Two Polish High-Tech Institutions",
-      "brief": "China has sanctioned two unspecified high-tech institutions in Poland without providing official justification, marking an escalation in technology-sector tensions between Beijing and Warsaw. The move likely reflects broader U.S.-China competition over advanced technology access and Poland's NATO alignment, with potential implications for technology transfer restrictions and bilateral relations in Eastern Europe.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/why-did-china-sanction-2-high-tech-institutions-in-poland/",
-      "published": "Wed, 29 Jul 2026 00:07:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Taiwan leverages economic tools after PNG diplomatic setback",
-      "brief": "Taiwan is testing economic pressure through a liquefied natural gas review following Papua New Guinea's closure of its representative office, signaling a shift in Taipei's diplomatic strategy. Analysts indicate this represents Taiwan's attempt to use economic leverage in response to Beijing's influence, though Taiwan's overall economic coercive capacity remains constrained. The move reflects Taiwan's gradual adaptation to increasing diplomatic isolation.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-      "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
-      "brief": "China released a music video featuring a love song that experts assess is designed to humanize the Chinese coast guard while reinforcing Beijing's disputed claims in the South China Sea. The multimedia approach represents China's use of soft power and cultural messaging to advance its geopolitical position in the contested waters. This reflects Beijing's broader strategy to normalize its presence and activities in the region through diverse communications channels.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
-      "published": "Wed, 22 Jul 2026 20:38:57 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China sanctions Philippine defense chief over regional disputes",
-      "brief": "China has imposed sanctions on the Philippine defense chief, with analysts assessing this as an effort to undermine Manila's South China Sea territorial claims by invoking Japan's historical role in the region. The move reflects Beijing's strategy of leveraging historical narratives to delegitimize competing claims and exert diplomatic pressure on regional actors.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
-      "published": "Tue, 14 Jul 2026 18:23:28 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China conducts Pacific missile test amid regional defense agreements",
-      "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji's new defense pact and allied military exercises. The timing suggests the test was intended as a signal to U.S.-aligned partners regarding China's military capabilities in the region. The incident reflects escalating strategic competition and messaging in the Indo-Pacific as security partnerships among Western-aligned nations strengthen.",
-      "category": "foreign_relations",
+      "headline": "China conducts Pacific missile test amid U.S. allied military activities",
+      "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji signing a defense pact and concurrent allied military exercises. Analysts assess the test as a strategic messaging effort to demonstrate military capabilities to the United States and its regional partners. The timing suggests China is responding to increased allied military coordination in the Indo-Pacific.",
+      "category": "military",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
@@ -169,32 +37,104 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China focuses on Japan, Philippines military capabilities amid U.S. rivalry",
-      "brief": "Beijing is closely monitoring the military integration and capabilities of Japan and the Philippines in the South China Sea region. Experts assess that China's scrutiny reflects concerns about coordinated military presence by U.S.-aligned regional partners. Despite this focus, the United States remains China's primary strategic rival according to analysts.",
+      "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
+      "brief": "The Philippines marked ten years since an international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The ruling remains a flashpoint in regional relations, with persistent disagreement among stakeholders on dispute resolution mechanisms. The ongoing tension reflects fundamental disagreements between claimants that complicate prospects for stability in one of the world's most strategically important waterways.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
-      "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+      "published": "Sat, 11 Jul 2026 14:57:56 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Shanghai Clearing House expands offshore yuan services globally",
-      "brief": "China's Shanghai Clearing House is implementing a strategy to increase international adoption of offshore yuan and expand its derivatives clearing services through global financial networks. The initiative aims to strengthen Shanghai's position as a hub for yuan clearing while protecting China's domestic financial system from cross-border risks. This represents a significant effort to internationalize the yuan and consolidate China's influence over offshore financial infrastructure.",
+      "headline": "China's AI advancement creates domestic security dilemmas",
+      "brief": "China faces a strategic trade-off as its artificial intelligence capabilities advance: open-source AI models that enhance Beijing's global influence and competitiveness may simultaneously create vulnerabilities to national security and geopolitical strategy. This tension between leveraging AI's commercial and diplomatic benefits while protecting sensitive military and strategic applications represents a significant policy challenge for Chinese leadership.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+      "published": "Thu, 30 Jul 2026 09:02:20 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China enacts extraterritorial ethnic unity law with global reach",
+      "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and entities internationally. The legislation's extraterritorial scope represents Beijing's effort to enforce domestic ethnic policy frameworks globally, raising significant implications for foreign relations and international legal jurisdiction. This move signals China's intent to project domestic governance standards onto the international community.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+      "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Implements Forced Assimilation Policy Into Law",
+      "brief": "China has formally codified forced assimilation measures targeting minority populations into legal framework. This escalation of previous policies represents a significant shift toward institutionalizing cultural integration efforts. The policy carries implications for regional stability, international relations, and multinational business operations in affected areas.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+      "published": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
+      "brief": "Chinese police in Urumqi arrested a Uyghur mother and two daughters accused of sending goods to Turkey, with authorities characterizing the activity as support for terrorists. The arrests reflect ongoing Chinese security operations in Xinjiang and illustrate restrictions on cross-border commerce and communications involving Uyghur populations. The incident underscores tensions between China's counter-terrorism policies and international concerns regarding Uyghur freedoms.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+      "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China-North Korea bridge nears opening after 12-year delay",
+      "brief": "Satellite imagery indicates imminent opening of a bridge connecting China and North Korea, originally completed over a decade ago but not yet operational. The crossing is expected to significantly facilitate bilateral trade and strengthen economic ties between the two countries. The delayed activation suggests potential diplomatic or logistical considerations surrounding cross-border commerce.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+      "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "US Addresses Chinese Technological Advantage Through Diplomatic Strategy",
+      "brief": "The article discusses emerging artificial intelligence diplomacy as a tool for the United States to counter China's growing technological capabilities and influence. The piece emphasizes the strategic importance of international engagement in AI governance and competition. The significant implication is that great power competition is increasingly shifting toward technological and diplomatic domains beyond traditional military spheres.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/07/how-the-us-can-counter-chinas-emerging-tech-trap/",
+      "published": "Thu, 30 Jul 2026 01:27:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China intensifies corporate insider trading crackdown on executives",
+      "brief": "Chinese securities regulators have placed at least 21 senior executives and controlling shareholders from 20 listed companies under investigation during the first half of 2026 as part of an intensified anti-corruption campaign. The enforcement action includes criminal sentences, substantial fines, and market bans aimed at restoring investor confidence in China's stock markets. This regulatory escalation signals Beijing's commitment to addressing corporate governance issues and market integrity concerns.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/markets/article/3362189/shanghai-clearing-house-targets-global-growth-expanded-offshore-yuan-push?utm_source=rss_feed",
-      "published": "Tue, 28 Jul 2026 23:34:00 +0000",
+      "original_link": "https://www.scmp.com/business/markets/article/3362351/chinas-corporate-crackdown-insider-trading-fines-and-bans-intensify?utm_source=rss_feed",
+      "published": "Thu, 30 Jul 2026 07:00:05 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Chinese chipmaker achieves record IPO surge amid AI chip demand",
-      "brief": "A Chinese chipmaker's shares increased nearly 470% during its stock market debut, driven by surging global demand for AI semiconductors. The dramatic market response reflects intense competition in advanced chip manufacturing and China's efforts to develop domestic semiconductor capabilities independent of Western suppliers. This development has implications for technology supply chain resilience and the geopolitical competition over critical semiconductor production.",
+      "headline": "Chinese chipmaker debuts with unprecedented 470% stock surge",
+      "brief": "A Chinese chipmaker experienced exceptional market performance with a nearly 470% share price increase during its stock market debut, driven by surging global demand for AI chips. This development reflects China's efforts to advance domestic semiconductor capabilities amid ongoing U.S. export restrictions. The strong investor reception indicates growing confidence in China's ability to develop competitive chip technology for artificial intelligence applications.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -205,76 +145,88 @@
       "raw_source": "BBC News"
     },
     {
-      "headline": "Shein Reports $99M Loss Amid Trump Tariff Pressures",
-      "brief": "Chinese fast fashion retailer Shein announced a $99 million loss as it prepares for a Hong Kong stock market debut, with Trump administration tariffs cited as a significant factor impacting sales. The tariff environment represents a material headwind for Chinese e-commerce companies targeting U.S. consumers. This development reflects broader trade friction between the U.S. and China affecting Chinese commercial operations.",
+      "headline": "Southeast Asia scrutinizes Chinese private equity expansion",
+      "brief": "Chinese private equity firms have significantly expanded their investments across Southeast Asia, prompting regional governments to increase oversight of these financial activities. The expansion raises concerns about economic dependence on Chinese capital and potential strategic influence, with authorities reassessing investment frameworks to balance growth with sovereignty considerations.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "The Diplomat"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Jul 2026 02:08:36 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://thediplomat.com/2026/07/following-expansion-in-china-regional-private-equity-faces-new-scrutiny-in-southeast-asia/",
+      "published": "Wed, 29 Jul 2026 20:25:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "China's Foreign Minister discusses Beijing's foreign policy at CSIS",
-      "brief": "Wang Yi, China's Minister of Foreign Affairs, participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and US-China relations. The forum provided a platform for direct communication of Beijing's strategic positions to US policy and intelligence communities. This engagement reflects China's continued diplomatic outreach during a period of significant geopolitical competition.",
+      "headline": "Hong Kong official disputes economist's criticism of city's autonomy",
+      "brief": "A senior Hong Kong finance official responded to American economist Stephen Roach's commentary asserting that Hong Kong has become a mainland Chinese city, characterizing such criticism as bias rather than objective analysis. The exchange reflects ongoing tensions regarding Hong Kong's political and economic status following recent governance changes, with Beijing-aligned officials actively countering external assessments of the territory's transformation.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "CSIS"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362345/hong-kong-official-slams-bias-against-china-after-new-article-stephen-roach?utm_source=rss_feed",
+      "published": "Thu, 30 Jul 2026 04:53:24 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Mainland Chinese firms leverage Hong Kong for Southeast Asian expansion",
-      "brief": "A Trade Development Council survey found that over 90% of mainland Chinese enterprises plan overseas expansion within two years, with more than 80% utilizing Hong Kong as their primary gateway into ASEAN markets. This trend reflects China's strategic economic repositioning toward Southeast Asia and Hong Kong's continued role as a financial and commercial hub despite geopolitical tensions.",
+      "headline": "Hong Kong universities secure record research funding with AI focus",
+      "brief": "Hong Kong's public research funding body approved a record 12 university projects worth HK$478 million, with artificial intelligence comprising over one-third of successful proposals. The funding emphasis on AI development, particularly energy-efficient data center technology, reflects Hong Kong and China's strategic prioritization of AI capabilities in the competitive technology landscape.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362280/80-mainland-chinese-firms-eye-hong-kong-launch-pad-asean-expansion?utm_source=rss_feed",
-      "published": "Wed, 29 Jul 2026 11:05:26 +0000",
+      "original_link": "https://www.scmp.com/news/hong-kong/education/article/3362305/ai-major-focus-hong-kong-funds-record-12-university-research-projects?utm_source=rss_feed",
+      "published": "Wed, 29 Jul 2026 15:01:14 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Hong Kong exports surge on global AI demand, GDP growth accelerates",
-      "brief": "Hong Kong's export sector is experiencing sustained growth driven by global artificial intelligence demand, with economists predicting GDP growth may exceed official forecasts. The AI boom shows no signs of saturation, positioning Hong Kong as a beneficiary of continued international demand for AI-related exports. This economic expansion has implications for Hong Kong's role in regional trade networks and its competitive positioning in high-tech sectors.",
+      "headline": "HSBC relocates senior executive to Hong Kong, reinforces Asia strategy",
+      "brief": "HSBC is relocating its group chief people and governance officer from London to Hong Kong as part of a strategic pivot to strengthen its Asian operations and presence in its largest market. This executive-level repositioning signals the bank's commitment to expanding its Hong Kong and Asia-focused business amid broader institutional realignment in the region.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362167/ai-boom-will-sustain-hong-kongs-export-surge-lift-gdp-outlook-economists-say?utm_source=rss_feed",
-      "published": "Wed, 29 Jul 2026 00:30:07 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362190/hsbc-relocate-senior-executive-hong-kong-amid-pivot-asia-sources?utm_source=rss_feed",
+      "published": "Wed, 29 Jul 2026 02:00:11 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "PNG relief disparities emerge after Chinese, Australian cyclone aid",
-      "brief": "Papua New Guinea received substantial disaster relief donations from China and Australia following Cyclone Maila, but government distribution has been limited to severely affected areas, leaving some residents without assistance. The uneven aid allocation highlights implementation challenges in disaster response and potential disparities in how international relief reaches affected populations. This situation reflects broader questions about aid effectiveness and equitable resource distribution in the Pacific region.",
-      "category": "foreign_relations",
+      "headline": "Hong Kong expands securities settlement platform with European markets",
+      "brief": "Hong Kong's Monetary Authority has connected its Central Moneymarkets Unit (CMU) settlement platform with Switzerland's SIX stock exchange, providing direct access to Swiss and Spanish securities. The HKMA simultaneously launched equity post-trade services on the CMU platform for the first time. These developments enhance Hong Kong's position as a financial hub and increase regional connectivity to European capital markets.",
+      "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Radio Free Asia"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://rfa.org/english/pacific/2026/07/02/china-papua-new-guinea-cyclone-relief/",
-      "published": "Thu, 02 Jul 2026 14:08:59 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362286/hong-kong-expands-cmus-global-reach-swiss-spanish-securities-link?utm_source=rss_feed",
+      "published": "Wed, 29 Jul 2026 11:46:01 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Hong Kong activist permitted to remain in UK despite deportation attempt",
-      "brief": "A Hong Kong activist was detained at London's Heathrow Airport and initially refused entry before being allowed to stay in the UK. The case reflects growing tensions between China and Western nations regarding treatment of pro-democracy activists and immigration policy disputes. This incident underscores differing approaches to asylum and political dissent between Beijing and the UK.",
-      "category": "foreign_relations",
+      "headline": "Hong Kong gold imports reach 11-year high amid trading hub push",
+      "brief": "Hong Kong's gold imports surged to 150.48 tonnes in June 2024, marking the highest monthly volume in over a decade and representing a 29 percent month-on-month increase. The increase reflects renewed investor demand and Hong Kong's strategic efforts to establish itself as a premier international precious metals trading hub. This development signals growing financial activity in the region and Hong Kong's continued importance in global commodity markets despite broader geopolitical considerations.",
+      "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 04:59:36 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362350/trading-hub-ambitions-see-hong-kongs-gold-imports-hit-11-year-high-june?utm_source=rss_feed",
+      "published": "Thu, 30 Jul 2026 05:27:21 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "HKMA maintains rate as traders anticipate US September increase",
+      "brief": "The Hong Kong Monetary Authority held its base rate at 4 percent following the Federal Reserve's decision to maintain rates at 3.5-3.75 percent, while US traders are positioning for a rate increase in September. The divergence between current policy and market expectations for near-term US rate adjustments creates potential volatility for Hong Kong's currency peg and capital flows. Market participants are pricing in monetary policy divergence that could impact regional financial stability and cross-border investment decisions.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged?utm_source=rss_feed",
+      "published": "Wed, 29 Jul 2026 23:09:43 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -293,52 +245,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "Characterized by strategic competition, trade tensions, and disagreements over technology, human rights, and regional security in the Indo-Pacific."
+      "summary": "China-US relations remain strained due to trade tensions, technology competition, geopolitical rivalry, and disputes over Taiwan and the South China Sea."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "Strengthened partnership following Russia's invasion of Ukraine, with increased diplomatic coordination and energy/trade cooperation despite shared concerns with the West."
+      "summary": "China and Russia maintain a strategic partnership characterized by military cooperation, energy ties, and alignment against Western pressure, though without formal alliance."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "Complex relationship balancing trade interdependence with concerns over human rights, technology competition, and China's relationship with Russia."
+      "summary": "EU-China relations balance economic interdependence with growing concern over human rights, market access, and geopolitical competition, resulting in pragmatic but cautious engagement."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "Deeply adversarial with China asserting sovereignty claims and increasing military pressure while Taiwan maintains de facto independence supported by the United States."
+      "summary": "China views Taiwan as a breakaway province and has increased military pressure, threatening military reunification, while Taiwan maintains de facto independence with US support."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "Strained by historical disputes, territorial disagreements over the East China Sea, and Japan's security alliance with the United States."
+      "summary": "China-Japan relations are strained by historical grievances, territorial disputes over the Senkaku Islands, regional security competition, and Japan's strengthening security ties with the US."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Deteriorated following the 2020 border clash in Ladakh, with ongoing military tensions and strategic competition in South Asia and the Indo-Pacific."
+      "summary": "Border disputes, particularly in Ladakh, military clashes, and strategic rivalry in South and East Asia create persistent tensions between China and India."
     },
     {
       "country": "Saudi Arabia",
-      "status": "Cooperative",
-      "summary": "Growing partnership focused on energy security, investment, and regional stability, though without the formal alliance structure of U.S.-Saudi ties."
+      "status": "Neutral",
+      "summary": "China maintains pragmatic relations with Saudi Arabia focused on energy cooperation, investment, and regional stability, while avoiding direct alignment in Middle Eastern conflicts."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Balanced approach by Manila managing U.S. alliance commitments with economic ties and diplomatic engagement with China despite South China Sea disputes."
+      "summary": "Despite South China Sea territorial disputes, the Philippines pursues engagement with China on economic and infrastructure cooperation while managing security concerns."
     },
     {
       "country": "Brazil",
-      "status": "Neutral",
-      "summary": "Pragmatic relationship centered on trade and investment with limited strategic alignment, though Brazil maintains independent foreign policy positioning."
+      "status": "Cooperative",
+      "summary": "China and Brazil maintain strong economic ties centered on trade and investment, with cooperation on development issues, though maintaining independent foreign policies."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Strained by trade disputes, national security concerns, and Australia's close alliance with the United States in Indo-Pacific security matters."
+      "summary": "Relations deteriorated following Australia's call for COVID-19 investigations and support for US interests, resulting in Chinese trade restrictions and diplomatic tensions."
     }
   ]
 }
