@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-07-30",
+      "articles": [
+        {
+          "headline": "China Coast Guard Establishes Regular Presence East of Taiwan",
+          "brief": "The China Coast Guard has established a sustained operational presence in waters east of Taiwan, signaling Beijing's assertion of jurisdictional claims over the region. This move appears timed to strengthen China's negotiating position ahead of potential high-level diplomatic engagement. The increased military presence could escalate tensions in the Taiwan Strait and complicate future U.S.-China discussions.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
+          "published": "Wed, 29 Jul 2026 23:19:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducts Pacific missile test amid U.S. allied military activities",
+          "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji signing a defense pact and concurrent allied military exercises. Analysts assess the test as a strategic messaging effort to demonstrate military capabilities to the United States and its regional partners. The timing suggests China is responding to increased allied military coordination in the Indo-Pacific.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
+          "brief": "The Philippines marked ten years since an international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The ruling remains a flashpoint in regional relations, with persistent disagreement among stakeholders on dispute resolution mechanisms. The ongoing tension reflects fundamental disagreements between claimants that complicate prospects for stability in one of the world's most strategically important waterways.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's AI advancement creates domestic security dilemmas",
+          "brief": "China faces a strategic trade-off as its artificial intelligence capabilities advance: open-source AI models that enhance Beijing's global influence and competitiveness may simultaneously create vulnerabilities to national security and geopolitical strategy. This tension between leveraging AI's commercial and diplomatic benefits while protecting sensitive military and strategic applications represents a significant policy challenge for Chinese leadership.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+          "published": "Thu, 30 Jul 2026 09:02:20 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China enacts extraterritorial ethnic unity law with global reach",
+          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and entities internationally. The legislation's extraterritorial scope represents Beijing's effort to enforce domestic ethnic policy frameworks globally, raising significant implications for foreign relations and international legal jurisdiction. This move signals China's intent to project domestic governance standards onto the international community.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Implements Forced Assimilation Policy Into Law",
+          "brief": "China has formally codified forced assimilation measures targeting minority populations into legal framework. This escalation of previous policies represents a significant shift toward institutionalizing cultural integration efforts. The policy carries implications for regional stability, international relations, and multinational business operations in affected areas.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+          "published": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese police in Urumqi arrested a Uyghur mother and two daughters accused of sending goods to Turkey, with authorities characterizing the activity as support for terrorists. The arrests reflect ongoing Chinese security operations in Xinjiang and illustrate restrictions on cross-border commerce and communications involving Uyghur populations. The incident underscores tensions between China's counter-terrorism policies and international concerns regarding Uyghur freedoms.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates imminent opening of a bridge connecting China and North Korea, originally completed over a decade ago but not yet operational. The crossing is expected to significantly facilitate bilateral trade and strengthen economic ties between the two countries. The delayed activation suggests potential diplomatic or logistical considerations surrounding cross-border commerce.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US Addresses Chinese Technological Advantage Through Diplomatic Strategy",
+          "brief": "The article discusses emerging artificial intelligence diplomacy as a tool for the United States to counter China's growing technological capabilities and influence. The piece emphasizes the strategic importance of international engagement in AI governance and competition. The significant implication is that great power competition is increasingly shifting toward technological and diplomatic domains beyond traditional military spheres.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/how-the-us-can-counter-chinas-emerging-tech-trap/",
+          "published": "Thu, 30 Jul 2026 01:27:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China intensifies corporate insider trading crackdown on executives",
+          "brief": "Chinese securities regulators have placed at least 21 senior executives and controlling shareholders from 20 listed companies under investigation during the first half of 2026 as part of an intensified anti-corruption campaign. The enforcement action includes criminal sentences, substantial fines, and market bans aimed at restoring investor confidence in China's stock markets. This regulatory escalation signals Beijing's commitment to addressing corporate governance issues and market integrity concerns.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3362351/chinas-corporate-crackdown-insider-trading-fines-and-bans-intensify?utm_source=rss_feed",
+          "published": "Thu, 30 Jul 2026 07:00:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese chipmaker debuts with unprecedented 470% stock surge",
+          "brief": "A Chinese chipmaker experienced exceptional market performance with a nearly 470% share price increase during its stock market debut, driven by surging global demand for AI chips. This development reflects China's efforts to advance domestic semiconductor capabilities amid ongoing U.S. export restrictions. The strong investor reception indicates growing confidence in China's ability to develop competitive chip technology for artificial intelligence applications.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 27 Jul 2026 10:19:36 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Southeast Asia scrutinizes Chinese private equity expansion",
+          "brief": "Chinese private equity firms have significantly expanded their investments across Southeast Asia, prompting regional governments to increase oversight of these financial activities. The expansion raises concerns about economic dependence on Chinese capital and potential strategic influence, with authorities reassessing investment frameworks to balance growth with sovereignty considerations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/07/following-expansion-in-china-regional-private-equity-faces-new-scrutiny-in-southeast-asia/",
+          "published": "Wed, 29 Jul 2026 20:25:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong official disputes economist's criticism of city's autonomy",
+          "brief": "A senior Hong Kong finance official responded to American economist Stephen Roach's commentary asserting that Hong Kong has become a mainland Chinese city, characterizing such criticism as bias rather than objective analysis. The exchange reflects ongoing tensions regarding Hong Kong's political and economic status following recent governance changes, with Beijing-aligned officials actively countering external assessments of the territory's transformation.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362345/hong-kong-official-slams-bias-against-china-after-new-article-stephen-roach?utm_source=rss_feed",
+          "published": "Thu, 30 Jul 2026 04:53:24 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong universities secure record research funding with AI focus",
+          "brief": "Hong Kong's public research funding body approved a record 12 university projects worth HK$478 million, with artificial intelligence comprising over one-third of successful proposals. The funding emphasis on AI development, particularly energy-efficient data center technology, reflects Hong Kong and China's strategic prioritization of AI capabilities in the competitive technology landscape.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/education/article/3362305/ai-major-focus-hong-kong-funds-record-12-university-research-projects?utm_source=rss_feed",
+          "published": "Wed, 29 Jul 2026 15:01:14 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "HSBC relocates senior executive to Hong Kong, reinforces Asia strategy",
+          "brief": "HSBC is relocating its group chief people and governance officer from London to Hong Kong as part of a strategic pivot to strengthen its Asian operations and presence in its largest market. This executive-level repositioning signals the bank's commitment to expanding its Hong Kong and Asia-focused business amid broader institutional realignment in the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362190/hsbc-relocate-senior-executive-hong-kong-amid-pivot-asia-sources?utm_source=rss_feed",
+          "published": "Wed, 29 Jul 2026 02:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong expands securities settlement platform with European markets",
+          "brief": "Hong Kong's Monetary Authority has connected its Central Moneymarkets Unit (CMU) settlement platform with Switzerland's SIX stock exchange, providing direct access to Swiss and Spanish securities. The HKMA simultaneously launched equity post-trade services on the CMU platform for the first time. These developments enhance Hong Kong's position as a financial hub and increase regional connectivity to European capital markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362286/hong-kong-expands-cmus-global-reach-swiss-spanish-securities-link?utm_source=rss_feed",
+          "published": "Wed, 29 Jul 2026 11:46:01 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong gold imports reach 11-year high amid trading hub push",
+          "brief": "Hong Kong's gold imports surged to 150.48 tonnes in June 2024, marking the highest monthly volume in over a decade and representing a 29 percent month-on-month increase. The increase reflects renewed investor demand and Hong Kong's strategic efforts to establish itself as a premier international precious metals trading hub. This development signals growing financial activity in the region and Hong Kong's continued importance in global commodity markets despite broader geopolitical considerations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362350/trading-hub-ambitions-see-hong-kongs-gold-imports-hit-11-year-high-june?utm_source=rss_feed",
+          "published": "Thu, 30 Jul 2026 05:27:21 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HKMA maintains rate as traders anticipate US September increase",
+          "brief": "The Hong Kong Monetary Authority held its base rate at 4 percent following the Federal Reserve's decision to maintain rates at 3.5-3.75 percent, while US traders are positioning for a rate increase in September. The divergence between current policy and market expectations for near-term US rate adjustments creates potential volatility for Hong Kong's currency peg and capital flows. Market participants are pricing in monetary policy divergence that could impact regional financial stability and cross-border investment decisions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged?utm_source=rss_feed",
+          "published": "Wed, 29 Jul 2026 23:09:43 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 18,
+        "high_priority": 1,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 6,
+          "economy": 9
+        },
+        "updated_at": "2026-07-30T11:46:05.869144Z"
+      }
+    },
+    {
       "date": "2026-07-29",
       "articles": [
         {
