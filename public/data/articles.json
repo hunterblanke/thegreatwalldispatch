@@ -1,32 +1,31 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "metrics": {
-    "sources_scanned": 6,
-    "articles_total": 20,
-    "high_priority": 3,
+    "sources_scanned": 5,
+    "articles_total": 18,
+    "high_priority": 2,
     "by_category": {
-      "military": 2,
-      "economy": 7,
-      "foreign_relations": 11
+      "foreign_relations": 13,
+      "economy": 5
     },
-    "updated_at": "2026-07-31T11:52:45.043035Z"
+    "updated_at": "2026-08-01T11:10:55.274628Z"
   },
   "articles": [
     {
-      "headline": "China Conducts First Submarine-Launched Ballistic Missile Test",
-      "brief": "China conducted its first submarine-launched ballistic missile (SLBM) test in international waters on July 6, marking a significant demonstration of its naval deterrent capabilities. The test represents an advancement in China's second-strike nuclear capability and reflects its ongoing modernization of strategic weapons systems. This development has implications for regional military balance and strategic stability in the Indo-Pacific.",
-      "category": "military",
+      "headline": "China Enacts Legal Framework for Minority Assimilation Policies",
+      "brief": "China has formalized forced assimilation measures targeting minority populations through new legislation. This legal codification represents an escalation of existing policies and may impact China's international relations, particularly with Western nations and neighboring countries concerned with minority rights. The move signals increased state control over minority cultural and social practices.",
+      "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "The Diplomat"
+        "FA RSS"
       ],
-      "original_link": "https://thediplomat.com/2026/07/why-did-china-test-a-submarine-launched-ballistic-missile/",
-      "published": "Thu, 30 Jul 2026 23:23:00 +0900",
-      "raw_source": "The Diplomat"
+      "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+      "published": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
     },
     {
-      "headline": "China Enacts Law Extending Ethnic Policy Enforcement Globally",
-      "brief": "China has passed an 'ethnic unity and progress promotion' law that extends its enforcement mechanisms beyond its borders, potentially affecting overseas populations and entities. The legislation signals Beijing's intent to project its domestic ethnic governance policies internationally, raising concerns about extraterritorial application and foreign relations implications. This expansion of China's regulatory reach beyond its territory represents a significant shift in how it seeks to influence and control diaspora communities and foreign entities.",
+      "headline": "China enacts ethnic unity law with extraterritorial reach",
+      "brief": "China has passed an 'ethnic unity and progress promotion' law that Beijing claims applies beyond its borders, potentially affecting diaspora communities and foreign entities. The extraterritorial scope of the legislation raises significant questions about China's assertion of legal jurisdiction over non-Chinese territories and populations. This development has implications for international relations and the rights of overseas Chinese communities.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
@@ -37,32 +36,44 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Tibetan activist dies after self-immolation at UN headquarters",
-      "brief": "A Tibetan activist died after setting himself on fire outside UN headquarters in New York, occurring one day after China's new 'ethnic unity law' took effect. The incident highlights ongoing tensions regarding Tibet's autonomy and ethnic policies under Chinese jurisdiction. This act of protest draws international attention to concerns about religious freedom and minority rights in China.",
+      "headline": "China conducts Pacific missile test amid regional defense developments",
+      "brief": "China conducted a missile test in the Pacific region coinciding with the signing of an Australia-Fiji defense pact and ongoing allied military exercises. Analysts assess the test as a deliberate signal to U.S. allies regarding China's military capabilities and strategic positioning in the region. The timing suggests China's response to increased allied military coordination and defense cooperation in the Indo-Pacific.",
       "category": "foreign_relations",
-      "severity": "high",
+      "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
-      "published": "Fri, 03 Jul 2026 15:10:50 +0000",
+      "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
+      "published": "Tue, 07 Jul 2026 17:23:21 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Consolidates South China Sea Control Through Normalization",
-      "brief": "China is implementing strategies to normalize its administrative and economic control over disputed South China Sea territories. This approach appears designed to establish de facto sovereignty through civilian infrastructure, regulatory measures, and commercial activities rather than overt military expansion. The normalization process carries significant implications for regional economic zones, maritime trade routes, and the balance of power among competing territorial claimants.",
-      "category": "economy",
+      "headline": "Solomon Islands Signs Security Pact with US, Maintains Balanced Engagement",
+      "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutral diplomatic stance toward both Washington and Beijing. Regional experts characterize simultaneous engagement with both major powers as standard practice for Pacific island nations. The agreement reflects continued US efforts to strengthen security partnerships in the Indo-Pacific amid broader geopolitical competition with China.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "FA RSS"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.foreignaffairs.com/china/beijings-next-play-south-china-sea",
-      "published": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
+      "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+      "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Taiwan leverages LNG review after Papua New Guinea closes office",
-      "brief": "Taiwan is testing economic countermeasures following Papua New Guinea's closure of its representative office, reportedly reviewing liquefied natural gas agreements. Analysts indicate this reflects a gradual shift in Taiwan's approach to economic pressure from Beijing, though Taiwan's overall leverage remains constrained. The incident highlights Taiwan's limited economic tools in response to further diplomatic losses.",
+      "headline": "Philippines commemorates decade since South China Sea court ruling",
+      "brief": "The Philippines marked the 10th anniversary of an international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The unresolved disagreement reflects persistent tensions in the region, with no consensus emerging on dispute resolution mechanisms. This ongoing impasse highlights continued friction between Beijing and Manila over maritime territorial claims.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+      "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Taiwan leverages LNG review after PNG office closure",
+      "brief": "Taiwan is testing economic pressure following Papua New Guinea's closure of Taipei's representative office, reportedly by reviewing liquefied natural gas arrangements. Analysts view this as a gradual shift in Taiwan's strategy to assert economic leverage in response to diplomatic setbacks, though experts assess Taipei's overall leverage remains constrained. The development reflects Taiwan's limited but expanding toolkit for responding to China-aligned diplomatic losses in the Pacific region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -73,104 +84,8 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Indonesia's Chinese Fighter Purchase May Strain ASEAN Cohesion",
-      "brief": "President Prabowo Subianto's acquisition of Chinese military aircraft represents a strategic hedging approach that maintains diplomatic flexibility but risks fragmenting Indonesia's military capabilities and creating regional uncertainty. The purchase may test ASEAN unity given the bloc's varied relationships with China and defense partnerships with Western nations.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/indonesias-chinese-fighter-gamble-will-test-asean-trust/",
-      "published": "Thu, 30 Jul 2026 16:16:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Regional Maritime Governance Models Diverge Over South China Sea",
-      "brief": "A Jakarta conference highlighted fundamental disagreement between legalistic and relationalist approaches to resolving South China Sea disputes, representing the region's primary fault line on maritime governance. This conceptual divide between rules-based frameworks and relationship-centered diplomacy reflects competing visions for regional order and has significant implications for maritime security and dispute resolution mechanisms in Southeast Asia.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/at-a-jakarta-conference-two-maritime-orders-collide/",
-      "published": "Thu, 30 Jul 2026 16:30:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "EU considers reorienting China strategy toward human rights focus",
-      "brief": "European Union leaders are evaluating opportunities to elevate human rights concerns as a central pillar of China engagement, rather than treating such issues as peripheral to diplomatic relations. This potential strategic shift reflects growing EU consideration of how to balance economic and security interests with governance and human rights advocacy in bilateral dealings with Beijing.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/europes-china-strategy-is-ready-for-a-refresh/",
-      "published": "Thu, 30 Jul 2026 21:23:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
-      "brief": "China has released a music video featuring a love song that experts assess is designed to humanize the country's coast guard while reinforcing Beijing's sovereignty claims in the disputed South China Sea. The propaganda effort reflects China's ongoing strategy to legitimize its position in one of the world's most contested maritime regions. This represents a shift toward softer messaging tactics alongside China's military presence in the disputed waters.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
-      "published": "Wed, 22 Jul 2026 20:38:57 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Implements Forced Assimilation Laws for Minority Populations",
-      "brief": "China has enacted legislation mandating assimilation policies for minority groups, marking an escalation in its approach to minority affairs. This formalization of assimilation as law represents a significant shift in governance strategy with potential implications for social cohesion, international relations, and economic participation of affected populations. The policy may impact China's regional stability and international standing.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
-      "published": "Thu, 30 Jul 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Thailand Restricts USDT Transactions Targeting China-Linked Crime",
-      "brief": "Thailand is implementing financial controls on USDT transactions to disrupt criminal networks with Chinese connections operating across the region. The measures reflect Bangkok's efforts to strengthen financial oversight against transnational organized crime that leverages cryptocurrency infrastructure. This development indicates growing regional coordination against illicit financial flows and potential vulnerabilities in cross-border criminal financing networks.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/thailand-cracks-down-on-usdt-transactions-in-fight-against-china-linked-criminal-networks/",
-      "published": "Fri, 31 Jul 2026 13:18:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China-India Border Pass Reopens Despite Strategic Tensions",
-      "brief": "China and India have reopened the Nathu La border pass, signaling restoration of limited practical cooperation between the two nations. The reopening indicates willingness for incremental confidence-building measures, though fundamental disagreements over border disputes and regional strategy remain unresolved. This development suggests both powers may be seeking to manage tensions while maintaining their strategic competition.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/what-the-reopening-of-nathu-la-means-for-china-india-relations/",
-      "published": "Fri, 31 Jul 2026 02:05:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "North Korea Maintains Ideological Controls Despite Strategic Dependence",
-      "brief": "North Korea relies heavily on China and Russia for economic and military support while simultaneously restricting domestic admiration for these allies through strict ideological controls. This approach reflects Pyongyang's effort to preserve regime legitimacy and prevent ideological influence from its strategic partners. The policy highlights potential friction in relationships that are crucial to North Korea's survival and military capabilities.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/07/north-korea-needs-china-and-russia-but-doesnt-want-its-people-admiring-them/",
-      "published": "Fri, 31 Jul 2026 01:09:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
-      "brief": "China has imposed sanctions on Philippine Defense Secretary Gilberto Lopez, with analysts suggesting Beijing is leveraging references to Japan's wartime history to undermine Manila's territorial claims in the South China Sea. The move reflects Beijing's broader strategy to delegitimize rival claimants' positions through political pressure and rhetorical tactics. This escalation indicates China's intent to complicate the Philippines' regional alignments and challenge its maritime sovereignty assertions.",
+      "headline": "China sanctions Philippine defense chief over Japan defense ties",
+      "brief": "China has imposed sanctions on the Philippine defense chief, with analysts suggesting Beijing is leveraging historical grievances against Japan to undermine Manila's South China Sea territorial claims. The action reflects China's efforts to isolate the Philippines diplomatically and discourage its security cooperation with Japan. This demonstrates China's use of multilateral pressure tactics to maintain influence over regional geopolitical disputes.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -181,8 +96,32 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China's CIPS payment system gaining adoption among Mongolian banks",
-      "brief": "Mongolia's second-largest bank, Golomt Bank, has connected to China's Cross-Border Interbank Payment System (CIPS), with expectations that most major Mongolian banks will join within two years. This shift reflects increasing yuan-denominated trade settlement between Mongolia and China, potentially reducing reliance on traditional currency intermediaries and enhancing China's financial infrastructure influence in the region.",
+      "headline": "China-North Korea bridge nears opening after 12-year delay",
+      "brief": "Satellite imagery indicates the previously completed Sino-North Korean bridge is approaching operational status, twelve years after its initial completion. The bridge is expected to significantly enhance bilateral trade capacity between the two countries. The delayed opening suggests potential political or technical obstacles that have now been addressed.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+      "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China protests New Zealand minister's remarks toward Chinese-born lawmaker",
+      "brief": "New Zealand Foreign Minister Winston Peters refused to retract comments telling a Chinese-born MP to \"go back to your own country,\" prompting an official protest from Beijing. The incident reflects broader diplomatic tensions between China and New Zealand over integration and representation issues. The escalation demonstrates how domestic political rhetoric can quickly become an international diplomatic flashpoint affecting bilateral relations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+      "published": "Sat, 01 Aug 2026 07:28:20 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China's CIPS Payment System Gaining Traction in Mongolia",
+      "brief": "Mongolia's second-largest bank, Golomt Bank, has connected to China's Cross-Border Interbank Payment System (CIPS), with expectations that most major Mongolian banks will join within two years. This shift reflects the increasing settlement of China-Mongolia trade in yuan rather than traditional currencies. The development signals China's expanding influence over regional financial infrastructure and payment mechanisms.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -193,64 +132,100 @@
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Chinese Cross-Border Investment Remains Strong Despite Regulatory Tightening",
-      "brief": "Despite Beijing's increased oversight of overseas portfolio investments and tax practices, Chinese investors continue to demonstrate robust demand for legitimate cross-border investment opportunities, according to CICC. While current investment flows remain resilient, analysts note that long-term effects of these policy controls require continued monitoring to assess potential future impacts on capital outflows.",
+      "headline": "Chinese Households Shift Assets from Real Estate to Cash Reserves",
+      "brief": "Chinese families are significantly reducing real estate holdings as a share of total household assets, declining from 67% in mid-2021 to 52% in Q1 2026, while cash and bank deposits increased from 16% to 25% over the same period. This portfolio reallocation reflects diminished confidence in the property sector and suggests households are adopting a more conservative investment stance, with some cautiously entering equity markets. The shift contrasts sharply with aggressive leveraged stock investing by South Korean retail investors, indicating divergent risk appetites across major Asian economies.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3362458/cross-border-investment-still-robust-despite-chinas-growing-controls-cicc?utm_source=rss_feed",
-      "published": "Fri, 31 Jul 2026 02:00:31 +0000",
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362203/chinese-families-turn-cash-and-cautious-stock-bets-real-estate-avenues-narrow?utm_source=rss_feed",
+      "published": "Sat, 01 Aug 2026 01:00:08 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "China Promotes Internet Sovereignty as Global Governance Model",
-      "brief": "China is advancing 'Internet sovereignty' as a key governing concept for the global Internet, representing a challenge to current international norms of open internet access. This initiative has significant implications for global digital governance, cybersecurity frameworks, and the balance of power in information control between state and non-state actors.",
+      "headline": "China faces economic deterioration amid shifting US strategy",
+      "brief": "China is experiencing economic weakness that presents strategic opportunities for the United States to reassess its competitive posture. The convergence of China's domestic economic challenges and evolving American strategic priorities may reshape bilateral relations and regional dynamics. This development has significant implications for global economic competition and geopolitical alignment.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
+      "published": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "Hong Kong registered voter count drops fifth consecutive year to 4.12 million",
+      "brief": "Hong Kong's eligible voter registration for geographical constituencies declined by 24,400 (0.59%) year-on-year to 4.12 million in the 2026 provisional register, marking the fifth consecutive annual decrease. While new voter registrations reached their highest level since 2021, the overall electorate contraction suggests ongoing demographic or migration trends affecting Hong Kong's electoral participation base.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "CSIS"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362634/number-registered-electors-hong-kong-drops-fifth-year-412-million?utm_source=rss_feed",
+      "published": "Sat, 01 Aug 2026 07:51:30 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Hong Kong freezes $15.9 million in suspected IPO fraud scheme",
-      "brief": "Hong Kong's Securities and Futures Commission has frozen HK$125 million (US$15.9 million) in assets linked to suspected market manipulation in the city's IPO market, issuing a restriction notice to brokerage Futu. The action reflects regulatory efforts to combat artificial demand creation for initial public offerings. This enforcement activity indicates intensified oversight of Hong Kong's capital markets amid concerns over fraudulent trading practices.",
-      "category": "economy",
+      "headline": "Hong Kong court upholds university fee policy for mainland Chinese families",
+      "brief": "A Hong Kong High Court ruled against 87 mainland Chinese families who challenged the Education Bureau's policy requiring a two-year residency requirement before children can access publicly funded university places. The court found the policy rationally justified, upholding Hong Kong's discretion to manage education access for talent visa scheme immigrants. The ruling signals potential friction between Beijing-backed talent recruitment initiatives and Hong Kong's autonomous education policies.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3362411/hong-kong-regulators-freeze-us159-million-linked-suspected-ipo-fraud?utm_source=rss_feed",
-      "published": "Thu, 30 Jul 2026 10:44:29 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://www.scmp.com/news/hong-kong/education/article/3362597/mainland-chinese-families-lose-legal-challenge-over-public-university-fees?utm_source=rss_feed",
+      "published": "Fri, 31 Jul 2026 14:35:39 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "China monitors Japan, Philippines military integration in South China Sea",
-      "brief": "Beijing is intensifying scrutiny of Japan and Philippines military capabilities, reflecting concerns about coordinated defense efforts in the South China Sea region. Despite this focus, experts indicate the United States remains China's primary strategic rival. The monitoring suggests China views allied military integration as a significant challenge to its regional interests.",
+      "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+      "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and her two daughters on suspicion of supporting terrorists, according to their eldest sister who was receiving goods shipped to Turkey. The arrests highlight Beijing's broad interpretation of national security threats and its monitoring of cross-border commerce involving Uyghur communities. The incident underscores ongoing tensions between China's counterterrorism policies and international scrutiny of Uyghur treatment.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
-      "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+      "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+      "published": "Fri, 17 Jul 2026 03:58:30 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "British Airways flight declares mayday after stall warnings near Heathrow",
-      "brief": "A British Airways Airbus A320 operating from D\u00fcsseldorf to London Heathrow declared a mayday on July 6 following two stall warnings during approach. While the incident was resolved without reported injuries, it highlights ongoing aviation safety protocols and potential aircraft system concerns that warrant investigation by relevant authorities.",
+      "headline": "Hong Kong gold imports surge to 11-year high amid trading hub push",
+      "brief": "Hong Kong's gold imports reached 150.48 tonnes in June 2024, the highest monthly figure in over a decade, representing a 29% month-on-month increase. The surge reflects renewed investor appetite and Hong Kong's strategic effort to establish itself as a premier international precious metals trading hub. This development indicates growing financial activity in Hong Kong's commodities markets and potential shifts in regional trade dynamics.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Jul 2026 17:34:26 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3362350/trading-hub-ambitions-see-hong-kongs-gold-imports-hit-11-year-high-june?utm_source=rss_feed",
+      "published": "Thu, 30 Jul 2026 05:27:21 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong Chief Executive Launches Controlled Public Consultation on Policy Plans",
+      "brief": "Hong Kong Chief Executive John Lee Ka-chiu is conducting district consultation sessions to gather public input on his upcoming policy address and the city's first five-year plan, beginning in Tuen Mun. The consultation process features restricted participation, with only government-selected residents and district representatives invited to attend. This controlled approach to public engagement reflects the Hong Kong government's management of policy communication under its current governance framework.",
+      "category": "foreign_relations",
+      "severity": "low",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362638/hong-kong-leader-hold-town-hall-sunday-gather-views-twin-blueprints?utm_source=rss_feed",
+      "published": "Sat, 01 Aug 2026 08:54:21 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong economy grows 4.3% in Q2 2026 on export strength",
+      "brief": "Hong Kong's economy expanded 4.3% year-on-year in the second quarter of 2026, driven by strong external trade and domestic demand, though growth moderated from the first quarter's 5.9%. The government projects continued solid expansion for the remainder of 2026, with export demand expected to remain a primary growth driver. This sustained economic performance reflects Hong Kong's continued integration into regional trade networks despite previous geopolitical uncertainties.",
+      "category": "economy",
+      "severity": "low",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3362538/hong-kong-economy-grows-43-strong-external-trade-resilient-domestic-demand?utm_source=rss_feed",
+      "published": "Fri, 31 Jul 2026 08:50:10 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -269,52 +244,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technology competition, Taiwan concerns, and geopolitical rivalry despite periodic diplomatic engagement."
+      "summary": "China-U.S. relations remain adversarial with ongoing competition over technology, trade, and geopolitical influence despite occasional diplomatic engagement."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with increased military cooperation, energy trade, and coordinated positions on international issues, though without formal alliance."
+      "summary": "China and Russia maintain a strategic partnership with deepening energy ties and military cooperation, though China maintains strategic ambiguity on Ukraine."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, market access, and China's geopolitical assertiveness."
+      "summary": "EU-China relations are mixed, balancing trade interdependence with growing concerns over human rights, technology security, and strategic autonomy."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and maintains military pressure, while Taiwan's democratic government resists unification, creating the most acute cross-strait tensions in decades."
+      "summary": "China views Taiwan as a breakaway province and has escalated military pressure while rejecting Taipei's democratic government, creating one of Asia's most dangerous flashpoints."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by historical grievances, territorial disputes over the Senkaku Islands, regional competition, and differing security alignments with the United States."
+      "summary": "Sino-Japanese relations are strained by historical grievances, territorial disputes over the Senkaku Islands, and alignment with U.S. security interests."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Relations remain tense following border clashes in Ladakh, unresolved boundary disputes, and strategic competition in South Asia, despite occasional diplomatic talks."
+      "summary": "China-India relations remain tense following the 2020 border clash in Ladakh, with unresolved territorial disputes and strategic competition in South Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain strong economic ties, particularly in energy and investment, with coordinated positions on regional Middle East issues."
+      "summary": "China maintains strong economic and energy partnership with Saudi Arabia, positioning itself as a major investor and alternative to Western alignment."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Philippines-China relations oscillate between cooperation on economic issues and tension over South China Sea territorial disputes and competing maritime claims."
+      "summary": "Philippines-China relations oscillate between cooperation on economic issues and tension over South China Sea territorial claims and resource competition."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China-Brazil relations are characterized by significant trade interdependence and investment, though Brazil occasionally expresses concerns over trade imbalances and Chinese market access."
+      "summary": "China and Brazil maintain robust trade relations and strategic partnership, though Brazil shows signs of diversifying its external relations."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations remain strained due to Australian security concerns, calls for investigations into COVID-19 origins, trade restrictions, and alignment with the United States."
+      "summary": "Sino-Australian relations remain strained following Australia's calls for COVID-19 investigations and security concerns, though some recent diplomatic thaw has emerged."
     }
   ]
 }
