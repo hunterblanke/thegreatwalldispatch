@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-08-04",
+      "articles": [
+        {
+          "headline": "China Reassesses Taiwan Strategic Options Amid Economic Pressures",
+          "brief": "Recent analysis suggests China may be reconsidering its approach to Taiwan as economic constraints and geopolitical shifts influence strategic calculations. The reassessment reflects broader concerns about China's economic capacity to sustain current military and diplomatic postures. This potential shift has significant implications for regional stability and U.S.-China competition in the Indo-Pacific.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+          "published": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Japan's New Leadership Shows Reduced Willingness to Accommodate China",
+          "brief": "According to The Diplomat, a new generation of Japanese policymakers is demonstrating significantly less accommodation toward China compared to their predecessors. This shift in Japan's approach to China relations could have substantial implications for regional stability and bilateral economic and security arrangements in East Asia.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/is-japan-decoupling-from-china/",
+          "published": "Mon, 03 Aug 2026 21:37:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty as Global Governance Model",
+          "brief": "China is promoting 'Internet sovereignty' as a foundational principle for global internet governance, representing a significant shift from the current international framework. This initiative has implications for cyber operations, information control, and international digital policy coordination. The concept reflects China's broader strategic objective to reshape internet governance structures to align with national security and state control priorities.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China Pursuing Normalization Strategy in South China Sea",
+          "brief": "China is implementing measures to consolidate and normalize its control over disputed South China Sea territories. This approach suggests a shift from assertive expansion toward institutionalizing existing positions through administrative and economic integration. The strategy has significant implications for regional stability, maritime trade routes, and the strategic balance in Southeast Asia.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/beijings-next-play-south-china-sea",
+          "published": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan leverages LNG review after Papua New Guinea office closure",
+          "brief": "Taiwan is employing economic tools, including a liquefied natural gas review, in response to Papua New Guinea's closure of Taipei's representative office, signaling a strategic shift in bilateral relations. Analysts note this demonstrates Taiwan's limited but growing willingness to use economic leverage in response to diplomatic setbacks, though its overall economic coercive capacity remains constrained.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Marcos Addresses China Tensions in State of Nation Speech",
+          "brief": "Philippine President Marcos reiterated familiar rhetoric regarding China during his State of the Nation Address, with heightened significance given recent military confrontations between Chinese and Philippine vessels in the South China Sea. The address reflects ongoing maritime disputes and potential escalation risks in the region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/what-philippine-president-marcos-said-about-china-in-his-state-of-the-nation-address/",
+          "published": "Tue, 04 Aug 2026 09:41:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan cooperation",
+          "brief": "China imposed sanctions on the Philippine defense chief in response to Manila's security cooperation with Japan, with Beijing leveraging historical grievances to undermine Philippine South China Sea claims. The move reflects China's effort to isolate the Philippines diplomatically and complicate its regional partnerships, particularly as Manila strengthens defense ties with Tokyo.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands signs security pact with US, maintains balanced approach",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutral stance toward China, reflecting a regional diplomatic pattern of engagement with both major powers. The move underscores the strategic competition between Washington and Beijing in the Indo-Pacific, where smaller nations are pursuing balanced relationships rather than exclusive alignments. This arrangement is characterized by analysts as standard practice for regional countries navigating great power competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Music Video to Advance South China Sea Claims",
+          "brief": "China released a music video featuring its coast guard that experts say is designed to humanize the agency while reinforcing Beijing's territorial assertions in the disputed South China Sea. The cultural propaganda effort represents China's multi-faceted approach to asserting sovereignty claims in the strategically vital region. This reflects Beijing's strategy of combining soft power messaging with its official stance on contested maritime boundaries.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Xi Jinping Positions China as AI Leader at International Conference",
+          "brief": "Chinese leader Xi Jinping addressed the World Artificial Intelligence Conference with messaging targeted at the international community and the United States. The speech underscores China's strategic emphasis on AI development as a key competitive domain. This represents Beijing's broader effort to establish technological parity and leadership in emerging technologies with potential military and economic applications.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/xi-jinpings-ai-vision/",
+          "published": "Mon, 03 Aug 2026 22:01:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China expands economic influence in Latin America through targeted investments",
+          "brief": "China is pursuing strategic economic influence across Latin America through a series of smaller-scale projects rather than large, visible initiatives. This approach allows Beijing to build economic leverage and deepen regional ties while maintaining a lower diplomatic profile. The strategy has significant implications for U.S.-Latin American relations and the regional balance of economic power.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america",
+          "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Beijing monitors Japan, Philippines military capabilities in South China Sea",
+          "brief": "Chinese scrutiny of Japan and Philippines military development reflects Beijing's concerns about increased military integration in the South China Sea region. Despite this focus on regional powers, analysts assess the United States remains China's primary strategic rival. The monitoring suggests China views enhanced defense capabilities among regional allies as a potential shift in the regional balance of power.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
+          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's Foreign Minister to Discuss US Relations at CSIS Forum",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for high-level dialogue on bilateral strategic issues during a period of significant US-China tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China's Capital Controls Show Limited Impact on Cross-Border Investment",
+          "brief": "Despite Beijing's increased regulatory scrutiny of overseas portfolio investment and tax practices, Chinese investors continue to pursue legitimate cross-border investments at robust levels, according to investment bank CICC. While current demand remains strong, analysts note the long-term effects of these policy restrictions warrant continued monitoring for potential impacts on capital flows.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362458/cross-border-investment-still-robust-despite-chinas-growing-controls-cicc?utm_source=rss_feed",
+          "published": "Fri, 31 Jul 2026 02:00:31 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's CIPS Payment System Expected to Dominate Mongolia Banking",
+          "brief": "Mongolia's second-largest bank, Golomt Bank, has connected to China's Cross-Border Interbank Payment System (CIPS), with expectations that most major Mongolian banks will adopt the yuan settlement network within two years. This shift reflects growing trade integration with China and represents Beijing's expanding influence over regional financial infrastructure through its alternative to traditional Western payment systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362529/chinas-cips-will-become-settlement-norm-mongolia-within-2-years-golomt-bank-says?utm_source=rss_feed",
+          "published": "Fri, 31 Jul 2026 08:25:39 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "AIIB Pursues Digital Payments Strategy, Leverages Hong Kong Hub",
+          "brief": "The Asian Infrastructure Investment Bank is exploring tokenized payments and digital settlement systems while raising record funds, positioning Hong Kong as a key hub for modernizing its capital market operations. This initiative reflects AIIB's effort to align with emerging digital finance trends and potentially enhance operational efficiency in cross-border transactions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362580/aiib-explores-digital-payments-eyes-hong-kong-hub-it-raises-record-funds?utm_source=rss_feed",
+          "published": "Sun, 02 Aug 2026 13:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China completes first cross-border e-CNY payment to Malaysia",
+          "brief": "China Construction Bank executed the first outbound digital yuan payment to Malaysia, settling a 6,360 USD durian shipment in 30 minutes, demonstrating the operational viability of e-CNY for cross-border transactions. This transaction represents Beijing's strategic effort to establish an alternative clearing network in Southeast Asia independent of the Swift system, potentially reducing China's reliance on Western-controlled financial infrastructure.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362358/china-cuts-durian-settlement-30-minutes-first-outbound-e-cny-payment-malaysia?utm_source=rss_feed",
+          "published": "Sat, 01 Aug 2026 03:00:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's commodity dominance stabilizes global energy markets, destabilizes tech supply chains",
+          "brief": "According to Goldman Sachs analysis, China's substantial position in global commodities markets functions as a stabilizing force for international energy prices and gold, while simultaneously creating volatility in Western technology supply chains through export controls on rare earths and critical minerals. This dual role positions Beijing as the de facto \"volatility arbiter\" in global commodity markets, with significant implications for energy security and technological supply chain resilience across Western economies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/commodities/article/3362861/chinas-outsize-commodities-footprint-cushions-global-energy-shocks-goldman-sachs?utm_source=rss_feed",
+          "published": "Tue, 04 Aug 2026 02:50:25 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 18,
+        "high_priority": 3,
+        "by_category": {
+          "economy": 8,
+          "foreign_relations": 9,
+          "military": 1
+        },
+        "updated_at": "2026-08-04T11:56:08.637609Z"
+      }
+    },
+    {
       "date": "2026-08-03",
       "articles": [
         {
