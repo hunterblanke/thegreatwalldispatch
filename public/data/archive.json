@@ -1,6 +1,166 @@
 {
   "entries": [
     {
+      "date": "2026-08-06",
+      "articles": [
+        {
+          "headline": "China considers military option regarding Taiwan situation",
+          "brief": "The article discusses China's potential military strategy concerning Taiwan, suggesting a reassessment of policy options. This development carries significant implications for regional stability and could affect economic markets and international relations in the Asia-Pacific region.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+          "published": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China enacts law extending ethnic unity requirements beyond borders",
+          "brief": "China has passed an 'ethnic unity and progress promotion' law with extraterritorial reach, potentially affecting individuals and organizations outside Chinese territory. The legislation expands Beijing's regulatory scope over matters it defines as ethnic unity, with implications for international business, civil society, and diaspora communities. This represents a significant expansion of China's legal jurisdiction beyond its borders with potential consequences for foreign relations and international compliance standards.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan defense ties",
+          "brief": "China has imposed sanctions on the Philippines' defense chief, with analysts assessing this as an attempt to delegitimize Manila's South China Sea territorial claims by invoking Japan's historical record. The action highlights Beijing's use of diplomatic pressure to discourage regional security partnerships that it views as challenging its interests in contested waters. This reflects escalating tensions in China's approach to managing competing claims and regional alignments in Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan leverages LNG review after PNG closes representative office",
+          "brief": "Taiwan is reportedly using its liquefied natural gas procurement as economic leverage following Papua New Guinea's decision to close its representative office, signaling a shift in Taiwan's diplomatic approach. However, analysts assess that Taiwan's overall economic leverage remains constrained in the Pacific region. The incident reflects ongoing competition between Taipei and Beijing for diplomatic recognition and influence among developing nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China expands economic influence in Latin America through incremental projects",
+          "brief": "China is pursuing a strategy of modest-scale infrastructure and commercial projects to increase its economic and political influence across Latin America. This incremental approach, while less visible than major investments, represents a systematic effort to deepen Beijing's ties in the region and potentially expand its strategic footprint. The strategy suggests China views Latin America as a critical area for long-term economic and geopolitical positioning.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america",
+          "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty Initiative as Global Governance Model",
+          "brief": "China is promoting 'Internet sovereignty' as a key governing concept for the global Internet, according to a CSIS discussion event. This initiative represents China's effort to reshape international norms around state control and regulation of digital infrastructure and online content. The concept has significant implications for global cybersecurity, information control, and the balance between national sovereignty and open internet principles.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China Establishes World AI Cooperation Organization",
+          "brief": "China has launched a new international organization focused on AI cooperation, positioning itself as a leader in global AI governance frameworks. The initiative aims to shape international standards and norms for artificial intelligence development. This move carries significant implications for technological competition and influence over emerging AI regulatory standards among global powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/chinas-world-ai-cooperation-organization-agenda/",
+          "published": "Wed, 05 Aug 2026 21:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Imposes Tax on Offshore Insurance Gains, Threatening Hong Kong's Gateway Role",
+          "brief": "Chinese tax authorities have begun levying taxes on gains from offshore insurance policies, undermining Hong Kong's traditional appeal as a tax-efficient hub for mainland investors in insurance and wealth products. This policy shift represents a significant structural change that could redistribute cross-border capital flows and reshape competitive dynamics in the regional financial services sector. The move suggests Beijing is tightening oversight of offshore capital movements while potentially redirecting wealth management activity.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy?utm_source=rss_feed",
+          "published": "Thu, 06 Aug 2026 01:59:29 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "WuXi AppTec posts strong earnings despite US regulatory scrutiny",
+          "brief": "WuXi AppTec, Asia's largest contract pharmaceutical research provider, reported a 33.7% increase in net profit to 11.08 billion yuan in the first half of 2024, exceeding analyst expectations. The growth was driven by strong demand for weight-loss and diabetes drugs alongside gains in US operations. The earnings surge demonstrates resilience of China's biotech sector despite ongoing US regulatory concerns about the company.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362817/chinese-biotech-giant-wuxi-apptec-sees-first-half-earnings-surge-amid-us-scrutiny?utm_source=rss_feed",
+          "published": "Mon, 03 Aug 2026 12:30:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's rehabilitation institutions expanding coercive treatment to adults",
+          "brief": "Chinese institutions marketed as 'internet addiction' treatment centers are increasingly confining adults whose life choices diverge from family expectations, with parents paying for involuntary enrollment. This expansion reflects evolving social control mechanisms and raises concerns about individual liberty protections in China's institutional framework. The practice indicates growing state-facilitated family enforcement mechanisms that could have broader implications for personal freedoms and civil society.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/chinas-internet-addiction-schools-are-now-locking-up-adults/",
+          "published": "Wed, 05 Aug 2026 01:46:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
+          "brief": "China has released a music video featuring a love song that experts say aims to humanize the Chinese coast guard while reinforcing Beijing's territorial stance in the disputed South China Sea. The video represents a soft-power approach to promoting China's maritime claims in a strategically significant region. This reflects Beijing's ongoing efforts to legitimize its position in ongoing territorial disputes with multiple Southeast Asian nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Moonshot AI seeks $50B funding, targets Hong Kong IPO by year-end",
+          "brief": "Chinese AI unicorn Moonshot AI is pursuing a financing round at a valuation of up to $50 billion, expected to close by month-end, while restructuring its offshore operations. The company is positioning for a potential Hong Kong IPO as early as year-end, reflecting China's push to develop domestic AI champions and retain tech capital within Hong Kong's markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
+          "published": "Wed, 05 Aug 2026 07:24:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 12,
+        "high_priority": 2,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 7,
+          "economy": 4
+        },
+        "updated_at": "2026-08-06T11:57:24.157360Z"
+      }
+    },
+    {
       "date": "2026-08-05",
       "articles": [
         {
