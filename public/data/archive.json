@@ -1,6 +1,202 @@
 {
   "entries": [
     {
+      "date": "2026-08-08",
+      "articles": [
+        {
+          "headline": "China Reassesses Taiwan Options Amid Strategic Calculations",
+          "brief": "Foreign Affairs reports China may be reconsidering its approach to Taiwan, suggesting potential shifts in military or diplomatic strategy. The assessment indicates Beijing could be weighing new options regarding Taiwan's status, with significant implications for regional stability and cross-strait relations. Such strategic recalibration could affect economic ties, trade flows, and investment patterns across Asia.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+          "published": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan's Civil Defense Gap Undermines Cross-Strait Deterrence Strategy",
+          "brief": "Taiwan's deterrence posture relies primarily on conventional military capabilities while overlooking civil defense infrastructure as a critical vulnerability in potential cross-strait conflict. The analysis suggests that inadequate civil defense preparedness represents a significant strategic gap that could undermine overall deterrent credibility during a crisis. This capability shortfall has important implications for Taiwan's comprehensive defense strategy and regional security dynamics.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/taiwans-missing-deterrent/",
+          "published": "Fri, 07 Aug 2026 22:28:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's Military Integrates AI into Strike Operation Planning",
+          "brief": "China's military is reportedly utilizing artificial intelligence systems to plan and coordinate strike operations, raising questions about the role of human decision-making in potential future conflicts. This development has particular implications for Taiwan contingency planning, as AI-assisted targeting and operational planning could accelerate decision cycles in a cross-strait conflict. The integration of AI into military operations represents a significant shift in China's warfare capabilities and command structure.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
+          "published": "Fri, 07 Aug 2026 21:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Reinterprets UN Governance Priorities Through White Paper",
+          "brief": "China released a June white paper that maintains the UN-centered international architecture while fundamentally reordering its operational priorities and governance interpretation. This approach allows Beijing to reshape global governance structures from within existing institutions rather than replacing them. The strategy represents a significant shift in how China projects influence over international decision-making mechanisms.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/how-china-is-reordering-global-governance-from-within/",
+          "published": "Fri, 07 Aug 2026 21:28:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+          "brief": "China is advancing 'Internet sovereignty' as a key governing principle for the global Internet, representing a challenge to current international norms of Internet governance. This initiative has significant implications for cybersecurity, data control, and international relations as it advocates for national authority over digital infrastructure and content within state borders.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China Expands Economic Influence Through Infrastructure Projects in Latin America",
+          "brief": "China is systematically pursuing economic dominance in Latin America through numerous small-scale infrastructure and development projects rather than large, visible investments. This incremental approach allows China to build strategic influence and economic ties while maintaining a lower diplomatic profile than traditional Western competitors. The strategy has significant implications for U.S. economic and geopolitical interests in the Western Hemisphere.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america",
+          "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China uses music video to assert South China Sea territorial claims",
+          "brief": "China released a music video featuring its coast guard that experts say is designed to humanize the service while reinforcing Beijing's disputed South China Sea claims. The propaganda effort reflects China's continued strategy to culturally reinforce its territorial position in the contested waters. This represents Beijing's multi-faceted approach to asserting sovereignty claims through both operational presence and soft power messaging.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan security ties",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with experts assessing this as an attempt to delegitimize Manila's South China Sea territorial claims by invoking Japan's historical record. The move highlights Beijing's strategy of weaponizing historical grievances to isolate regional claimants and undermine their international partnerships, particularly as the Philippines strengthens defense cooperation with Japan.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
+          "brief": "The Philippines marked the 10-year anniversary of an international court ruling on South China Sea territorial disputes, though China continues to reject the decision's legitimacy. The persistent disagreement highlights unresolved regional tensions over maritime sovereignty and competing claims in the strategic waterway. The lack of consensus on dispute resolution mechanisms suggests ongoing potential for friction in regional geopolitics.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and two daughters accused of supporting terrorists by sending goods to Turkey. The arrests reflect ongoing security measures in Xinjiang targeting international connections. This incident highlights tensions between China's counterterrorism policies and international humanitarian concerns regarding Uyghur communities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Reshuffles Asian Affairs Leadership With Mongolia Ambassador Elevation",
+          "brief": "China has elevated a former ambassador to Mongolia to a senior position overseeing Asian affairs, indicating a strategic shift in diplomatic personnel and execution. This personnel change suggests Beijing may be adjusting its approach to regional diplomacy, though structural constraints may limit the scope of broader policy shifts. The move reflects China's continued focus on managing relationships across its Asian periphery.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/chinas-asian-affairs-reshuffle/",
+          "published": "Sat, 08 Aug 2026 05:04:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong Dollar Peg Under Review Amid Yuan Internationalization",
+          "brief": "Hong Kong's decades-old US dollar peg, established in 1983 to stabilize the currency after a 48% collapse, faces renewed scrutiny as international investors diversify away from dollar assets and China promotes yuan internationalization. The pegging mechanism, designed to prevent currency crises, is now being questioned as global financial dynamics shift. Any modification could have significant implications for Hong Kong's financial stability and its role as a regional financial hub.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363306/hong-kongs-us-dollar-peg-explained-history-benefits-and-risks?utm_source=rss_feed",
+          "published": "Sat, 08 Aug 2026 02:00:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China clarifies 20% offshore insurance tax not new policy",
+          "brief": "China's State Taxation Administration clarified Friday that a 20 percent personal income tax on offshore insurance gains is an existing policy, not newly implemented or specifically targeting Hong Kong's insurance sector. The clarification follows market concerns that triggered sell-offs in Hong Kong-listed financial firms, suggesting Beijing sought to reduce investor anxiety over potential regulatory changes affecting the financial services industry.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363348/beijing-says-20-offshore-insurance-tax-not-new-and-does-not-target-hong-kong?utm_source=rss_feed",
+          "published": "Fri, 07 Aug 2026 12:23:55 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China imposes tax on offshore insurance gains, threatening Hong Kong's role",
+          "brief": "Chinese tax authorities have begun levying taxes on gains from offshore insurance policies, potentially undermining Hong Kong's long-established position as a tax-efficient gateway for mainland wealth management. This policy shift could significantly reshape cross-border capital flows and competition for insurance and wealth products in the region. The move signals Beijing's intent to capture tax revenue from offshore financial activities previously conducted through Hong Kong.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363106/shares-major-hong-kong-insurance-finance-firms-tumble-following-report-20-levy?utm_source=rss_feed",
+          "published": "Thu, 06 Aug 2026 01:59:29 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Foreign Minister to Discuss US-China Relations at CSIS",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and US-China bilateral relations. The forum provided a platform for dialogue on strategic issues between the two powers during a period of significant geopolitical tension in the Asia-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 15,
+        "high_priority": 5,
+        "by_category": {
+          "foreign_relations": 9,
+          "economy": 4,
+          "military": 2
+        },
+        "updated_at": "2026-08-08T10:21:38.741132Z"
+      }
+    },
+    {
       "date": "2026-08-07",
       "articles": [
         {
