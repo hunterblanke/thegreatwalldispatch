@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-08-09",
+      "articles": [
+        {
+          "headline": "Taiwan Develops Drone Strategy to Deter Potential Chinese Military Invasion",
+          "brief": "Taiwan is developing an extensive drone defense strategy modeled on Ukraine's battlefield successes to counter a potential Chinese invasion. This shift represents a significant change in Taiwan's military deterrence posture, leveraging unmanned systems as a cost-effective asymmetric defense capability. The strategy could substantially raise the operational and logistical costs for any Chinese amphibious assault.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html",
+          "published": "Sun, 09 Aug 2026 04:01:15 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Taiwan Conducts Presidential Evacuation Drill Amid Chinese Threat",
+          "brief": "Taiwan's President William Lai participated in an emergency evacuation drill as part of military exercises designed to prepare for potential Chinese invasion scenarios. The exercise demonstrates Taiwan's operational readiness and contingency planning for leadership continuity during conflict. The drill underscores escalating military tensions and Taiwan's defensive preparations in response to increased Chinese military pressure.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 04:52:19 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Taiwan's Civil Defense Capabilities Identified as Critical Deterrence Gap",
+          "brief": "According to The Diplomat, Taiwan's deterrence strategy relies heavily on conventional military capabilities while neglecting civil defense infrastructure, which may be the primary vector in a cross-strait conflict scenario. This strategic gap suggests Taiwan's overall deterrence posture is incomplete, as civilian protection systems are essential to withstand potential military pressure during a crisis. Strengthening civil defense infrastructure could significantly enhance Taiwan's ability to deter or resist coercion.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/taiwans-missing-deterrent/",
+          "published": "Fri, 07 Aug 2026 22:28:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China enacts ethnic unity law with extraterritorial reach",
+          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and organizations globally. The law's extraterritorial scope represents a significant assertion of Beijing's regulatory authority and may have implications for diaspora communities and international relations. This development signals China's intent to enforce domestic policy priorities internationally.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trump Administration Imposes 15% Tariff on Semiconductor Material",
+          "brief": "The United States has implemented a 15% tariff on a key chip material as part of efforts to protect domestic semiconductor firms facing competitive pressure from China's chip industry. This trade measure reflects escalating economic competition in the critical semiconductor sector between the two countries. The tariff could influence global chip supply chains and potentially trigger retaliatory measures from Beijing.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 07 Aug 2026 01:03:35 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Reassesses Taiwan Strategy Amid Economic Considerations",
+          "brief": "Recent analysis suggests China may be reconsidering its approach to Taiwan, potentially factoring economic implications into strategic decision-making. The shift reflects Beijing's weighing of military options against potential costs to economic stability and international trade relationships. This reassessment could signal evolving calculations regarding cross-strait tensions and their broader economic consequences.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+          "published": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China pursues incremental investment strategy across Latin America",
+          "brief": "China is expanding its economic influence in Latin America through small-scale infrastructure and commercial projects rather than large flagship investments. This approach allows China to build political leverage and deepen economic ties across the region with less visibility and resistance. The strategy has significant implications for U.S. economic and geopolitical interests in its traditional sphere of influence.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america",
+          "published": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Papua New Guinea closes Taiwan trade office, signals China pivot",
+          "brief": "Papua New Guinea has closed its Taiwan trade office, a move experts characterize as diplomatically ambiguous but likely presaging expanded economic engagement with China. The decision reflects PNG's potential receptiveness to Chinese economic incentives and marks a further erosion of Taiwan's diplomatic presence in the Indo-Pacific region. This shift underscores Beijing's strategic use of economic inducements to consolidate diplomatic recognition at Taiwan's expense.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
+          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan tests economic leverage after Papua New Guinea office closure",
+          "brief": "Taiwan is using its liquefied natural gas review as economic leverage following Papua New Guinea's closure of Taipei's representative office, signaling a gradual shift in Taiwan's diplomatic strategy. Analysts note this reflects Taiwan's attempt to counteract China's diplomatic gains in the Pacific region, though Taiwan's overall economic leverage in the region remains constrained.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands signs security pact with US while maintaining China ties",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutral stance toward Beijing, according to regional experts who characterize simultaneous engagement with both powers as standard practice. The agreement reflects ongoing competition between the US and China for influence in the Pacific region, though Solomon Islands officials emphasize this does not represent a shift away from existing relationships with Beijing.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Implements Forced Assimilation Policy for Minority Populations",
+          "brief": "China has formalized forced assimilation measures targeting minority groups through new legislation. This policy escalation represents an intensification of existing integration programs and may impact China's international relations, particularly with trading partners and human rights advocates. The economic implications include potential labor market consolidation and workforce standardization across minority-populated regions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+          "published": "Thu, 30 Jul 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Challenges U.S. Legal Framework in International Disputes",
+          "brief": "China is pursuing alternative legal mechanisms and international frameworks to counter U.S. dominance in global legal systems and dispute resolution. This strategy has implications for international trade, investment agreements, and the enforcement of contracts outside the U.S.-led legal order. Success could reshape how disputes are resolved globally and reduce American leverage in economic and legal matters.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
+          "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Hong Kong Financial Group Proposes Review of Four-Decade Dollar Peg",
+          "brief": "The Hong Kong Securities and Futures Professionals Association has called for a review of Hong Kong's currency peg to the US dollar, proposing alternatives including greater yuan usage or a basket of currencies and gold. While the proposal reflects ongoing debate about Hong Kong's monetary framework, analysts assess the current pegged system is likely to remain in place. The proposal carries implications for Hong Kong's financial competitiveness and monetary policy flexibility amid China's broader efforts to internationalize the yuan.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed",
+          "published": "Fri, 07 Aug 2026 08:14:51 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's foreign reserves stagnant despite record trade surplus",
+          "brief": "China's foreign exchange reserves remained largely unchanged in 2025 despite recording a US$1.18 trillion trade surplus, as increasing external earnings accumulated in private sector hands rather than central reserves. This shift reflects a structural change in how China's massive trade surpluses are being distributed between state and non-state actors, including domestic households, commercial banks, and corporations. The trend suggests evolving capital flows and potential constraints on Beijing's ability to direct foreign reserves for policy objectives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363021/chinas-foreign-reserves-hold-steady-external-earnings-stay-private-hands?utm_source=rss_feed",
+          "published": "Wed, 05 Aug 2026 07:00:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China raises $2.2 billion in Hong Kong sovereign bond auction",
+          "brief": "China's Ministry of Finance successfully sold 15 billion yuan (US$2.22 billion) in sovereign bonds through a Hong Kong auction, achieving strong institutional investor demand with a 4.67 bid-to-cover ratio. The sale demonstrates continued international appetite for Chinese government debt and follows Hong Kong's introduction of new hedging tools for mainland bond market risks, signaling confidence in China's financial markets among global investors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3362961/why-chinas-new-sovereign-bond-sale-hong-kong-drawing-global-interest?utm_source=rss_feed",
+          "published": "Wed, 05 Aug 2026 00:00:18 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates the Sino-North Korean bridge is approaching operational status, over a decade after its completion. The infrastructure project is expected to significantly facilitate bilateral trade between the two countries. The bridge's opening could enhance economic ties and logistical connectivity between China and North Korea.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Chinese Economic Policy Viewed as Key Driver of Australian Dollar",
+          "brief": "Australian dollar traders are closely monitoring Beijing's economic policy decisions, with analysts suggesting that Chinese interventions to boost domestic growth could have significant effects on the Australian currency. The article examines the theory that China's economic power gives it substantial influence over the Australian dollar's movements in global markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363103/does-beijing-really-have-power-lift-australian-dollar?utm_source=rss_feed",
+          "published": "Thu, 06 Aug 2026 01:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 17,
+        "high_priority": 4,
+        "by_category": {
+          "economy": 9,
+          "military": 3,
+          "foreign_relations": 5
+        },
+        "updated_at": "2026-08-09T10:23:01.739075Z"
+      }
+    },
+    {
       "date": "2026-08-08",
       "articles": [
         {
