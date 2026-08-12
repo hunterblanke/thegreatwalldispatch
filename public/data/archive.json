@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-08-11",
+      "articles": [
+        {
+          "headline": "China Reassesses Taiwan Policy Options Amid Strategic Calculations",
+          "brief": "The article examines China's evolving strategic considerations regarding Taiwan, suggesting Beijing may be evaluating alternative approaches beyond current policies. This reassessment carries significant implications for cross-strait stability, regional security dynamics, and global economic disruption risks given Taiwan's critical role in semiconductor supply chains.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+          "published": "Tue, 04 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China-Russia-North Korea Alliance Poses Indo-Pacific Security Threat",
+          "brief": "China, Russia, and North Korea are forming an increasingly coordinated authoritarian bloc that extends beyond current conflicts in Ukraine and the Middle East. This alignment represents a significant strategic concern for Taiwan and other Indo-Pacific nations, as the three powers demonstrate willingness to act in concert on military and geopolitical matters. The consolidation of this axis could fundamentally alter regional balance of power calculations.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/the-china-russia-north-korea-authoritarian-axis-looms-over-wars-in-ukraine-and-iran/",
+          "published": "Mon, 10 Aug 2026 21:26:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "South Korean Chipmakers Test Chinese Equipment Amid US Export Restrictions",
+          "brief": "Samsung and SK Hynix are evaluating Chinese semiconductor manufacturing tools as insurance against unpredictable U.S. export control policies. This diversification strategy indicates that American restrictions on chip technology may be driving allied nations to develop alternative supply chains, potentially undermining U.S. efforts to maintain technological dominance in critical semiconductor sectors.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/samsung-sk-hynix-tests-of-chinese-chip-tools-expose-cracks-in-us-export-strategy/",
+          "published": "Mon, 10 Aug 2026 20:38:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Seeks to Manage North Korea's Assertive Regional Behavior",
+          "brief": "China faces strategic challenges in managing North Korea's increasingly assertive actions, which could destabilize the region and complicate Beijing's economic and security interests. The article indicates Beijing is developing contingency plans to address Pyongyang's unpredictability. China's ability to influence North Korean behavior has significant implications for regional stability and Beijing's broader geopolitical objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/why-china-worries-about-north-korea",
+          "published": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan deprioritizes Scarborough Shoal claim amid Philippines ties",
+          "brief": "Taiwan has soft-pedaled its sovereignty claim over Scarborough Shoal as the Philippines filed a UN submission, revealing Taipei's prioritization of security cooperation with Manila over territorial assertions. This strategic recalibration reflects Taiwan's growing reliance on regional partnerships amid cross-strait tensions. The shift indicates a potential widening gap between Taiwan's official sovereignty positions and its practical foreign policy priorities in Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
+          "published": "Tue, 11 Aug 2026 02:45:29 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Papua New Guinea closes Taiwan trade office, signals China economic shift",
+          "brief": "Papua New Guinea has closed its Taiwan trade office, a move analysts suggest indicates expanding economic engagement with China despite diplomatic ambiguity. The closure suggests PNG may be repositioning its economic relationships in anticipation of increased Chinese investment and financial commitments. This represents a significant diplomatic realignment in the Indo-Pacific region regarding Taiwan's international presence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
+          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan uses economic tools after Papua New Guinea closes representative office",
+          "brief": "Papua New Guinea closed its Taipei representative office, reportedly under Chinese pressure, prompting Taiwan to review a liquefied natural gas project as economic leverage. The move demonstrates Taiwan's limited but gradually expanding ability to use economic tools in response to diplomatic losses. Analysts note this reflects shifting dynamics in Taiwan's foreign relations strategy amid continued Chinese pressure on its diplomatic allies.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts suggesting Beijing is leveraging historical references to Japan's wartime conduct to undermine Manila's South China Sea territorial claims. The move reflects China's strategy of using diplomatic pressure and selective historical narratives to contest rival nations' maritime assertions in the disputed region. This incident underscores escalating tensions between China and the Philippines over competing sovereignty claims.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China enacts ethnic unity law with potential extraterritorial reach",
+          "brief": "China has passed an 'ethnic unity and progress promotion' law that Beijing claims has applicability beyond its borders, potentially affecting overseas Chinese communities and foreign entities. The law's extraterritorial scope represents an expansion of China's regulatory authority and could have significant implications for diaspora populations and international relations. This development signals Beijing's intent to extend domestic policy frameworks into the international sphere.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nearing opening after 12-year delay",
+          "brief": "Satellite imagery indicates the long-delayed bridge connecting China and North Korea is approaching operational status, over a decade after its completion. The infrastructure project is expected to significantly facilitate bilateral trade between the two countries. The bridge's opening may have implications for regional commerce and North Korea's economic engagement with its primary trade partner.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands signs security agreement with United States",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutrality and commitment to engaging with both Beijing and Washington. Regional experts characterize simultaneous engagement with both major powers as standard practice for Pacific nations. This development reflects ongoing strategic competition in the region as countries balance relationships with the US and China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Challenges US Legal Framework in International Commerce",
+          "brief": "China is advancing alternative legal mechanisms and dispute resolution systems to reduce reliance on US-dominated international legal structures. This effort reflects Beijing's broader strategy to establish parallel governance frameworks that could reshape global trade and investment practices. The initiative carries significant implications for international commerce, particularly in regions aligned with Chinese economic initiatives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
+          "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "PLA Air Force Set for Increased Representation in Leadership",
+          "brief": "Current trends suggest the People's Liberation Army Air Force (PLAAF) will achieve greater-than-usual representation on China's next Central Military Commission, indicating a potential shift in military leadership priorities. This development reflects evolving organizational changes within senior PLA structures and may signal increased emphasis on air power capabilities within China's military hierarchy.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/air-force-ascendant-senior-pla-leadership-changes-and-their-implications/",
+          "published": "Tue, 11 Aug 2026 01:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "PACOM Commander Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion regarding strategic opportunities in the Indo-Asia-Pacific region. The event reflects continued U.S. focus on regional military posture and strategic positioning in a critical geopolitical area.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Hong Kong's wealth hub status faces pressure from mainland China tax tightening",
+          "brief": "Hong Kong has surpassed Switzerland as the world's largest cross-border wealth hub, attracting wealthy individuals from mainland China and Southeast Asia through its favorable regulatory environment and financial infrastructure. However, mainland China's tightening tax rules pose a potential threat to Hong Kong's competitive advantage in wealth management and capital flows. The shift in Beijing's tax policy could undermine Hong Kong's core appeal to high-net-worth individuals and impact its status as a premier financial center.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363352/china-tightens-its-tax-rules-can-hong-kong-remain-magnet-billionaires?utm_source=rss_feed",
+          "published": "Mon, 10 Aug 2026 02:00:19 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong financial group proposes review of decades-old US dollar peg",
+          "brief": "The Hong Kong Securities and Futures Professionals Association has called for a review of Hong Kong's four-decade currency peg to the US dollar, proposing alternatives including greater yuan usage and a basket of major currencies with gold. While the proposal signals growing discussion about Hong Kong's monetary system flexibility, financial analysts assess the current pegged system is likely to remain in place despite these calls for reform.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed",
+          "published": "Fri, 07 Aug 2026 08:14:51 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong Dollar Peg Under Review Amid Yuan Internationalization",
+          "brief": "Hong Kong's decades-long peg of its currency to the US dollar faces renewed scrutiny as international investors diversify away from dollar assets and China promotes yuan internationalization. The peg, established in 1983 following a currency crisis, has provided monetary stability but now raises questions about its continued utility in a shifting global financial landscape. This review reflects broader tensions between maintaining Hong Kong's traditional financial architecture and adapting to evolving regional economic dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363306/hong-kongs-us-dollar-peg-explained-history-benefits-and-risks?utm_source=rss_feed",
+          "published": "Sat, 08 Aug 2026 02:00:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese banks accelerate disposal of $8.2 billion in bad credit-card debt",
+          "brief": "China's commercial banks have significantly increased efforts to sell non-performing credit-card loans, with over 130 bulk transfer notices totaling more than 55 billion yuan disclosed this year. The asset disposals reflect banks' efforts to manage rising non-performing loans and deteriorating interest margins amid economic pressures. This trend suggests potential stress in consumer credit quality and may indicate broader concerns about household debt sustainability in China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363563/chinas-banks-look-unload-more-us82b-bad-credit-card-loans?utm_source=rss_feed",
+          "published": "Tue, 11 Aug 2026 00:00:20 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong-based mediation body expands state dispute resolution capacity",
+          "brief": "The International Organisation for Mediation (IOMed), headquartered in Hong Kong, has secured nominations of over 100 mediators from six countries to handle interstate disputes. The organization positions Hong Kong as a potential regional legal hub for international conflict resolution, leveraging the city's legal and diplomatic expertise.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363573/hong-kongs-iomed-ready-tackle-state-disputes-serve-asian-legal-hub?utm_source=rss_feed",
+          "published": "Tue, 11 Aug 2026 00:30:11 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong, Malaysia pursue deeper economic partnership in semiconductors",
+          "brief": "Hong Kong's Trade Development Council is leading the city's largest delegation to Malaysia to expand bilateral economic cooperation, particularly in semiconductor manufacturing. The initiative signals Hong Kong's strategic effort to diversify economic partnerships and leverage regional growth opportunities in critical technology sectors through its 'Think Business, Think Hong Kong' campaign.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363569/hong-kong-malaysia-set-deeper-ties-semiconductor-making-other-sectors?utm_source=rss_feed",
+          "published": "Mon, 10 Aug 2026 14:23:08 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 20,
+        "high_priority": 3,
+        "by_category": {
+          "foreign_relations": 11,
+          "military": 3,
+          "economy": 6
+        },
+        "updated_at": "2026-08-11T10:41:52.958859Z"
+      }
+    },
+    {
       "date": "2026-08-10",
       "articles": [
         {
