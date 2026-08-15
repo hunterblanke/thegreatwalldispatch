@@ -1,6 +1,250 @@
 {
   "entries": [
     {
+      "date": "2026-08-14",
+      "articles": [
+        {
+          "headline": "US Military Dependent on Chinese Rare Earth Supply Chain",
+          "brief": "China dominates the global supply chain for rare earth elements that are essential components in modern military weapons systems. This strategic dependency creates a significant vulnerability for US defense capabilities, as supply disruptions or geopolitical tensions could impact weapons production and modernization. The concentration of rare earth processing in China presents a critical national security consideration for US military readiness.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/the-us-military-cant-function-without-china/",
+          "published": "Thu, 13 Aug 2026 22:13:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "US Report: Multiple Countries Facilitate Chinese Tariff Evasion",
+          "brief": "According to a US report, China has utilized transshipment routes through dozens of countries with lower tariff rates to circumvent higher American levies on Chinese goods. This practice undermines the effectiveness of US tariff policy and suggests coordinated or tacit support from third nations in the supply chain. The finding highlights vulnerabilities in enforcement mechanisms and potential economic coordination that could complicate future US trade strategy.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 14 Aug 2026 08:39:46 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong lists first Shanghai free-trade zone bond amid competition",
+          "brief": "Hong Kong Exchanges and Clearing announced the listing of Shanghai Electric Global Capital's 1.5 billion yuan green bond, marking Hong Kong's first offshore bond from Shanghai's free-trade zone. The transaction reflects Hong Kong's effort to maintain its position as the leading offshore yuan hub against increasing competition from mainland financial centers. This development signals intensifying rivalry between Hong Kong and Shanghai for dominance in offshore yuan trading and financing activities.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363995/hong-kong-list-first-shanghai-free-trade-zone-bond-defend-yuan-hub-status?utm_source=rss_feed",
+          "published": "Fri, 14 Aug 2026 04:52:38 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "PBOC releases first standalone five-year plan in decade",
+          "brief": "China's central bank released its first independent five-year plan in over ten years, prioritizing measures to establish China as a financial powerhouse through refined monetary policy mechanisms and enhanced support for the real economy. Key objectives include optimizing interest rate and exchange rate frameworks, maintaining yuan stability, and mitigating financial risks in critical sectors. The plan signals Beijing's intent to strengthen financial system resilience while supporting economic growth.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/economy/policy/article/3363980/chinese-central-banks-15th-five-year-plan?utm_source=rss_feed",
+          "published": "Fri, 14 Aug 2026 04:33:57 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Seeks to Manage North Korea's Assertive Regional Behavior",
+          "brief": "China faces strategic challenges in managing North Korea's increasingly assertive posture, which threatens regional stability and Beijing's economic interests. The article indicates Beijing is developing approaches to constrain Pyongyang's destabilizing actions while maintaining influence. China's ability to effectively manage this relationship has significant implications for regional security and economic stability in East Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/why-china-worries-about-north-korea",
+          "published": "Mon, 10 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Framework",
+          "brief": "China is advancing an \"Internet sovereignty\" initiative to establish state control as a governing principle for the global Internet. This approach contrasts with open internet models and has significant implications for international cybersecurity, data governance, and digital geopolitics. The initiative reflects China's broader effort to shape international norms around information technology and digital infrastructure.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China completes testing of $10.8 billion Southeast Asia canal project",
+          "brief": "Chinese authorities have successfully conducted the first full transit test of a 134.2-kilometer canal megaproject designed to link inland regions with Southeast Asia. The completion of this milestone test indicates China's advancement in major infrastructure connectivity initiatives that could reshape regional trade routes and economic integration with neighboring countries.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/china/article/3363971/china-tests-canal-link-southeast-asia-rocket-failure-concerns-scmps-7-highlights?utm_source=rss_feed",
+          "published": "Fri, 14 Aug 2026 04:15:07 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "UK Confirms No Deportation for Hong Kong Opposition Leader Wu",
+          "brief": "The UK immigration minister confirmed that former Hong Kong opposition leader Wu Chi-wai will not be deported and has been granted permission to settle in the country, despite initial complications with his entry application. The decision signals the UK's willingness to provide refuge to Hong Kong pro-democracy figures and reflects ongoing tensions between London and Beijing over Hong Kong autonomy and political freedoms.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3363955/uk-rules-out-deporting-ex-hong-kong-opposition-leader-after-entry-hiccup?utm_source=rss_feed",
+          "published": "Thu, 13 Aug 2026 16:04:46 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China's Western Development Strategy reinforced control over Tibet",
+          "brief": "Former Premier Zhu Rongji's Western Development Strategy used economic policies as a mechanism to align Tibetan populations with Chinese government objectives. The initiative represented a shift toward economic integration as a tool for political consolidation in the Tibet region. This approach reflects Beijing's broader strategy of using development incentives to strengthen central authority in peripheral territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
+          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands Signs Security Pact with US, Maintains Beijing Engagement",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its commitment to neutrality and continued engagement with China. Regional experts characterize simultaneous engagement with both Beijing and Washington as standard practice for Pacific nations. The agreement reflects broader US efforts to strengthen partnerships in the Indo-Pacific amid strategic competition with China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan tests economic leverage after PNG office closure",
+          "brief": "Taiwan is reportedly using a liquefied natural gas review as economic leverage following Papua New Guinea's decision to close Taipei's representative office, likely under pressure from China. The move reflects Taiwan's attempts to counter Beijing's diplomatic isolation campaign, though analysts assess Taipei's retaliatory capacity as limited. This incident demonstrates the economic dimensions of cross-strait competition for diplomatic recognition in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China uses music video to reinforce South China Sea territorial claims",
+          "brief": "China has released a music video featuring its coast guard that experts say is designed to humanize the force while projecting Beijing's position on disputed South China Sea territories. The effort reflects China's ongoing strategy to assert sovereignty claims in the region through cultural messaging. This represents a shift toward soft power approaches in reinforcing territorial positions amid international tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan defense ties",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts assessing the move as an attempt to delegitimize Manila's South China Sea claims by invoking Japan's historical role. The sanctions highlight Beijing's strategy of leveraging historical grievances to undermine regional partnerships that challenge its territorial assertions. This development signals escalating tensions between China and the Philippines, with potential implications for broader Indo-Pacific security alignments.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines commemorates decade since South China Sea arbitration ruling",
+          "brief": "The Philippines marked the 10th anniversary of a 2016 international court ruling that invalidated China's expansive South China Sea territorial claims. China continues to reject the arbitration decision, and regional consensus on dispute resolution mechanisms remains fragmented. The unresolved disagreement underscores persistent tensions in one of the world's most strategically important maritime regions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
+          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong insurers expect 8-10% growth despite Beijing tax policy shift",
+          "brief": "S&P Global Ratings projects Hong Kong's life insurance sector will maintain annual premium growth of 8-10 percent over the next two years despite regulatory changes from Beijing's overseas taxation rules. The resilience reflects sustained demand from mainland clients seeking overseas diversification, though the agency anticipates a temporary slowdown in mainland customer sales. This assessment indicates Hong Kong's insurance and wealth management industries remain competitive despite increased regulatory scrutiny.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363969/hong-kong-insurers-weather-beijings-tax-shift-8-10-premium-growth-sp?utm_source=rss_feed",
+          "published": "Fri, 14 Aug 2026 02:00:17 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong expands tech listings to compete globally in AI sector",
+          "brief": "Hong Kong is increasing technology sector exposure on its stock exchange to strengthen its position in the competitive artificial intelligence industry and potentially rival the Nasdaq. Chinese hardware technology companies, particularly optical transceiver manufacturers for AI data centers, are planning stock offerings in Hong Kong following Zhongji Innolight's recent market debut. This strategic pivot represents Hong Kong's effort to capitalize on mainland China's growing dominance in AI and capture critical tech investment flows.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3363741/hong-kong-seeks-tech-exposure-take-nasdaq-amid-beijings-rising-ai-dominance?utm_source=rss_feed",
+          "published": "Wed, 12 Aug 2026 06:00:38 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's quant funds maintain domestic market advantage despite regulatory constraints",
+          "brief": "Chinese quantitative trading funds have developed strategies uniquely adapted to mainland markets that foreign competitors cannot easily replicate, according to prominent economists. Despite Beijing's regulatory clampdown on trading speed, domestic quant firms retain a structural advantage over international rivals unfamiliar with China's specific market characteristics. This localized edge suggests Chinese financial institutions may sustain competitive advantages in algorithmic trading despite regulatory headwinds.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363610/chinas-quant-funds-have-edge-foreign-rivals-even-beijing-curbs-trading-speed?utm_source=rss_feed",
+          "published": "Wed, 12 Aug 2026 05:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Challenges U.S. Legal Authority in International Disputes",
+          "brief": "China is developing legal mechanisms and frameworks to contest American dominance in international legal proceedings and dispute resolution. This effort reflects Beijing's broader strategy to create alternative institutional structures that reduce reliance on U.S.-influenced legal systems. The development carries significant implications for global commerce, investment agreements, and dispute settlement mechanisms traditionally favored by Western powers.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
+          "published": "Fri, 07 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and her two daughters for sending goods to Turkey, with officials characterizing the activity as \"supporting terrorists.\" The arrests reflect Beijing's expansive interpretation of counterterrorism laws in Xinjiang and may signal increased scrutiny of cross-border commercial and familial connections to Turkey, a country with significant Uyghur diaspora populations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 19,
+        "high_priority": 1,
+        "by_category": {
+          "economy": 7,
+          "foreign_relations": 11,
+          "military": 1
+        },
+        "updated_at": "2026-08-14T10:49:16.697313Z"
+      }
+    },
+    {
       "date": "2026-08-13",
       "articles": [
         {
