@@ -1,6 +1,250 @@
 {
   "entries": [
     {
+      "date": "2026-08-18",
+      "articles": [
+        {
+          "headline": "China Leverages Rare-Earth Dominance as Strategic Economic Tool",
+          "brief": "China has consolidated control over rare-earth element production and processing, establishing a critical competitive advantage in global supply chains. This dominance enables Beijing to influence technology sectors, manufacturing capabilities, and geopolitical negotiations involving dependent nations and industries. The strategic significance lies in rare-earth materials' essential role in defense systems, renewable energy, and advanced electronics, making supply control a leverage point in economic and diplomatic relations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
+          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Seeks Global AI Influence Through Data Exports",
+          "brief": "China is strategically exporting datasets alongside AI models to shape the narratives embedded in global chatbots and AI systems. This approach enables Beijing to potentially influence how AI systems worldwide represent Chinese perspectives and positions, raising concerns about information control and technological influence projection.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+          "published": "Mon, 17 Aug 2026 11:10:29 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Taiwan Integrates Urban Resilience Drills Into Military Deterrence Strategy",
+          "brief": "Taiwan's Han Kuang exercises are incorporating urban resilience training as a core component of the island's deterrence posture. The drills aim to strengthen Taiwan's ability to withstand potential crisis scenarios, though analysts suggest more measurable assessments of operational readiness are needed. This approach represents an evolution in Taiwan's defense strategy to include civilian infrastructure and urban population resilience alongside traditional military capabilities.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/taiwans-urban-resilience-drills-are-becoming-a-core-part-of-deterrence/",
+          "published": "Tue, 18 Aug 2026 00:44:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Solomon Islands signs security pact with US while maintaining Beijing ties",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its commitment to neutrality and continued engagement with China. Regional experts characterize simultaneous engagement with both Washington and Beijing as standard diplomatic practice for Pacific nations. This development reflects broader geopolitical competition in the Indo-Pacific region, where countries are balancing relationships between major powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan leverages LNG review after Papua New Guinea diplomatic loss",
+          "brief": "Papua New Guinea closed its representative office in Taipei, reflecting Beijing's continued diplomatic pressure on Taiwan's remaining allies. In response, Taiwan is reviewing liquefied natural gas imports from PNG, demonstrating limited economic countermeasures. Analysts indicate this represents a gradual shift in Taiwan's approach, though its overall diplomatic and economic leverage remains constrained.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Enacts Law Extending Ethnic Unity Mandates Beyond Borders",
+          "brief": "China has passed an 'ethnic unity and progress promotion' law with extraterritorial reach, potentially affecting individuals and organizations outside Chinese territory. The law's broad jurisdictional scope represents an expansion of Beijing's regulatory authority and may have implications for diaspora communities and international entities. This development signals China's intent to enforce ethnic policy compliance globally, which could affect foreign relations and international business operations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
+          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
+          "brief": "China has released a music video featuring a love song that experts assess is designed to humanize the Chinese coast guard while reinforcing Beijing's disputed claims in the South China Sea. The cultural messaging approach reflects China's broader strategy to normalize its position in the contested waters through soft power alongside its military and administrative presence. This represents China's continued effort to shape international and domestic narratives regarding its South China Sea territorial assertions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China sanctions Philippine defense chief over Japan ties",
+          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts suggesting Beijing is leveraging historical grievances against Japan to undermine Manila's South China Sea territorial claims. This move reflects China's strategy of using diplomatic pressure and historical narratives to delegitimize rival claimants' positions in disputed waters. The action indicates escalating tensions in the region and China's willingness to target Philippine leadership over security partnerships.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
+          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong launches offshore yuan bond futures, strengthening financial hub status",
+          "brief": "Hong Kong's stock exchange introduced five-year China government bond futures on August 3, establishing the only offshore exchange-traded tool for international investors to hedge yuan interest rate exposure. The launch enhances Hong Kong's capabilities in yuan asset pricing, risk management, and serving global investors, reinforcing its position as a premier offshore yuan trading center.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364103/chinese-treasury-futures-launch-cements-hong-kong-premier-yuan-hub?utm_source=rss_feed",
+          "published": "Tue, 18 Aug 2026 08:30:20 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's State Grid breaks dim sum bond issuance record",
+          "brief": "State Grid Corporation of China raised 14.9 billion yuan through offshore yuan-denominated bonds in Hong Kong's largest single issuance by a Chinese state-owned enterprise. The record-breaking deal reflects growing investor confidence in Hong Kong's dim sum bond market as a financing platform for major Chinese corporations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3364407/hong-kongs-dim-sum-bond-market-hits-new-heights-state-grid-deal-draws-record-orders?utm_source=rss_feed",
+          "published": "Tue, 18 Aug 2026 08:00:08 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese banks achieve modest NIM improvement amid weak loan demand",
+          "brief": "Chinese commercial banks recorded their first quarterly net interest margin expansion since 2022 in Q2 2026, with NIM rising marginally to 1.41 percent. However, the gains are constrained by subdued underlying loan demand, suggesting limited sustainability of banking sector profitability recovery. This indicates potential headwinds for China's financial system as weak credit demand may signal broader economic slowdown concerns.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3364361/chinese-commercial-banks-gain-margin-relief-subdued-lending-dims-outlook?utm_source=rss_feed",
+          "published": "Tue, 18 Aug 2026 06:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong proposes tax incentives to attract multinational treasury centers",
+          "brief": "Hong Kong's government is implementing tax reforms to increase incentives for corporate treasury centers, expected to attract both multinational and mainland Chinese firms to the financial hub. Public consultation runs through September 4, 2024, with legislative submission planned for the first half of 2027. The initiative aims to strengthen Hong Kong's competitive position in regional financial services and corporate management activities.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3364223/hong-kong-tax-reforms-treasury-centres-will-lure-multinationals-mainland-firms-pwc?utm_source=rss_feed",
+          "published": "Mon, 17 Aug 2026 00:16:57 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong lists first Shanghai free-trade zone bond amid yuan hub competition",
+          "brief": "Hong Kong Exchanges and Clearing announced the listing of a 1.5 billion yuan green bond from Shanghai Electric Global Capital, marking Hong Kong's first such offshore bond offering from Shanghai's free-trade zone. The move signals Hong Kong's effort to maintain its position as the global offshore yuan trading hub amid intensifying competition from mainland Chinese financial centers. This development reflects broader competitive dynamics in China's financial market structure and offshore currency operations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3363995/hong-kong-list-first-shanghai-free-trade-zone-bond-defend-yuan-hub-status?utm_source=rss_feed",
+          "published": "Fri, 14 Aug 2026 04:52:38 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong accountants seek tax breaks for Northern Metropolis development",
+          "brief": "The Hong Kong Institute of Certified Public Accountants has submitted recommendations for Hong Kong's first five-year plan, urging tax incentives for investors funding Northern Metropolis startups and listing regime reforms. These proposals aim to strengthen Hong Kong's position as an international financial hub while supporting the development of the cross-border Northern Metropolis region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3364438/hong-kong-5-year-plan-should-have-northern-metropolis-tax-breaks-listing-reforms-hkicpa?utm_source=rss_feed",
+          "published": "Tue, 18 Aug 2026 10:00:53 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and two daughters for sending goods to Turkey, with police citing counterterrorism concerns. The arrests highlight Beijing's surveillance and enforcement practices in Xinjiang and may complicate China's relations with Turkey, a key regional partner with significant Uyghur diaspora communities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China restricts mourning at former premier's funeral amid political concerns",
+          "brief": "Chinese authorities have censored public expressions of grief during former Premier Zhu Rongji's funeral, reflecting concerns that nostalgia for his tenure could generate criticism of Xi Jinping's current leadership. The controlled response indicates Beijing's sensitivity to comparisons between past and present governance. This suggests underlying tensions within China's political establishment regarding Xi's rule and historical legacies.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 07:17:07 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Zhu Rongji's Funeral Highlights Gap Between Past and Present China",
+          "brief": "Former Premier Zhu Rongji's funeral has become an occasion for Beijing to invoke his era of economic growth and reform, yet public sentiment reveals widespread disappointment with current conditions. The contrast between the optimism of Zhu's tenure and contemporary Chinese experience underscores growing concerns about economic stagnation and declining public confidence in leadership. This divergence suggests potential internal tensions within China's political narrative regarding development and prosperity.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
+          "published": "Tue, 18 Aug 2026 09:11:52 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Geely Auto founder Li Shufu steps down as chairman",
+          "brief": "Chinese billionaire Li Shufu has resigned as chairman of Geely Auto, China's second-largest carmaker, with executive director Andy An Conghui assuming the role. The succession occurs following Geely's announcement of record first-half revenue, suggesting a planned generational leadership transition. This management change signals the company's strategic shift toward sustainable growth in China's competitive automotive sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
+          "published": "Mon, 17 Aug 2026 11:32:39 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese pharma contractors show resilience against US supply chain restrictions",
+          "brief": "China's pharmaceutical contractors are demonstrating financial resilience despite US government efforts to reduce American reliance on Chinese pharmaceutical supplies. Industry analysts attribute this strength to resistance from pharmaceutical companies unwilling to abandon China's significant cost advantages. This dynamic suggests that economic incentives may limit the effectiveness of US supply chain decoupling initiatives in the pharmaceutical sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3364303/chinas-pharma-contractors-rally-us-supply-chain-pressures-face-industry-resistance?utm_source=rss_feed",
+          "published": "Mon, 17 Aug 2026 10:00:32 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 19,
+        "high_priority": 0,
+        "by_category": {
+          "economy": 10,
+          "foreign_relations": 8,
+          "military": 1
+        },
+        "updated_at": "2026-08-18T10:18:11.678712Z"
+      }
+    },
+    {
       "date": "2026-08-17",
       "articles": [
         {
