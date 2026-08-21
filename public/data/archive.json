@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-08-20",
+      "articles": [
+        {
+          "headline": "China Sentences Evergrande Founder Hui Ka Yan to Life Prison",
+          "brief": "Chinese authorities have sentenced Evergrande Group founder Hui Ka Yan to life imprisonment, marking the conclusion of legal proceedings against the property developer whose collapse triggered significant economic turmoil. The conviction underscores Beijing's effort to manage fallout from the real estate crisis while addressing corporate malfeasance. This development reflects broader concerns about financial stability and governance within China's property sector.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+          "published": "Thu, 20 Aug 2026 06:39:53 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
+          "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and two daughters for sending goods to Turkey, with police characterizing the activity as 'supporting terrorists.' The arrests underscore continued enforcement actions targeting cross-border commerce and international connections involving Uyghur communities, raising concerns about the scope of counterterrorism designations applied to ordinary commercial activity.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
+          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines uses education to reinforce South China Sea territorial claims",
+          "brief": "The Philippines is implementing classroom-based educational initiatives to build domestic support for its South China Sea territorial positions and strengthen public commitment to its claims. While experts note this approach can create lasting popular support for the government's stance, it may simultaneously reduce diplomatic flexibility in future negotiations with China. This strategy reflects Manila's effort to consolidate internal consensus on a complex geopolitical dispute.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
+          "published": "Wed, 19 Aug 2026 21:08:37 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan leverages LNG review after Papua New Guinea office closure",
+          "brief": "Taiwan is testing economic pressure following Papua New Guinea's closure of Taipei's representative office, reportedly through a liquefied natural gas import review. Analysts view this as a gradual shift in Taiwan's approach to economic leverage, though experts acknowledge Taiwan's overall capacity for economic coercion remains limited compared to China's influence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
+          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Welcomes Malaysia PM's Taiwan Comments; Taipei Objects",
+          "brief": "Malaysian Prime Minister Anwar Ibrahim made comments supportive of China's position on Taiwan, which Beijing praised. Taiwan responded by warning that such statements could discourage Taiwanese business investment in Malaysia, indicating diplomatic friction over the island's international positioning.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/china-praises-malaysian-pm-anwar-ibrahim-for-supportive-comments-on-taiwan/",
+          "published": "Thu, 20 Aug 2026 10:19:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Solomon Islands signs security pact with US while maintaining Beijing ties",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its commitment to neutrality and continued engagement with China. Regional experts characterize simultaneous diplomatic engagement with both Washington and Beijing as standard practice for Pacific nations. The agreement reflects ongoing strategic competition between the US and China for influence in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-North Korea bridge nears opening after 12-year delay",
+          "brief": "Satellite imagery indicates progress on a bridge connecting China and North Korea that has remained unopened since completion 12 years ago. The bridge's opening could significantly expand bilateral trade and strengthen economic ties between the two countries. The long delay suggests previous political or logistical obstacles may now be resolving.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
+          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Leverages Rare-Earth Dominance as Strategic Economic Tool",
+          "brief": "China has established dominant control over rare-earth element production and supply chains, creating a significant geopolitical and economic advantage. This dominance enables Beijing to influence global technology, defense, and clean energy sectors that depend on these critical materials. The strategic importance of rare-earth control positions China to leverage supply as a negotiating tool in international relations and economic competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
+          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Prominent economist analyzes de-dollarization trends and China's preparedness",
+          "brief": "Leading economist Barry Eichengreen discusses the current de-dollarization movement and its distinction from historical episodes, examining how close the global monetary system is to restructuring. The analysis has significant implications for China's economic strategy and the international monetary order, particularly regarding reserve currency dynamics and financial system resilience.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/economy/china-economy/article/3364644/top-economist-how-china-should-prep-dollar-eras-end?utm_source=rss_feed",
+          "published": "Thu, 20 Aug 2026 05:03:28 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Congress Must Develop Sustained Strategy to Compete with China",
+          "brief": "The article emphasizes the need for Congress to establish a durable, long-term competitive strategy against China rather than ad-hoc policy responses. The significance lies in the recognition that sustained institutional leadership is required to maintain U.S. economic competitiveness in the face of China's strategic planning and resource allocation.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts",
+          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Evergrande Founder Sentenced to Life Imprisonment",
+          "brief": "Hui Ka Yan, founder of China's collapsed property giant Evergrande, has been sentenced to life in prison, marking a significant moment in the aftermath of the company's collapse. Evergrande's failure had destabilized China's property sector, which represents a substantial portion of the country's economic output and household wealth. The sentencing signals government accountability measures but underscores ongoing vulnerabilities in China's real estate market.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Xi Reframes CCP History to Legitimize Current Leadership",
+          "brief": "Xi Jinping's commemoration of former leader Jiang Zemin appears designed to rewrite the Communist Party's post-Mao historical narrative rather than genuinely honor his predecessor. By imposing continuity between the 'Reform Era' and Xi's 'New Era,' the move suggests an effort to consolidate ideological control and legitimize current governance approaches. This reframing of party history has implications for how Xi positions his leadership within the CCP's trajectory and authority structure.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/xi-jinpings-jiang-zemin-rewriting-the-reform-era-to-serve-the-new-era/",
+          "published": "Wed, 19 Aug 2026 21:09:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
+          "brief": "China has released a music video featuring a love song that experts say is designed to humanize the Chinese coast guard while reinforcing Beijing's disputed claims in the South China Sea. The propaganda effort reflects China's ongoing strategy to normalize its presence in contested waters through cultural messaging. This approach demonstrates Beijing's multi-faceted approach to asserting sovereignty claims beyond traditional diplomatic and military channels.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
+          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Myanmar Military Chief Visits Thailand to Strengthen Security Cooperation",
+          "brief": "Myanmar's military leader Ye Win Oo is visiting Thailand as part of Bangkok's diplomatic efforts to integrate Myanmar's military-appointed government into regional security frameworks. The visit represents continued efforts to normalize Myanmar's international relations following its 2021 coup. This engagement suggests potential expansion of bilateral military and security arrangements between the two neighboring nations.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/myanmar-military-chief-begins-visit-to-thailand-aimed-at-expanding-security-ties/",
+          "published": "Thu, 20 Aug 2026 11:18:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese banks shift to cheaper loan rates amid margin pressure",
+          "brief": "Chinese commercial banks are increasingly pricing corporate loans against short-term interbank repo rates instead of the benchmark loan prime rate, a structural shift that reflects intensifying margin compression in the sector. The industry's net interest margin declined to a record low of approximately 1.4 percent in Q1, raising investor concerns about bank profitability sustainability and potential systemic implications for financial sector stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3364673/chinese-banks-embrace-cheaper-short-term-loan-rates-despite-margin-risks?utm_source=rss_feed",
+          "published": "Thu, 20 Aug 2026 08:00:16 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China restricts public mourning at former premier's funeral",
+          "brief": "Chinese authorities are controlling public expressions of grief during former Premier Zhu Rongji's funeral, concerned that nostalgia for his era could generate criticism of current leader Xi Jinping's policies. The censorship reflects Beijing's sensitivity to comparative assessments of past and present leadership. This demonstrates the government's prioritization of political control over unrestricted public commemoration.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 18 Aug 2026 07:17:07 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Russia Issues Disputed Missile Test Warning to New Zealand",
+          "brief": "Russia warned New Zealand of a purported missile test in the Southern Ocean, though the test has not materialized. The announcement raises questions about Russian intentions and the credibility of such warnings in the strategic South Pacific region. The incident highlights ongoing military activity posturing and communication between major powers regarding Southern Hemisphere operations.",
+          "category": "military",
+          "severity": "low",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/russia-issues-missile-test-warning-to-new-zealand/",
+          "published": "Wed, 19 Aug 2026 23:03:00 +0900",
+          "raw_source": "The Diplomat"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 17,
+        "high_priority": 1,
+        "by_category": {
+          "foreign_relations": 9,
+          "economy": 6,
+          "military": 2
+        },
+        "updated_at": "2026-08-20T10:20:00.305563Z"
+      }
+    },
+    {
       "date": "2026-08-19",
       "articles": [
         {
