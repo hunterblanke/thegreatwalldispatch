@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-08-29",
+      "articles": [
+        {
+          "headline": "Russia Escalates Rhetoric While Avoiding Direct NATO Conflict",
+          "brief": "Western officials assess that Russia is increasing inflammatory rhetoric toward NATO but aims to avoid direct military confrontation with the alliance. Moscow is expected to continue hybrid warfare activities\u2014including cyber attacks, disinformation, and other operations below the threshold of conventional warfare\u2014against NATO members. This strategy suggests Russia seeks to maintain pressure and destabilization while calculating the risks of overt military engagement remain prohibitive.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 28 Aug 2026 19:05:23 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Indonesia-China naval drills may normalize Beijing's maritime presence",
+          "brief": "China and Indonesia conducted a joint naval exercise east of Taiwan, which experts assessed as not immediately threatening but potentially significant for establishing precedent. Repeated military cooperation with third parties in the region could strengthen China's claims to expanded maritime influence and normalize its operational presence in strategically contested waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+          "published": "Tue, 25 Aug 2026 01:22:34 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
+          "brief": "According to the Alliance Futures Initiative, China likely executed a coordinated regional campaign to align Pacific nations with its 15th Five-Year Plan objectives. The effort represents Beijing's strategic approach to advancing its developmental and geopolitical priorities across the region. This indicates China's sustained focus on gaining diplomatic support and regional alignment for its domestic policy agenda.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
+          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands Signs Security Pact with US, Maintains Beijing Ties",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutral stance toward China, reflecting a regional pattern of engaging both major powers. Regional experts characterize this dual engagement as standard diplomatic practice for Pacific nations. The development illustrates ongoing great power competition in the Indo-Pacific region as the US seeks to strengthen security partnerships while China maintains economic and strategic presence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China resumes demolition of major Tibetan Buddhist monastery complex",
+          "brief": "Satellite imagery confirms Beijing has resumed demolition operations at a significant Tibetan Buddhist academy, according to Radio Free Asia reporting. Religious advocates claim the demolitions target monks' residences as part of efforts to restrict religious freedom and expand ethnic unity policies in Tibet. The resumption of construction activities suggests continued enforcement of Beijing's religious and ethnic policies in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
+          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Premier Zhu's Development Strategy Enhanced Beijing's Tibet Control",
+          "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy utilized economic policies as a mechanism to align Tibetan populations with central government directives. The approach demonstrates Beijing's use of economic development initiatives as tools for political consolidation in ethnic regions. This strategy has significant implications for understanding China's long-term approach to governance and integration of minority territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
+          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "TTP Escalates Operations Along China-Pakistan Economic Corridor",
+          "brief": "The Tehrik-i-Taliban Pakistan (TTP) has increased its militant presence along the Karakoram Highway, a critical infrastructure route connecting China and Pakistan. This buildup threatens the security of a $1.8 billion China-Pakistan Economic Corridor project aimed at upgrading the Thakot-Raikot highway section. The escalation poses significant risks to Chinese economic interests and bilateral infrastructure investments in the region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/militant-buildup-in-areas-critical-to-chinas-economic-interests-in-pakistan/",
+          "published": "Fri, 28 Aug 2026 15:19:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China leverages rare-earth dominance as strategic economic weapon",
+          "brief": "China has consolidated control over rare-earth element production and supply chains, establishing a dominant market position that provides significant geopolitical leverage. This dominance enables Beijing to influence global technology, defense, and renewable energy sectors dependent on these critical materials. The development represents a strategic advantage with implications for international supply chain resilience and technology competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
+          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Congress Urged to Develop Sustained Strategy for China Competition",
+          "brief": "A Foreign Affairs article emphasizes that Congress must take the lead in formulating a durable, long-term strategy to compete with China economically. The piece argues that sustained legislative action is critical to maintaining competitive advantage against Beijing. The focus on congressional leadership suggests concerns about continuity and coordination in U.S.-China economic competition.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
+          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "PACOM Commander Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. military focus on regional engagement and strategic positioning in the Asia-Pacific theater during a period of evolving geopolitical dynamics.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Trump Administration Shifts Iran Strategy to Economic Pressure",
+          "brief": "The Trump administration has replaced military confrontation with Iran with heightened economic measures, though analysts indicate this shift is unlikely to alter Iran's strategic posture. The policy appears primarily focused on economic pressure rather than achieving defined strategic objectives, with potential humanitarian consequences for the Iranian population.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
+          "published": "Fri, 28 Aug 2026 19:43:42 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "JPMorgan: Beijing investment curbs won't weaken Hong Kong wealth hub",
+          "brief": "Beijing's recent cross-border investment restrictions and tax measures on overseas insurance gains may create near-term uncertainty for Hong Kong's financial sector. However, JPMorgan Chase's Asia leadership assesses that these measures will not fundamentally undermine Hong Kong's long-term position as a major wealth management center.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3365613/hong-kongs-long-term-wealth-hub-status-safe-mainland-investment-curbs-jpmorgan-exec?utm_source=rss_feed",
+          "published": "Sat, 29 Aug 2026 02:00:20 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US surgical robotics firm seeks Hong Kong IPO for China expansion",
+          "brief": "SoftBank-backed Noah Medical is preparing a Hong Kong initial public offering targeting over US$100 million to fund its expansion into mainland China. The move reflects broader trends of international technology companies leveraging Hong Kong's capital markets to access the Chinese market. This indicates continued foreign investor interest in China's healthcare technology sector despite geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 05:00:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Life Insurance posts record profits, increases tech sector investments",
+          "brief": "China Life Insurance, the country's largest life insurer, reported first-half 2024 revenue of 434.3 billion yuan (up 81.5% year-on-year) and net profit surge of over 228%, with plans to significantly scale investments in AI, semiconductors, and biotech sectors. The insurer's strategic pivot toward technology and innovative enterprises reflects broader Chinese capital allocation trends and positions major financial institutions as key investors in domestic technological advancement.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 06:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese AI firm MiniMax shows strong growth but lags full-year targets",
+          "brief": "MiniMax reported 283% first-half revenue growth to $116.6 million, driven by enterprise business expansion, but current pace suggests it will fall short of full-year analyst forecasts of $363.77 million. The shortfall underscores intensifying competition in China's AI sector and questions about whether emerging Chinese AI companies can sustain growth projections in a rapidly saturating market.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/big-tech/article/3365341/minimax-revenue-surges-283-remains-behind-pace-meet-forecast-amid-crowded-ai-race?utm_source=rss_feed",
+          "published": "Wed, 26 Aug 2026 10:52:43 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong pledges HK$50m aid for Nepal-Tibet flood relief",
+          "brief": "Hong Kong's government has committed HK$50 million from its Disaster Relief Fund to support victims of deadly flash floods at the Nepal-Tibet border, with the advisory committee expediting application processing. Local Nepalese community groups and organizations have simultaneously launched independent fundraising initiatives. The coordinated relief response demonstrates Hong Kong's humanitarian engagement with neighboring regions and its diaspora communities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3365696/hong-kong-sets-aside-hk50-million-relief-fund-nepal-tibet-flood-victims?utm_source=rss_feed",
+          "published": "Sat, 29 Aug 2026 07:56:01 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 8,
+        "articles_total": 16,
+        "high_priority": 1,
+        "by_category": {
+          "foreign_relations": 8,
+          "military": 2,
+          "economy": 6
+        },
+        "updated_at": "2026-08-29T14:48:24.248872Z"
+      }
+    },
+    {
       "date": "2026-08-28",
       "articles": [
         {
