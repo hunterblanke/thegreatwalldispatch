@@ -1,58 +1,94 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "metrics": {
     "sources_scanned": 7,
-    "articles_total": 20,
-    "high_priority": 5,
+    "articles_total": 17,
+    "high_priority": 0,
     "by_category": {
-      "foreign_relations": 15,
-      "economy": 4,
-      "military": 1
+      "military": 2,
+      "foreign_relations": 7,
+      "economy": 8
     },
-    "updated_at": "2026-08-30T14:35:06.683080Z"
+    "updated_at": "2026-08-31T17:18:35.412757Z"
   },
   "articles": [
     {
-      "headline": "Hundreds dead in Nepal-Tibet border flooding and landslides",
-      "brief": "Severe flooding and landslides struck the Nepal-Tibet border region on Wednesday, resulting in hundreds of deaths and thousands missing. The disaster impacts critical infrastructure and cross-border connectivity in a strategically sensitive region. Recovery and humanitarian response efforts will require coordination between Chinese and Nepalese authorities.",
-      "category": "foreign_relations",
-      "severity": "high",
+      "headline": "Vietnam Protests Chinese Construction in Disputed Paracel Islands",
+      "brief": "Vietnam has formally demanded that China cease construction activities on Antelope Reef and nearby islets in the Paracel Islands, which both nations claim. The construction represents continued Chinese efforts to develop infrastructure in disputed South China Sea territory, escalating tensions over competing territorial claims in the region.",
+      "category": "military",
+      "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "The Diplomat"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 30 Aug 2026 10:49:24 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://thediplomat.com/2026/08/vietnam-demands-immediate-cessation-to-construction-activities-in-paracel-islands/",
+      "published": "Mon, 31 Aug 2026 09:32:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "China warns of potential landslide-formed lake breach near Nepal border",
-      "brief": "Chinese authorities have issued warnings that a lake created by a recent landslide near the Nepal-Tibet border faces a high risk of breaching within days, potentially triggering secondary flooding in the region. The incident presents significant humanitarian and infrastructure concerns for populated areas downstream, and could impact cross-border water management and stability in the geologically sensitive Himalayan region.",
+      "headline": "Indonesia-China naval drill normalizes Beijing presence east of Taiwan",
+      "brief": "China and Indonesia conducted a joint naval exercise in waters east of Taiwan, with experts noting the drill itself does not pose an immediate threat. However, analysts warn that repeated military activities with third parties in the region could strengthen China's territorial claims and normalize its military presence in strategically sensitive areas.",
       "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 10:50:34 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Hong Kong court convicts vigil organizers of subversion charges",
-      "brief": "A Hong Kong court has convicted two former leaders of the group that organized annual candlelight vigils commemorating the 1989 Tiananmen Square incident on charges of inciting subversion. The verdict represents a significant escalation in suppressing public commemoration of sensitive historical events in Hong Kong. The convictions signal Beijing's intensified efforts to control narratives around politically sensitive anniversaries through judicial means.",
-      "category": "foreign_relations",
-      "severity": "high",
+      "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/",
-      "published": "Tue, 25 Aug 2026 19:50:59 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+      "published": "Tue, 25 Aug 2026 01:22:34 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Leverages Rare Earth Market Dominance as Strategic Asset",
-      "brief": "China has established overwhelming control of rare earth element production and processing, creating significant leverage over global supply chains critical to modern technology and defense industries. This dominance allows Beijing to exert geopolitical influence by controlling access to materials essential for electronics, renewable energy, and military applications. The strategic implications extend across multiple sectors, making rare earth supply a potential pressure point in international trade and security negotiations.",
+      "headline": "China resumes demolition of major Tibetan Buddhist monastery",
+      "brief": "Satellite imagery confirms China has resumed demolition operations at a prominent Tibetan Buddhist academy, with advocates arguing the action aims to restrict religious practice and expand ethnic unity enforcement in Tibet. The demolition represents an intensification of structural constraints on Tibetan religious institutions and raises concerns about Beijing's implementation of cultural policies in the region.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
+      "published": "Wed, 19 Aug 2026 03:01:35 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China conducted targeted campaign to promote five-year plan in Pacific",
+      "brief": "According to a report by the Alliance Futures Initiative, China likely ran a coordinated effort to align Pacific nations with its 15th Five-Year Plan (2026-2030). The campaign represents Beijing's strategic effort to extend its influence over regional policy alignment and development priorities. This suggests China is intensifying diplomatic coordination with Pacific states on economic and governance matters.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
+      "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Solomon Islands signs security pact with US while maintaining China ties",
+      "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutrality and continued engagement with China. Regional experts characterize simultaneous engagement with both Beijing and Washington as standard diplomatic practice for Pacific nations. The agreement reflects ongoing geopolitical competition between the US and China for influence in the Indo-Pacific region.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+      "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "SCO Summit Convenes with Russia, Iran, China, India Leadership",
+      "brief": "A two-day Shanghai Cooperation Organization summit in Kyrgyzstan brought together leaders from Russia, Iran, China, India, and six other member nations. The gathering suggests these powers are coordinating multilaterally despite U.S. economic sanctions, demonstrating the limits of Western economic pressure on aligned non-Western states.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+      "published": "Mon, 31 Aug 2026 11:31:36 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China consolidates rare-earth mineral dominance as strategic advantage",
+      "brief": "China has leveraged historical circumstances and strategic investment to establish dominant control over rare-earth element production and processing, which are critical to modern electronics and defense technologies. This concentration of supply chain control provides Beijing significant economic and geopolitical leverage over technologically advanced nations. The dominance presents a potential vulnerability for global supply chains and could influence international technology competition and foreign policy negotiations.",
       "category": "economy",
-      "severity": "high",
+      "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
@@ -61,152 +97,32 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "India Plans BrahMos Missile Deployment Across Naval Fleet",
-      "brief": "India is planning to deploy the BrahMos cruise missile across all naval warships, according to reporting from The Diplomat. Analysts assess this expansion could alter regional military dynamics and escalate tensions in South Asia. The development represents a significant enhancement to India's naval strike capabilities.",
-      "category": "military",
-      "severity": "high",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/08/indias-brahmos-at-sea-implications-for-south-asian-stability/",
-      "published": "Sat, 29 Aug 2026 00:14:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Papua New Guinea closes Taiwan trade office, strengthens China ties",
-      "brief": "Papua New Guinea has closed its Taiwan trade office, a move experts characterize as diplomatically ambiguous but likely to result in increased Chinese economic investment. The decision reflects PNG's strategic reorientation toward Beijing and signals potential expansion of economic cooperation with China. This development demonstrates China's continued efforts to isolate Taiwan diplomatically through incentivizing economic partnerships with regional actors.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
-      "published": "Wed, 05 Aug 2026 02:52:06 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Taiwan leverages economic power after Papua New Guinea diplomatic shift",
-      "brief": "Taiwan is testing its economic influence following Papua New Guinea's closure of its representative office, reportedly through a liquefied natural gas review process. Analysts characterize this as a gradual strategic shift by Taipei to utilize economic tools in response to diplomatic setbacks, though note that Taiwan's overall leverage in such matters remains constrained. The move reflects Taiwan's evolving approach to maintaining influence amid continued diplomatic pressure from Beijing.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-      "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Former Premier Zhu Rongji's Western Development Strategy integrated Tibet economically",
-      "brief": "Late former Chinese Premier Zhu Rongji's Western Development Strategy used economic integration as a tool to strengthen Beijing's control over Tibet and align Tibetan interests with Chinese government policies. The strategy's use of economic incentives to consolidate political control represents a significant approach to minority region governance. This reflects China's broader pattern of leveraging economic development as an instrument of regional integration and political consolidation.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
-      "published": "Wed, 12 Aug 2026 21:48:20 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Taiwan deprioritizes Scarborough Shoal claim amid Philippines relations",
-      "brief": "Taiwan has softened its sovereignty position on Scarborough Shoal as the Philippines filed a UN complaint, revealing a strategic shift prioritizing bilateral security ties over territorial claims. This reflects Taiwan's pragmatic approach to maintaining relations with Manila despite overlapping South China Sea disputes. The move demonstrates how competing geopolitical interests can cause adjustments to official sovereignty positions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
-      "published": "Tue, 11 Aug 2026 02:45:29 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Philippines uses education strategy to reinforce South China Sea territorial claims",
-      "brief": "The Philippines is employing educational initiatives to build domestic public support for its South China Sea territorial position, according to experts cited by Radio Free Asia. While education can create lasting backing for sovereignty claims, analysts warn this approach may constrain future diplomatic flexibility and negotiation options with Beijing.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
-      "published": "Wed, 19 Aug 2026 21:08:37 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Reports 261 Foreign Nationals Missing in Tibet Flooding",
-      "brief": "Chinese authorities disclosed that 261 foreigners from 23 countries are missing following flooding in Tibet, marking one of the most detailed official accounts of the disaster to date. The disclosure suggests potential coordination challenges in cross-border disaster response and raises questions about casualty figures and relief coordination in remote border regions. The incident underscores vulnerabilities in infrastructure and emergency response systems in strategically significant border areas.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
-      "published": "Sun, 30 Aug 2026 14:09:37 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "Satellite imagery reveals severe damage from Nepal-Tibet border floods",
-      "brief": "Satellite imagery has documented extensive damage from recent flooding along the Nepal-Tibet border region. Advocates are calling for increased transparency from Chinese authorities regarding rescue and relief operations in Tibet. The incident highlights potential challenges in cross-border disaster response coordination and information access in the region.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/",
-      "published": "Thu, 27 Aug 2026 20:44:09 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Canada closes Hong Kong migration pathway, redirects applicants elsewhere",
-      "brief": "Canada has ended its dedicated migration schemes for Hong Kong residents, effective immediately for new applications, leaving some applicants unable to meet permanent residency requirements. The closure is prompting Hong Kong migrants to seek alternative pathways through the United States and United Kingdom, indicating a shift in diaspora distribution patterns among traditional Western destinations.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3365748/stuck-canada-ends-hong-kong-migration-pathway-some-turn-us-and-uk?utm_source=rss_feed",
-      "published": "Sun, 30 Aug 2026 09:23:38 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong police arrest 321 in major drug crackdown operation",
-      "brief": "Hong Kong authorities arrested 321 people, including minors, and seized HK$130 million in drugs during a seven-week operation ending August 29. The crackdown, code-named \"Tailbacker,\" uncovered 234 drug-related cases involving suspects aged 13 to 72. The operation reflects ongoing law enforcement efforts to combat drug trafficking in Hong Kong.",
+      "headline": "Congressional Strategy Needed to Compete Economically with China",
+      "brief": "The article emphasizes that the U.S. Congress must develop and implement a sustained, coordinated strategy to effectively compete with China economically. Congressional leadership and action are framed as essential to maintaining competitiveness in the long-term economic rivalry between the two countries.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "FA RSS"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365766/13-year-old-among-321-arrested-hong-kong-police-seize-drugs-worth-hk130m?utm_source=rss_feed",
-      "published": "Sun, 30 Aug 2026 12:55:55 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
+      "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
     },
     {
-      "headline": "Hong Kong independent bookstore closes following national security raid",
-      "brief": "An independent Hong Kong bookstore, Have a Nice Stay, has permanently closed six weeks after a mid-July raid by national security police, drawing large crowds on its final day. The closure reflects ongoing pressure on Hong Kong's publishing and retail sector under national security enforcement. This incident underscores the chilling effect of security operations on Hong Kong's previously open media and publishing landscape.",
-      "category": "foreign_relations",
+      "headline": "Chinese firms maintain US market engagement despite trade tensions",
+      "brief": "Despite escalating US-China trade friction, Chinese companies continue robust business activity with the United States, utilizing risk-hedging strategies through global financial institutions to protect market share. Rather than retreating, mainland firms are leveraging banking services to navigate supply chain complexities and trade uncertainties, as evidenced by steady revenue growth reported by Citibank's North America-China corridor.",
+      "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3365763/long-queues-mark-final-day-hong-kong-bookstore-closes-after-raid?utm_source=rss_feed",
-      "published": "Sun, 30 Aug 2026 11:57:55 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3365445/citis-china-us-corridor-thrives-mainland-firms-hedge-risks-amid-trade-turbulence?utm_source=rss_feed",
+      "published": "Sun, 30 Aug 2026 23:00:11 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "China Promotes Internet Sovereignty as Global Governance Model",
-      "brief": "China is advancing 'Internet sovereignty' as a key concept for governing the global Internet, according to a CSIS discussion event. This initiative represents China's effort to reshape international norms around digital governance and state control over online infrastructure. The promotion of Internet sovereignty has significant implications for global cybersecurity standards, data governance, and U.S.-China technological competition.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Chinese Foreign Minister Wang Yi Addresses US-China Relations at CSIS",
-      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for dialogue on bilateral strategic issues during a period of significant geopolitical tension in the Asia-Pacific region.",
+      "headline": "China's Foreign Minister Wang Yi Discusses US-China Relations",
+      "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum webcast to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for dialogue on strategic issues between the two powers. This engagement reflects ongoing diplomatic channels between Beijing and Washington on matters of mutual concern.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -217,104 +133,152 @@
       "raw_source": "CSIS"
     },
     {
-      "headline": "Rising number of global leaders educated at Chinese universities",
-      "brief": "An increasing number of Asian and global political leaders have attended Chinese educational institutions, raising questions about potential influence on foreign policy decisions. The article examines whether Chinese education could shape leaders' perspectives and strategic alignment with Beijing's interests. This trend represents a significant soft power tool with potential long-term implications for regional geopolitics and alliance structures.",
+      "headline": "Chinese AI firm MiniMax triples cloud computing spending with Alibaba",
+      "brief": "MiniMax has increased its three-year cloud computing purchase ceiling with Alibaba Cloud by 220 percent to $1.2 billion, reflecting rapidly accelerating demand for computing infrastructure among China's leading AI developers. The Shanghai-based company exhausted two-thirds of its original annual budget by mid-year, necessitating a significant expansion of its cloud services allocation. This expansion signals intense competitive pressure in China's AI sector and robust investment in computational capacity for model training and inference.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+      "published": "Fri, 28 Aug 2026 08:00:14 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Life Insurance posts record profits, increases tech sector investments",
+      "brief": "China Life Insurance, China's largest life insurer, reported first-half revenue of 434.3 billion yuan (up 81.5% YoY) and net profit of 134.5 billion yuan (up 228% YoY), signaling strong financial performance. The insurer plans to scale investments in artificial intelligence, semiconductors, and biotechnology, positioning itself as a long-term partner for innovative enterprises and reflecting capital allocation toward strategic technology sectors.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
+      "published": "Fri, 28 Aug 2026 06:00:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "HKEX revamps Tech 100 Index to increase AI stock exposure",
+      "brief": "Hong Kong Exchanges and Clearing added 10 companies to its Tech 100 Index, including autonomous-driving firms Pony AI and WeRide, reflecting a strategic shift toward artificial intelligence and emerging technology stocks. The quarterly reshuffle signals growing market emphasis on AI-driven sectors including drug discovery, enterprise software, and data intelligence. This index restructuring indicates both HKEX's recognition of AI's economic importance and investor interest in China's technology sector.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3365637/hkex-tech-100-adds-pony-ai-weride-index-revamp-targeting-ai-stocks?utm_source=rss_feed",
+      "published": "Fri, 28 Aug 2026 12:19:55 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "US surgical robotics firm pursues Hong Kong IPO for China expansion",
+      "brief": "SoftBank-backed Noah Medical plans to raise over $100 million through a Hong Kong listing to fund its expansion into mainland China's medical technology market. The move reflects broader trend of international technology companies leveraging Hong Kong's capital markets to access Chinese growth opportunities. This IPO could signal investor confidence in advanced medical device sectors within China.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+      "published": "Fri, 28 Aug 2026 05:00:12 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Chinese brokerages pivot overseas as Beijing tightens cross-border trading controls",
+      "brief": "Tiger Brokers and Futu Holdings reported strong second-quarter revenue growth by expanding international operations, responding to Beijing's intensified crackdown on illegal cross-border stock trading. While UP Fintech (Tiger's parent) achieved record revenue of $182.3 million, net income declined year-over-year, indicating that overseas expansion is offsetting but not fully compensating for mainland market restrictions. This shift reflects regulatory constraints on China's domestic brokerage sector and capital outflow controls.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
+      "published": "Thu, 27 Aug 2026 23:00:10 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China restricts public access to Tibet flood disaster footage",
+      "brief": "Chinese authorities are suppressing video and information related to deadly flash flooding in Tibet, limiting public awareness of the disaster's scope and casualties. The censorship reflects Beijing's broader information control practices and raises questions about transparency regarding the scale of the humanitarian impact in the region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "The Diplomat"
+        "BBC News"
       ],
-      "original_link": "https://thediplomat.com/2026/08/more-and-more-global-leaders-went-to-chinese-colleges-does-that-matter/",
-      "published": "Sat, 29 Aug 2026 00:03:00 +0900",
-      "raw_source": "The Diplomat"
+      "original_link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "raw_source": "BBC News"
     },
     {
-      "headline": "Australian Political Party Opposes Immigration Amid Demographic Decline",
-      "brief": "One Nation's anti-immigration platform conflicts with Australia's demographic challenges, including below-replacement birth rates and an aging population that strains social systems like superannuation. The party's dual critique of immigration and retirement benefits represents a significant policy contradiction given Australia's structural economic needs. This political positioning has implications for Australia's long-term workforce sustainability and fiscal policy.",
-      "category": "economy",
+      "headline": "China's Himalayan Border Defenses Overwhelmed by Unexpected Disaster",
+      "brief": "Chinese officials upgraded defensive infrastructure at the Nepal border crossing following a glacial flood last year, but a recent cascade of hazards exceeded the strengthened protections. The incident highlights vulnerabilities in disaster preparedness along strategically important border regions despite enhanced fortifications.",
+      "category": "military",
       "severity": "medium",
       "sources_used": [
-        "The Diplomat"
+        "NYT > World News"
       ],
-      "original_link": "https://thediplomat.com/2026/08/one-nations-dual-assault-on-australias-structural-realities/",
-      "published": "Fri, 28 Aug 2026 21:31:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Hong Kong government pushes final deadline for Wang Fuk Court buyout",
-      "brief": "Hong Kong authorities are pressing 45 remaining holdout homeowners to accept a government buyout scheme for the fire-damaged Wang Fuk Court estate before Monday's deadline, with 97.7% of residents already accepting the offer. The buyout demonstrates Beijing's ability to implement property redistribution policies in Hong Kong, reflecting continued centralized control over urban redevelopment decisions.",
-      "category": "economy",
-      "severity": "low",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3365759/hong-kong-gives-45-wang-fuk-court-holdouts-final-call-buyout-scheme?utm_source=rss_feed",
-      "published": "Sun, 30 Aug 2026 10:40:53 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
+      "published": "Mon, 31 Aug 2026 14:08:31 +0000",
+      "raw_source": "NYT > World News"
     }
   ],
   "deep_dive": {
-    "headline": "Beijing Shifts Taiwan Pressure Tactics Away From Military Visibility",
+    "headline": "Vietnam Escalates Paracel Islands Protest Over Chinese Construction",
     "category": "foreign_relations",
-    "overview": "China is reportedly transitioning from overt military coercion in the Taiwan Strait toward less visible pressure methods that are harder to characterize or respond to. This strategic shift occurs as the U.S. debates adopting 'strategic clarity' policies on Taiwan, potentially complicating American ability to detect and counter Chinese pressure campaigns.",
-    "background": "The Taiwan Strait has been the site of recurring U.S.-China tension, with Beijing employing military exercises and naval transits as coercive tools. The U.S. policy framework has historically relied on 'strategic ambiguity,' though policymakers increasingly debate whether explicit security commitments would better deter Chinese aggression.",
-    "key_players": "The United States is reassessing its Taiwan policy stance, while China seeks to maintain pressure on Taiwan's political autonomy without triggering direct confrontation. Taiwan faces potential vulnerability to tactics that fall below the threshold of military action but cumulatively degrade its strategic position.",
-    "implications": "China's pivot toward ambiguous coercion methods\u2014potentially including economic pressure, information warfare, and gray-zone operations\u2014could prove more difficult for the U.S. to counter with military deterrence. This shift suggests Beijing is adapting its strategy to exploit ambiguities in American policy, potentially undermining the rationale for strategic clarity if pressure remains below militarized thresholds.",
-    "risk_assessment": "Risk level elevated but diffuse. Watch for intensification of non-military pressure tactics including cross-strait economic restrictions, sustained diplomatic isolation efforts, and coordinated information campaigns targeting Taiwan's political consensus.",
+    "overview": "Vietnam has formally demanded China halt construction activities on Antelope Reef and nearby islets in the disputed Paracel Islands, marking an escalation in long-standing maritime territorial tensions. This confrontation reflects deepening anxiety over Beijing's continued militarization and infrastructure expansion in contested waters, raising questions about enforcement of existing maritime agreements.",
+    "background": "The Paracel Islands have been disputed between China and Vietnam since the 1974 Sino-Vietnamese conflict, with China maintaining de facto control. The area remains one of Southeast Asia's most sensitive flashpoints, with both nations claiming sovereignty and strategic interest in the potentially resource-rich waters.",
+    "key_players": "China seeks to consolidate control through military-grade infrastructure development and artificial island expansion as part of broader South China Sea strategy. Vietnam, supported diplomatically by the U.S. and regional partners, attempts to enforce international law and prevent further Chinese territorial consolidation.",
+    "implications": "Chinese construction signals intent to create permanent military installations, potentially complicating future negotiations and raising risks of accidental escalation. Regional allies including the U.S., Japan, and ASEAN members will likely increase diplomatic pressure, though concrete enforcement mechanisms remain limited.",
+    "risk_assessment": "Moderate to elevated risk of sustained tension with low probability of armed conflict absent miscalculation. Monitor Chinese construction pace, Vietnamese diplomatic responses through ASEAN, and any U.S. freedom of navigation operations as key indicators.",
     "source": "The Diplomat",
-    "week_of": "2026-08-24",
-    "original_link": "https://thediplomat.com/2026/08/chinas-own-version-of-ambiguity-in-the-taiwan-strait/"
+    "week_of": "2026-08-31",
+    "original_link": "https://thediplomat.com/2026/08/vietnam-demands-immediate-cessation-to-construction-activities-in-paracel-islands/"
   },
   "relations": [
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, geopolitical rivalry, and disagreements over Taiwan and the South China Sea."
+      "summary": "Relations remain strained over trade, technology restrictions, Taiwan, and strategic competition in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership characterized by military cooperation, energy trade, and coordinated positions on international issues despite occasional tensions."
+      "summary": "Strategic partnership has deepened since Ukraine invasion, with increased coordination on energy, security, and opposition to Western sanctions."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, market access, and geopolitical competition."
+      "summary": "Relationship marked by economic interdependence alongside growing concerns over human rights, forced labor, and strategic autonomy from China."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and refuses to renounce force to achieve unification, while maintaining military pressure and diplomatic isolation efforts."
+      "summary": "China views Taiwan as a renegade province and maintains military pressure, increased aircraft incursions, and refuses to renounce use of force."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by historical disputes, territorial disagreements over the Senkaku Islands, and strategic rivalry in the region."
+      "summary": "Historical tensions, territorial disputes over the Senkaku Islands, and strategic alignment with the US create ongoing friction."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Relations remain tense following border disputes in Ladakh, unresolved territorial claims, and strategic competition for regional influence in Asia."
+      "summary": "Border disputes, military clashes, and strategic competition in the Indo-Pacific region underpin the relationship despite trade ties."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain cooperative relations focused on energy trade, investment, and coordinated positions on regional issues."
+      "summary": "Growing energy and investment partnerships alongside Belt and Road Initiative cooperation, though relationship remains transactional."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Philippines-China relations fluctuate between economic cooperation and tensions over South China Sea maritime disputes and territorial claims."
+      "summary": "Relationship oscillates between cooperation on development projects and tensions over South China Sea territorial claims and disputes."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China-Brazil relations are cooperative, centered on trade, investment, and coordination through multilateral forums like BRICS."
+      "summary": "Strong trade relationship as major commodity supplier, with expanding investment and Belt and Road participation offsetting some concerns."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Relations remain strained following Australia's alignment with Western security concerns, China's trade restrictions, and disagreements over regional security issues."
+      "summary": "Relations have improved from their 2020-2021 nadir but remain strained over national security concerns, technology restrictions, and Aukus alliance."
     }
   ]
 }
