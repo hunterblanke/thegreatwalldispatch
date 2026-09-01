@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-08-31",
+      "articles": [
+        {
+          "headline": "Vietnam Protests Chinese Construction in Disputed Paracel Islands",
+          "brief": "Vietnam has formally demanded that China cease construction activities on Antelope Reef and nearby islets in the Paracel Islands, which both nations claim. The construction represents continued Chinese efforts to develop infrastructure in disputed South China Sea territory, escalating tensions over competing territorial claims in the region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/08/vietnam-demands-immediate-cessation-to-construction-activities-in-paracel-islands/",
+          "published": "Mon, 31 Aug 2026 09:32:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Indonesia-China naval drill normalizes Beijing presence east of Taiwan",
+          "brief": "China and Indonesia conducted a joint naval exercise in waters east of Taiwan, with experts noting the drill itself does not pose an immediate threat. However, analysts warn that repeated military activities with third parties in the region could strengthen China's territorial claims and normalize its military presence in strategically sensitive areas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+          "published": "Tue, 25 Aug 2026 01:22:34 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China resumes demolition of major Tibetan Buddhist monastery",
+          "brief": "Satellite imagery confirms China has resumed demolition operations at a prominent Tibetan Buddhist academy, with advocates arguing the action aims to restrict religious practice and expand ethnic unity enforcement in Tibet. The demolition represents an intensification of structural constraints on Tibetan religious institutions and raises concerns about Beijing's implementation of cultural policies in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
+          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China conducted targeted campaign to promote five-year plan in Pacific",
+          "brief": "According to a report by the Alliance Futures Initiative, China likely ran a coordinated effort to align Pacific nations with its 15th Five-Year Plan (2026-2030). The campaign represents Beijing's strategic effort to extend its influence over regional policy alignment and development priorities. This suggests China is intensifying diplomatic coordination with Pacific states on economic and governance matters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
+          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Solomon Islands signs security pact with US while maintaining China ties",
+          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutrality and continued engagement with China. Regional experts characterize simultaneous engagement with both Beijing and Washington as standard diplomatic practice for Pacific nations. The agreement reflects ongoing geopolitical competition between the US and China for influence in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
+          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "SCO Summit Convenes with Russia, Iran, China, India Leadership",
+          "brief": "A two-day Shanghai Cooperation Organization summit in Kyrgyzstan brought together leaders from Russia, Iran, China, India, and six other member nations. The gathering suggests these powers are coordinating multilaterally despite U.S. economic sanctions, demonstrating the limits of Western economic pressure on aligned non-Western states.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+          "published": "Mon, 31 Aug 2026 11:31:36 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China consolidates rare-earth mineral dominance as strategic advantage",
+          "brief": "China has leveraged historical circumstances and strategic investment to establish dominant control over rare-earth element production and processing, which are critical to modern electronics and defense technologies. This concentration of supply chain control provides Beijing significant economic and geopolitical leverage over technologically advanced nations. The dominance presents a potential vulnerability for global supply chains and could influence international technology competition and foreign policy negotiations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
+          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Congressional Strategy Needed to Compete Economically with China",
+          "brief": "The article emphasizes that the U.S. Congress must develop and implement a sustained, coordinated strategy to effectively compete with China economically. Congressional leadership and action are framed as essential to maintaining competitiveness in the long-term economic rivalry between the two countries.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
+          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese firms maintain US market engagement despite trade tensions",
+          "brief": "Despite escalating US-China trade friction, Chinese companies continue robust business activity with the United States, utilizing risk-hedging strategies through global financial institutions to protect market share. Rather than retreating, mainland firms are leveraging banking services to navigate supply chain complexities and trade uncertainties, as evidenced by steady revenue growth reported by Citibank's North America-China corridor.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3365445/citis-china-us-corridor-thrives-mainland-firms-hedge-risks-amid-trade-turbulence?utm_source=rss_feed",
+          "published": "Sun, 30 Aug 2026 23:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Foreign Minister Wang Yi Discusses US-China Relations",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum webcast to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for dialogue on strategic issues between the two powers. This engagement reflects ongoing diplomatic channels between Beijing and Washington on matters of mutual concern.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Chinese AI firm MiniMax triples cloud computing spending with Alibaba",
+          "brief": "MiniMax has increased its three-year cloud computing purchase ceiling with Alibaba Cloud by 220 percent to $1.2 billion, reflecting rapidly accelerating demand for computing infrastructure among China's leading AI developers. The Shanghai-based company exhausted two-thirds of its original annual budget by mid-year, necessitating a significant expansion of its cloud services allocation. This expansion signals intense competitive pressure in China's AI sector and robust investment in computational capacity for model training and inference.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/tech/article/3365558/minimax-expands-alibaba-cloud-pact-compute-needs-surge-training-and-inference?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 08:00:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Life Insurance posts record profits, increases tech sector investments",
+          "brief": "China Life Insurance, China's largest life insurer, reported first-half revenue of 434.3 billion yuan (up 81.5% YoY) and net profit of 134.5 billion yuan (up 228% YoY), signaling strong financial performance. The insurer plans to scale investments in artificial intelligence, semiconductors, and biotechnology, positioning itself as a long-term partner for innovative enterprises and reflecting capital allocation toward strategic technology sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 06:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HKEX revamps Tech 100 Index to increase AI stock exposure",
+          "brief": "Hong Kong Exchanges and Clearing added 10 companies to its Tech 100 Index, including autonomous-driving firms Pony AI and WeRide, reflecting a strategic shift toward artificial intelligence and emerging technology stocks. The quarterly reshuffle signals growing market emphasis on AI-driven sectors including drug discovery, enterprise software, and data intelligence. This index restructuring indicates both HKEX's recognition of AI's economic importance and investor interest in China's technology sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3365637/hkex-tech-100-adds-pony-ai-weride-index-revamp-targeting-ai-stocks?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 12:19:55 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US surgical robotics firm pursues Hong Kong IPO for China expansion",
+          "brief": "SoftBank-backed Noah Medical plans to raise over $100 million through a Hong Kong listing to fund its expansion into mainland China's medical technology market. The move reflects broader trend of international technology companies leveraging Hong Kong's capital markets to access Chinese growth opportunities. This IPO could signal investor confidence in advanced medical device sectors within China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
+          "published": "Fri, 28 Aug 2026 05:00:12 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese brokerages pivot overseas as Beijing tightens cross-border trading controls",
+          "brief": "Tiger Brokers and Futu Holdings reported strong second-quarter revenue growth by expanding international operations, responding to Beijing's intensified crackdown on illegal cross-border stock trading. While UP Fintech (Tiger's parent) achieved record revenue of $182.3 million, net income declined year-over-year, indicating that overseas expansion is offsetting but not fully compensating for mainland market restrictions. This shift reflects regulatory constraints on China's domestic brokerage sector and capital outflow controls.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3365409/tiger-futu-post-strong-overseas-gains-after-beijing-clampdown-stalls-mainland-growth?utm_source=rss_feed",
+          "published": "Thu, 27 Aug 2026 23:00:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China restricts public access to Tibet flood disaster footage",
+          "brief": "Chinese authorities are suppressing video and information related to deadly flash flooding in Tibet, limiting public awareness of the disaster's scope and casualties. The censorship reflects Beijing's broader information control practices and raises questions about transparency regarding the scale of the humanitarian impact in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China's Himalayan Border Defenses Overwhelmed by Unexpected Disaster",
+          "brief": "Chinese officials upgraded defensive infrastructure at the Nepal border crossing following a glacial flood last year, but a recent cascade of hazards exceeded the strengthened protections. The incident highlights vulnerabilities in disaster preparedness along strategically important border regions despite enhanced fortifications.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/08/31/world/asia/china-nepal-tibet-flood-himalayas-risk.html",
+          "published": "Mon, 31 Aug 2026 14:08:31 +0000",
+          "raw_source": "NYT > World News"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 17,
+        "high_priority": 0,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 7,
+          "economy": 8
+        },
+        "updated_at": "2026-08-31T17:18:35.412757Z"
+      }
+    },
+    {
       "date": "2026-08-30",
       "articles": [
         {
