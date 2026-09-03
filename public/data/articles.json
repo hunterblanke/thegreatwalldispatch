@@ -1,128 +1,152 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "metrics": {
-    "sources_scanned": 6,
-    "articles_total": 17,
-    "high_priority": 2,
+    "sources_scanned": 7,
+    "articles_total": 20,
+    "high_priority": 5,
     "by_category": {
-      "foreign_relations": 11,
-      "military": 1,
-      "economy": 5
+      "foreign_relations": 16,
+      "economy": 3,
+      "military": 1
     },
-    "updated_at": "2026-09-02T13:57:38.163079Z"
+    "updated_at": "2026-09-03T13:59:59.986500Z"
   },
   "articles": [
     {
-      "headline": "China intensifies diplomatic campaign to isolate Taiwan regionally",
-      "brief": "China is pursuing a sustained pressure campaign against Taiwan that extends beyond securing diplomatic recognition switches to Beijing, aiming to reduce Taiwan's influence and presence in the Pacific region. This strategy represents an escalation of China's efforts to marginalize Taiwan internationally and constrain its geopolitical space. The campaign's success could significantly alter regional power dynamics and Taiwan's ability to maintain diplomatic relationships.",
+      "headline": "China Advances Internet Sovereignty as Global Governance Model",
+      "brief": "China is promoting 'Internet sovereignty' as a foundational principle for global internet governance, representing a shift from the current international framework. This initiative has significant implications for digital governance, data control, and international cybersecurity standards. The concept challenges existing models of internet regulation and could reshape how nations approach digital policy.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "U.S. Pharmaceutical Supply Chain Vulnerable to Chinese Disruption",
+      "brief": "American pharmaceutical manufacturers rely significantly on Chinese supply chains for critical medications including common antibiotics and blood thinners, creating potential vulnerabilities in U.S. healthcare delivery. Analysts warn that any disruption in Chinese pharmaceutical sourcing could leave American patients without reliable alternatives for essential drugs. This dependency represents a strategic vulnerability in the U.S. healthcare and defense industrial base.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/09/us-drugmakers-are-dependent-on-chinese-supply-chains/",
+      "published": "Wed, 02 Sep 2026 22:48:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China Pursues Integrated Global Strategy Under Xi Leadership",
+      "brief": "According to analyst Steve Tsang, China under Xi Jinping has developed a comprehensive global strategy that coordinates economic, diplomatic, and military instruments to expand its international influence. This integrated approach represents a significant shift toward more assertive positioning in global affairs, with implications for regional stability and great power competition.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/09/china-wants-to-push-taiwan-out-of-the-pacific/",
-      "published": "Tue, 01 Sep 2026 22:40:00 +0900",
+      "original_link": "https://thediplomat.com/2026/09/chinas-global-strategy-under-xi-jinping/",
+      "published": "Thu, 03 Sep 2026 01:17:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Xi Jinping Strengthens China-Egypt Military Ties, Challenges U.S. Regional Influence",
-      "brief": "Chinese President Xi Jinping is visiting Egypt to deepen bilateral security partnerships with a traditional U.S. ally, signaling Beijing's strategic pivot toward greater Middle East engagement. The initiative represents China's effort to expand its geopolitical influence in a region destabilized by ongoing conflicts, potentially reshaping regional security alignments and challenging decades of U.S. strategic dominance.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
-      "published": "Wed, 02 Sep 2026 13:34:54 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "India and China advance border dispute negotiations in Beijing talks",
-      "brief": "India and China held special representatives talks in Beijing where both sides agreed to identify less contentious sections of their disputed border as a step toward eventual settlement. This incremental progress suggests both nations are pursuing a phased approach to their long-standing border dispute rather than seeking comprehensive resolution. The agreement to focus on less sensitive areas could reduce military tensions along one of the world's most militarized frontiers.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/india-china-take-small-step-forward-toward-border-settlement/",
-      "published": "Tue, 01 Sep 2026 17:51:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Xi Jinping seeks to expand Chinese influence in Middle East region",
-      "brief": "Chinese President Xi Jinping is working to strengthen Beijing's ties with Egypt, a traditional U.S. security partner, as part of a broader effort to expand China's geopolitical role in the Middle East. This initiative represents a strategic challenge to long-standing American influence in the region amid ongoing regional conflicts. The move signals China's intention to establish itself as a major power broker in Middle Eastern affairs.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
-      "published": "Wed, 02 Sep 2026 13:34:54 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "China Advancing Space Capabilities Despite Mission Delays",
-      "brief": "Despite experiencing delays in its lunar program, China is positioning itself to gain significant advantages in space exploration that could narrow the gap with U.S. capabilities. While the United States maintains a technological lead from earlier lunar missions, China's planned space initiatives could provide strategic advantages in space operations. This development underscores the intensifying great power competition in space domain.",
+      "headline": "US Military Production Constraints Delay Arms Deliveries to East Asian Allies",
+      "brief": "Taiwan and Japan face extended waiting periods for advanced weapons systems including Patriot missiles and Tomahawk cruise missiles due to competing demands from Ukraine and other strategic priorities. The supply bottleneck reflects capacity constraints in US defense manufacturing that may impact the military readiness of key Indo-Pacific allies during a period of heightened regional tensions.",
       "category": "military",
-      "severity": "medium",
+      "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/09/despite-delays-china-could-gain-ground-in-the-space-race/",
-      "published": "Tue, 01 Sep 2026 21:42:00 +0900",
+      "original_link": "https://thediplomat.com/2026/09/the-us-arms-bottleneck-is-impacting-its-east-asian-allies/",
+      "published": "Wed, 02 Sep 2026 23:49:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China conducted targeted campaign promoting latest five-year plan in Pacific",
-      "brief": "According to the Alliance Futures Initiative, Beijing likely implemented a coordinated effort to align Pacific nations with China's 15th Five-Year Plan. This diplomatic initiative demonstrates China's sustained effort to expand its regional influence and secure support for its strategic economic and development priorities among Pacific island states.",
+      "headline": "Hong Kong court convicts organizers of Tiananmen vigils for subversion",
+      "brief": "A Hong Kong court convicted two former leaders of the group that organized annual candlelight vigils commemorating the 1989 Tiananmen Square crackdown on charges of inciting subversion. The verdict represents Beijing's continued efforts to suppress historical memory and commemorative activities related to sensitive political events in Hong Kong. This development underscores tensions between Hong Kong's judicial independence and mainland China's political control objectives.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/",
+      "published": "Tue, 25 Aug 2026 19:50:59 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Taiwan bolsters AI defenses against Chinese election interference",
+      "brief": "Taiwan is strengthening its defenses against anticipated Chinese use of artificial intelligence for election interference, including deepfakes, fake audio recordings, and targeted voter manipulation. Security experts assess that Beijing is likely to deploy AI-generated disinformation as part of broader efforts to influence Taiwan's electoral processes. The development reflects growing concerns among Taiwan's security establishment regarding the intersection of advanced technology and foreign interference campaigns.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
-      "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+      "original_link": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/",
+      "published": "Mon, 31 Aug 2026 20:38:10 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Hong Kong activist Joshua Wong pleads guilty to collusion charges",
-      "brief": "Pro-democracy dissident Joshua Wong pleaded guilty to charges of urging Western politicians including Nancy Pelosi and Marco Rubio to impose sanctions on Hong Kong. The case reflects Beijing's continued crackdown on pro-democracy activists and suggests escalating enforcement of national security laws in the territory. The conviction may signal intensified Chinese efforts to suppress international coordination between Hong Kong dissidents and foreign officials.",
+      "headline": "Indonesia-China naval drills may normalize Beijing's regional military presence",
+      "brief": "Indonesia and China conducted a naval exercise east of Taiwan, which experts assess does not constitute an immediate threat but could establish precedent for China's military activities in the region. Repeated joint drills with third parties may strengthen Beijing's claims to expanded maritime influence and operational normalcy in waters beyond Taiwan.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+      "published": "Tue, 25 Aug 2026 01:22:34 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Philippines Uses Education to Reinforce South China Sea Territorial Claims",
+      "brief": "The Philippines is employing educational initiatives to build domestic public support for its South China Sea territorial positions, according to expert analysis. While education can create lasting popular backing for sovereignty claims, analysts warn this approach may constrain future diplomatic flexibility and negotiation options with China.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
+      "published": "Wed, 19 Aug 2026 21:08:37 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Taiwan deprioritizes Scarborough Shoal claim for Philippines ties",
+      "brief": "Taiwan has softened its sovereignty claims over Scarborough Shoal following the Philippines' UN filing, reflecting a strategic shift in priorities toward strengthening bilateral security cooperation with Manila. This move reveals a divergence between Taiwan's formal territorial claims and its pragmatic diplomatic and security interests in the region. The adjustment suggests Taiwan is willing to compromise on maritime claims to maintain stable relations with a key security partner amid broader regional tensions.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
+      "published": "Tue, 11 Aug 2026 02:45:29 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Boycotts South Korean Art Festival Over Taiwan Display",
+      "brief": "China has boycotted the Gwangju Biennale in South Korea in protest of an exhibition presenting Taiwan as an independent nation, contrary to Beijing's sovereignty claims. The incident reflects ongoing tensions over Taiwan's international representation and China's efforts to control its diplomatic and cultural messaging globally. This represents a continuation of Beijing's pattern of leveraging economic and cultural participation to enforce political compliance among international institutions.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "NYT > World News"
       ],
-      "original_link": "https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html",
-      "published": "Wed, 02 Sep 2026 08:55:25 +0000",
+      "original_link": "https://www.nytimes.com/2026/09/03/world/asia/china-taiwan-gwangju-biennale.html",
+      "published": "Thu, 03 Sep 2026 13:50:41 +0000",
       "raw_source": "NYT > World News"
     },
     {
-      "headline": "Joshua Wong admits instigating international sanctions against China",
-      "brief": "Hong Kong opposition activist Joshua Wong has admitted to orchestrating international sanctions against Beijing and Hong Kong authorities, including encouraging foreign divestment from mainland China and pressuring technology firms to cease operations with local police. The admission, made during High Court proceedings, demonstrates coordination between Wong and other pro-democracy figures to mobilize external pressure against Chinese and Hong Kong governments. This case highlights ongoing tensions between pro-democracy activists and authorities, with significant implications for Hong Kong's international relations and Beijing's concerns about foreign interference in domestic affairs.",
+      "headline": "US Official's Harvard Criticism Reflects Broader US-China Education Tensions",
+      "brief": "US Transport Secretary Sean Duffy publicly discouraged his daughter from attending Harvard University during a departmental YouTube series, citing concerns about the institution's perceived alignment with Chinese interests. The incident reflects escalating US government scrutiny of elite American universities and their international relationships, with potential implications for US-China educational exchange and soft power competition.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366044/joshua-wong-admits-instigating-sanctions-against-beijing-hong-kong-governments?utm_source=rss_feed",
-      "published": "Wed, 02 Sep 2026 02:43:49 +0000",
+      "original_link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3366124/what-trump-officials-dig-harvard-means-hong-kong?utm_source=rss_feed",
+      "published": "Thu, 03 Sep 2026 12:30:06 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "China resumes demolition at major Tibetan Buddhist monastery",
-      "brief": "Satellite imagery confirms China has resumed demolition activities at a significant Tibetan Buddhist academy, with advocates contending the action aims to restrict religious practice and enforce ethnic integration policies. The demolition represents continued implementation of Beijing's contentious approach to religious oversight in Tibet, potentially escalating tensions with international observers and Tibetan communities concerned about cultural preservation and religious freedoms.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
-      "published": "Wed, 19 Aug 2026 03:01:35 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Former Premier Zhu Rongji's Western Development Strategy Strengthened Beijing Control",
-      "brief": "Late former premier Zhu Rongji's Western Development Strategy employed economic measures as a tool to advance Chinese government policies in Tibet. The initiative's significance lies in demonstrating how Beijing has historically used economic integration and development projects to consolidate political control in sensitive regions. This approach reflects a broader pattern of using economic incentives alongside administrative measures to align regional populations with central government objectives.",
+      "headline": "Zhu Rongji's Western Development Strategy integrated Tibet economically",
+      "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy used economic integration as a tool to align Tibet with central government policies. The approach represented a shift toward economic mechanisms for consolidating state control over the region. This strategy has implications for understanding China's long-term approach to integrating minority regions through development initiatives rather than coercive measures alone.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -133,8 +157,32 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Analysis suggests Beijing's soft power influence overstated globally",
-      "brief": "According to Foreign Affairs reporting, China's expanding soft power capabilities are largely perceived as ineffective or illusory by international audiences. This assessment suggests limitations in Beijing's ability to translate economic and political investments into genuine influence over global perceptions and policy preferences. The finding has implications for China's long-term strategic objectives and the credibility of its international engagement efforts.",
+      "headline": "Satellite imagery reveals significant damage from Nepal-Tibet border floods",
+      "brief": "Satellite imagery has documented extensive damage from recent flooding along the Nepal-Tibet border region. Advocates are pressing Chinese authorities to increase transparency regarding rescue and relief operations in Tibet. The incident highlights potential challenges in coordinated cross-border disaster response and information access in the sensitive Tibet region.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/",
+      "published": "Thu, 27 Aug 2026 20:44:09 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China allegedly influences Solomon Islands political instability",
+      "brief": "Experts suggest China may have orchestrated a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, reflecting broader regional power competition. The alleged interference highlights China's expanding political influence in the Pacific and risks destabilizing governance in strategically important island nations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
+      "published": "Wed, 02 Sep 2026 21:43:05 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Analysis Questions Extent of China's Global Soft Power Influence",
+      "brief": "Foreign Affairs examines whether China's soft power capabilities are overestimated by Western analysts and policymakers. The assessment suggests Beijing's actual influence on global perceptions and decision-making may be more limited than commonly assumed. This reassessment has implications for how major powers calibrate their strategic responses to Chinese influence operations.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -145,76 +193,64 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "China's tech sector drives fastest corporate profit growth in four years",
-      "brief": "Chinese listed companies achieved their fastest profit growth in four years during the first half of 2026, driven by artificial intelligence demand and technological self-sufficiency initiatives, with chip-heavy market segments experiencing particularly strong performance. However, this growth reveals a widening economic divide, reflecting China's structural shift away from credit-dependent expansion toward technology-driven development.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide?utm_source=rss_feed",
-      "published": "Wed, 02 Sep 2026 00:00:18 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's pension fund doubles offshore investments to record $86 billion",
-      "brief": "China's National Social Security Fund increased offshore investments to 580 billion yuan (US$86 billion), more than doubling holdings over three years and reaching a record 15.23 percent of total assets. The diversification strategy reflects Beijing's pursuit of higher returns beyond domestic markets amid economic pressures. This shift indicates growing reliance on international asset allocation to sustain pension obligations.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/china-business/article/3366050/chinas-pension-fund-doubles-offshore-investments-us86b-quest-higher-returns?utm_source=rss_feed",
-      "published": "Wed, 02 Sep 2026 04:01:20 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's brokerages accelerate international expansion amid surging overseas profits",
-      "brief": "Major Chinese brokerages including Citic Securities are significantly increasing investment in their international operations, with overseas revenue growth reaching 45.5% year-on-year in the first half of 2024. This expansion reflects growing cross-border deal activity and marks a strategic shift toward greater global financial market participation. The trend indicates Chinese financial institutions are capitalizing on increased international business opportunities and positioning themselves as major players in global capital markets.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3365823/chinas-top-brokerages-step-global-push-overseas-profits-surge?utm_source=rss_feed",
-      "published": "Tue, 01 Sep 2026 02:00:09 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's big state banks show simultaneous profit growth amid margin stabilization",
-      "brief": "China's six largest state-owned banks posted their first synchronized revenue and net profit increase since 2022, signaling tentative stabilization of banking margins after two years of pressure. This synchronized recovery across major financial institutions suggests improving conditions in China's banking sector and may indicate strengthening domestic economic fundamentals.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3365800/chinas-six-biggest-state-banks-post-rare-shared-growth-margins-show-tentative-rebound?utm_source=rss_feed",
-      "published": "Mon, 31 Aug 2026 07:00:05 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Jollibee shifts international IPO listing from New York to Hong Kong",
-      "brief": "Philippine fast-food company Jollibee Foods Corp reversed its earlier plan to list its international operations division (JFCI) on a U.S. exchange, instead selecting Hong Kong as the listing destination. The decision signals growing confidence in Hong Kong's capital markets and represents a competitive win for the Asian financial hub in attracting major regional IPOs.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3366078/philippine-fast-food-giant-jollibee-picks-hong-kong-over-new-york-spin-listing?utm_source=rss_feed",
-      "published": "Wed, 02 Sep 2026 07:03:43 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Floods in Tibet-Nepal border region claim Tibetan tour guides",
-      "brief": "Recent flooding in the Tibet-Nepal border region has resulted in significant casualties, including at least 10 Tibetan tour guides working in the area. The disaster affects cross-border communities and tourism operations in a strategically sensitive region. The incident underscores vulnerabilities in border infrastructure and may impact bilateral coordination on disaster response.",
+      "headline": "Chinese Foreign Minister Wang Yi Discusses US-China Relations",
+      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for direct dialogue on strategic issues between the two major powers. This engagement reflects ongoing diplomatic channels and China's effort to communicate its foreign policy positions to American strategic audiences.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Radio Free Asia"
+        "CSIS"
       ],
-      "original_link": "https://rfa.org/english/tibet/2026/09/01/tibet-flood-nepal-tour-guides/",
-      "published": "Tue, 01 Sep 2026 23:16:15 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Mongolia Engages Strategic Bilateral Talks at SCO Summit",
+      "brief": "Mongolia's President held bilateral meetings with China, Russia, and Kyrgyzstan during the Shanghai Cooperation Organization summit. These engagements reflect Mongolia's diplomatic balancing efforts among major regional powers. The bilateral format suggests Mongolia is pursuing direct strategic consultations with key neighbors amid broader regional security dynamics.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/09/mongolias-president-at-the-sco-summit/",
+      "published": "Wed, 02 Sep 2026 22:41:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Pro-American Latin American Leaders Face China Economic Constraints",
+      "brief": "Recent electoral victories by pro-American candidates in Peru and Colombia signal potential shifts in regional geopolitical alignment away from China. However, deep-rooted economic interdependencies between Latin America and China will likely limit the extent of any strategic realignment regardless of electoral outcomes. This dynamic suggests that economic ties may prove more durable than political preferences in determining regional foreign policy trajectories.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/09/latin-americas-china-dilemma-lessons-from-peru-and-colombias-presidential-elections/",
+      "published": "Wed, 02 Sep 2026 23:18:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Foreign investors continue China A-share purchases despite slower pace",
+      "brief": "UBS analysts expect foreign investors to maintain net inflows into China A-shares during the second half of the year, though at a reduced rate compared to the first half surge. This moderation suggests sustained but waning international investor interest in mainland Chinese equities, with implications for capital market stability and foreign participation in China's domestic stock market.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/markets/article/3365949/foreign-investors-expected-eye-more-china-shares-pace-set-ease-analyst?utm_source=rss_feed",
+      "published": "Tue, 01 Sep 2026 07:30:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Foreign investors increase Chinese stock holdings amid AI and green energy boom",
+      "brief": "Foreign investors significantly increased yuan-traded Chinese stock holdings by approximately one-third in Q2 2024, with share counts rising from 7.5 billion to 10.1 billion and portfolio values surging 87 percent to 272.8 billion yuan. The inflows were primarily driven by investments in artificial intelligence supply chain companies and China's strategic green energy sector. This trend suggests renewed international confidence in select Chinese industries and indicates potential capital market stabilization following earlier volatility.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3365828/foreign-investors-boost-chinese-stock-holdings-ai-hardware-green-energy-lure-inflows?utm_source=rss_feed",
+      "published": "Mon, 31 Aug 2026 23:00:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -233,52 +269,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain adversarial with competition over technology, trade, and geopolitical influence, though limited diplomatic channels persist."
+      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, Taiwan concerns, and strategic rivalry in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain strategic partnership with deepened energy ties and coordinated positions on international issues, particularly following Russia's invasion of Ukraine."
+      "summary": "China and Russia maintain a strategic partnership with deepening energy, military, and diplomatic cooperation, though formal alliance remains unofficial."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations balance economic interdependence with growing concerns over human rights, technology competition, and strategic autonomy."
+      "summary": "EU-China relations balance economic interdependence with growing concerns over human rights, market access, and geopolitical divergence."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China maintains its claim of sovereignty over Taiwan and continues military pressure and coercive measures against the self-governing island."
+      "summary": "China views Taiwan as a breakaway province and maintains military pressure while rejecting its democratic government's legitimacy."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan ties are strained by territorial disputes over the Senkaku Islands, historical grievances, and strategic competition in the Indo-Pacific region."
+      "summary": "China-Japan relations are complicated by historical disputes, maritime conflicts over the Senkaku Islands, and differing security alignments."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "China-India relations remain tense following unresolved border disputes, military clashes, and competing regional influence in South and Southeast Asia."
+      "summary": "Border disputes, trade imbalances, and strategic competition in South Asia create persistent friction despite occasional diplomatic engagement."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains strong economic and energy partnerships with Saudi Arabia, centered on oil trade and infrastructure investments under the Belt and Road Initiative."
+      "summary": "China and Saudi Arabia maintain strong economic ties centered on energy trade and investment, with aligned interests in regional stability."
     },
     {
       "country": "Philippines",
-      "status": "Neutral",
-      "summary": "China-Philippines relations oscillate between cooperation on economic issues and tensions over South China Sea territorial disputes and maritime incidents."
+      "status": "Tense",
+      "summary": "China-Philippines relations oscillate between cooperation and tension due to South China Sea territorial disputes and shifting diplomatic positioning."
     },
     {
       "country": "Brazil",
       "status": "Neutral",
-      "summary": "China-Brazil relations focus on trade and investment, though Brazil increasingly seeks to diversify partnerships amid concerns over China's economic dominance."
+      "summary": "China and Brazil maintain pragmatic economic relations focused on trade and investment, with limited geopolitical alignment."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "China-Australia relations remain strained following trade sanctions, security concerns, and Australia's alignment with Western Indo-Pacific strategies."
+      "summary": "China-Australia relations have deteriorated due to security concerns, trade restrictions, and Australia's alignment with Western security frameworks."
     }
   ]
 }
