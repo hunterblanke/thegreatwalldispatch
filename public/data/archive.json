@@ -1,6 +1,202 @@
 {
   "entries": [
     {
+      "date": "2026-09-04",
+      "articles": [
+        {
+          "headline": "Taiwan naval modernization strategy aims to counter Chinese military",
+          "brief": "Taiwan is pursuing a naval modernization strategy focused on operational agility to counter China's military advantages in the Taiwan Strait. The approach emphasizes smaller, more maneuverable naval assets over larger conventional forces. This development reflects Taiwan's strategic pivot toward asymmetric defense capabilities in response to Chinese military buildup.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait",
+          "published": "Fri, 04 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion charges",
+          "brief": "Imprisoned Hong Kong activist Joshua Wong has entered a guilty plea to charges of foreign collusion under Hong Kong's National Security Law. Legal experts indicate he will serve his entire sentence through at least January 2025, with potential additional imprisonment following his current term. The case reflects Beijing's continued enforcement of national security legislation against pro-democracy activists and has implications for international perceptions of Hong Kong's judicial independence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/",
+          "published": "Wed, 02 Sep 2026 18:13:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China resumes demolition of major Tibetan Buddhist monastery",
+          "brief": "Satellite imagery confirms Beijing has resumed destruction of structures at a prominent Tibetan Buddhist academy, according to Radio Free Asia reporting. The demolitions are part of broader efforts to enforce ethnic unity policies and restrict religious activities in Tibet. This development indicates continued Chinese government pressure on Tibetan religious institutions and communities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
+          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Premier Zhu Rongji's Western Development Strategy Enhanced Beijing's Tibet Control",
+          "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy utilized economic development as a tool to advance Beijing's policy objectives in Tibet. The approach demonstrates China's use of economic integration to strengthen central government control over ethnically sensitive regions. This strategy reflects broader patterns of using economic incentives to consolidate political authority in peripheral areas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
+          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US Iran Policy Passivity Leaves Asian Allies Vulnerable",
+          "brief": "The U.S. administration has not confronted China and Russia over their military and strategic assistance to Iran, according to reporting from The Diplomat. This diplomatic inaction is creating security risks for American allies in Asia who face potential threats from an increasingly emboldened Iranian military capability. The situation reflects broader tensions between great power competition and alliance management in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/us-allies-in-asia-are-paying-for-the-iran-stalemate/",
+          "published": "Thu, 03 Sep 2026 21:47:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
+          "brief": "According to the Alliance Futures Initiative, China likely executed a coordinated diplomatic campaign to align Pacific nations with its 15th Five-Year Plan objectives. This effort reflects Beijing's strategic engagement in the region and signals its intent to shape regional alignment around its domestic policy priorities. The campaign underscores China's expanding diplomatic influence in the Pacific and potential coordination between economic planning and foreign relations activities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
+          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Flooding in Tibet-Nepal border region claims Tibetan tour guides",
+          "brief": "Recent flooding along the Tibet-Nepal border has resulted in thousands of missing persons, including 10 Tibetan tour guides operating in the border area. The incident highlights vulnerability in cross-border communities and may impact bilateral tourism and economic activity in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/01/tibet-flood-nepal-tour-guides/",
+          "published": "Tue, 01 Sep 2026 23:16:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's tech sector drives fastest profit growth in four years",
+          "brief": "Chinese listed companies achieved their fastest profit growth in four years during H1 2026, driven by artificial intelligence demand and technological self-sufficiency initiatives. The surge primarily benefited chip-heavy markets like Shanghai's Star Market, which saw profits increase fourfold year-over-year, reflecting China's structural economic shift away from credit-driven expansion toward technology-focused development. This growth pattern indicates a widening economic divide within China, with significant implications for the country's long-term competitiveness and domestic stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3365975/chinas-tech-push-fuels-fastest-profit-growth-4-years-amid-signs-economic-divide?utm_source=rss_feed",
+          "published": "Wed, 02 Sep 2026 00:00:18 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "U.S. Pacific Commander Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region in January 2016. The forum provided insights into U.S. military strategy and priorities for maintaining regional stability and influence in one of the world's most strategically significant areas.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Majority of young Chinese investors shift wealth offshore",
+          "brief": "A CFA Institute study found that 81 percent of young affluent Chinese investors have offshore assets, which comprise an average of 43 percent of their portfolios. This trend reflects growing interest in wealth diversification and preservation outside mainland China among the country's investor demographic. The capital outflow pattern has implications for China's domestic financial markets and foreign exchange management.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3366245/about-4-5-young-affluent-investors-mainland-china-turn-offshore-assets-study?utm_source=rss_feed",
+          "published": "Thu, 03 Sep 2026 09:33:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's pension fund doubles offshore investments to record $86 billion",
+          "brief": "China's National Social Security Fund increased offshore investments to 580 billion yuan ($86 billion) over three years, now representing 15.23% of total assets\u2014a record high. The diversification strategy reflects Beijing's pursuit of higher returns beyond domestic markets. This shift indicates growing confidence in international portfolio management and potential concerns about domestic asset returns.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3366050/chinas-pension-fund-doubles-offshore-investments-us86b-quest-higher-returns?utm_source=rss_feed",
+          "published": "Wed, 02 Sep 2026 04:01:20 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese AI startup Yunxi Technology pursues Hong Kong IPO",
+          "brief": "Yunxi Technology, a Guangzhou-based AI company designated as one of China's \"little giants,\" has filed a confidential IPO application with Hong Kong's stock exchange with plans to raise several hundred million dollars. The move reflects continued capital mobilization in China's AI sector and Hong Kong's role as a financing hub for Chinese technology companies. This IPO signals investor confidence in China's artificial intelligence industry despite ongoing regulatory scrutiny of tech companies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3366347/chinas-ai-little-giant-yunxi-technology-files-hong-kong-ipo-sources?utm_source=rss_feed",
+          "published": "Fri, 04 Sep 2026 08:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong Chief Executive Calls Banks to Finance Tech Growth",
+          "brief": "Hong Kong's Chief Executive John Lee urged the banking sector to support technology and innovation financing while expanding offshore yuan business operations. This initiative aligns Hong Kong's economic strategy with broader national priorities, positioning the banking sector as critical to developing the city's innovation economy and strengthening renminbi internationalization.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/article/3366350/john-lee-urges-banks-finance-citys-tech-growth-expand-offshore-yuan-business?utm_source=rss_feed",
+          "published": "Fri, 04 Sep 2026 07:15:45 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China proposes trilateral Xi-Trump-Putin meeting at next APEC forum",
+          "brief": "According to a senior Russian aide, Chinese President Xi Jinping has proposed a trilateral summit with US President Donald Trump and Russian President Vladimir Putin at the upcoming APEC forum. Such a meeting would represent a significant diplomatic engagement among the three major powers and could signal shifting geopolitical alignments or efforts to coordinate on regional and global issues.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/china/article/3366291/chinas-xi-eyes-apec-trilateral-no-outrunning-deadly-nepal-floods-scmps-7-highlights?utm_source=rss_feed",
+          "published": "Fri, 04 Sep 2026 04:15:05 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong authorities propose heritage status for Kennedy Town sea wall",
+          "brief": "Hong Kong's Antiquities and Monuments Office has recommended grade two historic status for the New Praya sea wall at a popular Kennedy Town waterfront location. The designation would recognize the structure's cultural heritage value, though officials note effective historical storytelling will be necessary to enhance public engagement with the site. This represents routine administrative action in Hong Kong's preservation of local historical landmarks.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3366341/hong-kong-proposes-grade-2-heritage-status-kennedy-town-selfie-spot-sea-wall?utm_source=rss_feed",
+          "published": "Fri, 04 Sep 2026 06:27:29 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 15,
+        "high_priority": 1,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 8,
+          "economy": 5
+        },
+        "updated_at": "2026-09-04T13:52:45.634968Z"
+      }
+    },
+    {
       "date": "2026-09-03",
       "articles": [
         {
