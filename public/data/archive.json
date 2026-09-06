@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-09-05",
+      "articles": [
+        {
+          "headline": "Taiwan Naval Strategy Offers Alternative to Military Confrontation",
+          "brief": "A Foreign Affairs article argues that Taiwan can enhance its defensive posture through naval modernization and operational agility rather than matching China's military scale. The strategic implication suggests that asymmetric naval capabilities could alter cross-strait deterrence calculus by raising the costs of potential Chinese military action.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait",
+          "published": "Fri, 04 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan strengthens AI defenses against Chinese election interference",
+          "brief": "Taiwan is escalating its defensive measures against anticipated Chinese use of artificial intelligence for election interference operations, including deepfakes, synthetic audio recordings, and voter targeting. Security experts assess that Beijing is likely to deploy AI-generated disinformation during Taiwan's electoral processes. This development reflects growing concerns about technologically sophisticated foreign interference campaigns affecting democratic processes in the region.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/",
+          "published": "Mon, 31 Aug 2026 20:38:10 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea opens border crossings with China and Russia",
+          "brief": "North Korea is preparing to open two new border crossings with China and Russia, signaling deepened trilateral cooperation among the three nations. Experts assess these infrastructure developments as indicative of closer strategic alignment between Pyongyang, Beijing, and Moscow. The crossings could facilitate increased trade, military coordination, and political cooperation among the three countries.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/",
+          "published": "Fri, 04 Sep 2026 19:39:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Indonesia's Growing Economic Reliance on China Constrains Foreign Policy",
+          "brief": "Indonesia is developing increasing dependencies on China across economic sectors, potentially limiting Jakarta's traditional foreign policy independence. This trend raises questions about Indonesia's ability to maintain its longstanding \"free and active\" non-aligned foreign policy stance. The shift could have significant implications for regional balance and Indonesia's strategic autonomy in Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/indonesias-emerging-china-dependencies/",
+          "published": "Fri, 04 Sep 2026 23:04:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong court convicts Tiananmen vigil organizers of subversion",
+          "brief": "A Hong Kong court has convicted two former leaders of the group that organized annual candlelight vigils commemorating the 1989 Tiananmen Square crackdown, charging them with inciting subversion. The verdict represents an escalation in efforts to suppress public commemoration of the sensitive historical event in Hong Kong. This development reflects Beijing's continued efforts to control historical narratives and restrict freedoms of assembly and expression in Hong Kong.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/",
+          "published": "Tue, 25 Aug 2026 19:50:59 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-U.S. AI Competition May Hinge on Computing Power, Not Chip Advancement",
+          "brief": "Analysis suggests that by 2030, the strategic advantage in AI competition between China and the United States may depend more on deploying massive computing power than on advancing semiconductor technology. This shift in competitive dynamics has implications for military applications, as AI capabilities increasingly drive strategic defense capabilities. The nation that mobilizes greater computational resources could potentially achieve AI superiority regardless of chip sophistication.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/the-real-key-to-the-ai-race-nanometers-or-gigawatts/",
+          "published": "Fri, 04 Sep 2026 22:32:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Indonesia-China naval exercises may normalize Beijing's regional presence",
+          "brief": "Indonesia and China conducted a joint naval drill that analysts assess poses no immediate threat, but could serve to establish precedent for Chinese military activities east of Taiwan. Repeated similar exercises with third parties in the region could strengthen Beijing's territorial claims and normalize its presence in strategically significant waters. The drill represents a diplomatic mechanism through which China may incrementally expand its operational footprint.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+          "published": "Tue, 25 Aug 2026 01:22:34 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines uses education strategy to reinforce South China Sea territorial claims",
+          "brief": "The Philippines is employing educational initiatives to build domestic public support for its South China Sea territorial positions, according to regional experts. While this approach may strengthen long-term nationalist sentiment, analysts caution it could reduce Manila's diplomatic flexibility in future negotiations with Beijing and other claimants.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
+          "published": "Wed, 19 Aug 2026 21:08:37 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China reportedly linked to Solomon Islands Prime Minister confidence vote",
+          "brief": "Experts suggest China may have influenced a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, indicating potential Chinese interference in the country's domestic politics. The development reflects broader regional power competition in the Pacific, where geopolitical rivalries between major powers are increasingly manifesting through domestic political instability in smaller island nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
+          "published": "Wed, 02 Sep 2026 21:43:05 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Nepal Floods Damage Trade Infrastructure, Limit China Commerce",
+          "brief": "August 26 floods in Nepal destroyed trade infrastructure, further constraining Nepal's already limited trade with China. The incident impacts Nepal's geopolitical balancing between China and India, as infrastructure damage reduces Nepal's capacity to diversify its economic partnerships and maintain strategic flexibility in regional relations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/nepals-floods-upset-its-china-india-balancing-act/",
+          "published": "Fri, 04 Sep 2026 23:04:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Advances Internet Sovereignty Initiative as Global Governance Model",
+          "brief": "China is promoting 'Internet sovereignty' as a key governing principle for the global Internet, according to CSIS analysis. This initiative represents China's strategic effort to establish alternative frameworks for international digital governance that prioritize state control over internet infrastructure and content. The implications suggest potential fragmentation of global internet governance structures and increased state-level restrictions on information flow.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Analysis Questions Extent of China's Global Soft Power Influence",
+          "brief": "A Foreign Affairs analysis examines the gap between perceived and actual Chinese soft power capabilities globally. The assessment suggests international observers may overestimate Beijing's ability to shape foreign opinion through non-coercive means. This reassessment has implications for understanding China's true capacity to advance economic and diplomatic interests through cultural and informational influence.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/how-does-world-really-view-china",
+          "published": "Wed, 02 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Majority of Young Chinese Affluent Investors Diversify into Offshore Assets",
+          "brief": "A CFA Institute study found that 81 percent of young, affluent mainland Chinese investors maintain offshore investments, with such assets comprising an average 43 percent of their portfolios. This trend reflects growing interest in wealth preservation and portfolio diversification outside China's domestic markets. The shift indicates potential capital outflows and changing investment preferences among China's younger, high-net-worth demographic.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3366245/about-4-5-young-affluent-investors-mainland-china-turn-offshore-assets-study?utm_source=rss_feed",
+          "published": "Thu, 03 Sep 2026 09:33:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "UK reaffirms Falkland Islands support amid Argentina's renewed claims",
+          "brief": "British Prime Minister's office has stated unwavering UK support for the Falkland Islands following Argentine President Javier Milei's reassertion of his country's territorial claim over the British overseas territory. Milei suggested geopolitical conditions favor Argentina's position. The restatement of competing claims reflects ongoing diplomatic tension between London and Buenos Aires over the disputed South Atlantic territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 04 Sep 2026 11:54:51 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Japan's Takaichi Administration Signals Intent to Normalize China Relations",
+          "brief": "Japan's Takaichi administration has indicated willingness to pursue normalization of relations with China, marking a potential diplomatic shift in East Asian geopolitics. This development carries significant implications for regional stability and the balance of power in the Asia-Pacific, particularly regarding defense postures and security alignments. The initiative suggests Tokyo may be seeking to reduce tensions amid ongoing disputes over territorial claims and strategic competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/a-message-to-china-from-japans-takaichi-administration/",
+          "published": "Sat, 05 Sep 2026 15:05:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's Foreign Minister Discusses US-China Relations at CSIS Forum",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and US-China bilateral relations. The forum provided a platform for high-level dialogue on strategic issues between the two powers during a period of significant regional tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China Advances Humanoid Robot Development with Strategic Vision",
+          "brief": "China is developing humanoid robots as part of a broader technological ambition strategy, signaling the country's commitment to advanced robotics and automation. The development reflects differing interpretations of future technology trajectories between major powers, with potential implications for military, industrial, and civilian applications. This advancement represents China's pursuit of technological leadership in a critical emerging field.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/humanoid-robots-and-chinas-vision-of-the-future/",
+          "published": "Fri, 04 Sep 2026 23:49:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Satellite imagery reveals extensive damage from Nepal-Tibet border floods",
+          "brief": "Satellite imagery has documented significant damage from recent floods along the Nepal-Tibet border region. Advocates are calling for increased transparency from Chinese authorities regarding rescue and relief operations in Tibet. The incident highlights potential challenges in cross-border disaster response coordination and information access in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/",
+          "published": "Thu, 27 Aug 2026 20:44:09 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Chinese Premier Zhu Rongji's Tibet Strategy Used Economic Policy",
+          "brief": "Former Premier Zhu Rongji's Western Development Strategy employed economic mechanisms to align Tibetan populations with Beijing's policy objectives. The approach represents a significant method of political control through economic integration rather than direct coercion. This strategy has implications for understanding China's long-term approach to regional governance and minority policy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
+          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Restricts Tibet Flood Coverage Through State Media Control",
+          "brief": "Chinese state media has employed restricted coverage and censorship regarding recent Tibet floods, maintaining the government's standard approach of controlling disaster narratives. This information management strategy limits public understanding of the event's scope and impact, while emphasizing positive governmental responses.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/how-the-chinese-government-has-controlled-the-narrative-on-the-tibet-floods/",
+          "published": "Fri, 04 Sep 2026 21:54:00 +0900",
+          "raw_source": "The Diplomat"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 20,
+        "high_priority": 6,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 14,
+          "economy": 3
+        },
+        "updated_at": "2026-09-05T13:06:44.802686Z"
+      }
+    },
+    {
       "date": "2026-09-04",
       "articles": [
         {
