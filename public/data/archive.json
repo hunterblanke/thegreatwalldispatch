@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-09-09",
+      "articles": [
+        {
+          "headline": "Taiwan Naval Strategy Could Challenge Chinese Military Dominance",
+          "brief": "The article examines how Taiwan can develop a more agile naval force to counter China's military capabilities in the Taiwan Strait. A modernized Taiwanese navy focused on maneuverability rather than scale could effectively deny China's ability to project power and control the strategic waterway. This represents a significant shift in regional military balance calculations.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait",
+          "published": "Fri, 04 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Taiwan bolsters AI defenses against Chinese election interference",
+          "brief": "Taiwan is strengthening its artificial intelligence defenses in response to concerns that Beijing may deploy AI-generated deepfakes, fake audio recordings, and targeted voter manipulation tactics during elections. Experts assess that China's use of sophisticated AI tools represents an evolving threat to Taiwan's electoral integrity. This development underscores the expanding intersection of technological capabilities and cross-strait political competition.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/",
+          "published": "Mon, 31 Aug 2026 20:38:10 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Opens Border Crossings with China and Russia",
+          "brief": "North Korea is preparing to open two new border crossings with China and Russia, signaling deepening trilateral cooperation among the three nations. Experts assess these infrastructure developments as indicative of strengthened diplomatic and economic ties, potentially enhancing coordination across Northeast Asia. The move carries significant implications for regional geopolitical alignment and sanctions enforcement.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/",
+          "published": "Fri, 04 Sep 2026 19:39:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China confirms 43 dead in Nepal-Tibet border mudslide",
+          "brief": "A mudslide on the Nepal-Tibet border on August 26 killed at least 43 people according to Chinese authorities, with thousands remaining missing. Local Tibetan residents report significantly higher casualty figures, with claims of 26 deaths in a single village alone, suggesting potential discrepancies between official and ground-level accounts. The incident highlights infrastructure vulnerability in remote border regions and raises questions about disaster response coordination and casualty reporting accuracy.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/07/tibet-gyirong-nepal-glacier-death-toll/",
+          "published": "Mon, 07 Sep 2026 19:12:16 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Analysis Questions Scope of China's Cyber Threat to Taiwan",
+          "brief": "A Diplomat article challenges the assumption that China's cyber capabilities represent the primary military threat to Taiwan, suggesting the threat landscape is more complex than commonly understood. The analysis implies that overemphasizing cyber threats while neglecting other strategic vulnerabilities may create a distorted assessment of Taiwan's security posture.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/is-china-really-a-cyber-threat-to-taiwan/",
+          "published": "Tue, 08 Sep 2026 20:57:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Philippines uses education strategy to reinforce South China Sea territorial claims",
+          "brief": "The Philippines is employing educational initiatives to build domestic public support for its South China Sea territorial positions, according to regional experts. While this approach can create lasting political backing for maritime claims, analysts warn it may constrain future diplomatic flexibility and negotiation options with Beijing.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
+          "published": "Wed, 19 Aug 2026 21:08:37 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Central Asian states face pressure to choose between China and West",
+          "brief": "The article examines whether Central Asian nations, particularly Uzbekistan and Kazakhstan, will need to align exclusively with either China's Pax Silica framework or Western-led initiatives (WAICO). U.S. strategy toward the region may be indicated by how successfully it encourages dual membership models rather than forcing binary geopolitical choices. This development has significant implications for great power competition and regional stability in Central Asia.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/pax-silica-vs-waico-will-central-asia-have-to-pick-a-side/",
+          "published": "Tue, 08 Sep 2026 23:40:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Pakistan Assumes SCO Presidency, Prioritizes Regional Connectivity",
+          "brief": "Pakistan has taken the chair of the Shanghai Cooperation Organization and is expected to emphasize new connectivity routes linking the Belt and Road Initiative through Iran and Central Asia to the Arabian Sea. This positioning reflects Pakistan's strategic interest in leveraging multilateral forums to advance regional infrastructure projects and economic corridors that enhance its geopolitical connectivity.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/pakistan-takes-sco-presidency-at-a-crucial-time-what-to-expect/",
+          "published": "Tue, 08 Sep 2026 22:17:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Uses SCO to Promote Security Definitions in Central Asia",
+          "brief": "China may be leveraging the Shanghai Cooperation Organization (SCO) to establish its own definitions of security, political loyalty, and ethnic identity across Central Asia's Turkic regions. This approach risks normalizing Beijing's governance model and security priorities among SCO member states, potentially subordinating Central Asian nations' independent interests to Chinese strategic objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/chinas-unity-through-erasure-should-worry-central-asia/",
+          "published": "Tue, 08 Sep 2026 21:17:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China allegedly influences Solomon Islands no-confidence vote against PM",
+          "brief": "Experts assess that China may have been involved in filing a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, suggesting Beijing is leveraging domestic political instability to advance regional interests. This incident demonstrates how great power competition is increasingly manifesting through interference in Pacific island nation politics, potentially undermining local governance autonomy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
+          "published": "Wed, 02 Sep 2026 21:43:05 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China injects $54B into state financial institutions to strengthen capital buffers",
+          "brief": "Beijing announced a 360 billion yuan ($54 billion) capital injection into eight state-owned financial institutions, expanding its recapitalization effort beyond banks to insurers and other entities. Analysts assess the measure as positive but insufficient, warning that additional fiscal support is necessary to stimulate credit demand and ensure effective deployment of the new capital. This initiative reflects Beijing's broader strategy to reinforce financial sector stability amid economic pressures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3366633/can-chinas-us54b-capital-injection-ease-financial-strains-analysts-say-more-needed?utm_source=rss_feed",
+          "published": "Mon, 07 Sep 2026 09:30:08 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China injects $54 billion into state banks to stabilize financial system",
+          "brief": "China announced a 360 billion yuan ($54 billion) capital injection into eight major state-owned banks and insurers, with three state banks receiving 290 billion yuan combined through equity placements. The move aims to strengthen financial institutions and support economic growth during a period of economic uncertainty. This intervention signals government concern about banking sector resilience and indicates use of capital requirements as a policy tool to maintain financial stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3366635/chinas-capital-injection-steels-banks-insurers-rough-road-ahead?utm_source=rss_feed",
+          "published": "Mon, 07 Sep 2026 09:04:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Xi Jinping's Egypt Visit Signals Strategic Regional Engagement",
+          "brief": "Chinese President Xi Jinping visited Egypt on September 1-2, marking a significant diplomatic engagement with strategic implications for both nations. The visit reflects China's broader Middle East policy priorities and potential military or defense cooperation considerations in a geopolitically important region. The differing strategic interests highlighted during the visit underscore evolving great power competition in the Eastern Mediterranean and broader Middle East.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/the-strategic-calculus-of-xi-jinpings-egypt-visit/",
+          "published": "Tue, 08 Sep 2026 21:53:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "India Hosts BRICS Summit Amid Questions Over Group Benefits",
+          "brief": "As India prepares to host the BRICS summit, analysis questions whether the grouping delivers tangible benefits to New Delhi compared to its costs and commitments. The assessment suggests India must evaluate concrete gains from BRICS participation against alternative strategic priorities and bilateral arrangements.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/is-brics-actually-benefiting-india/",
+          "published": "Sat, 05 Sep 2026 01:56:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Satellite imagery documents significant flooding damage along Nepal-Tibet border",
+          "brief": "Satellite imagery has revealed extensive damage from recent flooding along the Nepal-Tibet border region. Advocates are pressing Chinese authorities to increase transparency regarding rescue and relief operations in Tibet. The incident highlights ongoing concerns about information access and coordination in cross-border disaster response efforts.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/08/27/tibet-nepal-flood-landslide-blackout/",
+          "published": "Thu, 27 Aug 2026 20:44:09 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Flooding in Tibet-Nepal border region claims Tibetan tour guides",
+          "brief": "Recent flooding along the Tibet-Nepal border has resulted in thousands of missing persons, including at least 10 Tibetan tour guides working in the affected area. The incident highlights the cross-border humanitarian impact of natural disasters and potential implications for tourism and regional infrastructure in the Himalayan region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/01/tibet-flood-nepal-tour-guides/",
+          "published": "Tue, 01 Sep 2026 23:16:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Hong Kong Leader Tung Chee-hwa Dies at 89",
+          "brief": "Tung Chee-hwa, Hong Kong's first chief executive, died at age 89 after maintaining a low public profile in recent years while continuing diplomatic efforts to bridge US-China relations. His work in facilitating dialogue between the two powers remained active until his final years, including public appearances at major conferences. Tung's passing represents the loss of a key figure who played a diplomatic role in managing US-China tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3366946/ex-hong-kong-leader-tung-chee-hwa-worked-bridge-us-china-divide-even-final-years?utm_source=rss_feed",
+          "published": "Wed, 09 Sep 2026 12:30:02 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong positions itself as bridge for Belt and Road Initiative",
+          "brief": "Hong Kong Chief Executive John Lee described the city as a \"2-way springboard\" connecting Belt and Road economies with mainland China and global markets during the annual Belt and Road Summit. The city aims to facilitate capital, talent, and business flows to advance China's strategic initiative, with over 60 government and business agreements expected to be signed at the event. This underscores Hong Kong's continued role as a critical financial and commercial hub for China's international economic expansion.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366864/hong-kong-2-way-springboard-between-mainland-china-and-world-john-lee?utm_source=rss_feed",
+          "published": "Wed, 09 Sep 2026 04:01:48 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 5,
+        "articles_total": 18,
+        "high_priority": 4,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 14,
+          "economy": 2
+        },
+        "updated_at": "2026-09-09T14:02:11.204204Z"
+      }
+    },
+    {
       "date": "2026-09-08",
       "articles": [
         {
@@ -20642,238 +20874,6 @@
           "economy": 5
         },
         "updated_at": "2026-06-11T19:45:58.493269Z"
-      }
-    },
-    {
-      "date": "2026-06-10",
-      "articles": [
-        {
-          "headline": "US adds BYD to Chinese military-linked companies list",
-          "brief": "The US Pentagon has added BYD, China's major electric vehicle and battery manufacturer, to its list of companies with alleged military connections. This designation warns American firms of compliance risks associated with business dealings with BYD. The move represents an escalation in US economic restrictions targeting Chinese technology firms and could significantly impact BYD's access to US markets and international supply chains.",
-          "category": "economy",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 09 Jun 2026 07:20:59 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Beijing integrates Taiwan, South China Sea into U.S. strategic competition",
-          "brief": "Chinese analysts characterize Taiwan and the South China Sea as interconnected components of Beijing's strategic rivalry with the United States, a perspective that gained prominence during recent Xi-Trump discussions. This framing suggests China views these geopolitical flashpoints as part of a unified maritime strategy rather than separate issues. The integration of Taiwan into broader maritime strategy calculations carries significant implications for regional stability and U.S.-China competition.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
-          "published": "Tue, 19 May 2026 22:22:38 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "US blacklists Chinese firms including Alibaba, WuXi AppTec",
-          "brief": "The US Trump administration added Alibaba and WuXi AppTec to a blacklist over alleged military links, causing their Hong Kong-listed shares to decline by 1.4% and 3.7% respectively. The move targets Chinese companies in key emerging industries including pharmaceuticals, e-commerce, and electric vehicles, signaling escalating US-China technology and strategic competition. Market reaction was mixed, with other affected firms like BYD and Baidu gaining despite the sanctions announcement.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/china-business/article/3356439/alibaba-and-wuxi-apptec-decline-hong-kong-after-addition-us-blacklist?utm_source=rss_feed",
-          "published": "Tue, 09 Jun 2026 02:49:59 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's South China Sea buildup could complicate Taiwan conflict response",
-          "brief": "Security experts assess that China's maritime infrastructure development in the South China Sea may be strategically linked to potential Taiwan contingencies, potentially dividing the attention of Taiwan's regional allies. However, analysts indicate that such a diversionary scenario would be unlikely to materialize if armed conflict over Taiwan erupts. The assessment highlights Beijing's multi-domain military positioning strategy in the Indo-Pacific region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
-          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "U.S. Arms Sales to Taiwan Remain Central to Security Strategy",
-          "brief": "Recent delays in U.S. arms deliveries to Taiwan have highlighted the strategic importance of American military support to the island's defense capabilities. The security relationship reflects Washington's commitment to maintaining cross-strait stability amid ongoing geopolitical tensions. Taiwan's reliance on U.S. weaponry underscores the critical role of American military assistance in regional security dynamics.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
-          "published": "Tue, 26 May 2026 03:18:46 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Satellite imagery indicates North Korea-Russia bridge nearing completion",
-          "brief": "Satellite imagery shows a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Expert analysis indicates Kim Jong Un's strong interest in deepening cooperation with Moscow. The bridge's opening would facilitate increased trade and strategic coordination between Pyongyang and Moscow.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
-          "published": "Thu, 21 May 2026 00:44:51 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Philippine military infrastructure expansion detected in disputed Spratly Islands",
-          "brief": "Satellite imagery reveals the Philippines has expanded runway and port facilities on two islands within the contested Spratly Islands region. These improvements are assessed to enhance Philippine military readiness in response to increasing Chinese activities in the South China Sea. The development reflects escalating competition for control and strategic positioning among claimant states in this disputed maritime zone.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/05/08/philippines-satellite-spratlys-infrastructure-upgrade/",
-          "published": "Fri, 08 May 2026 15:30:12 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Analysis examines structural vulnerabilities in China's economic power",
-          "brief": "The article argues that the United States possesses untapped leverage points against China's economy, suggesting structural weaknesses exist within Beijing's economic system. Understanding these vulnerabilities could inform U.S. strategic policy formulation regarding economic competition and bilateral relations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby",
-          "published": "Wed, 10 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Chinese leadership's misperceptions impede economic reform efforts",
-          "brief": "Beijing's internal blind spots regarding its economic challenges are preventing the implementation of necessary structural reforms. The Chinese government's limited self-awareness of systemic economic issues creates obstacles to addressing underlying problems and adapting policy accordingly. This disconnect between perception and reality could constrain China's ability to maintain long-term economic competitiveness.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/how-china-misperceives-itself",
-          "published": "Fri, 05 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Taiwan's Indigenous Communities Face Increased China Military Pressure",
-          "brief": "China's military activities are directly affecting Taiwan's indigenous populations in Hualien, creating localized security concerns beyond typical cross-strait tensions. The situation highlights how geopolitical competition impacts civilian communities and their historical relationships with their territory, representing a shift in how military pressure manifests at the community level.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/long-night-over-hualien-the-china-threat-through-the-eyes-of-taiwans-indigenous-peoples/",
-          "published": "Wed, 10 Jun 2026 02:25:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Quad nations plan Fiji port project to counter Chinese Pacific influence",
-          "brief": "The United States, Japan, India, and Australia are pursuing a port development initiative in Fiji as part of efforts to provide alternative infrastructure and supply-chain options to countries in the Pacific region. The project represents a strategic response to China's growing economic dominance in the Pacific and signals to regional states that the Quad members can offer competitive development partnerships.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
-          "published": "Fri, 29 May 2026 20:35:15 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Solomon Islands PM Shift May Reduce China Influence",
-          "brief": "Matthew Wale's ascension to Solomon Islands Prime Minister is expected to represent a significant reorientation of the country's foreign policy away from China toward closer alignment with Australia. Analysts characterize Wale as more moderate and less enthusiastic about Chinese engagement compared to his predecessors. This development could substantially reshape regional geopolitical dynamics in the Pacific.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
-          "published": "Fri, 15 May 2026 22:53:07 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China accused of misrepresenting foreign leaders' statements",
-          "brief": "Radio Free Asia reports that Beijing has a pattern of twisting statements by visiting dignitaries to suggest endorsement of Chinese government policies. The article warns this practice may occur during high-level diplomatic meetings, potentially creating misunderstandings between nations. This pattern of selective representation could complicate future bilateral negotiations and undermine trust in official diplomatic communications.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/05/12/trump-xi-china-meeting-uyghur/",
-          "published": "Tue, 12 May 2026 15:26:55 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Hong Kong debt market strengthens as major firms raise $5.2 billion",
-          "brief": "Major Chinese companies Tencent and Swire Pacific raised over US$5.2 billion through multi-currency bond offerings in Hong Kong, demonstrating the city's continued importance as an international financial hub. The diverse currency issuances\u2014in US dollars, offshore yuan, and Hong Kong dollars\u2014reflect Hong Kong's role in facilitating capital flows for Chinese enterprises and maintaining its position in global debt markets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3356591/hong-kong-debt-market-heats-tencent-swire-raise-us52b-multi-currency-deals?utm_source=rss_feed",
-          "published": "Wed, 10 Jun 2026 06:00:56 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese AI firms show divergent market performance post-Hong Kong listing",
-          "brief": "Zhipu AI and MiniMax, two Chinese artificial intelligence developers, listed on the Hong Kong stock exchange in January 2024 with MiniMax initially commanding a larger market capitalization of HK$106.7 billion versus Zhipu's HK$57.9 billion. However, five months later Zhipu has significantly outperformed MiniMax, signaling shifting investor confidence in China's competitive AI sector and the volatility of nascent technology stocks.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/big-tech/article/3356390/minimax-once-led-zhipu-hong-kongs-ai-stock-race-how-tables-have-turned?utm_source=rss_feed",
-          "published": "Tue, 09 Jun 2026 00:30:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese AI firms added to Hong Kong's Hang Seng Tech Index",
-          "brief": "MiniMax Group and Zhipu (Knowledge Atlas Technology) became the first pure-play artificial intelligence companies included in Hong Kong's Hang Seng Tech Index, potentially attracting significant passive investment flows. The index additions signal growing investor confidence in Chinese AI firms, though trading showed mixed results with MiniMax declining 8.4 percent while Zhipu gained 1.3 percent amid broader regional market weakness.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3356344/hong-kongs-hang-seng-tech-index-welcomes-minimax-zhipu-ai-milestone-amid-slump?utm_source=rss_feed",
-          "published": "Mon, 08 Jun 2026 08:45:20 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Macau Small Businesses Struggle as Regional Integration Deepens",
-          "brief": "Macau residents are increasingly shopping in mainland China due to lower prices, greater product variety, and convenience, pressuring local small business sectors. This trend reflects the accelerating economic integration of the Greater Bay Area, which may reshape Macau's traditional retail economy and consumer patterns. The shift underscores broader structural changes in cross-border economic dynamics within the region.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/as-integration-in-the-greater-bay-area-accelerates-small-businesses-in-macau-suffer/",
-          "published": "Tue, 09 Jun 2026 23:13:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Hong Kong doubles tech hub size in Northern Metropolis development",
-          "brief": "Hong Kong authorities have proposed expanding a planned digital technology hub in Lau Fau Shan from 15 to 30 hectares as part of the Northern Metropolis megaproject, with buildings permitted to reach up to 250 meters in height. This expansion reflects Hong Kong's strategic effort to position itself as a regional technology and innovation center, potentially strengthening its economic competitiveness amid broader efforts to integrate with Greater Bay Area development initiatives.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356625/hong-kong-authorities-propose-doubling-size-planned-lau-fau-shan-tech-hub?utm_source=rss_feed",
-          "published": "Wed, 10 Jun 2026 08:58:55 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 18,
-        "high_priority": 2,
-        "by_category": {
-          "economy": 9,
-          "foreign_relations": 8,
-          "military": 1
-        },
-        "updated_at": "2026-06-10T11:34:30.541163Z"
       }
     }
   ]
