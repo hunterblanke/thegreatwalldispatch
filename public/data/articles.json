@@ -1,236 +1,128 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "metrics": {
     "sources_scanned": 6,
-    "articles_total": 19,
-    "high_priority": 5,
+    "articles_total": 16,
+    "high_priority": 3,
     "by_category": {
-      "military": 3,
-      "foreign_relations": 9,
-      "economy": 7
+      "economy": 4,
+      "foreign_relations": 11,
+      "military": 1
     },
-    "updated_at": "2026-09-17T14:32:40.320935Z"
+    "updated_at": "2026-09-18T13:58:50.318494Z"
   },
   "articles": [
     {
-      "headline": "China advances underwater autonomous systems in naval competition",
-      "brief": "China is expanding its capabilities in autonomous underwater vehicle technology as part of broader competition with the United States in naval modernization. The development of these systems represents a significant technological shift in maritime operations, potentially affecting underwater surveillance, reconnaissance, and combat capabilities in contested waters. This advancement reflects China's strategic investment in autonomous platforms to enhance naval operational reach and reduce dependence on crewed vessels.",
+      "headline": "Russia and China Veto U.N. Iran Nuclear Monitoring Renewal",
+      "brief": "Russia and China blocked a U.S.-backed effort to renew United Nations monitoring mechanisms for Iran's nuclear program, reflecting deep divisions among major powers over Iran policy. The veto demonstrates Moscow and Beijing's alignment against U.S. pressure campaigns and signals weakening international consensus on nuclear non-proliferation verification in the Middle East.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
+      "published": "Thu, 17 Sep 2026 19:34:10 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "Analysis questions reliability of Taiwan conflict predictions",
+      "brief": "A Diplomat article critiques both optimistic and pessimistic assessments regarding Taiwan's willingness to resist military conflict, noting that prevailing arguments often lack substantive evidentiary support. The analysis highlights a significant intelligence gap in predicting Taiwan's actual defensive response capabilities and resolve, which has substantial implications for regional security assessments and strategic planning.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/09/underwater-autonomy-in-the-china-us-naval-race/",
-      "published": "Thu, 17 Sep 2026 00:07:00 +0900",
+      "original_link": "https://thediplomat.com/2026/09/will-taiwan-fight-we-need-better-evidence/",
+      "published": "Thu, 17 Sep 2026 21:54:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Taiwan enhances AI defenses against Chinese election interference",
-      "brief": "Taiwan is strengthening its defenses against anticipated Chinese use of artificial intelligence for election interference, including deepfakes, fake audio recordings, and targeted voter manipulation. Security experts assess that Beijing is likely to deploy AI-generated disinformation campaigns to influence Taiwan's electoral processes. This development reflects growing concerns about the vulnerability of democratic institutions to AI-enabled information warfare.",
+      "headline": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion charges",
+      "brief": "Joshua Wong, a prominent Hong Kong pro-democracy activist, has pleaded guilty to charges of foreign collusion under Hong Kong's national security law. Legal experts indicate he will likely serve his full sentence consecutively when his current imprisonment ends in January. The case reflects ongoing pressure by Beijing on Hong Kong's opposition movement and demonstrates the expansive application of national security legislation.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/",
-      "published": "Mon, 31 Aug 2026 20:38:10 +0000",
+      "original_link": "https://rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/",
+      "published": "Wed, 02 Sep 2026 18:13:07 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Developing Cyber Capabilities Targeting Digital Infrastructure",
-      "brief": "China is increasingly weaponizing control over critical digital infrastructure and supply chain chokepoints as a strategic tool. This approach could enable Beijing to disrupt economic systems and impose coercive pressure on adversaries during conflicts. The strategy represents a significant evolution in how state actors may leverage economic interdependence through cyber means.",
-      "category": "economy",
-      "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/new-chinese-way-cyberwar-ai",
-      "published": "Tue, 15 Sep 2026 00:00:00 -0400",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China Promotes Internet Sovereignty as Global Governance Concept",
-      "brief": "China is advancing an 'Internet sovereignty' initiative aimed at establishing state control as a governing principle for the global Internet. This approach challenges existing international norms of open internet governance and signals China's intent to reshape digital infrastructure policy globally. The initiative has significant implications for international cybersecurity standards, data governance, and great power competition in cyberspace.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Hong Kong court convicts vigil organizers of subversion charges",
-      "brief": "A Hong Kong court convicted two former leaders of the group organizing annual candlelight vigils commemorating the 1989 Tiananmen Square incident on charges of inciting subversion. The verdict reflects Beijing's intensified efforts to suppress historical commemoration and political expression in Hong Kong, particularly regarding sensitive events in mainland China. This action signals continued erosion of Hong Kong's autonomous governance and public discourse freedoms.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/",
-      "published": "Tue, 25 Aug 2026 19:50:59 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Taiwan's Annual Military Exercises Gain Public Support Despite Civilian Disruption",
-      "brief": "Taiwan's Han Kuang military exercises are receiving increased public approval despite their growing impact on civilian populations. While public understanding of the exercises' strategic importance remains limited, the approval trend suggests Taiwanese citizens recognize the necessity of military readiness amid regional security concerns.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/what-do-taiwans-people-think-about-its-annual-military-exercises/",
-      "published": "Wed, 16 Sep 2026 22:20:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Philippine maritime claims gain visibility amid South China Sea tensions",
-      "brief": "Increased public awareness of the Philippines' legally-backed maritime claims in the South China Sea has resulted from a viral moment, though experts assess this heightened attention is unlikely to produce immediate diplomatic or territorial gains. The incident underscores ongoing tensions in the disputed waters but reflects a continuation of the existing strategic stalemate rather than a shift in the regional balance of power.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/",
-      "published": "Thu, 17 Sep 2026 00:41:40 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "North Korea opens new border crossings with China and Russia",
-      "brief": "North Korea is preparing to open two new border crossings with China and Russia, signaling deepening trilateral cooperation among the three nations. Experts assess these infrastructure developments as indicative of strengthened economic and political ties, potentially reshaping regional alignment in Northeast Asia.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/",
-      "published": "Fri, 04 Sep 2026 19:39:19 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "US Fed rate hike may exacerbate China's economic disparities",
-      "brief": "The US Federal Reserve raised interest rates by 25 basis points to combat inflation, with expectations for additional increases this year. Higher US rates could intensify China's economic divide by attracting capital outflows and increasing borrowing costs, potentially widening regional and sectoral wealth disparities within the country.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/plus/economy/policy/article/3367858/fed-rate-hike-risks-worsening-chinas-economic-divide?utm_source=rss_feed",
-      "published": "Thu, 17 Sep 2026 09:00:41 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's Party Discipline System Maintains Political Control",
-      "brief": "China's internal discipline mechanisms have proven effective in sustaining Communist Party control and cohesion despite economic pressures and factional tensions. The system's systematic approach to purges and cadre management continues to function as a stabilizing force for party governance. This disciplinary framework has significant implications for China's political stability and the party's ability to maintain centralized authority.",
+      "headline": "U.S.-China Relations Face Structural Barriers Beyond Leadership Diplomacy",
+      "brief": "A Foreign Affairs analysis argues that personal summits between Trump and Xi cannot reverse fundamental U.S.-China economic and strategic competition. The article contends that structural factors and competing interests have created an escalatory dynamic resistant to top-level diplomatic engagement alone. This suggests sustained economic tensions and trade friction regardless of bilateral high-level meetings.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
-      "original_link": "https://www.foreignaffairs.com/china/chinas-purges-are-working-designed",
-      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "original_link": "https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Hong Kong Launches Five-Year Plan to Strengthen Financial Center Status",
-      "brief": "Hong Kong has unveiled a five-year economic development plan focusing on equity market expansion, offshore yuan business growth, and gold trading to maintain its position as Asia's leading financial center and compete with London. The initiative, announced by Chief Executive John Lee Ka-chiu, represents a strategic effort to consolidate Hong Kong's financial dominance amid regional competition. Success in these areas could strengthen Hong Kong's role in global capital flows and cross-border financial services.",
-      "category": "economy",
+      "headline": "Indonesia-China naval drill normalizes Beijing presence east of Taiwan",
+      "brief": "China and Indonesia conducted a joint naval exercise in waters east of Taiwan, which experts assess does not pose an immediate threat but represents strategic activity in the region. Repeated drills with third parties in these waters could strengthen China's claims to the area and establish normalized military operations in strategically significant territory. The exercise demonstrates China's efforts to build coalitions and increase its presence in regions contested or sensitive to regional security dynamics.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3367816/how-hong-kongs-new-5-year-plan-courts-global-capital-eye-market-dominance?utm_source=rss_feed",
-      "published": "Thu, 17 Sep 2026 07:00:09 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
+      "published": "Tue, 25 Aug 2026 01:22:34 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China extends anti-corruption oversight to brokerages' offshore operations",
-      "brief": "China's securities regulator is closing compensation loopholes at domestic brokerages and, notably, extending anti-corruption oversight to their overseas operations for the first time. This regulatory expansion reflects Beijing's broader push to strengthen financial sector governance and develop world-class investment banks. The move signals increased government control over the financial sector's international activities and potential constraints on compensation structures.",
-      "category": "economy",
+      "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
+      "brief": "According to the Alliance Futures Initiative, Beijing likely executed a coordinated diplomatic effort to align Pacific island nations with China's 15th Five-Year Plan. This campaign represents China's strategic effort to expand influence over regional development priorities and policy alignment. The initiative suggests Beijing is using economic and diplomatic means to deepen its regional integration with the Pacific.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3367465/china-targets-offshore-operations-brokerages-crackdown-pay-loopholes-corruption?utm_source=rss_feed",
-      "published": "Tue, 15 Sep 2026 00:00:11 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
+      "published": "Thu, 20 Aug 2026 22:45:31 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "BRICS Summit Demonstrates Global South Resistance to Western Isolation",
-      "brief": "The New Delhi BRICS Summit reflects widespread rejection by Global South nations of Western efforts to isolate Russia and Iran through sanctions and diplomatic pressure. This positioning indicates growing geopolitical realignment, with non-Western powers consolidating alternative coalitions that challenge traditional Western-led international order. The development suggests implications for U.S. strategic influence and the effectiveness of Western-led containment policies.",
+      "headline": "BRICS Declaration Reflects India's Shift on Iran Policy",
+      "brief": "India endorsed a BRICS declaration addressing Iran's diplomatic concerns while notably refraining from criticism of Iranian drone and missile attacks on Gulf states. This represents a significant policy adjustment by India within the multilateral BRICS framework regarding regional security issues in the Middle East.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/09/the-new-delhi-brics-summit-sends-powerful-messages-to-america/",
-      "published": "Wed, 16 Sep 2026 20:24:00 +0900",
+      "original_link": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran/",
+      "published": "Thu, 17 Sep 2026 12:31:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "BRICS Summit Signals Strategic Realignment in Asia",
-      "brief": "A recent BRICS summit in New Delhi has prompted analysis of shifting geopolitical alignments across Asia. The discussion indicates ongoing strategic repositioning among major powers in the region, with potential implications for military balances and alliance structures. This realignment reflects broader efforts by non-Western powers to establish alternative frameworks for regional security and influence.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/siddhant-kishore-on-brics-and-the-new-geopolitics-of-asia/",
-      "published": "Thu, 17 Sep 2026 00:23:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China Opens Market to African Exports Amid Trade Imbalance Concerns",
-      "brief": "China has expanded market access for African exports as part of its trade engagement with the continent. However, analysts question whether this measure will enable African nations to advance within global value chains or merely increase commodity-based trade flows. The initiative reflects Beijing's broader economic strategy in Africa but may not address underlying structural trade imbalances.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/chinas-free-trade-offer-to-africa-wont-solve-the-trade-imbalance/",
-      "published": "Wed, 16 Sep 2026 23:41:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Chinese Overseas Port Projects Present Mixed Economic Outcomes",
-      "brief": "Chinese overseas port investments generate both positive and negative economic externalities, complicating assessment of their overall impact. The mixed results suggest these strategic infrastructure projects may not uniformly benefit host nations or advance Beijing's stated objectives. Understanding these complex economic dynamics is essential for evaluating China's broader belt-and-road strategy and its geopolitical implications.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/the-challenges-of-finding-political-treasure-in-chinese-overseas-ports/",
-      "published": "Wed, 16 Sep 2026 21:50:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Hong Kong unveils first five-year plan emphasizing mainland integration",
-      "brief": "Hong Kong Chief Executive John Lee Ka-chiu has introduced the city's first-ever five-year plan, prioritizing deeper economic integration with mainland China and development of new economic drivers. The plan, presented alongside Lee's final policy address, signals Hong Kong's strategic pivot toward closer ties with Beijing and mainland economic coordination.",
+      "headline": "Self-Immolation at UN Highlights Beijing's Domestic Tibet Concerns",
+      "brief": "A self-immolation incident at the UN has prompted analysis of China's actual vulnerabilities regarding Tibet policy. Beijing's primary concern is not international pressure but rather rising awareness and potential discontent within the Chinese population. This suggests China's strategic focus on controlling domestic narratives around sensitive regional issues.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "The Diplomat"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/article/3367802/hong-kongs-first-5-year-plan-john-lees-2026-policy-address-everything-you-need-know?utm_source=rss_feed",
-      "published": "Thu, 17 Sep 2026 04:30:06 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://thediplomat.com/2026/09/after-a-self-immolation-at-the-un-rethinking-what-beijing-fears-on-tibet/",
+      "published": "Fri, 18 Sep 2026 01:28:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "Hong Kong launches first five-year plan aligned with Beijing strategy",
-      "brief": "Hong Kong Chief Executive John Lee Ka-chiu unveiled the city's inaugural five-year development plan, designed to align with China's national long-term strategy and provide policy continuity. Experts indicate the plan offers increased investment opportunities and stability for investors. The move represents Hong Kong's formal institutional integration with China's broader strategic planning framework.",
+      "headline": "China Expands Global Infrastructure for Cultural Industry Export",
+      "brief": "China is shifting from merely exporting entertainment content to building overseas infrastructure that supports its cultural industries, representing a broader strategic expansion of soft power capabilities. This infrastructure development enables greater control over content distribution networks and cultural messaging globally, with potential implications for information dissemination and influence operations. The move indicates a long-term commitment to competing in the global cultural marketplace while establishing strategic footholds in key international markets.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "The Diplomat"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367773/hong-kongs-5-year-plan-policy-continuity-offer-investors-more-stability-experts-say?utm_source=rss_feed",
-      "published": "Thu, 17 Sep 2026 00:30:05 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://thediplomat.com/2026/09/china-is-building-a-global-infrastructure-for-its-cultural-industries/",
+      "published": "Thu, 17 Sep 2026 21:16:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "China allegedly influences Solomon Islands political instability",
-      "brief": "Experts suggest China may have orchestrated a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, reflecting broader great power competition in the Pacific region. The incident demonstrates how external powers are leveraging internal political mechanisms to advance strategic interests in strategically important island nations.",
+      "headline": "China allegedly involved in Solomon Islands prime minister confidence vote",
+      "brief": "Experts suggest China may have influenced a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, reflecting broader regional power competition. The incident demonstrates how great power rivalries are increasingly manifesting through interference in Pacific island domestic politics, with potential implications for regional stability and China's expanding influence in the Indo-Pacific.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -239,6 +131,78 @@
       "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
       "published": "Wed, 02 Sep 2026 21:43:05 +0000",
       "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "US Fed raises rates; Hong Kong and Japan follow monetary tightening",
+      "brief": "The US Federal Reserve increased its benchmark interest rate by 25 basis points to 3.75-4.0%, marking its first rate hike since 2023, with the Hong Kong Monetary Authority and Bank of Japan subsequently raising their own rates. Despite the rate increases, the 10-year US Treasury yield fell below 5%, suggesting market expectations of economic slowdown. These coordinated monetary policy shifts signal potential implications for global capital flows and China's export competitiveness in international markets.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3367978/us-fed-rates-chinas-global-export-share-4-figures-shaping-markets?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 07:00:23 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China expands yuan's global role through currency swap agreements",
+      "brief": "The People's Bank of China has established bilateral currency-swap agreements with over 30 countries worth 4.3 trillion yuan ($641 billion) as of end-2025, reflecting expanding international use of the yuan for trade settlements and financial operations. This expansion indicates China's continued efforts to internationalize its currency amid geopolitical tensions and market uncertainty. The trend has prompted international financial institutions like Standard Chartered to develop enhanced advisory services for corporate treasury functions navigating yuan-based transactions.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/native/business/banking-finance/topics/tapping-cross-border-opportunities/article/3367786/standard-chartered-sharpens-its-yuan-advisory-edge-currencys-global-rise-continues?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 04:00:04 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Opens Pinglu Canal to Enhance Southeast Asia Trade Routes",
+      "brief": "China officially launched the Pinglu Canal, a new maritime passage that reduces transit times between southwestern China and Southeast Asia. The canal provides improved access for China's inland regions to regional markets and represents a significant infrastructure development with implications for regional trade flows and China's economic integration with Southeast Asia.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/china/article/3367930/china-launches-pinglu-canal-hong-kong-unveils-first-5-year-plan-scmps-7-highlights?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 04:45:05 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong releases inaugural five-year plan and 2026 policy framework",
+      "brief": "Hong Kong has introduced its first dedicated five-year plan alongside a 2026 policy address, representing a significant shift toward longer-term strategic planning aligned with mainland China's governance model. This development reflects Beijing's increased institutional integration of Hong Kong's policy framework with central planning mechanisms. The move has implications for Hong Kong's autonomous policy-making capacity and signals deeper structural alignment with PRC governance practices.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/series/3367932/factsheet-series-hong-kongs-debut-5-year-plan-and-2026-policy-address?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 02:15:33 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong maintains talent recruitment targets after admitting 300,000 arrivals",
+      "brief": "Hong Kong Chief Executive John Lee announced the city will maintain its annual talent attraction targets despite admitting over 300,000 people since expanding the initiative four years ago, with approximately 20 percent of arrivals from outside mainland China. The decision indicates the government views its recruitment drive as successful in meeting established objectives. This reflects Hong Kong's continued strategy to address demographic challenges and maintain competitiveness through immigration policy.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367961/hong-kong-talent-schemes-could-add-12-gdp-annually-john-lee?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 05:47:01 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong to establish AI commissioner position by mid-2027",
+      "brief": "Hong Kong authorities announced plans to recruit an artificial intelligence commissioner by Q2 2027 to develop technology policies and risk governance frameworks. The new position, housed within the Digital Policy Office, will offer a monthly salary of approximately US$33,414-$35,436 and reflects Hong Kong's effort to formalize AI governance as the technology sector expands regionally.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368048/hong-kong-recruit-ai-chief-mid-2027-confidence-local-talent-pool?utm_source=rss_feed",
+      "published": "Fri, 18 Sep 2026 11:50:59 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -257,52 +221,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-U.S. relations remain strained due to ongoing trade tensions, technology competition, and strategic rivalry over regional influence and Taiwan."
+      "summary": "China-US relations remain adversarial with ongoing competition over technology, trade, Taiwan, and geopolitical influence, though high-level diplomatic channels persist."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepening economic and military ties, particularly following Russia's isolation over Ukraine."
+      "summary": "China and Russia maintain a strategic partnership with deepening economic and military ties, though China maintains pragmatic distance on Ukraine."
     },
     {
       "country": "European Union",
-      "status": "Tense",
-      "summary": "EU-China relations are mixed, characterized by economic interdependence alongside growing concerns over human rights, technology security, and geopolitical competition."
+      "status": "Neutral",
+      "summary": "EU-China relations are mixed, balancing economic interdependence with growing strategic competition and concerns over human rights and unfair trade practices."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China maintains its claim of sovereignty over Taiwan and opposes independence movements, regularly conducting military exercises and diplomatic pressure against the island."
+      "summary": "China views Taiwan as a breakaway province and maintains military pressure while refusing to renounce force, creating the region's most volatile flashpoint."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan ties remain strained by historical disputes, territorial disagreements over the Senkaku Islands, and strategic competition in the East China Sea."
+      "summary": "China-Japan relations are strained by territorial disputes over the Senkaku Islands, historical grievances, and strategic competition in East Asia."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Relations deteriorated significantly following border clashes in 2020, with ongoing military tensions and territorial disputes in the Himalayan region."
+      "summary": "Border disputes and unresolved military clashes, coupled with strategic rivalry and India's alignment with the US, create persistent tension between the two nations."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain pragmatic economic and energy ties, with growing strategic partnership despite broader geopolitical differences."
+      "summary": "China maintains strong energy and economic ties with Saudi Arabia while supporting its regional interests, though without deep strategic alignment."
     },
     {
       "country": "Philippines",
-      "status": "Neutral",
-      "summary": "Relations are mixed, with economic cooperation and China's Belt and Road investments balanced against South China Sea territorial disputes and occasional military confrontations."
+      "status": "Tense",
+      "summary": "Disputes over the South China Sea and Chinese assertiveness in waters claimed by the Philippines create friction, despite Manila's attempts at diplomatic balance."
     },
     {
       "country": "Brazil",
-      "status": "Cooperative",
-      "summary": "China-Brazil relations are economically robust, centered on trade and investment, though some concerns exist regarding natural resource extraction and political alignment."
+      "status": "Neutral",
+      "summary": "China and Brazil have significant trade relationships and maintain pragmatic cooperation, though Brazil increasingly balances this with concerns over Chinese influence."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Relations remain strained following Australia's security concerns, trade restrictions by China, and alignment with Western allies on China policy issues."
+      "summary": "Relations have deteriorated since 2020 due to Chinese trade sanctions, espionage concerns, and Australia's alignment with the US on regional security issues."
     }
   ]
 }
