@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-09-21",
+      "articles": [
+        {
+          "headline": "Beijing Opposes $14 Billion U.S. Taiwan Arms Sale",
+          "brief": "China is pressuring President Trump to block a proposed $14 billion weapons sale to Taiwan, while Taiwan argues its security strengthens U.S. interests in the region. The dispute highlights ongoing tensions over U.S. military support for the island, which Beijing views as interference in its internal affairs. This disagreement could strain the already fragile U.S.-China relationship.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/09/21/world/asia/china-trump-taiwan-arms-sales.html",
+          "published": "Mon, 21 Sep 2026 14:47:07 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Former PLA Commander Expelled from Party on Corruption Charges",
+          "brief": "Zhang Youxia, the People's Liberation Army's former top uniformed commander, has been accused of accepting exceptionally large bribes and expelled from the Communist Party. The corruption investigation suggests potential instability within China's military leadership and reflects ongoing anti-corruption efforts within the PLA's senior ranks.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/09/21/world/asia/china-generals-expelled-corruption.html",
+          "published": "Mon, 21 Sep 2026 13:03:06 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Taiwan reinforces AI defenses against Chinese election interference",
+          "brief": "Taiwan is strengthening artificial intelligence-based defenses in response to concerns that Beijing may deploy AI-generated deepfakes, fake audio recordings, and targeted voter manipulation during upcoming elections. Security experts assess that China could leverage these technologies to influence electoral outcomes and sow disinformation. The development reflects growing concerns among Taiwan's leadership about cognitive warfare threats posed by Beijing's technological capabilities.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/",
+          "published": "Mon, 31 Aug 2026 20:38:10 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China-Pakistan border agreement escalates regional tensions with India",
+          "brief": "China and Pakistan have concluded a new border pact that challenges India's territorial claims, particularly regarding the disputed Kashmir region. The agreement deepens strategic concerns for India by strengthening the China-Pakistan alliance and potentially altering the regional balance of power. This development signals increased coordination between Beijing and Islamabad on territorial matters that directly affect Indian security interests.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cqe9e4vjx1e5o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 20 Sep 2026 23:09:04 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong court convicts vigil organizers of subversion charges",
+          "brief": "A Hong Kong court has convicted two former leaders of the group that organized annual candlelight vigils commemorating the 1989 Tiananmen Square incident on charges of inciting subversion. The verdict represents a significant escalation in restrictions on historical commemoration and political expression in Hong Kong, with implications for civil liberties and Beijing's control over sensitive historical narratives. This action signals intensified enforcement against activities deemed to challenge state authority or collective memory.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/08/25/hkaspdmc-hong-kong-china-subversion/",
+          "published": "Tue, 25 Aug 2026 19:50:59 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US and China hold AI safety talks before Trump-Xi summit",
+          "brief": "Senior US and Chinese officials met in New York to discuss artificial intelligence safety protocols in advance of a planned Trump-Xi summit. The talks represent diplomatic engagement on AI governance, a critical technology area with significant economic and strategic implications. The discussions signal both nations' recognition of AI's importance to future competition and the need for baseline safety frameworks.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 21 Sep 2026 05:50:56 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "U.S.-China tensions persist despite potential Trump-Xi diplomatic engagement",
+          "brief": "The article argues that personal summits between U.S. and Chinese leaders cannot resolve fundamental structural tensions in the U.S.-China relationship. It suggests that underlying economic and geopolitical conflicts continue to escalate regardless of diplomatic overtures, indicating that personalist approaches have inherent limitations in addressing systemic rivalry.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell",
+          "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Developing Cyber Capabilities Targeting Digital Infrastructure",
+          "brief": "China is advancing cyberwarfare strategies focused on exploiting digital chokepoints in global infrastructure and supply chains. This represents a shift toward leveraging economic vulnerabilities rather than traditional military approaches. The implications suggest increased risk to critical digital systems and potential economic disruption during future conflicts.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/new-chinese-way-cyberwar-ai",
+          "published": "Tue, 15 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Xi Jinping's US visit demonstrates leadership ahead of political reshuffle",
+          "brief": "Chinese President Xi Jinping's upcoming visit to Washington will serve as a platform to display his leadership authority among China's political elite. The visit occurs ahead of a major political reshuffle scheduled for next year, suggesting the trip carries domestic political significance beyond bilateral US-China relations. The timing indicates Xi may be consolidating power and influence within China's leadership structure through high-profile diplomatic engagement.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/",
+          "published": "Sat, 19 Sep 2026 02:00:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea Opens New Border Crossings with China and Russia",
+          "brief": "North Korea is preparing to open two new border crossings with China and Russia, signaling deepening trilateral cooperation among the three nations. Experts assess these infrastructure developments as indicative of closer economic and strategic alignment, particularly relevant given current geopolitical tensions in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/",
+          "published": "Fri, 04 Sep 2026 19:39:19 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Concept",
+          "brief": "China is advancing an 'Internet sovereignty' initiative aimed at establishing national control as a key principle for global Internet governance. This approach represents a significant shift from the current international Internet framework and has implications for data control, cybersecurity policies, and China's strategic influence over digital infrastructure standards worldwide.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China's Party Discipline System Maintains Political Control",
+          "brief": "China's internal discipline mechanisms have proven effective in sustaining Communist Party authority and cohesion despite economic pressures and governance challenges. The system's design enables the party to address internal corruption and dissent while maintaining organizational stability. This structural resilience has implications for China's political continuity and policy implementation capacity.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-purges-are-working-designed",
+          "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Trump-Xi summit offers opportunity to manage trade tensions",
+          "brief": "A forthcoming Trump-Xi summit presents Washington with an opportunity to negotiate on trade issues and secure time for policy adjustments. China maintains strategic economic importance to the United States despite ongoing tensions, suggesting potential for diplomatic engagement on bilateral economic matters. The summit signals both sides recognize mutual interests in stabilizing economic relations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-still-has-what-america-needs",
+          "published": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Fed rate hike may widen China's economic disparities",
+          "brief": "The US Federal Reserve raised interest rates by 25 basis points to combat inflation, with expectations for additional increases this year. Higher US rates could exacerbate economic divisions within China by affecting capital flows and creating uneven impacts across different sectors and regions of the Chinese economy.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/economy/policy/article/3367858/fed-rate-hike-risks-worsening-chinas-economic-divide?utm_source=rss_feed",
+          "published": "Thu, 17 Sep 2026 09:00:41 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US Fed Raises Rates; Global Markets React to New Monetary Policy",
+          "brief": "The US Federal Reserve unanimously raised its benchmark interest rate by 25 basis points to 3.75-4.0 percent, marking the first rate increase since 2023, with the Hong Kong Monetary Authority and Bank of Japan following suit. The 10-year US Treasury yield subsequently fell below 5 percent, reflecting market adjustments to the new monetary policy environment. These coordinated rate adjustments signal significant implications for global capital flows and China's export competitiveness in international markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3367978/us-fed-rates-chinas-global-export-share-4-figures-shaping-markets?utm_source=rss_feed",
+          "published": "Fri, 18 Sep 2026 07:00:23 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Philippine maritime claims gain public attention amid South China Sea tensions",
+          "brief": "A viral moment has increased awareness of the Philippines' legally-backed maritime claims in the South China Sea, though experts indicate this heightened visibility is unlikely to produce immediate diplomatic or territorial concessions. The incident underscores persistent tensions in the disputed region while the fundamental geopolitical status quo remains unchanged. The development reflects ongoing efforts by Manila to assert its legal position against competing claims in strategically important waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/",
+          "published": "Thu, 17 Sep 2026 00:41:40 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Allegedly Influences Solomon Islands No Confidence Vote",
+          "brief": "Experts assess that China may have orchestrated or supported a no confidence motion against Solomon Islands Prime Minister Matthew Wale, reflecting broader regional power competition in the Pacific. The alleged interference demonstrates how great power rivalries are increasingly manifesting through domestic political instability in strategically important island nations. This development has implications for regional stability and the balance of influence between China and traditional Western powers in the Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
+          "published": "Wed, 02 Sep 2026 21:43:05 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong launches five-year plan to strengthen financial hub status",
+          "brief": "Hong Kong has unveiled its first five-year economic development plan aimed at expanding equity markets, deepening offshore yuan operations, and increasing gold trading to maintain its position as Asia's leading financial centre and compete with London. The initiative represents an effort to consolidate Hong Kong's international financial standing amid regional competition. This strategic focus on market infrastructure and capital attraction carries significant implications for regional financial flows and China's broader economic integration objectives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3367816/how-hong-kongs-new-5-year-plan-courts-global-capital-eye-market-dominance?utm_source=rss_feed",
+          "published": "Thu, 17 Sep 2026 07:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong Exchange Fund considers increased gold holdings",
+          "brief": "Hong Kong's Exchange Fund is evaluating greater exposure to gold and precious metals to support the government's strategy to establish Hong Kong as a gold trading hub. The HKMA reaffirmed that the Fund will maintain its primary focus on US dollar assets to preserve the Hong Kong dollar's currency peg. This diversification reflects Hong Kong's efforts to expand its financial trading capabilities while maintaining currency stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3367814/exchange-fund-weighs-bigger-gold-holdings-support-hong-kongs-trading-hub-plan?utm_source=rss_feed",
+          "published": "Thu, 17 Sep 2026 06:00:14 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Foreign business chambers endorse Hong Kong five-year plan with conditions",
+          "brief": "Hong Kong's Chief Executive John Lee briefed foreign consuls and business chamber representatives on the territory's five-year development plan, which received qualified support as a framework for strategic planning. However, foreign business leaders requested more concrete timelines and visible progress on the Northern Metropolis infrastructure project to justify continued investment in Hong Kong. This reflects foreign investors' need for tangible implementation signals to maintain confidence in Hong Kong's economic competitiveness.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3368284/foreign-chambers-back-hong-kong-5-year-plan-urge-progress-northern-metropolis?utm_source=rss_feed",
+          "published": "Mon, 21 Sep 2026 13:05:09 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "US Rate Hike Pressures Hong Kong Dollar Exchange Rate",
+          "brief": "The Hong Kong Monetary Authority warned that US Federal Reserve rate increases will widen interest rate differentials between US and Hong Kong dollars, potentially pressuring the Hong Kong dollar's exchange rate. Despite this currency pressure, HKMA officials stated Hong Kong's financial system does not face elevated bad-debt risks despite higher borrowing costs. The assessment reflects concerns about capital flows and currency stability in Hong Kong's fixed exchange rate regime.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3367783/hkma-raises-base-rate-quarter-point-425-first-increase-2023?utm_source=rss_feed",
+          "published": "Wed, 16 Sep 2026 23:03:43 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 21,
+        "high_priority": 5,
+        "by_category": {
+          "economy": 10,
+          "military": 3,
+          "foreign_relations": 8
+        },
+        "updated_at": "2026-09-21T16:05:28.578481Z"
+      }
+    },
+    {
       "date": "2026-09-20",
       "articles": [
         {
@@ -20704,202 +20972,6 @@
           "military": 1
         },
         "updated_at": "2026-06-23T17:25:24.258560Z"
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "articles": [
-        {
-          "headline": "Economic Coercion Could Enable China to Achieve Taiwan Objectives",
-          "brief": "Analysis suggests China may pursue economic rather than military means to achieve political objectives regarding Taiwan, potentially exploiting uncertainty in U.S. commitment under current leadership. Economic leverage through trade, investment restrictions, or financial pressure could prove effective if U.S. security guarantees appear inconsistent. This represents a significant shift in potential coercion strategy with implications for regional stability and U.S.-China competition.",
-          "category": "economy",
-          "severity": "high",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting",
-          "published": "Mon, 22 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Xi's Military Confidence May Drive Taiwan Invasion Timeline",
-          "brief": "Analysis indicates that Chinese leader Xi Jinping's confidence in military capabilities, rather than purely technical capacity, may be the determining factor in potential military action against Taiwan. The 'Xi Window' concept suggests that Beijing's leadership perception of readiness could prove more significant than objective military capability assessments in shaping cross-strait military scenarios.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/when-the-davidson-window-meets-the-xi-window/",
-          "published": "Fri, 19 Jun 2026 22:33:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China and Russia Advance Quantum Computing Threats to Encryption",
-          "brief": "China and Russia are reportedly collecting encrypted data and making progress toward developing quantum computing capabilities that could decrypt currently secured communications. This development poses significant risks to national security, military communications, and sensitive economic data across affected nations. The threat represents a critical vulnerability window as adversaries work to break encryption standards that currently protect classified and proprietary information.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis",
-          "published": "Wed, 17 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "North Korea upgrades ports to accommodate larger naval destroyers",
-          "brief": "Satellite imagery indicates North Korea is expanding shipyard facilities as part of its five-year naval modernization program, according to expert analysis. The upgrades suggest capability to construct and deploy larger destroyer-class vessels, potentially enhancing North Korea's maritime operational reach. This development reflects Pyongyang's sustained effort to expand naval forces despite international sanctions.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "North Korea-Russia bridge construction nears completion",
-          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Expert analysis suggests Kim Jong Un's prioritization of the project reflects heightened enthusiasm for deepening cooperation with Moscow. The bridge's completion would enhance logistical capabilities and facilitate increased cross-border economic and military exchange.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
-          "published": "Thu, 21 May 2026 00:44:51 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China's South China Sea buildup may complicate Taiwan contingency response",
-          "brief": "Expert analysis suggests China's maritime infrastructure development in the South China Sea could potentially distract Taiwan's regional allies during a military conflict, though analysts assess this scenario as unlikely in actual wartime conditions. The buildup is assessed as linked to broader Taiwan strategy, with implications for regional security dynamics and allied coordination.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
-          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Southeast Asian nations attract foreign investment diverted from China",
-          "brief": "As multinational companies and investors implement de-risking strategies to reduce dependence on China, Southeast Asian countries are becoming alternative destinations for capital and manufacturing investment. The shift reflects broader geopolitical and economic concerns about concentration of supply chains and investment exposure to China. This reallocation has significant implications for regional economic power dynamics and China's economic influence in Southeast Asia.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/whos-winning-southeast-asias-de-risking-race/",
-          "published": "Mon, 22 Jun 2026 20:52:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "ECB President Calls for Dialogue on Chinese Yuan Valuation Issues",
-          "brief": "European Central Bank President Christine Lagarde has called for global discussions on the undervaluation of China's yuan currency, citing it as a contributor to global economic imbalances. China denies manipulating its currency, though its expanding trade surpluses remain a concern for G7 leaders alongside other macroeconomic imbalances. The dispute highlights tensions between major economies over currency valuation and trade competitiveness.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/china/money-wealth/article/3357971/european-central-banks-president-lagarde-urges-talks-yuan-undervaluation?utm_source=rss_feed",
-          "published": "Mon, 22 Jun 2026 18:13:40 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's Export Strategy May Limit Development Opportunities for Poorer Nations",
-          "brief": "According to Foreign Affairs, China's export policies are structured in ways that may restrict economic advancement for developing countries. The analysis suggests Beijing's approach to trade creates barriers that prevent lower-income nations from achieving comparable economic growth trajectories. This dynamic has significant implications for global development patterns and international economic competition.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it",
-          "published": "Thu, 18 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Analysis warns of Beijing misrepresenting diplomatic statements at summits",
-          "brief": "According to Radio Free Asia analysis, China has a pattern of misinterpreting statements by visiting dignitaries to suggest support for its domestic policies. The warning suggests potential risks of rhetorical distortion during high-level diplomatic engagements, particularly relevant to U.S.-China relations. This practice could complicate bilateral negotiations and create disputes over publicly stated positions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/05/12/trump-xi-china-meeting-uyghur/",
-          "published": "Tue, 12 May 2026 15:26:55 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China expresses concern over Nepal's closer U.S. engagement",
-          "brief": "Chinese analysts have criticized Nepal for prioritizing U.S. interests over China's concerns as a neighboring power, suggesting a strategic shift in Kathmandu's foreign policy alignment. This reflects Beijing's broader anxiety about losing geopolitical influence in the Hindu Kush-Himalayan region, a strategically significant area adjacent to Chinese territory. The development indicates potential realignment in Nepal's security partnerships away from traditional Chinese primacy.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/beijings-nepal-anxiety/",
-          "published": "Mon, 22 Jun 2026 16:59:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China Opens Onshore Markets to Qualified Foreign Companies",
-          "brief": "China announced plans to support qualified foreign-invested companies in listing on its domestic stock exchanges, marking a significant capital market liberalization measure. The policy aims to attract foreign direct investment back to China's economy by streamlining listing procedures through improved communication services between exchanges and prospective applicants. This move signals Beijing's commitment to further opening its financial markets amid efforts to reverse recent capital outflows.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3357888/china-back-qualified-foreign-firms-listing-domestic-markets?utm_source=rss_feed",
-          "published": "Mon, 22 Jun 2026 06:16:00 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese Foreign Minister Wang Yi Discusses US-China Relations",
-          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China bilateral relations. The forum provided a platform for the senior Chinese diplomat to present Beijing's perspective on key diplomatic and strategic issues.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "China's CCP Classifies Christianity as Cult Requiring Suppression",
-          "brief": "The Chinese Communist Party has officially categorized Christianity as a cult based on fundamental theological tenets, implementing policies for vigorous suppression. This religious persecution reflects Beijing's broader efforts to control ideological narratives and social organizations outside party authority. The classification has implications for religious freedom, international relations with Christian-majority nations, and China's domestic social stability.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/in-china-christianity-is-treated-as-a-cult/",
-          "published": "Fri, 19 Jun 2026 21:47:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Solomon Islands' new PM signals potential shift away from China",
-          "brief": "Matthew Wale's appointment as Solomon Islands prime minister is expected to represent a strategic reorientation toward Australia, with analysts characterizing him as more moderate and less enthusiastic about China than his predecessors. This leadership transition could significantly alter the Pacific nation's geopolitical alignment and diminish Beijing's influence in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/05/15/solomon-islands-matthew-wale-prime-minister-election/",
-          "published": "Fri, 15 May 2026 22:53:07 +0000",
-          "raw_source": "Radio Free Asia"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 5,
-        "articles_total": 15,
-        "high_priority": 3,
-        "by_category": {
-          "economy": 5,
-          "military": 3,
-          "foreign_relations": 7
-        },
-        "updated_at": "2026-06-22T20:25:50.592990Z"
       }
     }
   ]
