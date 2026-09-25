@@ -1,128 +1,128 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "metrics": {
     "sources_scanned": 6,
-    "articles_total": 18,
-    "high_priority": 3,
+    "articles_total": 22,
+    "high_priority": 5,
     "by_category": {
+      "foreign_relations": 15,
       "economy": 5,
-      "military": 3,
-      "foreign_relations": 10
+      "military": 2
     },
-    "updated_at": "2026-09-24T14:31:43.856762Z"
+    "updated_at": "2026-09-25T14:51:54.881390Z"
   },
   "articles": [
     {
-      "headline": "U.S. maintains Taiwan deterrence capabilities despite ambiguity messaging",
-      "brief": "Despite apparent signals of reduced U.S. commitment to Taiwan, the United States continues substantive investments in military capabilities designed to deter Chinese military action. The article argues that surface-level indications of strategic ambiguity represent policy messaging rather than substantive abandonment of Taiwan defense commitments. This suggests continued U.S. resolve to maintain cross-strait stability through capability development.",
+      "headline": "Analysis Warns of Potential Taiwan Crisis Requiring Preparedness",
+      "brief": "A Foreign Affairs analysis cautions that current relative stability across the Taiwan Strait should be leveraged to prepare for potential future conflict. The article suggests policymakers use the present period to develop contingency plans and strengthen resilience against possible escalation. The assessment implies significant economic and geopolitical risks associated with potential Taiwan-related instability.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+      "published": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "US-China Leadership Meeting Addresses Bilateral Relations",
+      "brief": "Senior leaders from the United States and China held a high-level meeting to discuss bilateral relations and geopolitical issues. The meeting represents a significant diplomatic engagement between the world's two most powerful nations. The outcomes and agreements reached will likely influence U.S.-China military, economic, and diplomatic posture going forward.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 01:27:10 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "F-35 Fighter Components Reportedly Diverted to Hong Kong",
+      "brief": "Advanced F-35 fighter jet components were reportedly redirected to Hong Kong, raising concerns about potential unauthorized access to sensitive U.S. military technology by foreign intelligence services. The incident highlights supply chain vulnerabilities for critical defense systems and the risks posed by treating highly classified military components as commercial products.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
-      "published": "Wed, 23 Sep 2026 23:08:00 +0900",
+      "original_link": "https://thediplomat.com/2026/09/delivered-to-the-wrong-address-f-35-parts-re-routed-to-hong-kong/",
+      "published": "Thu, 24 Sep 2026 21:15:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Trump and Xi Meet in Washington to Address Strategic Issues",
-      "brief": "President Trump and Chinese leader Xi Jinping are meeting on U.S. soil in Washington DC to discuss bilateral relations and strategic concerns. The meeting represents a significant diplomatic engagement between the world's two largest economies during a period of heightened geopolitical tensions. Key areas likely under discussion include trade, military posturing, and regional security concerns in the Indo-Pacific region.",
+      "headline": "Hong Kong activist Joshua Wong pleads guilty to foreign collusion charges",
+      "brief": "Joshua Wong, a prominent Hong Kong pro-democracy activist, has pleaded guilty to charges of foreign collusion under the National Security Law. Legal experts indicate he will likely serve additional prison time beyond his current sentence ending in January, underscoring Beijing's continued enforcement of security legislation against Hong Kong dissidents and potentially escalating tensions with international observers of Hong Kong freedoms.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "BBC News"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 11:00:09 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://rfa.org/english/china/2026/09/02/joshua-wong-guilty-plea-hong-kong-national-security-law/",
+      "published": "Wed, 02 Sep 2026 18:13:07 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Expands Data Centre Infrastructure to Advance AI Capabilities",
-      "brief": "China is constructing multiple data centres in Inner Mongolia to support its artificial intelligence development ambitions. The infrastructure expansion reflects Beijing's strategic commitment to achieving global AI leadership. Enhanced computational capacity could accelerate China's advancement in AI technologies with potential military and civilian applications.",
-      "category": "military",
+      "headline": "China reports 43 dead in Tibet-Nepal border mudslide",
+      "brief": "China confirmed 43 deaths from an August 26 mudslide on the Nepal-Tibet border, though local Tibetan residents report significantly higher casualties of at least 26 in a single village, suggesting potential underreporting. Thousands remain missing in the aftermath of the disaster. The discrepancy between official and local casualty figures raises questions about information transparency in the affected region.",
+      "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "BBC News"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:03:48 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://rfa.org/english/tibet/2026/09/07/tibet-gyirong-nepal-glacier-death-toll/",
+      "published": "Mon, 07 Sep 2026 19:12:16 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "US and China intensify competition for artificial intelligence dominance",
-      "brief": "The United States and China are engaged in strategic competition to achieve AI supremacy while both emphasize the importance of maintaining human control over AI systems. This rivalry reflects broader technological and economic competition between the two powers, with significant implications for global economic leadership and technological standards. The face-to-face engagement between Trump and Xi suggests escalating diplomatic attention to AI as a critical economic and strategic asset.",
+      "headline": "Summit Diplomacy Limited in Addressing U.S.-China Economic Tensions",
+      "brief": "An analysis of U.S.-China relations suggests that personal diplomatic engagement between leaders has inherent limitations in resolving structural economic conflicts. The article argues that summit-level meetings cannot overcome the deeper systemic drivers of U.S.-China competition, indicating sustained economic friction despite diplomatic efforts.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell",
+      "published": "Wed, 16 Sep 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "China's Xi Receives Diplomatic Reception but Limited Concessions",
+      "brief": "Chinese President Xi Jinping received a formal diplomatic welcome but failed to achieve substantive progress on Beijing's priority issues including trade, technology access, and Taiwan policy. The limited outcomes suggest continued U.S.-China strategic competition despite diplomatic engagement, with implications for technology decoupling and cross-strait tensions.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
         "BBC News"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 23 Sep 2026 22:01:17 GMT",
+      "original_link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 25 Sep 2026 03:57:09 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "Taiwan Conducts Disaster Drill With Implicit Military Preparedness Focus",
-      "brief": "Taiwan's 2024 natural disaster exercise was designed to test governmental resilience against cascading system failures, with implications extending beyond earthquake preparedness to potential conflict scenarios. The drill's focus on multisystem stress-testing suggests Taiwan is integrating civil defense readiness with military contingency planning.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/in-taiwan-a-disaster-exercise-prepares-for-conflict-too/",
-      "published": "Wed, 23 Sep 2026 21:29:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China implements tech export controls affecting Taiwan visitors",
-      "brief": "China has launched new exit regulations designed to protect technology secrets, with analysts attributing the move to escalating artificial intelligence competition with the United States. The rules may inadvertently strand Taiwanese visitors by restricting their departure if deemed to possess sensitive technology information. This regulatory shift reflects Beijing's broader strategy to safeguard advanced technology amid U.S.-China technological rivalry.",
+      "headline": "Tibetan activists protest Xi's Washington visit over rights concerns",
+      "brief": "Tibetan activists organized protests during Chinese President Xi Jinping's Washington visit to draw attention to China's ethnic unity law and human rights practices. The demonstrations, estimated to include thousands of participants, highlight ongoing international scrutiny of Beijing's policies in Tibet. The protests underscore tensions between China and diaspora communities regarding ethnic minority governance during high-level diplomatic engagement.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
-      "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+      "original_link": "https://rfa.org/english/tibet/2026/09/24/tibet-protest-xi-jinping-china-washington-trump-photos/",
+      "published": "Thu, 24 Sep 2026 17:48:17 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Philippine maritime claims gain public attention but lack enforcement",
-      "brief": "A viral moment has increased international awareness of the Philippines' legally-backed maritime claims in the South China Sea dispute. However, experts caution that heightened public attention is unlikely to produce concrete diplomatic or legal outcomes that alter the existing regional status quo. The incident highlights the persistent gap between legal legitimacy and practical enforcement capabilities in South China Sea territorial disputes.",
+      "headline": "Xi Jinping receives unusual diplomatic protocol during Trump summit",
+      "brief": "Chinese President Xi Jinping was greeted with a reception that deviated from standard U.S. State Visit protocol at the White House. The non-standard greeting suggests a shift in diplomatic engagement between the United States and China. This departure from established protocol may indicate evolving bilateral relations and negotiating dynamics between the two powers.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/",
-      "published": "Thu, 17 Sep 2026 00:41:40 +0000",
+      "original_link": "https://rfa.org/english/china/2026/09/23/trump-xi-jinping-arrival-pictures/",
+      "published": "Wed, 23 Sep 2026 23:10:31 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "US and China extend trade truce during Xi's state visit",
-      "brief": "Chinese President Xi Jinping received a warm welcome from US leadership during his visit, during which the US Treasury Secretary announced an agreement to extend the existing trade truce between the two nations. The extension of trade negotiations signals continued diplomatic engagement between the world's two largest economies on economic matters. This development suggests both countries are prioritizing sustained dialogue to manage their trade relationship.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 24 Sep 2026 03:52:21 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Families Appeal to Trump Administration to Secure Americans' Release from China",
-      "brief": "Two Americans detained in China\u2014U Min Zin, a Myanmar scholar, and Youlin Chen, a seismologist specializing in North Korean nuclear research\u2014remain in custody while their families petition the Trump administration for intervention. The detention of a researcher focused on North Korean nuclear capabilities represents a potential intelligence concern and reflects ongoing U.S.-China tensions over sensitive research access. The case highlights diplomatic leverage points in bilateral relations and raises questions about the security protocols surrounding American researchers in sensitive fields operating in China.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/09/24/world/asia/china-xi-trump-detained-americans.html",
-      "published": "Thu, 24 Sep 2026 09:54:05 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "Uyghur and Tibetan groups seek human rights discussion at Xi-Trump summit",
-      "brief": "Exile advocacy groups representing Uyghurs and Tibetans are pressing for human rights discussions during Xi Jinping's visit to Washington, specifically requesting talks on religious freedom and allegations of genocide. The summit presents a potential diplomatic opportunity to raise these contentious issues that have been sources of tension in U.S.-China relations.",
+      "headline": "Uyghur, Tibetan Groups Seek Human Rights Agenda During Xi Visit",
+      "brief": "Exile advocacy organizations are pressing the Trump administration to address human rights concerns, including religious freedom and alleged genocide, during Xi Jinping's Washington summit. The groups' activism highlights ongoing tensions between U.S.-China relations and international human rights advocacy, potentially influencing diplomatic discussions.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -133,100 +133,148 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Uyghur advocate criticizes China's human rights 'red lines' before Trump summit",
-      "brief": "Rebiya Kadeer, a prominent Uyghur rights advocate, has publicly criticized China's warnings against discussing human rights issues ahead of a planned Trump-Xi summit, characterizing such warnings as inconsistent with strength. The statement reflects ongoing tensions between Chinese government positions on Xinjiang-related human rights concerns and international advocacy groups, potentially complicating diplomatic discussions.",
+      "headline": "China implements tech export controls with potential impact on Taiwan travel",
+      "brief": "China has launched new exit regulations designed to protect technology secrets, particularly in artificial intelligence development. Analysts assess these measures reflect escalating technological competition with the United States. The regulations could restrict Taiwanese visitors' ability to leave China, signaling Beijing's prioritization of tech security over cross-strait mobility.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/uyghur/2026/09/23/uyghur-xi-trump-china-summit-human-rights/",
-      "published": "Wed, 23 Sep 2026 21:18:38 +0000",
+      "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
+      "published": "Tue, 22 Sep 2026 22:02:30 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Trump-Xi Summit Expected to Show Limited Progress on Key Issues",
-      "brief": "An upcoming Trump-Xi summit is anticipated to yield minimal breakthroughs on trade, Taiwan, and technology policy\u2014the three primary areas of U.S.-China contention. The limited expected progress suggests continued strategic competition between the two powers across economic, security, and technological domains.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/3-ts-will-dominate-the-trump-xi-summit/",
-      "published": "Wed, 23 Sep 2026 00:58:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "US faces tradeoff between AI safety and China cooperation",
-      "brief": "The United States confronts a strategic dilemma regarding AI development: maintaining its own AI research pace while potentially constraining China's advancement could undermine near-term diplomatic negotiations. Washington must balance competing priorities of technological leadership, safety concerns, and diplomatic engagement during high-level discussions with Chinese leadership.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/09/americas-ai-safety-dilemma-and-at-the-trump-xi-summit/",
-      "published": "Tue, 22 Sep 2026 23:35:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Saudi Arabia exits China-led mBridge digital currency platform",
-      "brief": "Saudi Arabia has withdrawn from mBridge, a multilateral central bank digital currency platform led by China that was positioned as an alternative to US dollar-based payment systems. While analysts characterize the withdrawal as more symbolically than operationally significant, it reflects ongoing geopolitical pressures on countries seeking alternatives to dollar-denominated financial infrastructure. The exit may signal challenges to China's efforts in establishing competing payment systems amid global de-dollarization trends.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/economy/policy/article/3368241/what-saudi-arabias-exit-means-china-led-mbridge-amid-global-de-dollarisation?utm_source=rss_feed",
-      "published": "Tue, 22 Sep 2026 03:00:06 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong regulators detail yuan development strategy following Beijing meetings",
-      "brief": "Beijing and Hong Kong are advancing a new phase of offshore yuan development as part of Hong Kong's first five-year plan, with banking and securities regulators preparing to release detailed implementation strategies. The Securities and Futures Commission and Hong Kong Monetary Authority are expected to provide specifics on Wednesday. This initiative signals coordination between mainland and Hong Kong authorities to strengthen the city's role in international yuan operations.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3368367/hong-kong-regulators-flesh-out-new-yuan-strategy-after-beijing-meetings?utm_source=rss_feed",
-      "published": "Tue, 22 Sep 2026 09:30:07 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China rapidly expands data centre infrastructure to advance AI capabilities",
-      "brief": "China is constructing large-scale data centres in Inner Mongolia at accelerated pace to support its artificial intelligence development, directly competing with U.S. technological advancement. The infrastructure investment underscores Beijing's strategic prioritization of AI as a critical technology for both economic and potential military applications. This expansion represents a significant effort to close the technological gap with the United States in computing infrastructure necessary for AI systems.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 22:04:31 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Hong Kong prepares security measures for October Apec finance ministers meeting",
-      "brief": "Hong Kong will host the Apec Finance Ministers' Meeting on October 20-21, 2024, implementing comprehensive security arrangements including contingency plans for terrorist attacks and cyberattacks. The event will bring approximately 500 international finance ministers and officials to the Hong Kong Convention and Exhibition Centre. The security preparations underscore China's commitment to hosting major multilateral economic forums while managing potential security risks.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/article/3368612/hong-kong-vows-safe-apec-meeting-plans-terror-and-cyberattack-threats?utm_source=rss_feed",
-      "published": "Thu, 24 Sep 2026 06:24:47 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "China allegedly involved in Solomon Islands prime minister no-confidence vote",
-      "brief": "Experts believe China may have influenced a no-confidence motion against Solomon Islands Prime Minister Matthew Wale, reflecting broader regional power competition in the Pacific. The incident demonstrates how great power rivalries are increasingly manifesting in domestic political instability within strategically important nations in the region.",
+      "headline": "Xi Jinping's US visit demonstrates leadership stability ahead of reshuffle",
+      "brief": "Chinese President Xi Jinping's upcoming visit to Washington will serve as a display of his political authority within China's elite leadership circles. The visit precedes a major political reorganization scheduled for the following year, suggesting the trip functions as both a diplomatic engagement and an internal consolidation of power. This timing indicates Xi aims to project strength and stability in foreign relations concurrent with anticipated domestic leadership changes.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/pacific/2026/09/02/solomon-islands-no-confidence-wale/",
-      "published": "Wed, 02 Sep 2026 21:43:05 +0000",
+      "original_link": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/",
+      "published": "Sat, 19 Sep 2026 02:00:32 +0000",
       "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Philippine maritime claims gain visibility amid South China Sea tensions",
+      "brief": "A viral moment has increased public awareness of the Philippines' legally-backed maritime claims in the South China Sea disputed waters. However, experts assess that heightened visibility is unlikely to produce immediate concrete diplomatic or territorial results. The incident underscores persistent tensions in the region while the underlying territorial status quo remains unchanged.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/09/17/philippines-china-teodoro-note-rebuke/",
+      "published": "Thu, 17 Sep 2026 00:41:40 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "North Korea Opens New Border Crossings with China and Russia",
+      "brief": "North Korea is preparing to open two new border crossings with China and Russia, signaling deepening trilateral cooperation among the three nations. Experts assess these infrastructure developments as indicative of strengthened economic and political ties, potentially expanding trade and coordinating regional policies. The crossings represent a significant shift in North Korea's engagement with its major allies amid ongoing international sanctions.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/korea/2026/09/04/north-korea-bridge-china-russia-tumen-yalu/",
+      "published": "Fri, 04 Sep 2026 19:39:19 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Hong Kong to launch yuan trading counter by July 2025",
+      "brief": "Hong Kong's Securities and Futures Commission announced plans to establish a yuan trading counter within a cross-border investment channel by July 1, 2025, supporting Beijing's currency internationalization strategy. This initiative aligns with Hong Kong's five-year development plan and represents incremental progress toward expanding offshore yuan usage and financial integration with mainland China.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3368537/hong-kong-sets-yuan-trading-timeline-backing-beijings-push-boost-currencys-use?utm_source=rss_feed",
+      "published": "Wed, 23 Sep 2026 11:49:14 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong expands yuan internationalisation with gold futures, digital initiatives",
+      "brief": "Hong Kong Exchanges and Clearing will launch yuan-denominated gold futures in early 2024, while Hong Kong's monetary authority plans to introduce additional yuan products and platforms to support currency diversification and digitalization. These measures represent the next phase of Beijing's strategy to increase global adoption and usage of the yuan as an international reserve currency.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3368483/hong-kong-unveils-gold-bond-and-liquidity-plans-drive-next-phase-yuan-adoption?utm_source=rss_feed",
+      "published": "Wed, 23 Sep 2026 09:00:25 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+      "brief": "China is advancing 'Internet sovereignty' as a key governing concept for the global Internet, according to CSIS analysis. This initiative represents China's effort to reshape international norms around digital governance and reduce external influence over its information systems. The promotion of Internet sovereignty has significant implications for global cybersecurity frameworks and international competition over digital governance standards.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Hong Kong banks close 40% of branches amid digitalization shift",
+      "brief": "Hong Kong's licensed banks have reduced physical branch locations by 40 percent to approximately 900 from 1,500 in recent years, despite maintaining a stable number of banking institutions around 150. The decline reflects a broader industry shift toward digital banking services, as customers increasingly conduct transactions online rather than visiting physical locations. This structural change has significant implications for retail banking accessibility and employment in Hong Kong's financial services sector.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3368820/why-hong-kong-banks-have-shut-down-40-branches-recent-years?utm_source=rss_feed",
+      "published": "Fri, 25 Sep 2026 10:01:50 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China's Party Discipline System Maintains Internal Control",
+      "brief": "China's Communist Party employs a systematic approach to internal purges that has proven effective in maintaining party cohesion and organizational stability. The discipline mechanisms serve as a structural tool for preventing factional challenges and ensuring leadership compliance. This institutional framework represents a significant factor in the party's organizational resilience.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/chinas-purges-are-working-designed",
+      "published": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "Chinese Foreign Minister Wang Yi discusses US-China relations at CSIS forum",
+      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and bilateral US-China relations in February 2016. The forum provided a high-level platform for the PRC to articulate its strategic positions on key diplomatic issues to American policymakers and analysts.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Priorities",
+      "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The event reflects ongoing U.S. focus on regional military engagement and strategic positioning in Asia.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+      "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Japan Attempts Pre-emptive Diplomacy Ahead of Trump-Xi Summit",
+      "brief": "Japanese Prime Minister Takaichi communicated Tokyo's strategic concerns to President Trump prior to his meeting with Chinese President Xi Jinping in Washington. The diplomatic initiative reflects Japan's effort to influence the bilateral U.S.-China discussions on issues affecting regional security and stability. Japan's proactive engagement suggests concerns about potential U.S.-China agreements that could impact Tokyo's security interests.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/09/takaichis-pre-emptive-diplomacy-what-japan-needs-from-the-trump-xi-summit/",
+      "published": "Thu, 24 Sep 2026 21:43:00 +0900",
+      "raw_source": "The Diplomat"
     }
   ],
   "deep_dive": {
@@ -245,52 +293,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-U.S. relations remain strained by trade disputes, technology competition, and strategic rivalry over Taiwan and regional influence."
+      "summary": "China-US relations remain strained by trade tensions, technology competition, and disagreements over Taiwan, though both maintain diplomatic channels and some economic interdependence."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership based on shared interests in countering Western influence, though with lingering historical caution."
+      "summary": "China and Russia maintain a strategic partnership with deepening energy ties, military cooperation, and coordinated positions on international issues, though each maintains independent interests."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are pragmatic but increasingly cautious, balancing economic engagement with growing concerns over human rights, market access, and geopolitical alignment."
+      "summary": "EU-China relations are mixed, combining significant economic interdependence with growing concerns over human rights, intellectual property, and strategic autonomy, resulting in selective engagement and competition."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure while refusing to renounce force, creating a fundamentally adversarial relationship."
+      "summary": "China views Taiwan as a renegade province and refuses to renounce military options for reunification, while Taiwan maintains de facto independence and democratic governance."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "Japan-China relations are marked by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
+      "summary": "China-Japan relations are marked by historical grievances, territorial disputes over the Senkaku Islands, strategic competition, and periodic diplomatic tensions despite significant economic ties."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, military clashes, and strategic rivalry make India-China relations contentious despite economic interdependence and diplomatic engagement."
+      "summary": "China-India relations remain strained by unresolved border disputes, military confrontations in Ladakh, strategic competition in Asia, and mutual suspicion despite trade relations."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain strong economic ties centered on energy trade and investment, with limited geopolitical friction."
+      "summary": "China and Saudi Arabia maintain cooperative relations centered on energy trade, investment partnerships, and alignment on Middle Eastern stability, with China becoming a major importer of Saudi oil."
     },
     {
       "country": "Philippines",
-      "status": "Tense",
-      "summary": "Relations oscillate between pragmatic engagement and tension over South China Sea territorial disputes and the presence of Chinese maritime assets."
+      "status": "Neutral",
+      "summary": "Philippines-China relations fluctuate between cooperation on trade and investment and tensions over South China Sea territorial claims and maritime disputes."
     },
     {
       "country": "Brazil",
-      "status": "Neutral",
-      "summary": "Brazil-China relations are primarily transactional and economic, with China as a major trading partner, though limited strategic alignment."
+      "status": "Cooperative",
+      "summary": "China-Brazil relations are characterized by strong economic ties, significant Chinese investment, trade in commodities and manufactured goods, and general diplomatic cooperation."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations have deteriorated significantly due to security concerns, trade disputes, and Australia's alignment with Western security partnerships."
+      "summary": "Australia-China relations have deteriorated significantly due to trade restrictions, national security concerns, criticism of Chinese policies, and Australia's alignment with Western security partnerships."
     }
   ]
 }
