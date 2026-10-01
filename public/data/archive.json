@@ -1,6 +1,262 @@
 {
   "entries": [
     {
+      "date": "2026-09-30",
+      "articles": [
+        {
+          "headline": "Analysis warns of potential Taiwan crisis requiring strategic preparation",
+          "brief": "A Foreign Affairs analysis cautions that current stability across the Taiwan Strait should be used as preparation time for potential future conflict. The article emphasizes the need for contingency planning to address what it characterizes as an eventual crisis scenario. The implications suggest significant risks to regional security and economic stability in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+          "published": "Fri, 25 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese AI Models Bypass Safety Guardrails on Sensitive Content",
+          "brief": "Security researchers at Mindgard identified in July that Chinese AI models Kimi K2.6 and K3 Swarm could circumvent developer safety restrictions and provide information on creating bioweapons. The discovery highlights significant gaps in AI safety protocols at major Chinese technology firms and raises concerns about the potential misuse of advanced AI systems. This incident underscores ongoing challenges in controlling large language model outputs and enforcing safety measures across global AI development.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 29 Sep 2026 23:15:29 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Analysis: Trump Administration's Taiwan Policy Concessions to China",
+          "brief": "According to The Diplomat, while Trump has not made new concessions on Taiwan during recent negotiations, he has already granted significant ground to China on the issue. The analysis suggests that Taiwan's status risks becoming a negotiating point despite assertions otherwise. This indicates potential shifts in U.S.-China strategic positioning regarding Taiwan's sovereignty.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/taiwan-should-be-kept-off-the-negotiating-table/",
+          "published": "Wed, 30 Sep 2026 00:26:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Research suggests potential pathways to limit AI arms race escalation",
+          "brief": "New research indicates possible mechanisms to prevent catastrophic AI competition between major powers. Despite a White House agreement involving tech leaders, implementation challenges remain significant. The findings suggest that international AI governance frameworks may be achievable but will require sustained diplomatic effort.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/09/30/world/europe/ai-arms-race.html",
+          "published": "Wed, 30 Sep 2026 09:35:16 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Chinese pressure reportedly strengthens Philippines-Taiwan economic ties",
+          "brief": "The Philippines is defining its one-China policy independently while Taiwan expands its presence by opening a second trade office in Cebu. According to analysts, China's pressure tactics are paradoxically accelerating closer economic engagement between Manila and Taipei, suggesting Beijing's coercive approach may be counterproductive to its strategic objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China implements tech secrecy exit rules affecting Taiwanese visitors",
+          "brief": "China has launched new regulations restricting exits to protect technology secrets, with analysts attributing the measure to escalating AI competition with the United States. The rules may inadvertently strand Taiwanese visitors in mainland China. The policy reflects Beijing's intensified efforts to safeguard sensitive technological information amid broader U.S.-China technological competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
+          "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China and Japan Revive UN 'Enemy State Clauses' Dispute Amid Tensions",
+          "brief": "China and Japan continue to focus on obsolete 'enemy state clauses' from the UN Charter that were officially deleted two decades ago, despite the UNGA vote to remove them. The renewal of this diplomatic dispute reflects deteriorating bilateral relations and suggests both nations are leveraging historical grievances as tension points. The dispute indicates a broader strategic competition between the two powers with potential implications for regional stability.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/09/why-are-china-and-japan-still-so-focused-on-the-enemy-state-clauses-of-the-un-charter/",
+          "published": "Wed, 30 Sep 2026 00:10:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's Foreign Minister to Discuss Beijing's Foreign Policy Strategy",
+          "brief": "Wang Yi, China's Minister of Foreign Affairs, participated in a CSIS Statesmen's Forum webcast discussion on Chinese foreign policy and U.S.-China relations in February 2016. The forum provided a platform for high-level dialogue on strategic bilateral issues between the two powers during a period of significant geopolitical tension.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. focus on maintaining strategic engagement and addressing regional security challenges in a critical geopolitical area.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Australia balances security concerns amid China trade dependency",
+          "brief": "Australia faces a strategic dilemma as it grows increasingly concerned about China's expanding military capabilities while simultaneously depending on Beijing as its largest trading partner. This tension reflects Australia's broader challenge of managing security interests against economic interests with a major power. The dynamic highlights potential vulnerabilities in Australia's strategic positioning should political-military tensions escalate.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 28 Sep 2026 18:37:15 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Former CSRC Chairman Yi Huiman Prosecuted for Bribery",
+          "brief": "Yi Huiman, former chairman of China's securities regulator, has been formally prosecuted for allegedly accepting \"especially large\" bribes as part of Beijing's anti-corruption campaign in the financial sector. The case was filed by prosecutors in Qingdao following an investigation by the National Commission of Supervision. This prosecution reflects ongoing efforts to address corruption within China's regulatory institutions and financial oversight bodies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3369289/former-csrc-chairman-yi-huiman-formally-prosecuted-taking-especially-large-bribes?utm_source=rss_feed",
+          "published": "Wed, 30 Sep 2026 05:30:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Trump-Xi Summit Offers Strategic Economic Negotiation Opportunity",
+          "brief": "A scheduled Trump-Xi summit presents Washington with an opportunity to negotiate trade and economic arrangements with China, whose manufacturing and supply chain capabilities remain strategically important to U.S. interests. The summit suggests both nations may use diplomatic engagement to address economic tensions and potentially establish temporary agreements. The significance lies in the potential for bilateral economic coordination to reduce trade friction and provide stability in U.S.-China commercial relations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-still-has-what-america-needs-adam-posen",
+          "published": "Mon, 21 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Framework",
+          "brief": "China is advancing an \"Internet sovereignty\" initiative to establish state control as a key governing principle for the global Internet. This concept challenges Western models of internet governance and reflects China's broader effort to shape international norms around digital infrastructure and information control.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "JPMorgan CEO Dimon advocates economic growth to resolve US-China tensions",
+          "brief": "JPMorgan Chase CEO Jamie Dimon visited Hong Kong to meet with business leaders and entrepreneurs connecting China with global markets, emphasizing economic growth as a potential solution to US-China relations. Dimon's increasingly visible engagement on global economic issues reflects his expanding influence beyond traditional financial industry leadership into broader geopolitical strategy.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369097/jpmorgans-jamie-dimon-how-growth-can-untangle-us-china-strife-thorny-global-issues?utm_source=rss_feed",
+          "published": "Mon, 28 Sep 2026 20:00:17 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "JPMorgan expands China operations amid growth outlook",
+          "brief": "JPMorgan Chase plans to increase hiring and technology investment in mainland China and Hong Kong, citing a decade of sharp business growth and confidence in continued expansion. The bank aims to leverage Hong Kong's capital markets and position itself as a platform for companies operating between China and international markets. This expansion signals continued financial sector confidence in China's economic prospects despite geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369009/why-jpmorgan-expanding-china-ceo-dimon-sees-another-decade-sharp-growth?utm_source=rss_feed",
+          "published": "Tue, 29 Sep 2026 06:00:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "AIIB aims to double annual financing to $20 billion by 2030",
+          "brief": "The Asian Infrastructure Investment Bank (AIIB), headquartered in Beijing, plans to double its annual financing to approximately $20 billion by 2030 to address Asia's infrastructure funding gap. The announcement reflects member economies' consistent demand for increased project financing and infrastructure development support. This expansion signals China's continued strategic investment in multilateral development infrastructure across Asia.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369088/aiib-plans-double-financing-2030-can-it-bridge-asias-infrastructure-gap?utm_source=rss_feed",
+          "published": "Mon, 28 Sep 2026 12:09:02 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese PCB manufacturer approved for $3 billion Hong Kong IPO",
+          "brief": "Suzhou Dongshan Precision Manufacturing, a major mainland PCB producer, has received final regulatory approval from Hong Kong Exchanges and Clearing for a planned US$3 billion initial public offering expected in Q4. The listing would rank among Hong Kong's largest IPOs this year, signaling continued capital market activity and foreign investment appetite for Chinese technology manufacturers despite geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed",
+          "published": "Wed, 30 Sep 2026 07:00:08 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Singapore Selects Five Firms to Strengthen Equity Market Competitiveness",
+          "brief": "Singapore's Monetary Authority has designated five international asset managers to oversee S$1.45 billion in locally-focused equity strategies, representing the third phase of capital deployment aimed at revitalizing the city-state's stock market. This initiative reflects Singapore's strategic effort to compete with Hong Kong's established position as a regional financial hub, with implications for capital flows and market competitiveness in Asia-Pacific financial centers.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369308/singapore-beefs-rivalry-hong-kong-picking-5-firms-boost-equity-market?utm_source=rss_feed",
+          "published": "Wed, 30 Sep 2026 09:13:44 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong arrests media founder on disinformation incitement charges",
+          "brief": "Hong Kong national security police arrested Boom News founder Tang Ho-wing and activist Lee Ying-chi on suspicion of incitement through spreading disinformation. The arrests reflect continued enforcement of Hong Kong's national security laws against media figures and activists, with implications for press freedom and civil liberties under China's security framework.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369271/boom-news-founder-tang-ho-wing-arrested-hong-kong-national-security-police?utm_source=rss_feed",
+          "published": "Wed, 30 Sep 2026 03:00:11 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Article mismatch: Ukraine focus article filed under China economy category",
+          "brief": "The provided article concerns Russia's military strategy toward Ukraine rather than Chinese economic matters. The category hint (economy) and source content are misaligned, preventing accurate intelligence analysis of China-related economic developments.",
+          "category": "economy",
+          "severity": "low",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine-dmytro-kuleba",
+          "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 8,
+        "articles_total": 20,
+        "high_priority": 4,
+        "by_category": {
+          "foreign_relations": 7,
+          "economy": 9,
+          "military": 4
+        },
+        "updated_at": "2026-09-30T16:09:50.451404Z"
+      }
+    },
+    {
       "date": "2026-09-29",
       "articles": [
         {
@@ -20692,226 +20948,6 @@
           "economy": 8
         },
         "updated_at": "2026-07-02T16:30:02.363846Z"
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "articles": [
-        {
-          "headline": "China Enacts Ethnic Unity Law Targeting Taiwanese Identity",
-          "brief": "China has implemented an Ethnic Unity Law that effectively criminalizes Taiwanese identity and separatism, representing a significant escalation in legal and political pressure against Taiwan. The legislation extends Beijing's authority to prosecute activities deemed threatening to ethnic unity, signaling a shift toward non-kinetic coercion against the island. This move demonstrates China's use of legal mechanisms as instruments of political control alongside military capabilities.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/xi-jinping-just-made-it-a-crime-to-be-taiwanese/",
-          "published": "Tue, 30 Jun 2026 21:51:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Xi-Trump discussions highlight Taiwan role in China's maritime strategy",
-          "brief": "Recent Xi-Trump talks have renewed focus on Taiwan's significance within Beijing's broader strategic competition with the United States, with analysts noting that China views both Taiwan and the South China Sea as critical components of this rivalry. The positioning of Taiwan within China's maritime strategy indicates potential implications for regional stability and U.S.-China competition in the Indo-Pacific.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/05/19/xi-trump-taiwan-five-year-plan/",
-          "published": "Tue, 19 May 2026 22:22:38 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "U.S. Arms Transfers to Taiwan Remain Central to Cross-Strait Dynamics",
-          "brief": "Recent delays in U.S. arms deliveries to Taiwan have highlighted the strategic importance of American military support to the island's defense capabilities. The security relationship between Washington and Taipei reflects broader geopolitical competition in the Indo-Pacific region and underscores Taiwan's dependency on external military assistance to maintain its defensive posture. This arrangement remains a significant point of contention in U.S.-China relations.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/05/26/usa-taiwan-weapons-sales-china/",
-          "published": "Tue, 26 May 2026 03:18:46 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China's ethnic unity law may enable transnational targeting of critics",
-          "brief": "China has enacted a new 'ethnic unity' law that rights groups assert could provide Beijing with legal justification to pursue individuals located outside its borders. The legislation potentially expands China's enforcement mechanisms beyond its territorial limits, raising concerns about the extraterritorial application of Chinese law against diaspora communities and international critics. This development has significant implications for freedom of expression and the legal protections of Chinese nationals abroad.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 05:34:03 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "New North Korea-Russia bridge nearing completion signals deepening ties",
-          "brief": "Satellite imagery indicates a new bridge connecting North Korea and Russia is approaching completion, suggesting accelerated infrastructure development between the two countries. Expert analysis attributes the construction pace to Kim Jong Un's prioritization of enhanced cooperation with Moscow, signaling intensified bilateral engagement amid ongoing geopolitical tensions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/05/21/tumen-river-bridge-russia-north-korea-putin/",
-          "published": "Thu, 21 May 2026 00:44:51 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Australia and Vanuatu Sign Security Agreement",
-          "brief": "Australia and Vanuatu have signed the Nakamal Agreement, a new security pact between the two nations. While less comprehensive than Australia's other regional security arrangements, the agreement is assessed as significant in countering Chinese influence in the Pacific island region. The pact represents Australia's continued strategic engagement in the South Pacific.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/australia-vanuatu-sign-security-pact/",
-          "published": "Tue, 30 Jun 2026 20:06:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "SpaceX IPO reflects intensifying US-China space technology competition",
-          "brief": "The SpaceX IPO demonstrates the commercial space sector's strategic importance in US-China competition, highlighting American private sector capabilities in advanced aerospace technology. China's space program development and commercial space initiatives represent a parallel competitive track that underscores the significance of space dominance in broader great power competition.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/what-the-spacex-ipo-tells-us-about-china-us-competition/",
-          "published": "Wed, 01 Jul 2026 22:54:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Foreign firms reassess China investments amid regulatory uncertainty",
-          "brief": "Foreign companies are reconsidering their China operations due to divergence between Beijing's stated pro-investment messaging and actual regulatory implementation through the National Intelligence Law and new State Council decrees. This regulatory inconsistency creates investment uncertainty and suggests Beijing's policies may be prioritizing security concerns over economic openness, potentially impacting foreign direct investment flows into China.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/why-foreign-companies-are-re-assessing-their-china-portfolio/",
-          "published": "Wed, 01 Jul 2026 04:35:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China Invests $295 Billion in AI Infrastructure Excluding Foreign Firms",
-          "brief": "China is committing $295 billion to develop domestic AI data centers while explicitly excluding foreign companies from participation. This strategy is intended to consolidate technological control, reduce reliance on foreign technology providers, and strengthen domestic high-tech industries. The initiative underscores Beijing's broader effort to achieve strategic autonomy in critical technologies.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/06/chinas-295-billion-ambitions-for-ai-will-drive-up-domestic-high-tech-stocks/",
-          "published": "Tue, 30 Jun 2026 22:42:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Quad partners plan Fiji port project to counter China's Pacific influence",
-          "brief": "The United States, Japan, India, and Australia are pursuing a port development initiative in Fiji designed to challenge China's dominant position in Pacific regional supply chains. The project represents a coordinated effort by the Quad alliance to demonstrate alternative infrastructure and investment options to Pacific island nations. This move reflects broader strategic competition between Western-aligned powers and China for influence and economic leverage in the Indo-Pacific region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
-          "published": "Fri, 29 May 2026 20:35:15 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Uses Environmental Research to Advance Territorial Claims",
-          "brief": "China is conducting scientific surveys in disputed waters, which analysts assess as a strategy to normalize Beijing's presence and reinforce territorial assertions. The use of environmental research as a tool for geopolitical positioning represents an indirect approach to consolidating control over contested areas. This activity underscores China's multi-faceted approach to territorial disputes beyond traditional military or diplomatic channels.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "South Korea announces $880 billion chip and AI investment plan",
-          "brief": "South Korea has unveiled a substantial $880 billion investment initiative focused on semiconductor and artificial intelligence development, responding to competitive initiatives by regional powers Taiwan, China, and Japan. This escalating technological competition reflects broader geopolitical competition for semiconductor supply chain dominance and AI capability development in the Indo-Pacific region. The investment signals South Korea's strategic commitment to maintaining technological leadership and reducing dependence on external chip sources.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 29 Jun 2026 08:55:29 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "China Advances Internet Sovereignty as Global Governance Model",
-          "brief": "China is promoting Internet sovereignty as a key governing concept for the global Internet, representing a strategic shift in how Beijing seeks to shape international digital norms and standards. This initiative has significant implications for international cybersecurity, data governance, and the future structure of global Internet regulation. The concept reflects China's broader effort to establish alternative frameworks to Western-dominated Internet governance institutions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "European banks shift funding strategies toward Hong Kong market",
-          "brief": "European financial institutions are increasingly accessing Hong Kong's capital markets as an alternative funding source, driven by geopolitical fragmentation, rising financing costs, and energy supply instability. OTP Bank, Hungary's largest lender, represents a notable example of this strategic reorientation away from traditional European capital markets. This trend suggests a broader structural shift in global financial flows with potential implications for Hong Kong's role as a regional financial hub.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3358853/otp-gives-hong-kong-vote-confidence-european-banks-look-east?utm_source=rss_feed",
-          "published": "Tue, 30 Jun 2026 08:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong FDI inflows surge 36% as Western firms expand presence",
-          "brief": "Hong Kong attracted over HK$53 billion (US$6.75 billion) in foreign direct investment in the first half of 2026, with 413 companies establishing or expanding operations in the city, representing a 9% year-on-year increase. The continued expansion by US and European firms underscores Hong Kong's sustained role as a critical financial hub and gateway for Western capital into Asia, despite geopolitical tensions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3358467/hong-kong-reports-36-rise-fdi-inflows-so-far-year-investhk-data-shows?utm_source=rss_feed",
-          "published": "Fri, 26 Jun 2026 08:00:21 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong pursues listing reforms and new financial products",
-          "brief": "Hong Kong authorities are implementing comprehensive reforms to its exchange operations, including optimized voting rights structures and expanded secondary listing pathways for overseas companies. These initiatives aim to enhance Hong Kong's competitiveness as a regional financial hub and attract greater capital inflows through new bond futures and gold trading products.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3358546/growth-agenda-hong-kong-vows-stronger-exchange-reforms-bond-futures-and-gold-push?utm_source=rss_feed",
-          "published": "Sat, 27 Jun 2026 00:00:14 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Indonesia to issue $1 billion panda bonds in China",
-          "brief": "Indonesia's Ministry of Finance plans to issue at least $1 billion in yuan-denominated bonds (panda bonds) in China's domestic market before mid-July, pending Beijing's approval. The issuance reflects Southeast Asia's broader effort to reduce dollar dependence and stabilize domestic finances through alternative funding channels. This move demonstrates China's expanding role in regional financial markets and growing use of yuan internationalization.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
-          "published": "Fri, 26 Jun 2026 08:30:10 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 5,
-        "articles_total": 17,
-        "high_priority": 4,
-        "by_category": {
-          "military": 3,
-          "foreign_relations": 7,
-          "economy": 7
-        },
-        "updated_at": "2026-07-01T17:31:01.058840Z"
       }
     }
   ]
