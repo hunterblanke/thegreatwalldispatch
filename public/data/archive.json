@@ -1,6 +1,273 @@
 {
   "entries": [
     {
+      "date": "2026-10-02",
+      "articles": [
+        {
+          "headline": "MI5 alerts UK universities to sever China research funding ties",
+          "brief": "British intelligence has warned UK universities to end relationships with China General Technology Research Institute, which is allegedly linked to China's Ministry of State Security. The alert suggests that Chinese funding of UK research may be channeled to Chinese intelligence agencies, raising concerns about espionage and technology transfer. This warning reflects broader Western concerns about foreign interference in academic institutions and intellectual property protection.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 30 Sep 2026 18:15:15 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Analysis warns of potential Taiwan crisis requiring advance preparation",
+          "brief": "The article argues that current stability across the Taiwan Strait should be used as an opportunity to prepare for potential future instability. The piece emphasizes the importance of contingency planning during periods of relative calm to mitigate risks associated with a Taiwan-related crisis. This assessment highlights growing concerns about regional geopolitical volatility and economic disruption risks.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+          "published": "Fri, 25 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Philippines Strengthens Taiwan Ties Despite Chinese Pressure",
+          "brief": "The Philippines is deepening its relationship with Taiwan, including Taipei's plan to open a second trade office in Cebu, while Manila asserts an independent interpretation of its one-China policy. Chinese pressure appears to be accelerating rather than deterring closer Philippines-Taiwan economic and diplomatic engagement. This development suggests Beijing's coercive approach may be counterproductive in maintaining regional alignment.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China implements tech secrecy exit rules targeting foreign nationals",
+          "brief": "China has launched new regulations restricting the departure of individuals with access to technological secrets, with analysts attributing the measure to escalating AI competition with the United States. The rules could potentially affect Taiwanese visitors and other foreign nationals in China. The policy reflects Beijing's intensified efforts to protect sensitive technological information amid broader U.S.-China technological competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
+          "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Implements Controls on AI Usage Amid Civilian Adoption Surge",
+          "brief": "Chinese citizens are rapidly adopting AI technologies for personal use including entertainment, relationships, and agriculture, prompting government intervention to establish regulatory limits. The Chinese government's efforts to control AI proliferation suggest concerns about managing civilian access to advanced technologies and their societal impacts. This development indicates potential shifts in China's technology governance strategy as mass adoption outpaces official regulatory frameworks.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html",
+          "published": "Fri, 02 Oct 2026 13:15:28 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Taiwan's Identity Push Conflicts With ROC Historical Narrative",
+          "brief": "Taiwan faces an internal contradiction between promoting Taiwanese national identity and maintaining the Republic of China (ROC) as central to its World War II historical record. This ideological inconsistency undermines Taiwan's ability to counter Beijing's historical narratives and could weaken its position in ongoing cross-strait disputes over historical legitimacy and sovereignty claims.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/taiwan-cant-fight-beijings-history-war-while-erasing-its-own-roc-legacy/",
+          "published": "Thu, 01 Oct 2026 22:58:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "US Congressional delegation meets Dalai Lama, criticizes China",
+          "brief": "A bipartisan US congressional delegation met with the Dalai Lama during a visit to India and expressed concerns about Chinese transnational repression. The meeting reflects ongoing US-China tensions over Tibet and human rights issues. This diplomatic engagement signals continued Congressional interest in challenging Beijing's policies toward Tibetan political and religious leadership.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/30/us-dalai-lama-brian-mast-tibet/",
+          "published": "Wed, 30 Sep 2026 20:50:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur advocates protest during Xi Jinping White House state visit",
+          "brief": "Uyghur rights advocates demonstrated near the White House during President Trump's state dinner with Chinese President Xi Jinping. The protest reflects ongoing tensions between U.S. human rights concerns and diplomatic engagement with China, highlighting the challenge of balancing strategic relations with advocacy for Uyghur populations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/09/25/uyghur-protest-china-xi-jinping/",
+          "published": "Fri, 25 Sep 2026 21:17:27 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Tibetan activists protest Xi Jinping's Washington visit",
+          "brief": "Tibetan activists organized protests during Chinese President Xi Jinping's visit to Washington, with organizers estimating thousands of participants. The demonstrations focused on raising awareness about China's ethnic unity law and human rights concerns. The protests highlight ongoing tensions over Beijing's policies in Tibet and demonstrate diaspora activism regarding China-related issues during high-level diplomatic engagements.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/24/tibet-protest-xi-jinping-china-washington-trump-photos/",
+          "published": "Thu, 24 Sep 2026 17:48:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur and Tibetan groups seek human rights discussions during Xi's Washington visit",
+          "brief": "Exile advocacy groups representing Uyghurs and Tibetans are leveraging Chinese President Xi Jinping's visit to Washington to press the Trump administration for discussions on religious freedom and alleged genocide. The groups' ability to gain traction on these issues could influence the tone and substance of U.S.-China bilateral negotiations on sensitive human rights matters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/23/xi-trump-summit-washington-2026/",
+          "published": "Wed, 23 Sep 2026 22:14:53 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur advocate criticizes China's human rights warnings before Trump summit",
+          "brief": "Uyghur rights advocate Rebiya Kadeer has criticized China's warnings against raising human rights issues ahead of a potential Trump-Xi summit, characterizing such statements as inconsistent with a strong nation's conduct. The criticism suggests potential friction over human rights discussions in upcoming U.S.-China diplomatic engagements, particularly regarding Xinjiang-related concerns.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/09/23/uyghur-xi-trump-china-summit-human-rights/",
+          "published": "Wed, 23 Sep 2026 21:18:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Xi Jinping's US visit demonstrates leadership amid elite political shifts",
+          "brief": "Xi Jinping's upcoming visit to the United States will serve as a demonstration of his authority within China's leadership hierarchy. The visit occurs ahead of a significant political reshuffle planned for the following year, with Xi's high-profile diplomatic engagement potentially signaling consolidation of power among China's elite.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/",
+          "published": "Sat, 19 Sep 2026 02:00:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Chinese securities regulator chairman formally prosecuted for bribery",
+          "brief": "Yi Huiman, former chairman of China's China Securities Regulatory Commission (CSRC), has been formally prosecuted for accepting \"especially large\" bribes as part of Beijing's ongoing anti-corruption campaign in the financial sector. The case was filed by prosecutors in Qingdao following investigation by the National Commission of Supervision. This prosecution signals continued high-level accountability measures targeting financial sector officials.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3369289/former-csrc-chairman-yi-huiman-formally-prosecuted-taking-especially-large-bribes?utm_source=rss_feed",
+          "published": "Wed, 30 Sep 2026 05:30:05 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Views Russian Duma Elections Through Stability Lens",
+          "brief": "China has strategic interest in Russian parliamentary elections due to perceived similarities between Moscow and Beijing's political systems and concerns about regional stability. The Chinese leadership monitors Russian political developments closely given the two nations' shared interests in maintaining authoritarian governance structures. This reflects Beijing's broader focus on preserving predictable relationships with neighboring powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/chinas-stake-in-the-russian-duma-elections/",
+          "published": "Thu, 01 Oct 2026 23:47:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Indonesia Appoints Career Diplomat as New Foreign Minister",
+          "brief": "Indonesian President has replaced the Foreign Minister with Arrmanatha Nasir, a career diplomat whose appointment signals a reassertion of the Foreign Ministry's institutional role in foreign policymaking. This personnel change may impact Indonesia's diplomatic approach to regional issues, including South China Sea matters and bilateral relations with major powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/indonesian-president-replaces-foreign-minister-with-career-diplomat/",
+          "published": "Fri, 02 Oct 2026 09:00:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "India leverages BRICS development bank during rotating presidency",
+          "brief": "As a founding member and major borrower of the New Development Bank (NDB), India is utilizing its BRICS presidency to advance infrastructure financing initiatives. The NDB has become a significant alternative financing mechanism independent of Western-dominated institutions, enabling India to mobilize capital for development projects. This positioning strengthens India's economic influence within the BRICS bloc while diversifying global financial architecture.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/the-new-development-bank-quietly-delivers-during-indias-brics-year/",
+          "published": "Thu, 01 Oct 2026 22:15:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong Investment Corporation extends CEO tenure amid industrial strategy",
+          "brief": "Hong Kong Investment Corporation (HKIC) has extended CEO Clara Chan Ka-chai's term through October 2029, providing leadership continuity for the HK$62 billion state fund. The move aligns with Hong Kong's first five-year plan to boost emerging industries, signaling sustained government commitment to strategic investment in designated sectors. Leadership stability at the major investment vehicle may facilitate implementation of the city's industrial development priorities.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369586/clara-chan-retains-helm-hkic-hk62b-state-fund-aligns-citys-5-year-plan?utm_source=rss_feed",
+          "published": "Fri, 02 Oct 2026 10:28:29 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong IPO market weakens amid oversupply and investor pullback",
+          "brief": "Hong Kong's initial public offering market is experiencing significant deterioration, with 15 of 31 third-quarter IPOs declining on their first trading day, compared to only 14 declines among 77 debuts in the first half of 2024. The surge in IPO supply has overwhelmed investor demand, with notable losses including a 43 percent plunge by Medcaptain Medical Technology and a 10 percent decline by Shein. This trend suggests weakening confidence in Hong Kong's capital markets and potential headwinds for future equity financing activities in the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
+          "published": "Fri, 02 Oct 2026 09:05:40 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese equities hit 13-month low amid tech selloff despite rate cuts",
+          "brief": "Mainland China's CSI 300 Index fell to its lowest level in over a year due to technology stock declines, despite Beijing's supportive interest rate cut. Simultaneously, Chinese government bonds gained investor interest as US Treasury yields reached new highs, indicating a shift in capital allocation preferences. The divergent movement between equities and bonds reflects investor concern about China's economic recovery despite monetary stimulus measures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369517/stock-losses-bond-bets-5-figures-investors-are-watching-china?utm_source=rss_feed",
+          "published": "Fri, 02 Oct 2026 05:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China concerned over Hongkongers detained beyond sentences in Philippines",
+          "brief": "Two Hong Kong residents remain in custody in the Philippines for months after completing their prison sentences, prompting intervention by the Chinese embassy in Manila. The cases highlight potential jurisdictional and legal complications affecting Hong Kong citizens abroad. This situation demonstrates China's diplomatic interest in protecting its citizens' welfare in Southeast Asian nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369629/2-hongkongers-held-philippines-months-after-prison-terms-end?utm_source=rss_feed",
+          "published": "Fri, 02 Oct 2026 15:07:00 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong Bar Association chief projects arbitration hub dominance over London",
+          "brief": "Hong Kong's Bar Association chairman stated the city could surpass London as the world's leading arbitration hub within a decade, citing its position as a global fundraising center for mainland Chinese and regional businesses. The projection reflects Hong Kong's growing appeal for high-stakes international legal cases and its capacity to attract elite legal talent, positioning it as an increasingly competitive financial and legal services center.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3369627/hong-kong-could-overtake-london-top-arbitration-hub-decade-bar-association-head?utm_source=rss_feed",
+          "published": "Fri, 02 Oct 2026 14:52:25 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 21,
+        "high_priority": 1,
+        "by_category": {
+          "economy": 8,
+          "foreign_relations": 13
+        },
+        "updated_at": "2026-10-02T16:01:51.427478Z"
+      }
+    },
+    {
       "date": "2026-10-01",
       "articles": [
         {
@@ -20692,238 +20959,6 @@
           "economy": 5
         },
         "updated_at": "2026-07-04T14:51:00.245459Z"
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "articles": [
-        {
-          "headline": "Beijing monitors Japan, Philippines military integration in South China Sea",
-          "brief": "China is closely tracking the military capabilities and potential integration of Japan and the Philippines, reflecting Beijing's concerns about coordinated regional military developments. Despite this attention to regional powers, experts assess that the United States remains China's primary strategic rival. The monitoring suggests Beijing views enhanced military cooperation among regional allies as a significant geopolitical challenge to its position in the South China Sea.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
-          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China and US Pursue Nuclear Strategic Stability Framework",
-          "brief": "The Diplomat reports that establishing constructive strategic stability between China and the United States requires both nations to acknowledge their mutual nuclear vulnerability. The article suggests that nuclear diplomacy represents a critical starting point for broader bilateral strategic stability. This framework could reduce miscalculation risks and establish communication channels during crises between the world's two largest military powers.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/forging-china-us-constructive-strategic-stability-starts-in-the-nuclear-realm/",
-          "published": "Thu, 02 Jul 2026 22:45:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China's new ethnic unity law may enable transnational targeting of critics",
-          "brief": "Chinese authorities have enacted a new 'ethnic unity' law that rights groups warn could provide legal justification for Beijing to pursue critics and dissidents outside its borders. The legislation represents a potential expansion of China's enforcement mechanisms beyond domestic jurisdiction, raising concerns about extraterritorial legal authority. This development could significantly impact diaspora communities and international civil liberties practices.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 01 Jul 2026 05:34:03 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "China Defends Ethnic Unity Law Amid International Rights Concerns",
-          "brief": "China has defended its 'ethnic unity' law against criticism from rights groups and Western officials who view it as a threat to Tibetan, Uyghur, and other minority populations. Beijing characterizes the measure as protective legislation for minorities, while international observers express concern about its potential to restrict minority freedoms and autonomy. The law represents a significant point of contention in China's domestic governance and international human rights discourse.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/07/03/world/asia/china-ethnic-unity-tibetan-uyghurs.html",
-          "published": "Fri, 03 Jul 2026 08:18:22 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "Tibetan activist dies in self-immolation protest at UN",
-          "brief": "A Tibetan activist died after self-immolating outside UN headquarters, occurring one day after China's new ethnic unity law took effect. The incident highlights ongoing tensions regarding Tibet's autonomy and religious freedoms, and may prompt international scrutiny of China's ethnic policies. The timing suggests the protest was a direct response to the newly implemented legislation.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
-          "published": "Fri, 03 Jul 2026 15:10:50 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan accelerates drone funding discussions amid defense debates",
-          "brief": "Taiwan's defense spending debate has intensified focus on drone procurement and development following KMT chair Cheng Li-wun's recent visit to the United States. The increased attention to drone technology reflects Taiwan's evolving military modernization priorities in response to regional security concerns. Enhanced drone capabilities represent a significant shift in Taiwan's defense strategy and procurement priorities.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/taiwans-drone-industry-take-centerstage-in-defense-spending-debate/",
-          "published": "Thu, 02 Jul 2026 21:36:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Czech Government Moderates Taiwan Rhetoric While Maintaining Substantive Ties",
-          "brief": "Czechia's new government has adopted a softer public tone regarding Taiwan relations, though the underlying substance of bilateral engagement remains largely unchanged. This rhetorical shift reflects evolving diplomatic positioning while preserving practical cooperation frameworks. The development suggests Prague is calibrating its approach to Taiwan amid broader geopolitical considerations.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/czech-taiwan-ties-are-cooling-in-rhetoric-not-reality/",
-          "published": "Fri, 03 Jul 2026 02:16:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Quad powers plan Fiji port development to counter China's Pacific influence",
-          "brief": "The United States, Japan, India, and Australia are pursuing a port project in Fiji as part of efforts to compete with China's economic dominance in the Pacific region. Experts view the initiative as a strategic signal that the Quad alliance can provide alternative infrastructure and economic partnerships to Pacific nations. The project represents an escalation in great power competition for influence and supply-chain control in the Indo-Pacific.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/05/29/quad-port-fiji-supply-chain-us-japan-india/",
-          "published": "Fri, 29 May 2026 20:35:15 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Climate Adaptation Disparities May Reshape U.S.-China Competition",
-          "brief": "Extreme weather events pose differential economic and strategic risks to the United States and China based on their respective climate adaptation capabilities and investments. Countries that fail to adequately prepare for climate impacts may experience competitive disadvantages in economic resilience and geopolitical influence. The article suggests climate adaptation capacity could become a determining factor in the long-term strategic competition between the two powers.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition",
-          "published": "Tue, 30 Jun 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Taliban-Pakistan Conflict Persists Despite Chinese Mediation",
-          "brief": "The deteriorating relationship between Afghanistan's Taliban and Pakistan continues to generate cross-border military strikes despite Chinese diplomatic intervention efforts. This conflict underscores the limits of Chinese regional influence and highlights ongoing instability along the Afghanistan-Pakistan border, with implications for broader regional security and counterterrorism operations.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/despite-chinese-mediation-efforts-taliban-pakistan-conflict-continues-with-new-strikes/",
-          "published": "Fri, 03 Jul 2026 02:27:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Hong Kong expands yuan usage to maintain offshore financial hub status",
-          "brief": "Hong Kong's monetary authority announced plans to deepen yuan usage in corporate financing, investment, and cross-border trade to strengthen its position as the world's largest offshore yuan hub. The initiative aims to increase renminbi convenience and diversity while maintaining competitive advantage over Shanghai and Singapore. This reflects China's broader strategy to internationalize the yuan and enhance Hong Kong's role in global yuan transactions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3359268/hkma-urges-banks-widen-scope-yuan-use-currencys-global-reach-expands?utm_source=rss_feed",
-          "published": "Fri, 03 Jul 2026 07:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Bahrain expands Hong Kong operations to attract mainland China investment",
-          "brief": "Bahrain is increasing its institutional presence in Hong Kong to attract mainland Chinese capital, with major Bahraini investors already establishing positions in the territory and the kingdom's investment agency promoting financial deregulation incentives. This strategic pivot reflects Bahrain's effort to diversify capital sources amid regional tensions and suggests growing financial cooperation between Gulf states and China's financial hub.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3358707/bahrain-doubles-down-hong-kong-woo-mainland-china-capital-amid-middle-east-tensions?utm_source=rss_feed",
-          "published": "Mon, 29 Jun 2026 06:01:03 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Myanmar Resumes $3.6 Billion Chinese-Backed Myitsone Dam Project",
-          "brief": "Myanmar officials have indicated plans to move forward with the Myitsone Dam project, a $3.6 billion hydroelectric initiative suspended since 2011 due to public opposition, following renewed pressure from China's government. The project's resumption would strengthen China's strategic infrastructure investments in Myanmar and enhance its regional influence through critical energy infrastructure. This development carries significant implications for Beijing's Belt and Road Initiative and its broader geopolitical positioning in Southeast Asia.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/myanmar-to-push-ahead-with-suspended-myitsone-dam-project-officials-say/",
-          "published": "Fri, 03 Jul 2026 11:00:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Uyghur activist questions legal process in Bangkok bombing case",
-          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has called for scrutiny of the legal proceedings and evidence in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her intervention suggests concerns about judicial transparency and potential implications for Uyghur communities in Southeast Asia. The statement highlights ongoing tensions between human rights advocacy and counterterrorism prosecutions in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
-          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Hong Kong men convicted under national security law for pro-independence group involvement",
-          "brief": "Two Hong Kong residents pleaded guilty to conspiracy to commit secession for joining Taiwan-based Hong Kong Democratic Independence Union, citing motivations ranging from seeking asylum to curiosity. The convictions underscore continued enforcement of Hong Kong's national security law against pro-independence activities and demonstrate Beijing's jurisdiction over political movements linked to Taiwan-based organizations. This case reflects ongoing tensions in Hong Kong regarding autonomy and the scope of national security legislation.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359273/hong-kong-duo-admit-joining-pro-independence-group-out-curiosity-asylum-bid?utm_source=rss_feed",
-          "published": "Fri, 03 Jul 2026 06:14:57 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "China uses environmental surveys to reinforce disputed territorial claims",
-          "brief": "According to analysts, China is conducting scientific research and environmental surveys in disputed waters as a strategy to normalize its presence and strengthen territorial claims in the region. The approach uses ostensibly civilian research activities to advance geopolitical objectives, representing a low-cost method of asserting sovereignty without direct military confrontation.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "PLA Navy vessels visit Hong Kong for sovereignty anniversary",
-          "brief": "Two PLA Navy warships conducted a port call at Hong Kong's Ngong Shuen Chau Barracks, allowing local students to tour the guided-missile destroyer Nanning and frigate Hengyang. The visit coincides with Hong Kong's 29th anniversary of return to Chinese sovereignty on July 1, serving as part of official commemoration activities. The engagement demonstrates Beijing's continued emphasis on military presence and national defense education in Hong Kong.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3359304/hong-kong-students-tour-pla-navy-warships-lesson-national-defence?utm_source=rss_feed",
-          "published": "Fri, 03 Jul 2026 08:06:04 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "China's Intelligence System Structure Clarified Beyond Stereotypes",
-          "brief": "The article examines China's party-state intelligence apparatus, clarifying misconceptions about its operational scope and rejecting the characterization of it as a 'whole of society' system. The analysis emphasizes the distinction between formal intelligence structures and broader societal engagement, cautioning against overgeneralizations that could inadvertently target ethnic Chinese communities. Understanding the actual organizational framework of China's intelligence system is significant for accurate threat assessment and policy formulation.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/understanding-chinas-party-state-intelligence-system/",
-          "published": "Fri, 03 Jul 2026 01:47:00 +0900",
-          "raw_source": "The Diplomat"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 7,
-        "articles_total": 18,
-        "high_priority": 5,
-        "by_category": {
-          "military": 4,
-          "foreign_relations": 11,
-          "economy": 3
-        },
-        "updated_at": "2026-07-03T16:06:29.666170Z"
       }
     }
   ]
