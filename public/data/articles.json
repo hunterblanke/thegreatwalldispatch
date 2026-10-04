@@ -1,44 +1,43 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "metrics": {
-    "sources_scanned": 5,
-    "articles_total": 19,
+    "sources_scanned": 6,
+    "articles_total": 15,
     "high_priority": 1,
     "by_category": {
-      "military": 2,
-      "foreign_relations": 9,
-      "economy": 8
+      "economy": 5,
+      "foreign_relations": 10
     },
-    "updated_at": "2026-10-03T14:28:40.085162Z"
+    "updated_at": "2026-10-04T15:02:30.656981Z"
   },
   "articles": [
     {
-      "headline": "Taiwan receives F-16 fighter jets after two-decade wait",
-      "brief": "Taiwan's air force has received new F-16 aircraft following a 20-year procurement process. The acquisition represents a significant modernization of Taiwan's military capabilities and defense posture. This development has implications for cross-strait military balance and regional security dynamics in the Taiwan Strait.",
-      "category": "military",
+      "headline": "MI5 warns British universities of Chinese intelligence funding scheme",
+      "brief": "MI5 has alerted British universities to sever ties with China General Technology Research Institute, which maintains links to China's Ministry of State Security. The warning suggests systematic exploitation of UK academic research through financial incentives and subsequent intelligence collection. This indicates a coordinated effort to acquire sensitive research through institutional relationships rather than traditional espionage methods.",
+      "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "The Diplomat"
+        "BBC News"
       ],
-      "original_link": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
-      "published": "Fri, 02 Oct 2026 22:10:00 +0900",
-      "raw_source": "The Diplomat"
+      "original_link": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 18:15:15 GMT",
+      "raw_source": "BBC News"
     },
     {
-      "headline": "Philippines Disputes Chinese Claims Over Batanes Waters",
-      "brief": "China has asserted sovereign rights over waters surrounding the Philippines' northernmost Batanes province, which the Philippines has rejected. This dispute represents a new territorial flashpoint in the ongoing maritime conflict between the two nations. The escalation could further complicate regional stability and existing territorial disputes in the South China Sea.",
-      "category": "military",
+      "headline": "Taiwan Strait Tensions Pose Economic Risk Amid Current Stability",
+      "brief": "The article warns that current calm in cross-strait relations should be used to prepare for potential future crises involving Taiwan. A military or political conflict in the Taiwan Strait would pose significant disruptions to global supply chains and economic stability. Analysts recommend proactive contingency planning during the present period of relative peace.",
+      "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "The Diplomat"
+        "FA RSS"
       ],
-      "original_link": "https://thediplomat.com/2026/10/philippines-rejects-chinese-claim-to-sovereign-rights-over-waters-around-batanes/",
-      "published": "Fri, 02 Oct 2026 14:10:00 +0900",
-      "raw_source": "The Diplomat"
+      "original_link": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+      "published": "Fri, 25 Sep 2026 00:00:00 -0400",
+      "raw_source": "FA RSS"
     },
     {
-      "headline": "Beijing pressure prompts Manila to deepen unofficial Taiwan economic ties",
-      "brief": "The Philippines is strengthening commercial relations with Taiwan by opening a second trade office in Cebu, while simultaneously asserting independent interpretation of its one-China policy amid Chinese pressure. This development suggests Manila is balancing its relationship with Beijing by quietly expanding de facto Taiwan engagement through economic rather than diplomatic channels. The trend indicates growing Philippine hedging behavior as it navigates competing pressures from China and Taiwan.",
+      "headline": "China pressure prompts Philippines to strengthen Taiwan economic ties",
+      "brief": "The Philippines is defining its one-China policy independently while Taiwan plans to open a second trade office in Cebu, signaling deepening bilateral economic engagement. Chinese pressure on Manila appears to be accelerating rather than deterring closer Philippines-Taiwan relations, particularly in trade and commercial sectors. This development suggests potential limits to Beijing's coercive diplomacy in the region and indicates growing economic interdependence between Manila and Taipei.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -49,68 +48,44 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China implements new tech export rules affecting foreign visitors",
-      "brief": "China has launched new exit regulations designed to protect technology secrets, particularly in artificial intelligence development. The rules could potentially strand Taiwanese visitors and other foreign nationals in China. Analysts assess the regulations reflect escalating technological competition between Beijing and Washington over AI capabilities.",
+      "headline": "Indonesia Appoints Career Diplomat as New Foreign Minister",
+      "brief": "Indonesian President has replaced the foreign minister with Arrmanatha Nasir, a career diplomat. The appointment is expected to strengthen the Foreign Ministry's institutional role in shaping Indonesia's foreign policy. This move suggests a shift toward more traditional diplomatic channels in Indonesia's international engagement.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/10/indonesian-president-replaces-foreign-minister-with-career-diplomat/",
+      "published": "Fri, 02 Oct 2026 09:00:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "US bipartisan delegation meets Dalai Lama, criticizes China",
+      "brief": "A bipartisan US congressional delegation met with the Dalai Lama during an India visit and expressed concerns regarding China's transnational repression efforts. The delegation's engagement signals continued US political support for Tibetan interests and represents a symbolic diplomatic challenge to Beijing's position on Tibet. This interaction underscores persistent US-China tensions over human rights and sovereignty issues related to Tibet.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
-      "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+      "original_link": "https://rfa.org/english/tibet/2026/09/30/us-dalai-lama-brian-mast-tibet/",
+      "published": "Wed, 30 Sep 2026 20:50:32 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Former CSRC Chairman Yi Huiman Prosecuted for Bribery",
-      "brief": "Yi Huiman, former chairman of China's securities regulator (CSRC), has been formally prosecuted for allegedly accepting \"especially large\" bribes as part of Beijing's ongoing anti-corruption campaign in the financial sector. The case was filed by prosecutors in Qingdao following an investigation by the National Commission of Supervision. This prosecution signals continued high-level accountability measures within China's financial regulatory apparatus.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/china-business/article/3369289/former-csrc-chairman-yi-huiman-formally-prosecuted-taking-especially-large-bribes?utm_source=rss_feed",
-      "published": "Wed, 30 Sep 2026 05:30:05 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Xi Jinping's Washington visit signals leadership consolidation",
-      "brief": "Xi Jinping's planned US visit will serve as a demonstration of his political authority within China's elite leadership ahead of major political changes next year. The visit represents an opportunity for Xi to project strength domestically while managing US relations, with significant implications for internal power dynamics and leadership succession planning.",
+      "headline": "Uyghur advocates protest Xi's White House state visit",
+      "brief": "Uyghur rights advocates gathered near the White House during President Trump's state dinner with Chinese President Xi Jinping to demonstrate opposition to the visit. The protest reflects ongoing U.S. domestic concerns regarding China's policies in Xinjiang and highlights potential friction between human rights advocacy groups and high-level diplomatic engagement with Beijing.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/",
-      "published": "Sat, 19 Sep 2026 02:00:32 +0000",
+      "original_link": "https://rfa.org/english/uyghur/2026/09/25/uyghur-protest-china-xi-jinping/",
+      "published": "Fri, 25 Sep 2026 21:17:27 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "North Korea relegated to secondary priority in Trump-Xi discussions",
-      "brief": "During Trump-Xi summit discussions, North Korea issues have been overshadowed by other bilateral concerns, with experts indicating China is unlikely to serve as a mediator for potential Trump-Kim Jong Un talks. This shift suggests both leaders are prioritizing different geopolitical and economic issues over denuclearization efforts on the Korean Peninsula. The reduced emphasis on North Korea in high-level U.S.-China diplomacy may indicate a recalibration of negotiation strategies regarding regional security matters.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/09/28/xi-trump-summit-north-korea-china/",
-      "published": "Mon, 28 Sep 2026 21:07:43 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Tibetan activists protest Xi's Washington visit over rights concerns",
-      "brief": "Tibetan activists organized protests during Chinese President Xi Jinping's Washington visit, with organizers estimating thousands of participants. The protests focused on China's 'ethnic unity law' and human rights concerns in Tibet. The demonstrations reflect ongoing international scrutiny of Beijing's policies toward ethnic minorities and may impact diplomatic engagement during Xi's visit.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/09/24/tibet-protest-xi-jinping-china-washington-trump-photos/",
-      "published": "Thu, 24 Sep 2026 17:48:17 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Uyghur and Tibetan groups seek human rights discussion at Xi-Trump summit",
-      "brief": "Exile advocacy groups are leveraging Chinese President Xi's visit to Washington to press the Trump administration for discussions on religious freedom and alleged genocide in Xinjiang and Tibet. The summit presents a potential diplomatic opportunity to elevate human rights concerns in U.S.-China relations, though the likelihood of substantive commitments remains uncertain given competing strategic interests.",
+      "headline": "Uyghur and Tibetan groups seek human rights focus during Xi Washington visit",
+      "brief": "Exile advocacy groups representing Uyghurs and Tibetans are pressing the Trump administration to prioritize human rights discussions during Xi Jinping's Washington summit, specifically addressing religious freedom and genocide allegations. The groups' advocacy suggests potential friction points in U.S.-China bilateral talks, though the extent to which these issues will be formally addressed remains uncertain.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -121,8 +96,8 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China warns against human rights discussions at Trump-Xi summit",
-      "brief": "Uyghur rights advocate Rebiya Kadeer criticized China's pre-summit warnings against discussing human rights issues, characterizing such restrictions as unbecoming of a strong nation. The statement suggests China is attempting to establish negotiating parameters ahead of discussions with the incoming Trump administration. This signals potential friction points in U.S.-China bilateral talks regarding Beijing's domestic policies.",
+      "headline": "Uyghur advocate criticizes China's human rights warnings to US",
+      "brief": "Uyghur rights advocate Rebiya Kadeer has criticized China's reported warnings against discussing human rights issues ahead of a potential Trump-Xi summit, characterizing such statements as inconsistent with a strong nation's conduct. The criticism highlights ongoing tensions between China's domestic policies in Xinjiang and international human rights concerns that may complicate high-level US-China diplomatic engagement.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -133,32 +108,68 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China Advances Internet Sovereignty as Global Governance Framework",
-      "brief": "China is promoting 'Internet sovereignty' as a governing concept for the global Internet, representing a shift toward state-controlled digital spaces. This initiative has significant implications for international cybersecurity standards, data governance, and potential great power competition in the digital domain. The concept challenges Western-led internet governance models and could reshape global information infrastructure.",
+      "headline": "Xi Jinping's US visit demonstrates leadership ahead of political reshuffle",
+      "brief": "Chinese President Xi Jinping's planned visit to the United States will serve as a prominent display of his leadership position within China's political hierarchy. The visit occurs ahead of a significant political reshuffle expected in 2024, suggesting the trip carries implications for Xi's consolidation of power among China's elite. The timing indicates strategic importance for demonstrating Xi's international stature and domestic political control.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "CSIS"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
+      "original_link": "https://rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/",
+      "published": "Sat, 19 Sep 2026 02:00:32 +0000",
+      "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Chinese PCB manufacturer approved for Hong Kong IPO listing",
-      "brief": "Suzhou Dongshan Precision Manufacturing, a mainland China-based printed circuit board maker, has received Hong Kong Exchanges and Clearing approval for a planned US$3 billion IPO expected in Q4. The listing would rank among Hong Kong's largest IPOs this year, indicating continued capital flows between mainland Chinese tech manufacturers and Hong Kong's financial markets despite broader economic headwinds.",
+      "headline": "Hong Kong IPO market weakens amid investor appetite saturation",
+      "brief": "Hong Kong's initial public offering market is experiencing significant deterioration, with 48% of September IPOs declining on first trading day compared to 18% in the first half of 2024. The surge in IPO listings has overwhelmed investor demand, creating a challenging capital-raising environment for companies seeking Hong Kong listings. This trend signals reduced investor confidence and potential constraints on equity financing for Chinese and international firms using Hong Kong's exchange.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed",
-      "published": "Wed, 30 Sep 2026 07:00:08 +0000",
+      "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
+      "published": "Fri, 02 Oct 2026 09:05:40 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Ping An Bank adopts AI governance rules, signaling sector trend",
-      "brief": "Ping An Bank has become the first listed Chinese lender to formally adopt artificial intelligence management measures following regulatory pressure to strengthen AI oversight. Analysts expect other mainland financial institutions to implement similar governance frameworks, establishing benchmarks for AI application across the banking sector.",
+      "headline": "Hong Kong Investment Corporation extends CEO tenure amid development focus",
+      "brief": "The Hong Kong Investment Corporation (HKIC), which manages HK$62 billion in assets, has extended CEO Clara Chan Ka-chai's tenure through October 2029. The extension aligns with Hong Kong's first five-year plan to boost emerging industries, signaling continuity in the government's strategic investment approach. Leadership stability at the major state-owned investment vehicle suggests sustained commitment to economic diversification efforts.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3369586/clara-chan-retains-helm-hkic-hk62b-state-fund-aligns-citys-5-year-plan?utm_source=rss_feed",
+      "published": "Fri, 02 Oct 2026 10:28:29 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong IPO activity surges to record HK$388 billion in nine months",
+      "brief": "Hong Kong's initial public offering market has more than doubled year-on-year to HK$388 billion in the first nine months of 2026, already exceeding the entire previous year's total. The Hong Kong Investment Corporation reports over 30 portfolio firms are preparing to apply for listings, signaling sustained market momentum. This recovery demonstrates Hong Kong's continued role as a major financial hub despite regional economic uncertainties.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369688/hong-kongs-ipo-haul-more-doubles-hk388b-first-9-months-paul-chan?utm_source=rss_feed",
+      "published": "Sun, 04 Oct 2026 06:22:57 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "China Leverages WWII Historical Narratives in US Diplomatic Engagement",
+      "brief": "China is employing World War II historical references and allied relationships as diplomatic leverage during high-level US-China summit discussions. This strategic use of historical framing reflects China's effort to reshape narratives around regional alignment and great power competition. The approach indicates Beijing's intent to influence perceptions of international legitimacy and historical precedent in contemporary geopolitical disputes.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/10/concerns-about-wwii-allies-at-us-china-summit/",
+      "published": "Fri, 02 Oct 2026 20:50:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Chinese banks adopt AI governance frameworks following regulatory pressure",
+      "brief": "Ping An Bank has become the first listed Chinese lender to formally adopt artificial intelligence management rules, establishing a benchmark for sector-wide implementation. Analysts expect other mainland financial institutions to follow suit amid regulatory efforts to strengthen AI oversight in the banking sector. This development reflects growing regulatory attention to managing AI deployment risks within China's financial system.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -169,76 +180,16 @@
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "China's quantitative funds expand despite regulatory constraints",
-      "brief": "China's quantitative investing sector added 18 new large-scale funds this year, bringing the total to 159 hedge funds managing over 10 billion yuan each, demonstrating resilience in a tightly regulated environment. The expansion reflects the industry's ability to generate competitive returns through technology-driven strategies amid China's evolving regulatory framework. This growth underscores the continued development of China's sophisticated financial services sector despite government oversight.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3369376/deepseek-effect-how-chinas-quant-funds-thrive-amid-tight-regulatory-scrutiny?utm_source=rss_feed",
-      "published": "Fri, 02 Oct 2026 02:00:18 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong wealth management growth outpaces hiring amid AI adoption",
-      "brief": "Hong Kong's private wealth assets have grown substantially, but the industry has not expanded headcounts proportionally as wealth management firms increasingly deploy AI and technology to enhance employee productivity. This efficiency gain suggests the sector is automating relationship management functions, which could reshape employment patterns in the financial services industry while maintaining asset growth.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3369160/ai-uptake-sees-wealth-management-headcounts-hong-kong-trail-growth-assets?utm_source=rss_feed",
-      "published": "Tue, 29 Sep 2026 23:00:09 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong IPO fundraising doubles to record high in 2026",
-      "brief": "Hong Kong's IPO market raised US$48.4 billion across 112 companies in the first nine months of 2026, doubling previous levels and marking the highest nine-month total since records began in 1980. This surge demonstrates Hong Kong's continued strength as a capital markets hub despite competition from other exchanges like Nasdaq, with significant implications for China's financial sector access to international capital.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-      "published": "Wed, 30 Sep 2026 08:00:27 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong positioned to become world's leading arbitration hub",
-      "brief": "Hong Kong Bar Association leadership claims the territory could surpass London as the top arbitration center within a decade, driven by its role as a global fundraising capital for mainland Chinese businesses. The city has experienced rapid growth in arbitration work and is attracting elite international legal talent to high-stakes cases. This shift would represent a significant reallocation of financial and legal services influence from Western to Asian markets.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3369627/hong-kong-could-overtake-london-top-arbitration-hub-decade-bar-association-head?utm_source=rss_feed",
-      "published": "Fri, 02 Oct 2026 14:52:25 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Chinese Foreign Minister Wang Yi discusses policy at CSIS forum",
-      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for high-level dialogue on bilateral relations between the two powers during a period of strategic competition.",
+      "headline": "RFA Mandarin Service Marks 28 Years of Broadcasting to China",
+      "brief": "Radio Free Asia celebrated its Mandarin service's inaugural broadcast on September 29, 1996, marking nearly three decades of providing news content to Chinese audiences. The milestone reflects RFA's continued role as a U.S.-supported broadcaster delivering alternative news perspectives to mainland China, where state media dominates domestic information channels.",
       "category": "foreign_relations",
       "severity": "low",
       "sources_used": [
-        "CSIS"
+        "Radio Free Asia"
       ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Hong Kong relaxes advertising rules for broadcasters amid streaming competition",
-      "brief": "Hong Kong authorities plan to relax indirect advertising restrictions for broadcasters in response to industry requests and competition from online and streaming platforms. The government is reviewing advertising codes of practice to improve the business environment for broadcast operators. This regulatory adjustment reflects Hong Kong's effort to maintain competitiveness in its media sector against digital platforms.",
-      "category": "economy",
-      "severity": "low",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369589/hong-kong-relax-ad-rules-broadcasters-boost-business-edge-minister-says?utm_source=rss_feed",
-      "published": "Sat, 03 Oct 2026 04:00:07 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/",
+      "published": "Tue, 29 Sep 2026 13:01:07 +0000",
+      "raw_source": "Radio Free Asia"
     }
   ],
   "deep_dive": {
@@ -257,52 +208,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technological competition, Taiwan policy differences, and strategic rivalry in the Indo-Pacific."
+      "summary": "Relations remain strained due to trade disputes, technology competition, Taiwan policy differences, and strategic rivalry in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepening military, energy, and diplomatic cooperation, though without formal alliance commitments."
+      "summary": "Strategic partnership has deepened following Russia's Ukraine invasion, with increased energy trade and coordinated positions against Western sanctions."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing trade interdependence with growing concerns over human rights, market access, and geopolitical competition."
+      "summary": "Relations are mixed, with economic interdependence alongside growing EU concerns about China's trade practices, human rights record, and geopolitical assertiveness."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and has intensified military pressure, political isolation efforts, and coercive diplomatic measures against the island."
+      "summary": "Relations remain adversarial as China views Taiwan as a breakaway province and maintains military pressure while opposing any international recognition of Taiwan's independence."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by historical disputes, the Senkaku Islands territorial disagreement, and differing security alignments in the region."
+      "summary": "Bilateral ties are strained by territorial disputes over the Senkaku Islands, historical grievances, and Japan's alignment with the US-led security architecture in the region."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, military clashes, and competing regional influence efforts have created significant tensions between China and India despite trade engagement."
+      "summary": "Relations have deteriorated significantly due to unresolved border disputes, military clashes, and strategic competition for regional influence in South Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain cooperative relations centered on energy trade, Belt and Road Initiative projects, and strategic economic partnerships."
+      "summary": "Relations are pragmatic and strengthening, focused on energy trade, investment partnerships, and coordination on regional issues despite differing governance models."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Philippines-China relations oscillate between cooperation on infrastructure and investment while managing South China Sea territorial disputes and security concerns."
+      "summary": "Relations oscillate between cooperation and tension, with disputes over South China Sea territorial claims offset by economic ties and occasional diplomatic engagement."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China and Brazil maintain strong economic ties and cooperative relations through trade, investment, and coordination in multilateral forums like BRICS."
+      "summary": "Relations are broadly cooperative based on trade, investment, and coordination within BRICS, though Brazil maintains some concerns about market access and intellectual property."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Australia-China relations have deteriorated due to Australian concerns over national security, foreign interference, and support for investigations into COVID-19 origins."
+      "summary": "Relations remain strained following Australian calls for COVID-19 investigations and trade restrictions, though recent diplomatic efforts show modest signs of normalization."
     }
   ]
 }
