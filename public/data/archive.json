@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-10-09",
+      "articles": [
+        {
+          "headline": "NATO Official Warns of Escalating Russian Hybrid Warfare in Europe",
+          "brief": "Former U.S. NATO representative Julianne Smith argues that Russian hybrid warfare operations in Europe are intensifying faster than NATO's defensive capabilities. Russia is attempting to erode support for Ukraine and undermine NATO's collective defense commitments through campaigns designed to weaken transatlantic resolve. Smith contends NATO's current response strategies are insufficient and outdated for countering these evolving threats.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase",
+          "published": "Wed, 07 Oct 2026 04:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Faces Demographic Decline and Political Stagnation",
+          "brief": "China is experiencing concurrent demographic decline and political paralysis that threaten its long-term economic sustainability and great power status. The combination of a shrinking workforce, aging population, and constrained policy flexibility creates structural headwinds for continued growth. These factors carry significant implications for China's regional influence and global economic dynamics.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner",
+          "published": "Mon, 05 Oct 2026 04:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China proposes reciprocal nuclear laboratory visits with United States",
+          "brief": "China has proposed mutual visits to nuclear laboratories between Chinese and U.S. officials as a potential confidence-building measure, despite ongoing disagreements over nuclear force sizing and arms control approaches. The proposal suggests Beijing's interest in technical-level dialogue on nuclear issues, though fundamental strategic differences remain unresolved. Such exchanges could establish procedural mechanisms for information sharing on specific technical matters.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/why-is-china-proposing-reciprocal-nuclear-laboratory-visits/",
+          "published": "Fri, 09 Oct 2026 21:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China pressure drives Philippines-Taiwan commercial engagement expansion",
+          "brief": "The Philippines is strengthening trade ties with Taiwan by opening a second trade office in Cebu, while simultaneously defining its own interpretation of the one-China policy independent of Beijing's demands. This development reflects Manila's strategic hedging amid Chinese pressure, potentially signaling a shift toward balancing great power competition through economic diversification rather than capitulation to Beijing's preferences.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China implements tech secrecy rules affecting foreign visitors",
+          "brief": "China has launched new exit regulations designed to protect technological secrets, particularly in artificial intelligence development. The restrictions could potentially prevent Taiwanese visitors from leaving the country and reflect escalating technological competition between Beijing and Washington. Analysts interpret the measures as part of broader efforts to safeguard advanced technology amid intensifying U.S.-China rivalry.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
+          "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The forum provided a platform for assessing U.S. military strategy and positioning in the region amid evolving geopolitical dynamics.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "US lawmakers introduce bill for Hong Kong resident green cards",
+          "brief": "Two Democratic US lawmakers have introduced the Hong Konger Promise of Refuge Act to provide a pathway to permanent residency and citizenship for Hong Kong residents currently in the United States. Observers and authorities have dismissed the initiative as primarily a political gesture with limited prospects for passage. The proposal reflects ongoing US-China tensions over Hong Kong's autonomy and represents congressional efforts to support Hong Kong residents amid concerns about freedoms in the territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3370390/us-lawmakers-push-green-card-bill-hongkongers-observers-doubt-success?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 12:44:40 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Uyghur advocates protest Xi Jinping visit to Washington",
+          "brief": "Uyghur rights advocates organized demonstrations near the White House during President Trump's state dinner with Chinese President Xi Jinping. The protests highlight ongoing tensions between U.S. human rights concerns and diplomatic engagement with China at the highest levels of government.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/09/25/uyghur-protest-china-xi-jinping/",
+          "published": "Fri, 25 Sep 2026 21:17:27 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Tibetan activists protest Xi's Washington visit over rights concerns",
+          "brief": "Thousands of Tibetan activists organized demonstrations during Chinese President Xi Jinping's Washington visit to protest China's ethnic unity law and human rights policies. The protests highlight ongoing concerns among diaspora communities regarding Beijing's governance of ethnic minorities and may complicate U.S.-China diplomatic engagement.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/24/tibet-protest-xi-jinping-china-washington-trump-photos/",
+          "published": "Thu, 24 Sep 2026 17:48:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Xi Jinping receives unprecedented welcome protocol at Trump summit",
+          "brief": "Chinese President Xi Jinping was greeted with unusual diplomatic protocol during a summit with President Trump, deviating from standard State Visit procedures at the White House. The exceptional reception suggests potential shifts in U.S.-China bilateral engagement and may indicate efforts to establish collaborative diplomatic channels between the two major powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/23/trump-xi-jinping-arrival-pictures/",
+          "published": "Wed, 23 Sep 2026 23:10:31 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur and Tibetan groups seek human rights focus at Xi-Trump summit",
+          "brief": "Exile advocacy groups are positioning human rights issues, including religious freedom and genocide allegations, as focal points for discussions during Xi Jinping's visit to Washington. The groups' lobbying efforts suggest potential friction points in U.S.-China bilateral talks beyond traditional diplomatic and economic agendas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/23/xi-trump-summit-washington-2026/",
+          "published": "Wed, 23 Sep 2026 22:14:53 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur advocate criticizes China's human rights warning before Trump summit",
+          "brief": "Uyghur rights advocate Rebiya Kadeer has criticized China's preemptive warnings against discussing human rights issues ahead of an anticipated Trump-Xi summit. Kadeer characterized the warnings as statements inappropriate for a confident nation, suggesting China may be attempting to restrict diplomatic discussions on sensitive human rights topics during high-level talks.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/09/23/uyghur-xi-trump-china-summit-human-rights/",
+          "published": "Wed, 23 Sep 2026 21:18:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Eyes Yuan Expansion Through US-China Yield Gap Opportunity",
+          "brief": "Chinese policy researchers suggest leveraging the widening interest rate differential between US Treasuries (5.22%) and Chinese government bonds (1.69%) to strengthen yuan's international financial infrastructure. The strategy aims to convert China's temporary low-rate advantage into sustained global currency adoption through improved financing, hedging, and asset absorption systems.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370252/can-china-use-widening-yield-gap-between-us-dollar-and-yuan-boost-global-role?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 03:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong launches liquidity reforms amid US market competition",
+          "brief": "Hong Kong's Securities and Futures Commission is implementing market reforms including extended trading hours and shorter settlement cycles to combat capital outflows driven by US equity rally and dollar strength. These measures reflect competitive pressure from emerging markets as US financial markets attract regional investment flows. The reforms aim to enhance Hong Kong's attractiveness as a financial hub amid shifting global capital dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370363/hong-kong-outlines-new-liquidity-reforms-us-market-rally-pulls-funds-away?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 10:01:00 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US lawmaker seeks Fed review of Hong Kong dollar funding access",
+          "brief": "A US House committee chairman has requested the Federal Reserve review Hong Kong's access to its short-term dollar funding facility, citing concerns about the city's ties to China. Analysts assess the practical impact would be limited since Hong Kong rarely relies on this facility for regular financing, though restrictions could potentially undermine US dollar dominance in global markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370283/hong-kong-faces-limited-impact-if-fed-curbs-access-us-dollar-funding-facility-analysts?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 05:08:34 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's quant funds face regulatory scrutiny despite growth potential",
+          "brief": "Beijing has increased oversight of quantitative trading funds due to market stability concerns, though industry leaders argue they are essential for China's development as a financial powerhouse. The significant performance gap between quant funds and retail investors has raised questions about market fairness and systemic risk. Regulatory actions may impact the competitiveness of China's capital markets and the country's broader financial modernization efforts.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3369650/quant-funds-are-necessary-chinas-ascent-financial-powerhouse-investor?utm_source=rss_feed",
+          "published": "Mon, 05 Oct 2026 00:00:35 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+          "brief": "China has initiated a policy framework promoting 'Internet sovereignty' as a governing concept for the global Internet, representing a shift toward national control of digital infrastructure and content. This initiative has significant implications for international cyber governance, data security standards, and the future structure of global internet architecture. The approach prioritizes state authority over internet operations, potentially fragmenting the currently interconnected global internet system.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Taiwan authorities raid gay bar ahead of Pride event",
+          "brief": "Taiwanese authorities conducted a raid on a gay bar that legal experts say exceeded legal authority, raising concerns about potential discrimination against LGBTQ+ communities. The incident occurs shortly before Taiwan hosts Asia's largest Pride event and threatens the country's international reputation as a regional leader in LGBTQ+ rights protection.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/a-raid-on-a-gay-bar-risks-taiwans-lgbtq-friendly-reputation/",
+          "published": "Fri, 09 Oct 2026 04:01:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong arrests man for seditious social media posts under national security law",
+          "brief": "Hong Kong's National Security Department charged a 52-year-old man with publishing seditious material on social media intended to provoke hatred toward central authorities, the Hong Kong government, and judiciary. The case reflects ongoing enforcement of Hong Kong's national security legislation and demonstrates authorities' focus on monitoring online speech. This development underscores Beijing's continued implementation of security measures in Hong Kong following the 2020 National Security Law.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370273/hong-kong-national-security-police-charge-man-over-seditious-social-media-posts?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 04:13:05 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong legislature endorses first five-year development plan",
+          "brief": "Hong Kong's Legislative Council has passed motions supporting the city's inaugural five-year plan, with Beijing's top representative urging mainland enterprises to align with the government blueprint. The unanimous legislative backing reflects Hong Kong's integration with Beijing's broader governance framework and policy coordination. This signals continuity in aligning Hong Kong's economic and administrative priorities with mainland China's strategic objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3370401/hong-kong-lawmakers-back-5-year-plan-firms-urged-align-blueprint?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 14:44:17 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Article Mismatch: Ukraine Coverage in China Economy Feed",
+          "brief": "The provided article about Russia's plans regarding Ukraine does not contain information relevant to China or economic matters as indicated by the category hint. This appears to be a content categorization error or feed misconfiguration, as the article focuses on geopolitical military strategy rather than Chinese economic developments.",
+          "category": "economy",
+          "severity": "low",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine-dmytro-kuleba",
+          "published": "Wed, 30 Sep 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 21,
+        "high_priority": 2,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 13,
+          "economy": 6
+        },
+        "updated_at": "2026-10-09T16:42:47.872850Z"
+      }
+    },
+    {
       "date": "2026-10-08",
       "articles": [
         {
@@ -20810,238 +21078,6 @@
           "economy": 5
         },
         "updated_at": "2026-07-12T11:07:22.978590Z"
-      }
-    },
-    {
-      "date": "2026-07-11",
-      "articles": [
-        {
-          "headline": "Taiwan's defense strategy may overlook critical infrastructure vulnerabilities",
-          "brief": "Analysis suggests Taiwan's focus on drone defense technology misses broader lessons from Ukraine's conflict, particularly regarding comprehensive infrastructure resilience. The assessment indicates Taiwan's military readiness gap extends beyond specific weapons systems to encompass integrated defensive capabilities and supply chain vulnerabilities. This strategic oversight could significantly impact Taiwan's capacity to sustain prolonged conflict or economic disruption.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
-          "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Pentagon Designates Major Chinese Tech Firms as Military Companies",
-          "brief": "The U.S. Department of Defense has added prominent Chinese companies including Tencent, DJI, Unitree, and Alibaba to its official list of Chinese military companies. This designation has significant implications for U.S.-China relations and may lead to restrictions on these firms' access to American technology, investment, and markets. The move reflects escalating strategic competition between the two nations over dual-use technologies and supply chain dependencies.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/what-the-pentagons-cmc-list-means-for-china-us-relations/",
-          "published": "Sat, 11 Jul 2026 02:05:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China conducts Pacific missile test amid allied military activity",
-          "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji signing a new defense pact and concurrent allied military exercises. Analysts characterize the test as a messaging effort directed at U.S.-aligned regional partners. The timing suggests China is responding to increased security cooperation among Indo-Pacific allies.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
-          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan deploys robodogs for unmanned South China Sea monitoring",
-          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned military capabilities in its competition with China. Both Beijing and Taipei are adopting autonomous technologies for surveillance operations, reflecting an emerging technological dimension in cross-strait military competition. This development suggests Taiwan is prioritizing force modernization and reducing personnel exposure in contested maritime regions.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
-          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Vietnam expands Spratly Islands construction despite lagging behind China",
-          "brief": "Vietnam is conducting significant reclamation and construction activities across 27 features in the disputed Spratly Islands, though analysts indicate these efforts remain insufficient to match China's extensive development in the region. The construction activity reflects ongoing competition for territorial control and resource access in one of Asia's most strategically contested areas. This development underscores the persistent militarization and infrastructure competition between claimant states in the South China Sea.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/vietnam-south-china-sea-spratly-island-construction/",
-          "published": "Mon, 08 Jun 2026 14:07:06 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "North Korea upgrades ports to accommodate larger naval destroyers",
-          "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades as part of its five-year naval modernization plan, according to expert analysis. The port improvements suggest capability to construct and operate larger destroyer-class vessels, representing a significant expansion of Pyongyang's maritime military capacity. This development has implications for regional naval balance and potential shifts in North Korea's power projection capabilities.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China uses environmental surveys to normalize territorial claims",
-          "brief": "China is conducting environmental research initiatives in disputed waters as a strategy to establish and normalize its presence in contested maritime areas, according to analysts cited by Radio Free Asia. The scientific surveys serve a dual purpose of advancing environmental knowledge while simultaneously bolstering Beijing's territorial assertions. This approach represents a civilian mechanism for reinforcing territorial claims in strategically important regions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "North Korea expands solar energy capacity near Chinese border",
-          "brief": "Satellite imagery indicates that Sinuiju and other North Korean border cities are experiencing reduced nighttime darkness due to increased solar power deployment, suggesting a renewable energy infrastructure expansion. This development may indicate efforts to address chronic power shortages that have historically constrained economic activity in the region. The renewable energy shift could have implications for North Korea's energy independence and cross-border economic activity with China.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/06/27/north-korea-solar-plant-boom/",
-          "published": "Sat, 27 Jun 2026 01:59:54 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China's Foreign Minister to Discuss US Relations at CSIS",
-          "brief": "Wang Yi, China's Minister of Foreign Affairs, participated in a CSIS Statesmen's Forum discussion in February 2016 focused on Chinese foreign policy and US-China relations. The forum provided a platform for senior Chinese diplomatic leadership to address strategic bilateral issues with American audiences.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "Uyghur activist questions Bangkok bombing trial transparency",
-          "brief": "Rebiya Kadeer, a prominent Uyghur human rights activist, has called for greater scrutiny of the legal process and evidence in death sentences related to the 2015 Erawan Shrine bombing in Bangkok. Her intervention raises questions about due process and potential politicization of terrorism prosecutions that could affect China-Thailand relations and international perceptions of judicial fairness in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/06/11/uyghur-thailand-bombing-verdict/",
-          "published": "Thu, 11 Jun 2026 18:16:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Pursues Internationalization of Yuan Currency",
-          "brief": "China is advancing efforts to expand the global use and acceptance of the yuan as an international currency, potentially challenging the dominance of the U.S. dollar in global finance. Success in this initiative would increase China's economic influence, reduce its exposure to dollar-based sanctions, and strengthen its position in international trade and investment.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3359916/yuan-global-ambitions?utm_source=rss_feed",
-          "published": "Thu, 09 Jul 2026 02:41:53 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China Expands Hong Kong's Offshore Yuan Hub Role",
-          "brief": "China's central bank announced measures to strengthen Hong Kong's position as an offshore yuan trading center, including a 60 percent increase in mainland institutions' annual offshore bond purchasing limits to 800 billion yuan ($118 billion) through the Southbound Bond Connect scheme. This expansion aims to internationalize the yuan and support Hong Kong's financial markets amid broader efforts to promote the currency's global adoption.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3359848/china-further-boosts-hong-kongs-role-offshore-yuan-hub?utm_source=rss_feed",
-          "published": "Wed, 08 Jul 2026 09:11:30 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's leading DRAM maker launches $4.3 billion Shanghai IPO",
-          "brief": "ChangXin Memory Technologies (CXMT), China's top domestic DRAM manufacturer, has initiated its Shanghai Star Market listing with a subscription date set for July 16, expected to raise at least 29.5 billion yuan ($4.3 billion). The offering would rank as the second-largest on the tech-focused Star Market, reflecting China's strategic push to develop domestic semiconductor manufacturing capabilities. This IPO demonstrates China's continued investment in reducing dependence on foreign memory chip suppliers amid global semiconductor competition.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/article/3359955/chinas-top-dram-maker-sets-date-us43b-shanghai-ipo-amid-memory-boom?utm_source=rss_feed",
-          "published": "Thu, 09 Jul 2026 06:49:57 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong police arrest 65 in triad-linked organized crime crackdown",
-          "brief": "Hong Kong authorities arrested 65 individuals across a two-day joint operation targeting illegal gambling, sex work, and other illicit activities linked to organized crime syndicates. The coordinated effort by police, fire services, and immigration authorities raided multiple illegal establishments and represents continued law enforcement action against triad-controlled revenue sources. This reflects ongoing efforts by Hong Kong and Beijing to combat organized crime networks that generate significant illicit income.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3360229/65-arrested-hong-kong-crackdown-targeting-illicit-triad-linked-income-sources?utm_source=rss_feed",
-          "published": "Sat, 11 Jul 2026 10:49:16 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "China's Communist Party Advocates Patient Capital for AI Investment",
-          "brief": "China's top theoretical journal, Qiushi, has published multiple commentaries promoting 'patient capital' investment strategies to support long-term AI innovation while mitigating speculative excess in the sector. The sustained messaging from the party's official publications signals Beijing's concern about unsustainable investment patterns and its intent to balance rapid AI development with financial stability.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/economy/china-economy/article/3360127/top-chinese-political-journal-calls-patient-capital-amid-ai-investment-frenzy?utm_source=rss_feed",
-          "published": "Fri, 10 Jul 2026 11:30:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's automation drive displaces factory workers in manufacturing regions",
-          "brief": "Chinese manufacturers, particularly in electronics hubs like Kunshan, are rapidly replacing workers with robots, creating unemployment for displaced factory workers with limited economic alternatives. This automation trend reflects broader industrial restructuring that could have significant implications for China's labor market, social stability, and future workforce development. The shift demonstrates the economic tensions between technological modernization and workforce displacement in manufacturing-dependent regions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-          "published": "Sat, 11 Jul 2026 04:01:08 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "BlackRock: China emerges as key portfolio diversifier for global investors",
-          "brief": "Global investors increasingly view China as both a growth opportunity and portfolio diversifier amid elevated inflation and market volatility, according to BlackRock's global chief investment strategist. Chinese assets offer exposure to different economic drivers that can help optimize traditional asset-allocation strategies. This shift reflects growing recognition of China's role in managing portfolio risk amid changing market correlations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3360071/chinas-appeal-portfolio-diversifier-grows-blackrock-strategist-says?utm_source=rss_feed",
-          "published": "Fri, 10 Jul 2026 06:00:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong Addresses Economic Decline Through Institutional Reforms",
-          "brief": "Hong Kong is implementing institutional changes to counter predictions of economic decline amid concerns about reduced political autonomy following 2020's national security law and external pressures. The city is attempting to reestablish its competitive position through wealth management and institutional strengthening initiatives. Success in these efforts will be critical to Hong Kong's long-term viability as a global financial center.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3359698/how-hong-kong-fighting-redefine-its-future-institutional-moat-wealth-surge?utm_source=rss_feed",
-          "published": "Tue, 07 Jul 2026 22:00:09 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 7,
-        "articles_total": 18,
-        "high_priority": 2,
-        "by_category": {
-          "foreign_relations": 6,
-          "military": 4,
-          "economy": 8
-        },
-        "updated_at": "2026-07-11T10:55:02.898426Z"
       }
     }
   ]
