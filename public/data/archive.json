@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-10-11",
+      "articles": [
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Framework",
+          "brief": "China is advancing 'Internet sovereignty' as a key governing principle for the global Internet, representing a significant shift in Beijing's approach to digital governance and international norms. This initiative has implications for U.S.-China competition over information control, cybersecurity standards, and the future architecture of global digital infrastructure. The concept challenges Western models of Internet governance and could reshape international agreements on cyber policy.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China faces demographic decline and political constraints on growth",
+          "brief": "China confronts structural challenges including demographic decline and political paralysis that constrain economic dynamism. These factors have significant implications for China's trajectory as a great power and its ability to sustain long-term economic growth and geopolitical influence.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner",
+          "published": "Mon, 05 Oct 2026 04:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China Proposes Reciprocal Nuclear Laboratory Visits With U.S.",
+          "brief": "China has proposed reciprocal visits to nuclear laboratories as a potential confidence-building measure with the United States, despite ongoing disagreements over nuclear force sizes and arms control pathways. The proposal suggests a potential avenue for technical information exchange on nuclear issues, though fundamental strategic differences remain between the two powers. This initiative could indicate Beijing's interest in managing nuclear competition through increased transparency mechanisms.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/why-is-china-proposing-reciprocal-nuclear-laboratory-visits/",
+          "published": "Fri, 09 Oct 2026 21:50:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China pressure prompts Philippines to redefine one-China policy independently",
+          "brief": "The Philippines is asserting autonomy in defining its one-China policy amid increased Chinese pressure, while Taiwan plans to expand its presence by opening a second trade office in Cebu. This development signals Manila's attempt to balance its relationships with Beijing and Taipei, potentially strengthening Philippines-Taiwan economic ties despite Chinese objections.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China implements tech export controls amid US AI competition",
+          "brief": "China has launched new exit regulations designed to protect technology secrets, with analysts attributing the move to intensifying artificial intelligence competition with the United States. The regulations could potentially restrict the movement of Taiwanese visitors and others from leaving the country, raising concerns about their application and enforcement. This development reflects broader strategic tensions over technological leadership and intellectual property protection between Beijing and Washington.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/",
+          "published": "Tue, 22 Sep 2026 22:02:30 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Redefines 'Global South' to Advance Strategic Interests",
+          "brief": "China has adopted its own definition of the term 'Global South' that diverges from international consensus, reflecting Beijing's effort to shape geopolitical narratives and coalition-building among developing nations. This definitional approach serves China's strategic interests in positioning itself as a leader of non-Western states and advancing its foreign policy objectives. The move has implications for China's ability to mobilize support for its initiatives and influence international alignments outside traditional Western-led frameworks.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/chinas-bid-to-define-the-global-south/",
+          "published": "Sun, 11 Oct 2026 05:29:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Tibetan activists protest Xi's Washington visit over rights concerns",
+          "brief": "Tibetan activists organized protests during Chinese President Xi Jinping's Washington visit, with organizers estimating thousands of participants gathered to oppose China's 'ethnic unity law' and raise human rights concerns. The demonstration reflects ongoing tensions between Beijing's policies in Tibet and diaspora communities' advocacy efforts during high-profile diplomatic engagements.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/09/24/tibet-protest-xi-jinping-china-washington-trump-photos/",
+          "published": "Thu, 24 Sep 2026 17:48:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Exile groups urge Trump to raise human rights issues during Xi visit",
+          "brief": "Uyghur and Tibetan exile advocacy groups are pressing the Trump administration to address religious freedom and alleged genocide allegations during Chinese President Xi's Washington summit. The organizations view the high-level meeting as an opportunity to elevate human rights concerns in U.S.-China bilateral discussions. The outcome could signal whether the administration prioritizes these issues in its diplomatic engagement with Beijing.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/23/xi-trump-summit-washington-2026/",
+          "published": "Wed, 23 Sep 2026 22:14:53 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur advocate criticizes China's human rights warnings before Trump summit",
+          "brief": "Uyghur rights advocate Rebiya Kadeer has criticized China's warnings against discussing human rights issues ahead of a planned Trump-Xi summit, characterizing such restrictions as inconsistent with a strong nation's conduct. The statement suggests potential friction over human rights topics during high-level U.S.-China diplomatic engagement. This reflects ongoing tensions between Beijing's demands for non-interference on sensitive domestic issues and international human rights advocacy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/09/23/uyghur-xi-trump-china-summit-human-rights/",
+          "published": "Wed, 23 Sep 2026 21:18:38 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's Investment Banks Shift Strategy to Global Market Competitiveness",
+          "brief": "Chinese investment banks are moving beyond emulating Western models like Goldman Sachs to develop independent global competitiveness, following President Xi Jinping's 2023 directive to cultivate world-class financial institutions. This strategic pivot reflects Beijing's broader ambition to establish Chinese financial firms as major players in international markets rather than domestic replicas of US counterparts. The shift has significant implications for global financial markets and China's economic influence internationally.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3370375/chinese-brokers-work-crack-final-code-win-clients-global-stage?utm_source=rss_feed",
+          "published": "Sun, 11 Oct 2026 14:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Eyes Yuan Internationalization Via US-China Yield Differential",
+          "brief": "Chinese policymakers are considering leveraging the widening gap between US Treasury yields (5.22%) and Chinese government bond yields (1.69%) to strengthen the yuan's global financial role. A Beijing-based think tank researcher suggests China should use this cyclical advantage to develop supporting infrastructure for yuan-denominated financing, hedging, and asset absorption. Success could meaningfully advance China's long-term objective of reducing reliance on the US dollar in international transactions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370252/can-china-use-widening-yield-gap-between-us-dollar-and-yuan-boost-global-role?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 03:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong regulators implement liquidity reforms amid capital outflows",
+          "brief": "Hong Kong's Securities and Futures Commission is advancing market liquidity reforms including extended trading hours and shorter settlement cycles as the region experiences capital outflow pressure from US market strength and dollar appreciation. These measures reflect efforts to maintain Hong Kong's competitiveness as an Asian financial hub amid broader emerging market capital flight driven by US equity rally.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370363/hong-kong-outlines-new-liquidity-reforms-us-market-rally-pulls-funds-away?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 10:01:00 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US Lawmaker Seeks Review of Hong Kong's Fed Dollar Funding Access",
+          "brief": "A US House committee chairman has called for a review of the Hong Kong Monetary Authority's access to Federal Reserve short-term dollar funding facilities. Analysts assess the practical impact would be limited since Hong Kong does not regularly rely on this facility, though such restrictions could potentially undermine US dollar global dominance.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370283/hong-kong-faces-limited-impact-if-fed-curbs-access-us-dollar-funding-facility-analysts?utm_source=rss_feed",
+          "published": "Fri, 09 Oct 2026 05:08:34 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China implements commercial land lease renewal policies to stabilize real estate",
+          "brief": "Guangzhou and Shanghai have announced new policies governing commercial and industrial land lease renewals, aimed at stabilizing China's property market and restoring investor confidence. These measures are expected to facilitate real estate investment trust (REITs) issuance and support Beijing's broader efforts to revive the struggling real estate sector. The policy changes address investor concerns about commercial land lease expiration and represent a potential turning point in market stabilization efforts.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3370350/clock-ticks-chinas-commercial-land-leases-renewal-plans-allay-investors-concerns?utm_source=rss_feed",
+          "published": "Sun, 11 Oct 2026 01:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong, Shenzhen Launch Upgraded Huanggang Port Checkpoint",
+          "brief": "Hong Kong Chief Executive John Lee described the revamped Huanggang Port checkpoint as a critical milestone for Greater Bay Area connectivity, with the facility launching on Monday following joint construction efforts by Hong Kong and Shenzhen. The checkpoint upgrade supports Hong Kong's alignment with China's national five-year development plan and enhances infrastructure integration within the Greater Bay Area framework.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370474/huanggang-port-milestone-integrating-hong-kong-greater-bay-area-john-lee?utm_source=rss_feed",
+          "published": "Sun, 11 Oct 2026 05:08:51 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong to host APEC finance ministers meeting with four key priorities",
+          "brief": "Hong Kong will convene an APEC finance ministers meeting this month focusing on fiscal policies for livelihoods, digital infrastructure financing, inclusive finance, and developing financial talent. Financial Secretary Paul Chan emphasized these priorities align with Hong Kong's strengths and international financial center role, signaling the city's continued engagement in regional economic governance.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370472/hong-kong-finance-chief-highlights-4-priorities-ahead-apec-meeting-month?utm_source=rss_feed",
+          "published": "Sun, 11 Oct 2026 04:22:33 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "HKMA Licenses Bakai Bank, First Central Asian Bank in Hong Kong",
+          "brief": "Hong Kong's Monetary Authority has granted a banking license to Kyrgyzstan-based Bakai Bank, making it the first Central Asian bank to establish operations in the city. The move reflects deepening economic and trade ties between China and Central Asia, with Bakai Bank operating as a restricted license bank and becoming Hong Kong's 17th such institution. This development signals Beijing's strategic financial integration with Central Asian partners through Hong Kong's financial hub.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3365704/hkma-licenses-bakai-bank-citys-first-central-asia?utm_source=rss_feed",
+          "published": "Mon, 05 Oct 2026 09:42:58 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 17,
+        "high_priority": 2,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 9,
+          "economy": 7
+        },
+        "updated_at": "2026-10-11T16:03:31.343950Z"
+      }
+    },
+    {
       "date": "2026-10-10",
       "articles": [
         {
@@ -20858,214 +21078,6 @@
           "economy": 9
         },
         "updated_at": "2026-07-14T11:18:12.578971Z"
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "articles": [
-        {
-          "headline": "China's South China Sea buildup could complicate Taiwan conflict response",
-          "brief": "Security experts assess that China's maritime infrastructure development in the South China Sea is strategically linked to potential military action against Taiwan, potentially designed to distract or constrain Taiwan's regional allies. However, analysts note that such a scenario would be unlikely to fully materialize during actual conflict. The assessment underscores China's multifaceted approach to regional dominance and the interconnected nature of security challenges in the Indo-Pacific.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/08/south-china-sea-outpost-taiwan/",
-          "published": "Mon, 08 Jun 2026 18:53:18 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan's Military Preparedness Gaps Highlighted by Ukraine Conflict",
-          "brief": "Analysis suggests Taiwan faces significant vulnerabilities in defense infrastructure beyond drone technology, drawing lessons from Ukraine's experience in modern conflict. The assessment indicates Taiwan's readiness depends on comprehensive military modernization rather than single-technology solutions. This has implications for regional security dynamics and defense spending priorities in the Indo-Pacific.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
-          "published": "Wed, 08 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Pentagon designates major Chinese tech firms as military companies",
-          "brief": "The U.S. Department of Defense has added prominent Chinese companies including Tencent, DJI, Unitree, and Alibaba to its official list of Chinese Military Companies. This designation has significant implications for U.S.-China relations and may trigger restrictions on these firms' access to American technology and investment. The move reflects escalating U.S. scrutiny of Chinese private sector entities deemed to have military connections or applications.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/what-the-pentagons-cmc-list-means-for-china-us-relations/",
-          "published": "Sat, 11 Jul 2026 02:05:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China conducts Pacific missile test amid regional military activities",
-          "brief": "China conducted a missile test in the Pacific region that coincided with Australia and Fiji signing a new defense pact and allied military exercises across the region. Analysts assess the test as a messaging effort directed at U.S. allies, reflecting tensions over military cooperation and security arrangements in the Indo-Pacific. The timing suggests China is responding to or attempting to counter strengthening defense partnerships among regional U.S.-aligned nations.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
-          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan deploys robodogs for unmanned South China Sea monitoring",
-          "brief": "Taiwan is integrating autonomous robotic systems to monitor remote outposts in the South China Sea, marking a strategic shift toward unmanned military capabilities in its competition with China. Both Taipei and Beijing are adopting autonomous technology for regional surveillance operations. This development reflects Taiwan's effort to enhance operational efficiency and reduce personnel exposure in disputed maritime territories.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
-          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "North Korea upgrades ports to support larger naval destroyers",
-          "brief": "Satellite imagery indicates North Korea is enhancing shipyard facilities as part of its 5-year naval modernization plan, according to expert analysis. The port upgrades suggest capability to construct and deploy larger destroyer-class vessels, potentially altering regional maritime balance of power in East Asia. This development reflects Pyongyang's continued investment in naval force modernization despite international sanctions.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China uses environmental surveys to normalize presence in disputed waters",
-          "brief": "According to analysts, China is conducting environmental research in contested maritime territories as a strategy to establish and normalize its presence in disputed areas. The scientific surveys serve a dual purpose of appearing legitimate while advancing Beijing's territorial claims through increased activity and presence in these regions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Japan Establishes New Intelligence Agency With Western Support",
-          "brief": "Prime Minister Sanae Takaichi is establishing a new intelligence agency with assistance from Western partners to address security threats from Russia and China, marking a departure from post-World War II restrictions on Japanese security capabilities. This institutional restructuring reflects Tokyo's strategic shift toward enhanced autonomous intelligence gathering and military preparedness in response to regional threats.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html",
-          "published": "Mon, 13 Jul 2026 04:37:31 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "Global investors surge into Chinese hard tech firms amid record capital inflow",
-          "brief": "International capital has poured into China's advanced manufacturing and technology sector at unprecedented levels, with northbound Stock Connect holdings reaching an all-time high of 3.13 trillion yuan ($461.65 billion) by end of June. This record foreign investment reflects growing confidence in China's hard technology champions and signals a significant shift in global capital allocation toward Chinese innovation sectors.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3360310/chinese-hard-tech-giants-see-value-surge-first-half-global-investors-pour-capital?utm_source=rss_feed",
-          "published": "Mon, 13 Jul 2026 03:17:17 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China Pursues Expanded Global Role for Yuan Currency",
-          "brief": "China is advancing its efforts to increase the yuan's international usage and establish it as a global reserve currency alternative. This initiative reflects Beijing's broader strategy to reduce reliance on dollar-denominated transactions and enhance China's economic influence worldwide. Successfully internationalizing the yuan would have significant implications for global financial markets and geopolitical balance.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3359916/yuan-global-ambitions?utm_source=rss_feed",
-          "published": "Thu, 09 Jul 2026 02:41:53 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's Communist Party Warns Against AI Investment Speculation",
-          "brief": "China's official Communist Party theoretical journal Qiushi has published multiple commentaries advocating for \"patient capital\" approaches to investment, signaling concerns about speculative excess in the artificial intelligence sector. The messaging reflects Beijing's intent to channel investment toward long-term innovation while maintaining financial stability amid an AI investment boom. This shift suggests potential regulatory measures may follow to temper excessive speculation and ensure sustainable technology development.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/economy/china-economy/article/3360127/top-chinese-political-journal-calls-patient-capital-amid-ai-investment-frenzy?utm_source=rss_feed",
-          "published": "Fri, 10 Jul 2026 11:30:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Global investors increasingly view China as portfolio diversification asset",
-          "brief": "BlackRock's global chief investment strategist states that Chinese assets are gaining appeal among international investors as a diversification tool amid rising inflation and market volatility. The shift reflects growing recognition of China's exposure to different economic drivers beyond traditional growth narratives. This repositioning may increase capital inflows into Chinese markets as institutional investors rebalance their portfolios.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3360071/chinas-appeal-portfolio-diversifier-grows-blackrock-strategist-says?utm_source=rss_feed",
-          "published": "Fri, 10 Jul 2026 06:00:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Futu Holdings expects mainland China brokerage decline amid regulatory pressure",
-          "brief": "Futu Holdings, a Nasdaq-listed Chinese broker recently penalized by China's securities regulator, projects gradual contraction of its mainland business while maintaining Hong Kong operations. Mainland Chinese-funded accounts comprised only 13 percent of total accounts and 17 percent of client assets as of March 2026, signaling potential capital outflows from China's equity market. This reflects ongoing regulatory constraints on Chinese brokerages and investors' preference for offshore financial platforms.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3360400/futu-expects-mainland-brokerage-business-shrink-vows-keep-hong-kong-outlets?utm_source=rss_feed",
-          "published": "Mon, 13 Jul 2026 11:00:23 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong expands autonomous vehicle testing with Baidu robotaxi trials",
-          "brief": "Hong Kong authorities are expanding roads available for autonomous vehicle testing as Chinese tech company Baidu advances its Apollo Go robotaxi platform toward fully remote-controlled operations in the city. Baidu demonstrated its sixth-generation autonomous vehicle on Lantau Island, marking progress in commercializing driverless technology. This expansion reflects China's strategic push to develop and validate autonomous vehicle technology through Hong Kong's regulatory environment.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360345/hong-kong-ramps-autonomous-vehicle-tests-baidu-expands-trials-city?utm_source=rss_feed",
-          "published": "Mon, 13 Jul 2026 07:11:03 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong IPO market cools as small-cap listings underperform",
-          "brief": "Hong Kong's IPO market has weakened, with five of thirteen companies listing this week closing below their issue prices, including Apple supplier Luxshare which dropped 9 percent. The shift reflects investor preference for high-profile mega-deals like Zhipu AI over smaller company offerings, creating a liquidity squeeze for non-mega-cap issuers. This market bifurcation may impact smaller firms' access to capital and signals a more selective investment environment in Hong Kong's equity markets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3359991/small-cap-ipos-struggle-hong-kong-amid-lack-ai-megadeals?utm_source=rss_feed",
-          "published": "Thu, 09 Jul 2026 09:22:37 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong Exchange Attracts Increased Foreign Company Listings",
-          "brief": "The Hong Kong stock exchange is successfully attracting growing numbers of foreign companies from Asia and North America seeking international capital, including Kazakhstan's railway operator which filed for listing in June. This trend demonstrates Hong Kong's strengthening position as a global fundraising hub. The development has implications for China's financial markets influence and Hong Kong's competitive standing relative to other international exchanges.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3360049/hong-kong-exchange-marks-progress-luring-more-listings-abroad?utm_source=rss_feed",
-          "published": "Fri, 10 Jul 2026 02:30:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 16,
-        "high_priority": 3,
-        "by_category": {
-          "foreign_relations": 5,
-          "military": 4,
-          "economy": 7
-        },
-        "updated_at": "2026-07-13T12:26:33.285046Z"
       }
     }
   ]
