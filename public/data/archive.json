@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-10-18",
+      "articles": [
+        {
+          "headline": "Seabed mining threatens to complicate South China Sea territorial disputes",
+          "brief": "China's pursuit of rare earth resources through seabed mining in the South China Sea will introduce new layers of complexity to existing territorial disputes among multiple claimant states. The strategic importance of rare earth elements for military and technological applications makes control of seabed mining zones a significant geopolitical concern, potentially intensifying competition and friction in the contested waters.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/chinas-rare-earth-strategy-and-the-future-of-the-south-china-sea/",
+          "published": "Fri, 16 Oct 2026 02:21:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Russia Escalates Hybrid Warfare Against NATO, Outpacing Alliance Response",
+          "brief": "According to former U.S. NATO representative Julianne Smith, Russia is rapidly escalating hybrid warfare operations in Europe designed to weaken NATO cohesion and discourage Ukraine support. Smith contends that NATO's current deterrence strategies are outdated and insufficient to counter Putin's coordinated efforts to undermine Article 5 commitments and alliance unity. The assessment suggests a significant gap between the pace and sophistication of Russian operations and Western defensive capabilities.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase",
+          "published": "Wed, 07 Oct 2026 04:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US alleges corruption network enabling Chinese influence across Pacific",
+          "brief": "US officials have accused a Fijian individual of corruption linked to Chinese interests, prompting regional experts to warn of a broader network of illegal actors facilitating Beijing's influence in the Pacific. The arrangement reportedly allows China to benefit from illicit activities while maintaining plausible deniability. This suggests coordinated corruption mechanisms may be undermining governance across multiple Pacific island nations.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/10/15/china-fiji-zhao-fugang-influence-corruption/",
+          "published": "Thu, 15 Oct 2026 00:59:33 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China's central bank increases gold reserves at fastest pace in three years",
+          "brief": "The People's Bank of China added 740,000 troy ounces of gold in September 2024, bringing total holdings to 77.47 million ounces worth approximately $324 billion. This represents the largest monthly increase in three years and reflects Beijing's deliberate strategy to diversify away from US dollar assets amid US-China tensions. The move signals China's continued efforts to reduce dollar dependency while building hard asset reserves.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/plus/business/commodities/article/3370735/pboc-adds-most-gold-three-years-amid-china-pivot-us-dollar?utm_source=rss_feed",
+          "published": "Tue, 13 Oct 2026 09:40:58 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Urges Israel to Halt West Bank Settlement Expansion",
+          "brief": "Chinese Foreign Minister Wang Yi called on Israeli President Isaac Herzog to cease the forced establishment of West Bank settlements during a bilateral conversation at an international conference. This statement reflects China's diplomatic positioning on the Israeli-Palestinian conflict and its continued criticism of Israeli settlement policies. The engagement signals China's active involvement in Middle Eastern geopolitical issues despite its distance from the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 08:45:54 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese pressure prompts Philippines-Taiwan commercial engagement expansion",
+          "brief": "The Philippines is strengthening economic ties with Taiwan by opening a second trade office in Cebu, while simultaneously asserting an independent interpretation of its one-China policy distinct from Beijing's definition. This development suggests that intensified Chinese pressure is paradoxically driving closer Philippines-Taiwan relations, potentially reshaping regional commercial dynamics and complicating Beijing's cross-strait strategy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea relegated to secondary priority in Trump-Xi diplomatic engagement",
+          "brief": "During Trump-Xi summit discussions, North Korea issues were overshadowed by other pressing bilateral concerns. Despite Trump's stated interest in resuming talks with Kim Jong Un, experts assess that China is unlikely to serve as a diplomatic intermediary. This positioning suggests both leaders are prioritizing distinct strategic interests over Korean peninsula engagement.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/09/28/xi-trump-summit-north-korea-china/",
+          "published": "Mon, 28 Sep 2026 21:07:43 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China and AI uncertainties dominate IMF financial leaders meeting",
+          "brief": "Global finance and business leaders gathered at the IMF meeting in Bangkok expressed concern over uncertainties related to China's economic trajectory and artificial intelligence developments. These concerns reflect broader anxieties about economic stability and technological disruption affecting international financial markets and institutions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 17 Oct 2026 01:59:48 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Foreign banks retreat from China retail operations amid profitability challenges",
+          "brief": "Major foreign financial institutions including Citibank are closing retail banking branches in China despite two decades of operating permissions, reflecting persistently low returns in the state-dominated financial sector. The retreat signals a strategic shift toward digital services, wealth management, and corporate clients rather than mass retail banking. This consolidation indicates foreign banks are reassessing their long-term China strategy as domestic state-owned lenders maintain competitive advantages.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy?utm_source=rss_feed",
+          "published": "Sat, 17 Oct 2026 02:00:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong IPO fraud crackdown creates market uncertainty",
+          "brief": "Hong Kong regulators have intensified enforcement against fraudulent activity in the IPO market, prompting financial intermediaries and sponsors to implement stricter due diligence procedures. The regulatory action is expected to cause near-term market disruption, with some companies scaling back or canceling planned listings. This development could impact Hong Kong's competitiveness as a financial hub and reshape IPO market dynamics in the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3371074/hong-kongs-ipo-fraud-clampdown-sends-shock-waves-across-financial-sector?utm_source=rss_feed",
+          "published": "Fri, 16 Oct 2026 01:06:30 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Historic Bank of America fine signals tighter scrutiny of Chinese transactions",
+          "brief": "The US Treasury imposed over $1.21 billion in fines on Bank of America for compliance failures related to Chinese money-laundering networks, marking the third-largest penalty on record. Analysts anticipate this enforcement action will prompt Western financial institutions to increase due diligence on Chinese clients and cross-border transactions, potentially affecting capital flow dynamics between the US and China.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3370870/what-does-historic-bank-america-fine-mean-us-china-capital-streams?utm_source=rss_feed",
+          "published": "Wed, 14 Oct 2026 13:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Pursues AI Dominance Through Robotics and Hardware Integration",
+          "brief": "Carnegie China AI Initiative researchers argue that China is pursuing AI leadership by integrating hardware and software into AI-powered robotics, rather than focusing solely on software models as Western competitors do. This strategy could give China a competitive advantage in the AI race if successful. The finding suggests a potential strategic divergence in how China and the West are approaching artificial intelligence development.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race",
+          "published": "Mon, 12 Oct 2026 04:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Chinese Foreign Minister Wang Yi discusses US-China relations at CSIS",
+          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for high-level dialogue on strategic issues between the two powers during a period of significant geopolitical competition.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Chinese Solar Technology Bolsters Ukraine's Wartime Energy Independence",
+          "brief": "Despite strategic alignment with Russia, Chinese clean energy technology is providing Ukraine with critical energy resilience during ongoing conflict. Chinese solar installations are helping Ukraine reduce vulnerability to Russian attacks on conventional energy infrastructure. This development highlights how commercial technology flows can create strategic asymmetries independent of state-level geopolitical alignment.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/how-chinese-clean-tech-is-reshaping-ukraines-wartime-energy-security/",
+          "published": "Thu, 15 Oct 2026 22:16:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Uyghur activists lobby Rubio on Central Asian human rights",
+          "brief": "Uyghur activists are urging U.S. Secretary of State Marco Rubio to raise human rights concerns during his Uzbekistan visit and engage Central Asian officials on Uyghur community protection. The effort represents an attempt to leverage high-level U.S. diplomatic engagement to advance human rights advocacy in the region. This reflects broader efforts to integrate Uyghur rights issues into U.S. Central Asia policy discussions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/",
+          "published": "Fri, 16 Oct 2026 18:31:29 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "South African firebombing of Dalai Lama office under investigation",
+          "brief": "Police in South Africa are investigating a firebombing attack on the home office of the Dalai Lama's representative. A Tibetan rights group has attributed the incident to transnational repression by the Chinese Communist Party. The incident highlights concerns about alleged CCP efforts to suppress Tibetan activism and representation outside China's borders.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/10/16/tibet-south-africa-attack-fire-dalai-lama/",
+          "published": "Fri, 16 Oct 2026 15:16:54 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong police expand surveillance by integrating private mall CCTVs",
+          "brief": "Hong Kong's security chief revealed that police are negotiating with shopping centers to connect their CCTV systems to the government's expanding smart surveillance network. This integration aims to enhance crime-fighting capabilities across the territory. The development represents a significant expansion of centralized surveillance infrastructure involving private sector participation.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371292/hong-kong-link-private-mall-cameras-police-surveillance-network-chris-tang?utm_source=rss_feed",
+          "published": "Sun, 18 Oct 2026 07:48:41 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Expected to Announce Further Financial Market Opening Measures",
+          "brief": "Chinese regulators are anticipated to announce additional measures at the upcoming Financial Street Forum to accelerate financial market liberalization and yuan internationalization. The announcement follows Visa's recent regulatory approval, signaling potential expansion of foreign investor access to China's financial markets. These developments reflect Beijing's strategic focus on deepening cross-border investment channels and enhancing the competitiveness of its financial sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3371171/financial-street-forum-forecast-calls-more-opening-chinese-regulators?utm_source=rss_feed",
+          "published": "Fri, 16 Oct 2026 10:00:34 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Beijing Uses Hong Kong to Host Apec Finance Ministers Meeting",
+          "brief": "China has strategically selected Hong Kong to host the Apec Finance Ministers' Meeting, signaling Beijing's intent to reinforce the city's role as an international financial center and promote offshore renminbi development. The decision reflects China's broader effort to elevate Hong Kong's global economic standing during a critical period for its international financial positioning.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371251/why-hong-kong-hosting-apec-finance-ministers-meeting-there-another-agenda?utm_source=rss_feed",
+          "published": "Sun, 18 Oct 2026 01:00:06 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong regulators freeze $590M in IPO fraud as China's exports surge",
+          "brief": "Hong Kong securities regulators conducted a significant crackdown on IPO fraud, freezing US$590 million in assets across two groups. Concurrently, mainland China's export momentum strengthened due to robust tech demand, while domestic investors increased equity exposure and Hong Kong solidified its position as a leading global wealth management hub. The combined regulatory action and export growth signal both market challenges and underlying economic resilience in the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3371124/ipo-fraud-chinas-export-boom-us-inflation-5-figures-investors-are-watching?utm_source=rss_feed",
+          "published": "Fri, 16 Oct 2026 07:04:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "RFA marks 28 years broadcasting Mandarin to Chinese audiences",
+          "brief": "Radio Free Asia commemorates its first Mandarin broadcast to Beijing listeners on September 29, 1996, marking nearly three decades of operations. The milestone reflects the organization's sustained effort to provide information access to Chinese-language audiences. This represents the continued presence of U.S.-backed media broadcasting into China despite diplomatic tensions.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/",
+          "published": "Tue, 29 Sep 2026 13:01:07 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 21,
+        "high_priority": 3,
+        "by_category": {
+          "economy": 8,
+          "foreign_relations": 11,
+          "military": 2
+        },
+        "updated_at": "2026-10-18T13:40:37.304535Z"
+      }
+    },
+    {
       "date": "2026-10-17",
       "articles": [
         {
@@ -20929,202 +21197,6 @@
           "economy": 7
         },
         "updated_at": "2026-07-21T11:42:25.597370Z"
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "articles": [
-        {
-          "headline": "Taiwan reassesses U.S. security strategy amid American policy shifts",
-          "brief": "Taiwan may be relying on outdated assumptions about American commitment as U.S. policy becomes increasingly transactional under Trump-era approaches. The article suggests Taiwan should adopt a more self-reliant defense model similar to Singapore's approach rather than depending primarily on U.S. security guarantees. This reflects broader concerns about the reliability of traditional security partnerships in a shifting geopolitical environment.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/is-taiwan-pinning-its-strategy-on-an-outdated-vision-of-america/",
-          "published": "Fri, 17 Jul 2026 23:34:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Papua New Guinea Closes Taiwan Economic Office, Reducing Taipei's Pacific Presence",
-          "brief": "Papua New Guinea has closed Taiwan's economic office, further constraining Taiwan's diplomatic footprint in the Pacific region along a strategically significant energy corridor. The closure reflects China's expanding influence in the Pacific and Taiwan's diminishing official presence in key regional states. This development has implications for Taiwan's economic ties and geopolitical positioning in the Indo-Pacific.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/papua-new-guinea-just-closed-taiwans-economic-office/",
-          "published": "Fri, 17 Jul 2026 23:15:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
-          "brief": "The Philippines marked 10 years since an international court ruling on South China Sea disputes, though China continues to reject the decision and regional consensus on resolution remains elusive. The persistent disagreement between Beijing and Manila over maritime claims underscores ongoing tensions in a strategically significant area with implications for regional stability and freedom of navigation. The unresolved dispute reflects broader challenges in managing great power competition in Southeast Asia.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Global preference shifts toward China over US, Pew survey finds",
-          "brief": "A Pew Research Center survey indicates growing global confidence in Xi Jinping relative to Donald Trump, suggesting a potential shift in international perceptions of US and Chinese leadership. This trend reflects changing attitudes toward both nations' global influence and could have implications for diplomatic alliances and international cooperation frameworks. The data underscores evolving geopolitical sentiment that may affect US strategic positioning in key regions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 15 Jul 2026 17:02:41 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "China and US compete for nuclear energy dominance in Southeast Asia",
-          "brief": "Nuclear reactor exports have emerged as a strategic competition arena between China and the United States in Southeast Asia. This competition reflects broader geopolitical interests in the region, as control over critical infrastructure and technology access influences long-term regional influence and alignment. The expansion of nuclear energy partnerships represents a significant dimension of great power competition beyond traditional military domains.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/china-the-us-and-nuclear-energy-geopolitics-in-southeast-asia/",
-          "published": "Sat, 18 Jul 2026 01:09:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
-          "brief": "Chinese police in Urumqi arrested a mother and two sisters on suspicion of supporting terrorists after they sent goods to Turkey, according to their eldest sister. The arrests highlight ongoing tensions between Chinese security measures in Xinjiang and international family connections, potentially impacting diplomatic relations with Turkey and raising concerns about restrictions on cross-border civilian activities.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China and UAE establish cross-border QR payment system",
-          "brief": "China has linked its retail payment networks with the United Arab Emirates through an agreement involving Bank of China, UnionPay International, and UAE's Al Etihad Payments, enabling users to make payments across both countries using domestic mobile apps. The initiative represents China's continued effort to internationalize the yuan and reduce reliance on Western-dominated financial systems. This infrastructure development could facilitate increased bilateral trade and strengthen financial ties between China and the Gulf region.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3360913/china-and-uae-cross-border-qr-payment-link-boost-global-yuan?utm_source=rss_feed",
-          "published": "Fri, 17 Jul 2026 07:00:54 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese DRAM Manufacturer CXMT IPO Receives Record 212x Oversubscription",
-          "brief": "ChangXin Memory Technologies (CXMT), China's leading DRAM producer, received unprecedented retail investor demand with over 9.4 million accounts applying for shares in its Shanghai IPO, with applications reaching 212 times available shares. The exceptional oversubscription demonstrates strong domestic investor confidence in China's semiconductor manufacturing capabilities and reflects strategic importance of reducing reliance on foreign memory chip suppliers.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/article/3360892/chinese-memory-giant-cxmt-oversubscribed-212-times-mega-shanghai-ipo?utm_source=rss_feed",
-          "published": "Fri, 17 Jul 2026 07:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "EU's security-focused China approach risks undermining trade cooperation",
-          "brief": "The European Union is pursuing conflicting strategies toward China, attempting to maintain trade negotiations and practical cooperation while simultaneously adopting a more security-oriented posture toward Beijing. This contradiction may impede progress on bilateral economic and diplomatic initiatives. The tension between these competing narratives reflects broader strategic uncertainty within the EU regarding how to balance commercial interests with security concerns.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/the-eus-contradictory-narratives-on-china/",
-          "published": "Fri, 17 Jul 2026 23:55:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Europe Maintains Strategic Leverage Position Over China",
-          "brief": "According to The Diplomat, Europe retains diplomatic and economic leverage in its relationship with China, though analysts suggest this advantage may diminish over time. The article implies that European policymakers should act strategically to maintain negotiating power while it remains available. The timing of European action regarding China relations carries significant geopolitical implications for transatlantic interests.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/europe-still-has-leverage-over-china/",
-          "published": "Fri, 17 Jul 2026 23:51:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "India and Myanmar May Exchange Border Territory in Northeast",
-          "brief": "India and Myanmar are reportedly considering a territorial exchange involving Manipur's Chandel district and Myanmar's Kabaw Valley in Sagaing Region. Such an arrangement could reshape the disputed border between the two nations and potentially affect regional stability in South Asia. The exchange would represent a significant shift in bilateral border management if confirmed.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/is-india-planning-an-exchange-of-territory-with-myanmar/",
-          "published": "Fri, 17 Jul 2026 16:48:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Hong Kong court sentences mentally disabled man for subversion offenses",
-          "brief": "A 23-year-old waiter with intellectual disability received a 28-month prison sentence for publishing 118 subversive messages on social media, promoting pro-Taiwan content, and disseminating anti-Communist Party messages. The case demonstrates Hong Kong's continued enforcement of national security legislation, with courts proceeding against individuals despite mitigating circumstances such as cognitive impairment.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3361227/mentally-disabled-hong-kong-waiter-gets-28-months-inciting-subversion?utm_source=rss_feed",
-          "published": "Mon, 20 Jul 2026 10:43:38 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "Chinese dissident escapes to Canada via South Korea",
-          "brief": "Dong Guangping, a Chinese dissident, successfully fled China by boat to South Korea and has since resettled in Canada. His escape highlights ongoing concerns about political freedoms and safety for dissidents in China. The incident underscores continued migration pressures and the risks individuals face when opposing the Chinese government.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
-          "published": "Wed, 15 Jul 2026 22:04:12 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Chinese air-conditioner manufacturers expand market share in Europe",
-          "brief": "Chinese air-conditioning brands are capturing growing demand in Europe as heatwaves increase cooling needs across the region, which historically has had low AC adoption rates. This market expansion reflects China's growing competitive advantage in consumer appliances and its ability to meet emerging demand in developed markets. The trend underscores shifting patterns in industrial competition and European reliance on Chinese manufacturing for climate adaptation technologies.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-          "published": "Thu, 16 Jul 2026 22:01:29 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Former World Bank Official Urges Global Market Diversification from US Equities",
-          "brief": "A former World Bank vice-president warned at a Hong Kong event that excessive concentration of capital in highly valued US technology companies poses valuation correction risks to global savers. The official advocated for coordinated international market diversification to mitigate potential financial exposure. This reflects growing concerns among international financial experts about systemic risks from concentrated equity valuations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3360789/ex-world-bank-official-warns-need-diversify-away-us-markets-people-will-suffer?utm_source=rss_feed",
-          "published": "Thu, 16 Jul 2026 08:01:15 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 5,
-        "articles_total": 15,
-        "high_priority": 1,
-        "by_category": {
-          "military": 1,
-          "foreign_relations": 10,
-          "economy": 4
-        },
-        "updated_at": "2026-07-20T12:09:19.607953Z"
       }
     }
   ]
