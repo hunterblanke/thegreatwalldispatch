@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-10-20",
+      "articles": [
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Concept",
+          "brief": "China is advancing an \"Internet sovereignty\" initiative to reshape global internet governance principles. This effort represents a significant strategic move to establish state control over digital infrastructure and content within national borders, with potential implications for cybersecurity, information operations, and international digital norms.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "US restricts Chinese AI firm DeepSeek across government agencies",
+          "brief": "The US has removed Chinese technology company DeepSeek from most government agencies as part of escalating competition for AI technological dominance. The ban reflects growing US concerns over Chinese AI capabilities and potential security risks, marking a significant step in the broader US-China technology competition. This move indicates intensifying strategic positioning in artificial intelligence development between the two countries.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 19 Oct 2026 18:21:54 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Philippine Senator Seeks Chinese Ambassador's Expulsion Over War Comments",
+          "brief": "Chinese Ambassador Jing Quan sparked diplomatic controversy by stating China could \"easily win\" a military conflict against the Philippines, prompting a Philippine senator to file a resolution for his expulsion. The statement reflects escalating rhetorical tensions in the South China Sea amid ongoing territorial disputes and suggests Chinese officials may be adopting more aggressive public messaging regarding potential military confrontation.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/philippine-senator-files-resolution-seeking-chinese-ambassadors-expulsion/",
+          "published": "Tue, 20 Oct 2026 12:23:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China-North Korea Bridge Opens After 12-Year Delay",
+          "brief": "The New Yalu River Bridge, completed 12 years ago, has finally opened for use, providing direct infrastructure connection between China and North Korea. The bridge's operational status may facilitate increased bilateral trade and economic activity, though North Korea's isolated economic policies remain the primary constraint on potential expansion. The opening signals continued Chinese investment in North Korean connectivity despite international sanctions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/what-the-new-china-north-korea-bridge-really-means/",
+          "published": "Mon, 19 Oct 2026 22:54:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Firebombing of Dalai Lama office in South Africa under investigation",
+          "brief": "A firebombing attack on the residence office of the Dalai Lama's representative in South Africa is currently under police investigation. Tibetan rights groups have alleged the attack represents transnational repression by the Chinese Communist Party. The incident highlights ongoing tensions between Beijing and Tibetan diaspora communities operating outside Chinese territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/10/16/tibet-south-africa-attack-fire-dalai-lama/",
+          "published": "Fri, 16 Oct 2026 15:16:54 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US alleges corruption network linking Fiji officials to Chinese interests",
+          "brief": "The United States has accused a Fijian official of corruption related to Chinese activities, prompting regional experts to warn of a broader network of illicit actors across the Pacific enabling Beijing to advance its interests while maintaining plausible deniability. This pattern suggests China may be leveraging corruption and illegal activities as a systemic approach to expand influence throughout the Pacific region. The development highlights growing concerns about Chinese interference methods in strategic Indo-Pacific territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/10/15/china-fiji-zhao-fugang-influence-corruption/",
+          "published": "Thu, 15 Oct 2026 00:59:33 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines redefines China policy as Taiwan trade ties expand",
+          "brief": "The Philippines is independently defining its one-China policy while Taiwan plans to open a second trade office in Cebu, signaling Manila's effort to balance relations amid Chinese pressure. This development indicates the Philippines is reasserting diplomatic autonomy and deepening economic engagement with Taiwan despite Beijing's objections. The shift suggests potential fractures in regional alignment as Manila pursues its own strategic interests.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/09/29/taiwan-philippines-trade-office/",
+          "published": "Tue, 29 Sep 2026 20:52:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "North Korea diplomacy deprioritized amid Trump-Xi summit discussions",
+          "brief": "During Trump-Xi discussions, North Korea emerged as a secondary concern compared to other bilateral issues. Experts assess that China is unlikely to serve as a mediator for renewed Trump-Kim Jong Un talks, suggesting reduced Chinese diplomatic leverage or interest in facilitating Korean peninsula engagement.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/09/28/xi-trump-summit-north-korea-china/",
+          "published": "Mon, 28 Sep 2026 21:07:43 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Foreign banks retreat from China retail operations amid profitability challenges",
+          "brief": "Major foreign banks including Citigroup are closing retail branches in China and shifting toward digital services, wealth management, and high-value clients as state-owned financial institutions dominate the sector. This strategic retrenchment reflects foreign lenders' difficulty achieving competitive returns in China's tightly-controlled banking market nearly two decades after gaining market access.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3370953/foreign-banks-trim-china-branch-networks-low-returns-test-strategy",
+          "published": "Sat, 17 Oct 2026 02:00:10 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Chinese optical manufacturer's Hong Kong IPO underperforms amid US trade concerns",
+          "brief": "Suzhou Dongshan Precision Manufacturing raised US$1.8 billion in its Hong Kong IPO, falling short of expectations as investor concerns about potential US trade restrictions on optical modules dampened demand. The underperformance reflects broader caution in Hong Kong's IPO market and highlights growing investor wariness regarding US-China trade tensions affecting Chinese technology manufacturers.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/companies/article/3371493/suzhou-dongshans-us18b-hong-kong-ipo-trails-expectations-amid-us-trade-risk-concerns",
+          "published": "Tue, 20 Oct 2026 08:37:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong expands yuan bond market appeal to sovereign borrowers",
+          "brief": "Hong Kong is actively recruiting more sovereign debt issuers to its dim sum bond market, leveraging competitive fundraising costs and risk diversification benefits compared to developed markets. This expansion effort, highlighted during the APEC Finance Ministerial Meeting, positions Hong Kong to strengthen its role as a regional financial hub and increase yuan internationalization through greater participation from Asia-Pacific economies.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3371334/hong-kong-cement-its-role-yuan-bond-hub-appealing-more-sovereign-borrowers",
+          "published": "Tue, 20 Oct 2026 00:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China signals potential financial market opening measures at upcoming forum",
+          "brief": "Chinese regulators are expected to announce additional measures for financial market liberalization at the Financial Street Forum, following Visa's recent approval to operate in China. Potential announcements may include yuan internationalization initiatives and expanded cross-border investment mechanisms, reflecting Beijing's strategy to attract greater international capital participation in its financial markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3371171/financial-street-forum-forecast-calls-more-opening-chinese-regulators",
+          "published": "Fri, 16 Oct 2026 10:00:34 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Foreign Minister to Discuss US-China Relations at CSIS",
+          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for direct dialogue on bilateral strategic issues between the two major powers. Such high-level diplomatic engagements are significant for understanding Beijing's policy priorities and positions on key regional and global matters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Priorities",
+          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. focus on military posture and strategic priorities in a region of significant geopolitical importance involving China and allied nations.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Hong Kong hosts Apec Finance Ministers Meeting ahead of Shenzhen summit",
+          "brief": "Hong Kong is hosting the Apec Finance Ministers' Meeting for the first time, with approximately 500 delegates from the 21-member Asia-Pacific Economic Cooperation forum attending. The meeting precedes mainland China's hosting of the Apec leaders' summit in Shenzhen next month, signaling Beijing's coordination of regional economic engagement through its territories.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371408/apec-hong-kong-what-know-500-delegates-descend-city",
+          "published": "Mon, 19 Oct 2026 12:13:31 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Restructures Social Security Amid Economic Pressures",
+          "brief": "China is pursuing reforms to \"optimize and enhance\" its social security system while facing economic headwinds. The policy shift is expected to place increased burden on vulnerable populations including gig economy and rural migrant workers. This approach reflects Beijing's prioritization of fiscal sustainability over social safety net expansion during an economic slowdown.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/amid-economic-challenges-china-turns-to-vulnerable-workforce-to-fix-its-social-security-problems/",
+          "published": "Mon, 19 Oct 2026 23:30:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Myanmar military releases photos of detained Aung San Suu Kyi",
+          "brief": "Myanmar's military junta released photographs of former leader Aung San Suu Kyi in detention, showing her receiving books and correspondence from British King Charles, which has prompted renewed international calls for her release. The disclosure suggests potential diplomatic pressure from Western nations and indicates continued detention of the ousted civilian leader. The release of such images may reflect shifting military posture regarding international scrutiny of her imprisonment.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/",
+          "published": "Mon, 19 Oct 2026 23:06:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong shifts performing arts funding to merit-based model",
+          "brief": "Hong Kong's government announced a revamp of its performing arts funding system, shifting from permanent public subsidies toward a more flexible, merit-based approach that favors emerging companies over established groups. Major performing arts organizations have expressed concerns that economic conditions make private funding difficult to secure, urging the government to maintain long-term support commitments. The policy change reflects broader budgetary pressures and represents a strategic shift in how the city allocates resources to cultural institutions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3371380/art-or-box-office-how-hong-kong-plans-measure-value-play-ballet-or-symphony",
+          "published": "Mon, 19 Oct 2026 09:14:12 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China urges Israel to halt West Bank settlement expansion",
+          "brief": "Chinese Foreign Minister Wang Yi raised concerns about Israeli West Bank settlements during a conversation with Israeli President Isaac Herzog at a conference. China's public criticism reflects its broader positioning on Israeli-Palestinian issues and signals Beijing's intent to engage diplomatically on Middle East affairs. The statement indicates China is seeking to expand its diplomatic influence in regional conflicts beyond its traditional sphere.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 16 Oct 2026 08:45:54 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China promotes Xinjiang aquaculture as technological achievement",
+          "brief": "China is marketing fish production from Xinjiang as evidence of technological advancement and successful frontier development. The initiative reflects Beijing's broader strategy to reshape narratives around the region's economic development. This effort carries implications for China's regional development messaging and international perceptions of Xinjiang's industrial capabilities.",
+          "category": "economy",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/opinions/2026/10/09/commentary-xinjiang-fish-seafood-china/",
+          "published": "Fri, 09 Oct 2026 13:33:43 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Radio Free Asia celebrates 28 years of Mandarin broadcasting to China",
+          "brief": "Radio Free Asia marked a significant milestone with its inaugural Mandarin broadcast to Beijing on September 29, 1996, establishing a long-standing information channel to Chinese audiences. The continued operation represents sustained U.S. efforts to provide alternative media access to mainland China. This underscores the ongoing importance of information dissemination as a component of U.S.-China relations.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/about/releases/2026/09/29/rfa-builds-on-major-milestone/",
+          "published": "Tue, 29 Sep 2026 13:01:07 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 21,
+        "high_priority": 1,
+        "by_category": {
+          "economy": 8,
+          "foreign_relations": 12,
+          "military": 1
+        },
+        "updated_at": "2026-10-20T14:34:45.874328Z"
+      }
+    },
+    {
       "date": "2026-10-19",
       "articles": [
         {
@@ -20941,190 +21209,6 @@
           "economy": 4
         },
         "updated_at": "2026-07-23T11:46:04.023793Z"
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "articles": [
-        {
-          "headline": "China Conducts Live-Fire Drills Near Okinotorishima",
-          "brief": "China conducted live-fire military exercises near Okinotorishima, demonstrating enhanced naval coordination with Russia and highlighting disputed interpretations of international maritime law. The drill reflects escalating military activities in contested waters and growing strategic alignment between Beijing and Moscow in the Indo-Pacific region.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/chinas-live-fire-drill-near-okinotorishima-tests-japans-maritime-nerves/",
-          "published": "Tue, 21 Jul 2026 22:57:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China uses environmental surveys to normalize disputed territory presence",
-          "brief": "China is conducting environmental research in disputed waters as part of a strategy to establish and normalize its presence in contested maritime areas, according to analysts. The scientific surveys serve a dual purpose of appearing legitimate while advancing territorial claims. This approach demonstrates Beijing's use of civilian research activities to support geopolitical objectives in strategically significant regions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/24/china-philippines-scarborough-shoal-turtles/",
-          "published": "Wed, 24 Jun 2026 18:16:00 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan deploys robotic systems amid unmanned technology arms race",
-          "brief": "Taiwan and China are increasingly integrating autonomous technologies to monitor remote outposts in the South China Sea, signaling a strategic shift toward unmanned systems in their military competition. This development reflects broader efforts by both parties to leverage advanced robotics for surveillance and operational capabilities in contested maritime regions. The proliferation of autonomous systems represents a significant escalation in cross-strait technological competition with potential implications for regional security dynamics.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/06/25/robot-dog-taiwan-south-china-sea/",
-          "published": "Thu, 25 Jun 2026 20:00:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "North Korea Upgrading Ports to Accommodate Larger Naval Vessels",
-          "brief": "Satellite imagery indicates North Korea is conducting shipyard upgrades as part of its five-year naval modernization plan, with improvements designed to accommodate new, larger destroyer-class vessels. These infrastructure enhancements suggest Pyongyang is prioritizing naval capability expansion, which could alter regional maritime balance and complicate security dynamics in East Asia.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/06/16/north-korea-shipyard-chongjin-nampo/",
-          "published": "Tue, 16 Jun 2026 22:39:44 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China-North Korea bridge nears opening after 12-year delay",
-          "brief": "Satellite imagery indicates the Sino-North Korean bridge is approaching completion approximately 12 years after its initial construction concluded. The bridge is expected to significantly increase bilateral trade capacity and strengthen economic ties between the two countries. The infrastructure project's delayed opening reflects broader challenges in cross-border development and logistics between China and North Korea.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
-          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China pursues policies undermining Western-led economic system",
-          "brief": "China is implementing economic and strategic policies that risk destabilizing the international order that has supported its own economic development. This approach reflects Beijing's willingness to challenge Western institutions and frameworks despite potential costs to global stability. The shift signals a fundamental recalibration of China's relationship with the existing international economic system.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise",
-          "published": "Wed, 15 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China prioritizes trade expansion over regional responsibility",
-          "brief": "China is expanding trade relationships with Gulf states while avoiding deeper commitments to regional stability and governance issues. This approach reflects Beijing's transactional economic strategy that prioritizes commercial access without reciprocal political or security obligations. The dynamic creates tensions as Gulf partners seek more comprehensive engagement beyond trade arrangements.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/gulfs-china-problem",
-          "published": "Tue, 21 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Philippines marks decade since South China Sea court ruling",
-          "brief": "The Philippines commemorated ten years since an international court ruling that invalidated China's expansive South China Sea claims, though Beijing continues to reject the decision. The dispute remains unresolved with divided international opinion on resolution pathways, underscoring persistent maritime tensions in Southeast Asia.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China monitors Japan, Philippines military capabilities in South China Sea",
-          "brief": "Beijing is increasing scrutiny of Japan and Philippines military capabilities, reflecting concerns about growing military integration between these U.S. allies in the South China Sea region. Despite this focus, analysts assess that the United States remains China's primary strategic rival. The development suggests China views coordinated allied military presence in the region as a significant strategic challenge.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/03/china-japan-philippines-south-china-sea/",
-          "published": "Fri, 03 Jul 2026 02:00:28 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China's CBDC Platform Processes Record Cross-Border Transactions",
-          "brief": "The mBridge multilateral central bank digital currency platform processed two transactions exceeding $1.7 billion each through Bank of China branches in June and July, demonstrating its capacity for high-value cross-border settlements. This milestone advances China's strategic objective of internationalizing the yuan and establishing alternative payment infrastructure independent of traditional Western-dominated systems. The development indicates accelerating progress in CBDC adoption among participating central banks and potential shifts in global financial settlement mechanisms.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3361433/china-dominated-central-bank-digital-currency-platform-touts-largest-transactions-date?utm_source=rss_feed",
-          "published": "Wed, 22 Jul 2026 06:00:47 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China reforms panda bond credit ratings to attract foreign investors",
-          "brief": "Chinese regulators implemented reforms to improve credit rating quality for panda bonds (yuan-denominated securities) to attract foreign sovereign and institutional investors. The reforms mandate that credit-rating agencies adhere to independence, objectivity, and prudence principles, supporting Beijing's yuan internationalization strategy. This regulatory action signals China's effort to strengthen its offshore yuan market and increase foreign capital inflows.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3361457/china-targets-panda-bond-reform-mandates-global-credit-mapping-lure-foreign-capital?utm_source=rss_feed",
-          "published": "Wed, 22 Jul 2026 09:00:39 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
-          "brief": "Chinese authorities in Urumqi arrested a mother and two Uyghur sisters allegedly for sending goods to Turkey, with officials characterizing their actions as 'supporting terrorists.' The arrests highlight continued security concerns and enforcement actions in Xinjiang, with potential implications for diaspora communities and international trade patterns involving the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China criticizes UK nationalization of British Steel",
-          "brief": "The UK government has moved to nationalize British Steel, citing protection of critical national industrial capability. China has publicly objected to the decision. The move reflects strategic competition over control of critical industrial assets and supply chains in advanced manufacturing sectors.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 17 Jul 2026 16:44:22 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "HKEX implements listing reforms to enhance international competitiveness",
-          "brief": "Hong Kong Exchanges and Clearing plans to introduce confidential filings and lower market capitalization thresholds for start-up listings, following months of market consultation. These regulatory changes aim to increase HKEX's competitive positioning in attracting international capital and emerging companies, with formal announcement expected by month-end.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3361277/hkex-allow-confidential-filings-lower-market-cap-threshold-start-ups-sources-say?utm_source=rss_feed",
-          "published": "Tue, 21 Jul 2026 02:30:21 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 5,
-        "articles_total": 14,
-        "high_priority": 1,
-        "by_category": {
-          "military": 3,
-          "foreign_relations": 5,
-          "economy": 6
-        },
-        "updated_at": "2026-07-22T11:42:26.214226Z"
       }
     }
   ]
