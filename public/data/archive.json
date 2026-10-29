@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-10-28",
+      "articles": [
+        {
+          "headline": "China develops air base in Laos as Southeast Asian military foothold",
+          "brief": "China is reportedly developing Ban Keun air base in Laos, potentially establishing another forward military outpost in Southeast Asia alongside its existing presence at Cambodia's Ream Naval Base. Analysts suggest the facility could significantly expand Chinese military reach and influence throughout the region, comparable to its strategic positioning strategy already underway in Cambodia.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/laos/2026/10/20/china-laos-air-base-ban-keun-ream-cambodia/",
+          "published": "Tue, 20 Oct 2026 17:23:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippine military warns of Chinese elite bribery strategy",
+          "brief": "Philippine government has launched national security investigations into Chinese influence operations, with military officials characterizing strategic bribery of elites as a key component of Beijing's approach. The statement emerges amid political turbulence involving former President Duterte's impeachment proceedings. This assessment suggests China may be employing financial inducements to cultivate political influence within Philippine leadership circles.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/",
+          "published": "Wed, 21 Oct 2026 20:23:58 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China admits Uyghur detainee died in police custody, not accident",
+          "brief": "Chinese police confirmed to Radio Free Asia that Uyghur detainee Yasinjan Toxti died in their custody in 2018, contradicting earlier official claims of a traffic accident. The disclosure reveals an instance of false reporting regarding a death in detention, raising concerns about accountability and transparency in China's treatment of detained Uyghurs. This admission may complicate China's international standing on human rights issues related to Xinjiang.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/10/15/yasinjan-toxti-uyghur-xinjiang-china-detention/",
+          "published": "Thu, 15 Oct 2026 20:53:36 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Border Official Comments Disrupt India-China Tension Reduction Efforts",
+          "brief": "India and China's ongoing efforts to ease border tensions have been complicated by remarks from a border official that have cast doubt on the sincerity of ground-level implementation. The incident suggests significant gaps remain between diplomatic statements and actual military or administrative practices along the contested border region. This development indicates persistent structural challenges to sustained de-escalation despite higher-level political engagement.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 00:06:27 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China recalls teachers from Philippines amid South China Sea tensions",
+          "brief": "China has recalled teachers from the Philippines in response to escalating South China Sea disputes, according to Radio Free Asia reporting. Experts note the recalled educators may have been involved in advocating China's territorial claims through educational exchange programs. The move signals China's use of soft power instruments as leverage in regional geopolitical disputes.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+          "published": "Wed, 28 Oct 2026 00:24:12 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Outlines Governance Model for Taiwan as Special Administrative Region",
+          "brief": "Academic discussions in China reveal planning for Taiwan's administration under a proposed 'Special Administrative Region' framework, suggesting Beijing is developing detailed governance structures for potential unification. This indicates China is advancing beyond military contingency planning to consider post-takeover administrative arrangements. The development of such governance models reflects strategic preparation and signals Beijing's long-term political objectives regarding Taiwan's status.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/how-would-china-actually-govern-taiwan/",
+          "published": "Wed, 28 Oct 2026 02:49:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China sanctions Taiwan-allied officials with limited diplomatic impact",
+          "brief": "China imposed sanctions against officials from Paraguay and Belize in an apparent show of displeasure over their continued diplomatic recognition of Taiwan. Despite Beijing's punitive measures, both countries have maintained their ties with Taipei, suggesting that China's sanction strategy has achieved limited effectiveness in compelling Taiwan's diplomatic allies to switch recognition. The action demonstrates China's willingness to use economic and diplomatic pressure but highlights constraints in achieving its foreign policy objectives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/",
+          "published": "Fri, 23 Oct 2026 13:22:42 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Drone makers develop quieter technology for expanding delivery sector",
+          "brief": "As commercial drone delivery operations scale up globally, manufacturers are investing in noise reduction technology to address public concerns and regulatory barriers. Quieter drones could accelerate market adoption and reduce operational constraints in urban areas, representing a significant competitive factor in the emerging delivery drone industry.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 28 Oct 2026 00:01:10 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Chinese Car Plant in Spain Raises Strategic Dependency Concerns",
+          "brief": "China plans to establish a car manufacturing facility in northern Spain, promising employment benefits to local residents while generating debate over long-term strategic risks. The project exemplifies broader Western concerns about economic dependence on Chinese investment and potential vulnerabilities in critical infrastructure sectors.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+          "published": "Wed, 28 Oct 2026 04:01:09 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Uyghur activists lobby U.S. official on Central Asian rights issues",
+          "brief": "Uyghur activists are urging Secretary of State Rubio to raise human rights concerns regarding Uyghur communities during his visit to Uzbekistan and engagement with Central Asian officials. The advocacy reflects ongoing international pressure on the U.S. to prioritize Uyghur rights in Central Asian diplomacy. This indicates potential friction points in U.S.-Central Asia relations tied to broader concerns about Uyghur treatment in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/",
+          "published": "Fri, 16 Oct 2026 18:31:29 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Myanmar military releases photos of detained Aung San Suu Kyi",
+          "brief": "Myanmar's military junta released rare photographs of former leader Aung San Suu Kyi in detention, showing her receiving correspondence and materials from British King Charles. The release has prompted renewed international calls for her freedom, indicating ongoing diplomatic pressure regarding her continued imprisonment and potential tensions between Myanmar's military government and Western nations over human rights concerns.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/",
+          "published": "Mon, 19 Oct 2026 23:06:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former CSRC Official Sentenced to Death for US$65 Million Bribery",
+          "brief": "Wang Huimin, a former member of the Communist Party committee at China's Securities Regulatory Commission, received a suspended death sentence for accepting over 436 million yuan in bribes between 2014 and 2019. The case reflects Beijing's continued enforcement of its anti-corruption campaign within financial regulatory institutions, potentially signaling efforts to strengthen governance in China's securities sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3372339/china-hands-former-regulator-suspended-death-sentence-over-us65m-bribery-charge",
+          "published": "Tue, 27 Oct 2026 13:35:34 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Yulan bond debuts in Dubai with strong investor demand",
+          "brief": "Bank of China launched a 2 billion yuan offshore bond in Dubai under the Yulan renminbi structure, achieving over five times oversubscription. The successful issuance demonstrates sustained global investor appetite for yuan-denominated assets and represents Beijing's continued efforts to internationalize the currency despite regional geopolitical tensions.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3372411/yulan-bond-debuts-dubai-amid-beijings-yuan-denominated-asset-push",
+          "published": "Wed, 28 Oct 2026 07:07:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China Escalates Offshore Asset Tax Enforcement After Grace Period Ends",
+          "brief": "Chinese tax authorities have begun issuing disclosure orders to individuals following the expiration of a 90-day grace period for reporting offshore trusts, with Beijing's tax bureau targeting at least 21 individuals. This enforcement action signals Beijing's intensified focus on combating tax evasion and improving revenue collection from unreported offshore assets. The move reflects broader efforts to strengthen tax compliance and potentially increase government revenues during economic pressures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3372178/chinas-tax-offices-issue-disclosure-orders-offshore-asset-grace-period-ends",
+          "published": "Mon, 26 Oct 2026 13:30:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Major banks launch retail stablecoins in China's digital currency push",
+          "brief": "HSBC and Standard Chartered-led Anchorpoint are launching retail stablecoin products on public blockchains, signaling institutional movement toward regulated digital money in everyday payments. The development indicates China's financial sector is integrating digital finance infrastructure with traditional payment systems, potentially accelerating adoption of blockchain-based transactions in commercial applications.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+          "published": "Sun, 25 Oct 2026 23:00:15 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong exports surge 65% in September, driven by AI demand",
+          "brief": "Hong Kong's September exports reached HK$762.6 billion, representing 64.9% year-on-year growth\u2014the highest rate in over 40 years\u2014with artificial intelligence products playing a significant role. This marks the 20th consecutive month of export growth, indicating sustained demand for Hong Kong's trade goods in global markets. The surge suggests strengthened economic positioning of Hong Kong as a key AI-related product export hub in the Asia-Pacific region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372427/hong-kong-exports-jump-nearly-65-september-highest-growth-over-40-years",
+          "published": "Wed, 28 Oct 2026 08:53:24 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 16,
+        "high_priority": 3,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 7,
+          "economy": 6
+        },
+        "updated_at": "2026-10-28T16:21:14.151586Z"
+      }
+    },
+    {
       "date": "2026-10-27",
       "articles": [
         {
@@ -21109,238 +21317,6 @@
           "foreign_relations": 11
         },
         "updated_at": "2026-07-31T11:52:45.043035Z"
-      }
-    },
-    {
-      "date": "2026-07-30",
-      "articles": [
-        {
-          "headline": "China Coast Guard Establishes Regular Presence East of Taiwan",
-          "brief": "The China Coast Guard has established a sustained operational presence in waters east of Taiwan, signaling Beijing's assertion of jurisdictional claims over the region. This move appears timed to strengthen China's negotiating position ahead of potential high-level diplomatic engagement. The increased military presence could escalate tensions in the Taiwan Strait and complicate future U.S.-China discussions.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
-          "published": "Wed, 29 Jul 2026 23:19:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China conducts Pacific missile test amid U.S. allied military activities",
-          "brief": "China conducted a missile test in the Pacific region coinciding with Australia and Fiji signing a defense pact and concurrent allied military exercises. Analysts assess the test as a strategic messaging effort to demonstrate military capabilities to the United States and its regional partners. The timing suggests China is responding to increased allied military coordination in the Indo-Pacific.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
-          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
-          "brief": "The Philippines marked ten years since an international court ruling on South China Sea disputes, though China continues to reject the decision's validity. The ruling remains a flashpoint in regional relations, with persistent disagreement among stakeholders on dispute resolution mechanisms. The ongoing tension reflects fundamental disagreements between claimants that complicate prospects for stability in one of the world's most strategically important waterways.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China's AI advancement creates domestic security dilemmas",
-          "brief": "China faces a strategic trade-off as its artificial intelligence capabilities advance: open-source AI models that enhance Beijing's global influence and competitiveness may simultaneously create vulnerabilities to national security and geopolitical strategy. This tension between leveraging AI's commercial and diplomatic benefits while protecting sensitive military and strategic applications represents a significant policy challenge for Chinese leadership.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-          "published": "Thu, 30 Jul 2026 09:02:20 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "China enacts extraterritorial ethnic unity law with global reach",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and entities internationally. The legislation's extraterritorial scope represents Beijing's effort to enforce domestic ethnic policy frameworks globally, raising significant implications for foreign relations and international legal jurisdiction. This move signals China's intent to project domestic governance standards onto the international community.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Implements Forced Assimilation Policy Into Law",
-          "brief": "China has formally codified forced assimilation measures targeting minority populations into legal framework. This escalation of previous policies represents a significant shift toward institutionalizing cultural integration efforts. The policy carries implications for regional stability, international relations, and multinational business operations in affected areas.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
-          "published": "Thu, 30 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
-          "brief": "Chinese police in Urumqi arrested a Uyghur mother and two daughters accused of sending goods to Turkey, with authorities characterizing the activity as support for terrorists. The arrests reflect ongoing Chinese security operations in Xinjiang and illustrate restrictions on cross-border commerce and communications involving Uyghur populations. The incident underscores tensions between China's counter-terrorism policies and international concerns regarding Uyghur freedoms.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China-North Korea bridge nears opening after 12-year delay",
-          "brief": "Satellite imagery indicates imminent opening of a bridge connecting China and North Korea, originally completed over a decade ago but not yet operational. The crossing is expected to significantly facilitate bilateral trade and strengthen economic ties between the two countries. The delayed activation suggests potential diplomatic or logistical considerations surrounding cross-border commerce.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
-          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "US Addresses Chinese Technological Advantage Through Diplomatic Strategy",
-          "brief": "The article discusses emerging artificial intelligence diplomacy as a tool for the United States to counter China's growing technological capabilities and influence. The piece emphasizes the strategic importance of international engagement in AI governance and competition. The significant implication is that great power competition is increasingly shifting toward technological and diplomatic domains beyond traditional military spheres.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/how-the-us-can-counter-chinas-emerging-tech-trap/",
-          "published": "Thu, 30 Jul 2026 01:27:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China intensifies corporate insider trading crackdown on executives",
-          "brief": "Chinese securities regulators have placed at least 21 senior executives and controlling shareholders from 20 listed companies under investigation during the first half of 2026 as part of an intensified anti-corruption campaign. The enforcement action includes criminal sentences, substantial fines, and market bans aimed at restoring investor confidence in China's stock markets. This regulatory escalation signals Beijing's commitment to addressing corporate governance issues and market integrity concerns.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3362351/chinas-corporate-crackdown-insider-trading-fines-and-bans-intensify?utm_source=rss_feed",
-          "published": "Thu, 30 Jul 2026 07:00:05 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese chipmaker debuts with unprecedented 470% stock surge",
-          "brief": "A Chinese chipmaker experienced exceptional market performance with a nearly 470% share price increase during its stock market debut, driven by surging global demand for AI chips. This development reflects China's efforts to advance domestic semiconductor capabilities amid ongoing U.S. export restrictions. The strong investor reception indicates growing confidence in China's ability to develop competitive chip technology for artificial intelligence applications.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-          "published": "Mon, 27 Jul 2026 10:19:36 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Southeast Asia scrutinizes Chinese private equity expansion",
-          "brief": "Chinese private equity firms have significantly expanded their investments across Southeast Asia, prompting regional governments to increase oversight of these financial activities. The expansion raises concerns about economic dependence on Chinese capital and potential strategic influence, with authorities reassessing investment frameworks to balance growth with sovereignty considerations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/07/following-expansion-in-china-regional-private-equity-faces-new-scrutiny-in-southeast-asia/",
-          "published": "Wed, 29 Jul 2026 20:25:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Hong Kong official disputes economist's criticism of city's autonomy",
-          "brief": "A senior Hong Kong finance official responded to American economist Stephen Roach's commentary asserting that Hong Kong has become a mainland Chinese city, characterizing such criticism as bias rather than objective analysis. The exchange reflects ongoing tensions regarding Hong Kong's political and economic status following recent governance changes, with Beijing-aligned officials actively countering external assessments of the territory's transformation.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3362345/hong-kong-official-slams-bias-against-china-after-new-article-stephen-roach?utm_source=rss_feed",
-          "published": "Thu, 30 Jul 2026 04:53:24 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong universities secure record research funding with AI focus",
-          "brief": "Hong Kong's public research funding body approved a record 12 university projects worth HK$478 million, with artificial intelligence comprising over one-third of successful proposals. The funding emphasis on AI development, particularly energy-efficient data center technology, reflects Hong Kong and China's strategic prioritization of AI capabilities in the competitive technology landscape.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/education/article/3362305/ai-major-focus-hong-kong-funds-record-12-university-research-projects?utm_source=rss_feed",
-          "published": "Wed, 29 Jul 2026 15:01:14 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "HSBC relocates senior executive to Hong Kong, reinforces Asia strategy",
-          "brief": "HSBC is relocating its group chief people and governance officer from London to Hong Kong as part of a strategic pivot to strengthen its Asian operations and presence in its largest market. This executive-level repositioning signals the bank's commitment to expanding its Hong Kong and Asia-focused business amid broader institutional realignment in the region.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362190/hsbc-relocate-senior-executive-hong-kong-amid-pivot-asia-sources?utm_source=rss_feed",
-          "published": "Wed, 29 Jul 2026 02:00:11 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong expands securities settlement platform with European markets",
-          "brief": "Hong Kong's Monetary Authority has connected its Central Moneymarkets Unit (CMU) settlement platform with Switzerland's SIX stock exchange, providing direct access to Swiss and Spanish securities. The HKMA simultaneously launched equity post-trade services on the CMU platform for the first time. These developments enhance Hong Kong's position as a financial hub and increase regional connectivity to European capital markets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362286/hong-kong-expands-cmus-global-reach-swiss-spanish-securities-link?utm_source=rss_feed",
-          "published": "Wed, 29 Jul 2026 11:46:01 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong gold imports reach 11-year high amid trading hub push",
-          "brief": "Hong Kong's gold imports surged to 150.48 tonnes in June 2024, marking the highest monthly volume in over a decade and representing a 29 percent month-on-month increase. The increase reflects renewed investor demand and Hong Kong's strategic efforts to establish itself as a premier international precious metals trading hub. This development signals growing financial activity in the region and Hong Kong's continued importance in global commodity markets despite broader geopolitical considerations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362350/trading-hub-ambitions-see-hong-kongs-gold-imports-hit-11-year-high-june?utm_source=rss_feed",
-          "published": "Thu, 30 Jul 2026 05:27:21 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "HKMA maintains rate as traders anticipate US September increase",
-          "brief": "The Hong Kong Monetary Authority held its base rate at 4 percent following the Federal Reserve's decision to maintain rates at 3.5-3.75 percent, while US traders are positioning for a rate increase in September. The divergence between current policy and market expectations for near-term US rate adjustments creates potential volatility for Hong Kong's currency peg and capital flows. Market participants are pricing in monetary policy divergence that could impact regional financial stability and cross-border investment decisions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362318/hkma-maintains-base-rate-4-us-fed-keeps-rate-unchanged?utm_source=rss_feed",
-          "published": "Wed, 29 Jul 2026 23:09:43 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 7,
-        "articles_total": 18,
-        "high_priority": 1,
-        "by_category": {
-          "military": 3,
-          "foreign_relations": 6,
-          "economy": 9
-        },
-        "updated_at": "2026-07-30T11:46:05.869144Z"
       }
     }
   ]
