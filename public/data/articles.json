@@ -1,56 +1,104 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "metrics": {
-    "sources_scanned": 7,
-    "articles_total": 20,
-    "high_priority": 3,
+    "sources_scanned": 5,
+    "articles_total": 18,
+    "high_priority": 4,
     "by_category": {
-      "military": 3,
       "foreign_relations": 10,
-      "economy": 7
+      "military": 3,
+      "economy": 5
     },
-    "updated_at": "2026-10-29T16:30:57.474330Z"
+    "updated_at": "2026-10-30T16:22:33.444969Z"
   },
   "articles": [
     {
-      "headline": "Xi intensifies party purges amid emphasis on discipline",
-      "brief": "Xi Jinping has conducted a record number of purges within the Communist Party, framed as an anti-corruption campaign but assessed by observers as a consolidation of personal authority. The intensified disciplinary actions at a major political gathering signal continued centralization of power and potential implications for military and security apparatus leadership. This pattern reflects Xi's ongoing strategy to eliminate potential rivals and ensure loyalty within party institutions.",
+      "headline": "Xi launches record purges emphasizing party discipline at political gathering",
+      "brief": "Chinese President Xi Jinping has conducted a record number of purges within the Communist Party, framed as an anti-corruption campaign but characterized by observers as a consolidation of personal authority. The campaign's scale and timing at a major political gathering suggests intensified centralization of power within party ranks. This development has implications for military command structure stability and potential shifts in defense policy decision-making processes.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "BBC News"
       ],
       "original_link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 12:49:17 GMT",
+      "published": "Fri, 30 Oct 2026 03:24:12 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "Taiwan Advances Military Capabilities and Strategic Modernization",
-      "brief": "According to analysis by Eric Setzekorn in The Diplomat, Taiwan's military has undergone significant evolution in its defense posture and operational capabilities. The modernization efforts reflect Taiwan's strategic response to shifting security dynamics in the Taiwan Strait. These developments have implications for regional military balance and cross-strait deterrence calculations.",
+      "headline": "US Defense Industry Capacity Assessment Against Chinese Military Growth",
+      "brief": "A quarterly index is being developed to measure whether the US defense industrial base can sustain production levels necessary to match China's military expansion. The analysis addresses a critical capability gap in maintaining technological and manufacturing parity with Chinese military modernization efforts. This assessment carries significant implications for long-term US strategic competition and defense readiness in the Indo-Pacific region.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
-      "published": "Thu, 29 Oct 2026 00:25:00 +0900",
+      "original_link": "https://thediplomat.com/2026/10/can-the-u-s-defense-industry-keep-pace-with-chinas-military-machine/",
+      "published": "Fri, 30 Oct 2026 17:39:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China police confirm detained Uyghur died in custody, contradicting official account",
-      "brief": "Chinese police acknowledged to Radio Free Asia that Uyghur detainee Yasinjan Toxti died in police custody in 2018, contradicting earlier claims of a traffic accident. The discrepancy highlights concerns about transparency in China's detention practices and raises questions about accountability in cases involving Uyghur minorities. The cover-up suggests potential systemic issues in how authorities report deaths of detainees.",
+      "headline": "Philippines investigates alleged Chinese influence operations targeting elites",
+      "brief": "Philippine military officials have alleged that China employs a strategy of bribing government elites, prompting the Philippine government to launch national security probes into Chinese influence activities. The allegations emerge amid impeachment proceedings against former President Duterte, suggesting deepening concerns about Beijing's penetration of Philippine political institutions. This development indicates potential friction in China-Philippines relations and reflects Manila's growing scrutiny of Chinese interference in domestic political affairs.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/uyghur/2026/10/15/yasinjan-toxti-uyghur-xinjiang-china-detention/",
-      "published": "Thu, 15 Oct 2026 20:53:36 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/",
+      "published": "Wed, 21 Oct 2026 20:23:58 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China's Plenum Expected to Strengthen Xi's Party Control",
-      "brief": "China's Central Committee is convening a four-day Plenum in Beijing, where leadership is anticipated to implement disciplinary measures within the Communist Party. The closed-door meeting represents a significant opportunity for consolidated party management and potential policy direction-setting. Strengthened internal party discipline could affect organizational efficiency and factional dynamics within China's leadership structure.",
+      "headline": "China's elderly population now exceeds dependent children",
+      "brief": "China has reached a demographic milestone where the number of elderly dependents now surpasses children in family support structures, reflecting an accelerating aging population crisis. This structural shift has significant implications for China's labor force, healthcare systems, and long-term economic productivity. The trend poses strategic challenges for Beijing's economic planning and social welfare capacity.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 23:16:08 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "China Denies US Allegations of Espionage Targeting Nvidia CEO",
+      "brief": "US intelligence officials have alleged that a Chinese businesswoman was conducting intelligence gathering operations against Nvidia on behalf of Beijing, according to reports by The New York Times. China has denied these allegations. The incident underscores ongoing tensions between the US and China over technology sector espionage and semiconductor industry security.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 12:20:04 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "China reportedly developing air base in Laos for regional presence",
+      "brief": "China is reportedly establishing an air base at Ban Keun in Laos, potentially expanding its military footprint in Southeast Asia similar to its presence at Cambodia's Ream Naval Base. Analysts suggest the facility could serve as a forward operating position, enabling increased Chinese military and strategic influence throughout the region.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/laos/2026/10/20/china-laos-air-base-ban-keun-ream-cambodia/",
+      "published": "Tue, 20 Oct 2026 17:23:00 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China recalls teachers from Philippines amid South China Sea disputes",
+      "brief": "China has recalled teachers from the Philippines in connection with escalating South China Sea territorial tensions. Experts suggest the educational exchange program may have been linked to promoting China's maritime claims, though analysts warn against attributing the action solely to xenophobia. The move signals Beijing's use of non-military instruments to pressure Manila over contested waters.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+      "published": "Wed, 28 Oct 2026 00:24:12 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China's Communist Party Plenum convenes amid Xi consolidation",
+      "brief": "China's Communist Party is holding a secretive four-day Plenum in Beijing starting Monday, where party leadership is expected to address disciplinary measures and organizational matters. The closed-door gathering, a regular but opaque party gathering, reflects Xi Jinping's continued efforts to strengthen party discipline and control. The Plenum's outcomes could influence personnel decisions and policy direction within China's political and military establishments.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -61,196 +109,124 @@
       "raw_source": "BBC News"
     },
     {
-      "headline": "Xi Jinping Purges 33 Officials Ahead of Fourth Leadership Term",
-      "brief": "Chinese leader Xi Jinping has expelled 33 government officials, including prominent diplomat Liu Jianchao, as part of a broader consolidation of power ahead of securing a fourth term. The purge demonstrates Xi's systematic removal of potential rivals and enforcement of loyalty within the Chinese Communist Party leadership. This pattern of personnel changes reflects significant internal political shifts that may affect governance structures and policy implementation across key state institutions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
-      "published": "Thu, 29 Oct 2026 12:49:05 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "Kim Jong Un visits Chinese war memorial in unprecedented day trip",
-      "brief": "North Korean leader Kim Jong Un made an unusual day-trip to China to visit an army memorial commemorating China's role in the Korean War, marking a symbolic acknowledgment of Beijing's military contribution that contrasts with Pyongyang's historical narrative. The visit suggests potential recalibration of North Korea's public messaging regarding China's strategic importance and signals diplomatic engagement between the two countries.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/",
-      "published": "Mon, 26 Oct 2026 20:13:24 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China uses Sun Yat-sen legacy to advance Taiwan reunification agenda",
-      "brief": "China is leveraging shared historical reverence for Sun Yat-sen, the founder of the Republic of China, as a tool to promote cross-strait reunification messaging. Analysts assess that this approach primarily resonates with audiences already sympathetic to Beijing's position, limiting its broader persuasive impact on Taiwan's general population.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/",
-      "published": "Wed, 28 Oct 2026 23:44:08 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Russia and China Expand Cooperation on Patriotic Education Programs",
-      "brief": "China and Russia are collaborating on patriotic education initiatives, with Russia seeking to learn from China's decades of experience in the field. The cooperation reflects an effort to leverage educational systems to mobilize domestic support for military objectives and war efforts. This partnership indicates deepening alignment between the two powers in using state-controlled education as a strategic tool.",
+      "headline": "Chinese Military Expansion Increases Regional Tensions in Southeast Asia",
+      "brief": "Australia's defense chief has stated that China's military buildup is creating pressure in Southeast Asia, amid ongoing tensions between Beijing and Manila over ASEAN Defense Ministers' Meeting attendance. The incident reflects broader concerns among regional actors regarding China's military modernization and assertiveness in the Indo-Pacific, with potential implications for regional stability and alliance dynamics.",
       "category": "military",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/10/why-are-russia-and-china-cooperating-on-patriotic-education/",
-      "published": "Wed, 28 Oct 2026 22:40:00 +0900",
+      "original_link": "https://thediplomat.com/2026/10/chinas-military-build-up-has-created-pressure-in-southeast-asia-australian-defense-chief-says/",
+      "published": "Fri, 30 Oct 2026 13:02:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China Seeks Global AI Expansion With Domestic Government Control",
-      "brief": "Beijing is pursuing international deployment of its artificial intelligence technology while maintaining strict state oversight of exports, recipients, and domestic capabilities. This approach reflects China's dual objective of advancing its tech sector competitively while preserving government control over advanced AI systems, with significant implications for global AI governance and technology competition.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/10/china-wants-its-ai-to-go-global-on-its-own-terms/",
-      "published": "Wed, 28 Oct 2026 22:17:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Former Chinese Securities Regulator Sentenced to Death for US$65M Bribery",
-      "brief": "Wang Huimin, a former high-ranking official at China's securities regulator (CSRC), received a suspended death sentence for accepting over 436 million yuan in bribes between 2014-2019. The conviction reflects Beijing's continued high-level anti-corruption enforcement within financial regulatory institutions, which carries implications for regulatory credibility and potential governance restructuring within China's securities sector.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3372339/china-hands-former-regulator-suspended-death-sentence-over-us65m-bribery-charge",
-      "published": "Tue, 27 Oct 2026 13:35:34 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China closes three Tibetan schools in Qinghai province",
-      "brief": "Chinese authorities have closed three schools in the Golog region of Qinghai province within a three-month period following the implementation of an ethnic unity law on July 1. The closures raise concerns among international observers regarding the preservation of Tibetan language and cultural education. This action represents an escalation in cultural assimilation policies affecting ethnic minority regions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/",
-      "published": "Fri, 23 Oct 2026 21:25:52 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China sanctions Taiwan allies Paraguay and Belize officials",
-      "brief": "Beijing imposed sanctions against officials from Paraguay and Belize in response to their governments' continued diplomatic recognition of Taiwan. Despite the punitive measures, both nations maintained their allegiance to Taipei, suggesting limited practical effect of China's coercive diplomacy. The action reflects China's ongoing efforts to isolate Taiwan internationally while demonstrating the persistence of its diplomatic challenges in the region.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/",
-      "published": "Fri, 23 Oct 2026 13:22:42 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Uyghur activists call on Rubio to address rights in Central Asia",
-      "brief": "Uyghur activists have urged U.S. Secretary of State Marco Rubio to raise human rights concerns regarding Uyghur communities during his visit to Uzbekistan. The appeal seeks to leverage the diplomatic engagement with Central Asian nations to strengthen U.S. advocacy on the issue. This reflects ongoing efforts to integrate Uyghur rights into broader U.S. foreign policy discussions with regional partners.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/",
-      "published": "Fri, 16 Oct 2026 18:31:29 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "South Africa investigates firebombing of Dalai Lama representative's office",
-      "brief": "Police in South Africa are investigating a firebombing attack on the residence and office of the Dalai Lama's representative in the country. Tibetan rights groups allege the attack represents transnational repression by the Chinese Communist Party. The incident raises concerns about potential CCP efforts to suppress Tibetan activism and representation abroad.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/16/tibet-south-africa-attack-fire-dalai-lama/",
-      "published": "Fri, 16 Oct 2026 15:16:54 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Hong Kong designated hub for digital yuan internationalization efforts",
-      "brief": "Beijing has identified Hong Kong as a strategic center for promoting the digital yuan (e-CNY) globally, with Chief Executive John Lee Ka-chiu highlighting this role in the city's five-year development plan. Hong Kong is conducting interoperability testing between the e-CNY and other digital assets to enhance the currency's international competitiveness. This initiative reflects China's broader strategy to internationalize the yuan and reduce dependence on the US dollar in cross-border transactions.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3372448/beijing-wants-hong-kong-sow-seeds-digital-yuan-will-its-plans-bear-fruit",
-      "published": "Wed, 28 Oct 2026 22:00:10 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong Transforms Into Complete Yuan Ecosystem",
-      "brief": "Hong Kong is evolving from a simple offshore yuan reservoir into a self-sustaining currency ecosystem, with the Hong Kong government designating yuan internationalization as a strategic priority in its five-year plan. This development reflects China's broader effort to increase yuan usage outside mainland China and strengthen Hong Kong's role as a financial intermediary. The transformation has significant implications for regional financial architecture and China's currency internationalization objectives.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3372292/how-hong-kong-went-yuan-gateway-complete-currency-ecosystem",
-      "published": "Tue, 27 Oct 2026 22:00:15 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China advances internationalization of yuan currency",
-      "brief": "China is expanding the global use and adoption of its currency, the yuan, reducing reliance on dollar-based transactions. This development has significant implications for international trade flows and China's economic influence in global financial systems. The shift reflects broader efforts to establish alternative payment mechanisms independent of Western financial infrastructure.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/series/3372572/chinas-currency-goes-global",
-      "published": "Thu, 29 Oct 2026 08:22:44 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "China and Pakistan Launch Information Corridor for Narrative Control",
-      "brief": "China and Pakistan have established a new Information Corridor component to counter what they characterize as misleading narratives while expanding cultural and think tank cooperation. The initiative represents an effort to strengthen bilateral coordination on information management and soft power projection. This development indicates growing strategic alignment between the two nations in shaping regional discourse and countering external criticism.",
+      "headline": "China-US establish AI incident reporting channel despite implementation gaps",
+      "brief": "Trump and Xi agreed to establish a bilateral AI incident reporting channel, marking a potential de-escalation measure in US-China competition over artificial intelligence. However, the channel's effectiveness is constrained by the lack of information-sharing protocols from AI companies in both countries, creating a significant implementation gap that could limit its utility in preventing AI-related incidents or conflicts.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/10/evolving-scope-of-the-china-pakistan-economic-corridor/",
-      "published": "Thu, 29 Oct 2026 13:21:00 +0900",
+      "original_link": "https://thediplomat.com/2026/10/what-a-china-us-ai-safety-channel-needs/",
+      "published": "Thu, 29 Oct 2026 22:42:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Brazil's Lula Victory Secures Chinese Investment Interests",
-      "brief": "Luis In\u00e1cio Lula da Silva's election victory in Brazil protects China's largest foreign direct investment destination in the Western Hemisphere. The outcome reverses momentum for Trump-supported candidates in the region and signals potential continuity in Brazil-China economic relations. This development has implications for China's strategic economic positioning in Latin America.",
+      "headline": "China Enforces Offshore Asset Disclosure After Grace Period Expires",
+      "brief": "Chinese tax authorities have begun issuing disclosure orders to individuals with unreported offshore trusts following the expiration of a 90-day voluntary reporting grace period. Municipal tax bureaus, including Beijing's office, have published enforcement notices targeting dozens of individuals to submit documentation on offshore assets. This escalation signals Beijing's intensified efforts to improve tax compliance and financial transparency regarding capital held abroad.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "The Diplomat"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://thediplomat.com/2026/10/lulas-election-win-in-brazil-is-a-relief-for-china/",
-      "published": "Thu, 29 Oct 2026 00:52:00 +0900",
-      "raw_source": "The Diplomat"
+      "original_link": "https://www.scmp.com/economy/china-economy/article/3372178/chinas-tax-offices-issue-disclosure-orders-offshore-asset-grace-period-ends",
+      "published": "Mon, 26 Oct 2026 13:30:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Analyst Warns Against Escalating Hawkish Approach to China",
-      "brief": "A Foreign Affairs analysis cautions against adopting more aggressive China policies, arguing such an approach would be counterproductive. The piece suggests that hardline restoration efforts risk undermining economic and diplomatic stability. The argument indicates ongoing policy debate within U.S. circles regarding optimal China engagement strategy.",
+      "headline": "U.S. Condemns China's Demolition of Tibetan Monastery Quarters",
+      "brief": "The United States has called on China to end interference in Tibetan religious life following reports of demolition targeting monks' quarters in Tibet. According to sources cited by Radio Free Asia, the demolitions appear designed to reduce the monastic population and facilitate cultural assimilation policies. This development reflects ongoing U.S.-China tensions over religious freedom and minority rights in Tibet.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
+      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Anonymous letter calls for Xi Jinping term limits restoration",
+      "brief": "An online post purportedly from Chinese students calls for restoring constitutional term limits on China's leadership, appearing on a website with South Korean registration and Singapore mailing address. The letter's authenticity remains unverified, though its circulation suggests potential discontent regarding Xi Jinping's indefinite tenure. The incident reflects ongoing tensions regarding governance structures within China's political system.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
+      "published": "Mon, 26 Oct 2026 21:08:41 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Myanmar military releases photos of detained Aung San Suu Kyi",
+      "brief": "Myanmar's military junta released rare photographs of imprisoned former leader Aung San Suu Kyi receiving books and letters from British King Charles, prompting renewed international calls for her release. The gesture suggests minimal diplomatic pressure on the regime regarding her detention, while also potentially indicating the junta's awareness of international scrutiny over her imprisonment.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/",
+      "published": "Mon, 19 Oct 2026 23:06:17 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China's Yulan bond structure debuts in Dubai with strong investor demand",
+      "brief": "Bank of China issued a 2 billion yuan offshore bond under the Yulan structure in Dubai, attracting over five times subscription demand despite regional geopolitical tensions. The successful debut reflects sustained global investor appetite for yuan-denominated assets and supports Beijing's broader strategy to internationalize the renminbi and develop offshore financial markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "FA RSS"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy",
-      "published": "Thu, 29 Oct 2026 04:00:00 -0400",
-      "raw_source": "FA RSS"
+      "original_link": "https://www.scmp.com/economy/china-economy/article/3372411/yulan-bond-debuts-dubai-amid-beijings-yuan-denominated-asset-push",
+      "published": "Wed, 28 Oct 2026 07:07:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China deploys state intervention as stock market enters bear territory",
+      "brief": "China's stock market entered bear market territory this week, prompting state-backed entities to inject approximately 170 billion yuan ($25.52 billion) into exchange-traded funds as a stabilization measure. The intervention reflects ongoing concerns about market volatility, while broader financial developments include the Federal Reserve maintaining rates steady and the introduction of Yulan bonds, an offshore yuan bond structure, in Dubai.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/markets/article/3372668/national-team-intervention-yulan-bonds-5-figures-investors-are-watching",
+      "published": "Fri, 30 Oct 2026 07:00:07 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Evergrande liquidators sell property services stake for $513 million",
+      "brief": "Liquidators of debt-ridden China Evergrande Group have sold a controlling 51% stake in its property management subsidiary to investment firm PAG for $513.6 million as part of debt recovery efforts. The sale represents an attempt to realize assets for the company's $46 billion in creditor claims. This transaction underscores the ongoing financial restructuring of one of China's largest real estate developers and potential asset fragmentation as the company addresses its massive debt obligations.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
+      "published": "Fri, 30 Oct 2026 05:24:31 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Promotes Internet Sovereignty as Global Governance Framework",
+      "brief": "China is advancing an 'Internet sovereignty' initiative to reshape global internet governance principles, positioning state control as a governing concept for the international internet. This effort represents a significant challenge to existing norms of internet openness and could have implications for cybersecurity, information control, and U.S.-China technological competition.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
     }
   ],
   "deep_dive": {
@@ -269,52 +245,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, Taiwan disputes, and strategic rivalry in the Indo-Pacific."
+      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, Taiwan concerns, and strategic rivalry in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepening energy, military, and diplomatic cooperation, though China remains cautious about overcommitment."
+      "summary": "China and Russia maintain a strategic partnership with deepening energy and defense ties, though China remains cautious about over-dependence."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, trade practices, and geopolitical competition."
+      "summary": "EU-China relations balance economic interdependence with growing concerns over human rights, market access, and geopolitical competition."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and has increased military pressure and diplomatic isolation efforts while rejecting Taiwan's democratic government."
+      "summary": "China views Taiwan as a breakaway province and maintains military pressure while rejecting its political autonomy and democratic status."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
+      "summary": "China-Japan relations are strained by territorial disputes over the Senkaku Islands, historical grievances, and strategic competition in East Asia."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, unresolved territorial conflicts, and strategic competition limit cooperation despite some trade and diplomatic engagement."
+      "summary": "Border conflicts, trade imbalances, and strategic rivalry over regional influence create persistent tension between China and India."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain cooperative economic and energy relations, with China seeking oil supplies and investment opportunities in the Gulf region."
+      "summary": "China and Saudi Arabia maintain strong economic and energy ties, with cooperation on oil trade and Belt and Road infrastructure projects."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Relations oscillate between cooperation and tension, with disputes over South China Sea claims offset by economic ties and diplomatic engagement."
+      "summary": "Philippines-China relations oscillate between cooperation on economic issues and tensions over South China Sea territorial disputes."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China-Brazil relations are marked by strong trade ties and investment cooperation, though Brazil remains cautious about excessive dependence."
+      "summary": "China and Brazil maintain significant economic and trade relationships, though Brazil remains cautious about strategic alignment."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Bilateral tensions persist over trade restrictions, national security concerns, and Australia's alignment with the U.S.-led Indo-Pacific strategy."
+      "summary": "Australia-China relations have deteriorated due to Australian calls for COVID-19 inquiries, technology restrictions, and security concerns over Chinese influence."
     }
   ]
 }
