@@ -1,6 +1,202 @@
 {
   "entries": [
     {
+      "date": "2026-11-01",
+      "articles": [
+        {
+          "headline": "Xi launches record purges emphasizing party discipline at political gathering",
+          "brief": "Chinese leader Xi Jinping has initiated a record number of purges within the Communist Party, framed as an anti-corruption campaign but assessed by observers as a consolidation of personal authority. The campaign's scale and timing at a major political gathering signals intensified internal control mechanisms within China's leadership structure. This development has implications for policy stability and decision-making processes within the Chinese military and government apparatus.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 30 Oct 2026 03:24:12 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China establishes air base in Laos, expanding Southeast Asian presence",
+          "brief": "China is developing Ban Keun air base in Laos, following a similar pattern to its naval facility at Ream in Cambodia. Analysts assess this represents another strategic forward operating position that could enable increased Chinese military presence and influence throughout Southeast Asia.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/laos/2026/10/20/china-laos-air-base-ban-keun-ream-cambodia/",
+          "published": "Tue, 20 Oct 2026 17:23:00 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China withdraws teachers from Philippines amid South China Sea tensions",
+          "brief": "China has recalled teachers from the Philippines in connection with escalating South China Sea disputes, with analysts linking educational exchange programs to promotion of Beijing's territorial claims. The move reflects increasing tensions between the two countries over maritime sovereignty and signals China's willingness to leverage cultural and educational ties as diplomatic pressure. Experts warn the action could escalate xenophobic sentiment while highlighting the intersection of soft power and geopolitical competition in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+          "published": "Wed, 28 Oct 2026 00:24:12 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China closes three Tibetan schools following ethnic unity law",
+          "brief": "Chinese authorities have closed three schools in the Golog region of Qinghai province within a three-month period following the enactment of an 'ethnic unity law' on July 1. The school closures raise concerns among observers regarding the preservation of Tibetan language and cultural education. The action reflects intensified implementation of Beijing's ethnic policy in Tibetan-majority areas.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/",
+          "published": "Fri, 23 Oct 2026 21:25:52 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "India Seeks Strategic Economic Diversification Away from Chinese Dependence",
+          "brief": "India is pursuing reduced economic reliance on China, with policymakers and executives indicating that Chinese firms' participation in Indian markets is conditional on substantive economic benefits to India. This approach reflects India's broader strategy to balance economic engagement with strategic autonomy, leveraging market access as leverage to secure favorable terms rather than outright exclusion of Chinese investment.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/10/indias-china1-dilemma-it-may-need-china-to-depend-less-on-china/",
+          "published": "Fri, 30 Oct 2026 23:28:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese Foreign Minister Wang Yi Discusses US-China Relations",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum webcast to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for direct dialogue on strategic issues between the two powers.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "China Pursues Green Investment Strategy to Challenge Dollar Dominance",
+          "brief": "China is leveraging green energy and sustainable development initiatives as part of a broader strategy to reduce global reliance on the U.S. dollar. By positioning itself as a leader in environmental technology and green financing, Beijing aims to establish alternative economic frameworks and currency mechanisms. This approach carries significant implications for global financial systems and the future role of reserve currencies in international trade.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-price-zongyuan-zoe-liu",
+          "published": "Tue, 20 Oct 2026 00:00:00 -0400",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China deploys $25.5B stimulus as stock market enters bear territory",
+          "brief": "China's state-backed investment entities injected approximately 170 billion yuan into exchange-traded funds following the stock market's entry into bear market conditions, signaling official concern about equity market stability. The intervention coincides with continued international financial activity, including the offshore yuan bond market expansion and stable monetary policy settings in Hong Kong and the US.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3372668/national-team-intervention-yulan-bonds-5-figures-investors-are-watching",
+          "published": "Fri, 30 Oct 2026 07:00:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Evergrande liquidators sell property services stake for $514M",
+          "brief": "Liquidators of China Evergrande Group have sold a controlling 51% stake in its property services unit to investment firm PAG for US$513.6 million as part of efforts to recover assets for creditors owed US$46 billion. The sale represents a critical step in the liquidation process, separating the profitable property management business from its struggling parent company that had depleted resources through collateralized lending.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3372681/evergrande-liquidators-sell-controlling-stake-property-services-unit-us513-million",
+          "published": "Fri, 30 Oct 2026 05:24:31 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's Yulan bond structure debuts successfully in Dubai",
+          "brief": "Bank of China issued a 2 billion yuan offshore bond under the Yulan structure in Dubai, achieving over five times oversubscription despite Middle East geopolitical tensions. The strong investor demand reflects continued global appetite for yuan-denominated assets, supporting Beijing's broader internationalization strategy for the renminbi.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/economy/china-economy/article/3372411/yulan-bond-debuts-dubai-amid-beijings-yuan-denominated-asset-push",
+          "published": "Wed, 28 Oct 2026 07:07:07 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "Philippines investigates Chinese influence amid Duterte impeachment",
+          "brief": "Philippine military officials have alleged that China employs elite bribery as a strategic tool to extend influence, prompting the government to launch national security investigations. The accusations emerged during proceedings related to former President Duterte's impeachment, suggesting concerns about infiltration at senior governmental levels. This indicates heightened scrutiny of Beijing's influence operations within Manila's political and security establishment.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/",
+          "published": "Wed, 21 Oct 2026 20:23:58 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. condemns China's demolition of Tibetan monks' quarters",
+          "brief": "The United States has protested China's reported demolition of monks' quarters in Tibet, characterizing it as part of a campaign to reduce the monastic population and facilitate cultural assimilation. The incident reflects ongoing U.S.-China tensions over religious freedom and autonomy in Tibet, with Washington calling for an end to interference in Tibetan religious practices.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
+          "published": "Thu, 29 Oct 2026 23:37:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Uyghur activists lobby Rubio on Central Asian human rights",
+          "brief": "Uyghur activists are urging U.S. Secretary of State Marco Rubio to raise human rights concerns regarding Uyghur communities during his upcoming visit to Uzbekistan and engagement with Central Asian officials. The advocacy reflects ongoing international pressure on the U.S. to address Uyghur treatment issues through diplomatic channels with regional partners.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/",
+          "published": "Fri, 16 Oct 2026 18:31:29 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Myanmar military releases images of detained Aung San Suu Kyi",
+          "brief": "Myanmar's military junta released rare photographs of imprisoned former leader Aung San Suu Kyi receiving books and correspondence from British King Charles III, triggering renewed international calls for her release. The controlled disclosure suggests potential diplomatic messaging while maintaining her detention, with implications for Myanmar's international relationships and pressure from Western nations. The move indicates ongoing tensions between Myanmar's military government and the international community regarding governance and human rights.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/",
+          "published": "Mon, 19 Oct 2026 23:06:17 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Anonymous letter calls for Xi term limits restoration",
+          "brief": "An online post purportedly by Chinese students circulated on a website registered in South Korea advocating for the restoration of term limits on Chinese leadership, specifically targeting Xi Jinping's indefinite tenure. The letter's origins and authenticity remain unverified, though its circulation through foreign-registered platforms suggests deliberate efforts to bypass domestic censorship. The post reflects potential domestic discontent regarding centralized power concentration, though its actual impact on policy or public opinion within China is unclear.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
+          "published": "Mon, 26 Oct 2026 21:08:41 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 15,
+        "high_priority": 2,
+        "by_category": {
+          "military": 1,
+          "foreign_relations": 9,
+          "economy": 5
+        },
+        "updated_at": "2026-11-01T16:30:56.957074Z"
+      }
+    },
+    {
       "date": "2026-10-31",
       "articles": [
         {
@@ -21122,250 +21318,6 @@
           "military": 1
         },
         "updated_at": "2026-08-04T11:56:08.637609Z"
-      }
-    },
-    {
-      "date": "2026-08-03",
-      "articles": [
-        {
-          "headline": "China implements forced assimilation policies targeting ethnic minorities",
-          "brief": "China has enacted legislation formalizing forced assimilation measures targeting minority populations. This policy shift has significant implications for social stability, international relations, and economic productivity in minority-populated regions. The legalization of assimilation practices may trigger increased scrutiny from Western governments and international organizations.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
-          "published": "Thu, 30 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Tibetan activist dies after self-immolation outside UN headquarters",
-          "brief": "A Tibetan activist died after setting himself on fire outside UN headquarters, occurring one day after China's new 'ethnic unity law' took effect. The incident represents a significant protest against Chinese policies and highlights ongoing tensions regarding ethnic and religious freedoms in Tibet. The timing suggests the activist's action was a direct response to the implementation of China's latest ethnic policy.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/03/tibet-united-nations-self-immolation-china/",
-          "published": "Fri, 03 Jul 2026 15:10:50 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China conducts Pacific missile test amid U.S. allied military activity",
-          "brief": "China conducted a missile test in the Pacific region coinciding with the signing of an Australia-Fiji defense pact and ongoing allied military exercises. Analysts characterize the test as a messaging effort directed at U.S. allies in the region. The timing suggests China is demonstrating military capability in response to increased allied security coordination.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/china/2026/07/07/china-missile-test-pacific-fiji-australia/",
-          "published": "Tue, 07 Jul 2026 17:23:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Philippines commemorates decade since South China Sea tribunal ruling",
-          "brief": "The Philippines marked the 10th anniversary of a landmark international court ruling on South China Sea disputes, though China continues to reject the decision and disagreement persists on resolution mechanisms. The unresolved dispute underscores persistent tensions between Beijing and Manila over maritime claims and territorial rights in the region. The impasse reflects broader challenges in establishing enforceable international dispute resolution in Southeast Asia.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
-          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts suggesting Beijing is leveraging historical grievances involving Japan to undermine Manila's South China Sea territorial claims. The move reflects escalating diplomatic pressure as China seeks to isolate the Philippines and weaken regional coalitions challenging its maritime positions. This development signals China's use of multilayered diplomatic tactics combining sanctions with historical narratives to achieve strategic objectives in the contested waters.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
-          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China-North Korea bridge nears opening after 12-year delay",
-          "brief": "Satellite imagery indicates the cross-border bridge connecting China and North Korea is approaching operational status, more than a decade after its completion. The infrastructure project is expected to significantly facilitate bilateral trade and strengthen economic ties between the two countries. The bridge's opening could have implications for regional supply chains and North Korea's economic engagement with China.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
-          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China enacts ethnic unity law with extraterritorial reach",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that claim applicability beyond its borders. The law's extraterritorial scope represents an expansion of Beijing's regulatory authority and could have significant implications for Chinese diaspora communities and international relations. This legislative development reflects China's broader strategy to extend state control over ethnically Chinese populations worldwide.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Chinese authorities arrest Uyghur family for sending goods to Turkey",
-          "brief": "Chinese police in Urumqi arrested Uyghur sisters and their mother for sending goods to Turkey, with authorities characterizing the activity as support for terrorism. The arrests reflect ongoing restrictions on cross-border commerce and communications involving Uyghur communities, with significant implications for international trade and diaspora family connections in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Solomon Islands signs security pact with US while maintaining China ties",
-          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its commitment to neutrality and continued engagement with Beijing. Regional experts characterize simultaneous engagement with both major powers as standard diplomatic practice for Pacific nations. The agreement reflects broader US efforts to strengthen strategic partnerships in the Indo-Pacific region amid great power competition.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
-          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China pursues incremental infrastructure projects across Latin America",
-          "brief": "China is advancing its economic influence in Latin America through numerous small-scale development projects rather than large singular investments. This strategy allows China to expand trade ties, secure resource access, and deepen political relationships across the region while maintaining a lower profile than traditional major infrastructure projects. The cumulative effect of these initiatives represents a significant shift in Latin America's economic dependencies and geopolitical alignments.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america",
-          "published": "Mon, 03 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Wuxi AppTec reports 33.7% earnings surge despite US scrutiny",
-          "brief": "Wuxi AppTec, Asia's largest contract pharmaceutical research provider, posted first-half net income of 11.08 billion yuan, up 33.7% year-over-year and exceeding analyst expectations, driven by demand for weight-loss and diabetes drugs. The strong performance demonstrates resilience in China's biotech sector and the company's US business expansion, though the firm continues operating under increased US regulatory and geopolitical scrutiny.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362817/chinese-biotech-giant-wuxi-apptec-sees-first-half-earnings-surge-amid-us-scrutiny?utm_source=rss_feed",
-          "published": "Mon, 03 Aug 2026 12:30:14 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong launches Chinese treasury bond futures trading",
-          "brief": "Hong Kong's stock exchange began trading five-year Chinese treasury bond futures on August 3, marking a significant development in China's financial markets. The move is strategically important as it supports the internationalization of the yuan by establishing the deep government bond market necessary for a currency to achieve genuine reserve currency status. This development reflects broader shifts in the international monetary system beyond traditional trade-based currency flows.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3362705/hong-kongs-chinese-bond-futures-are-major-step-global-yuan?utm_source=rss_feed",
-          "published": "Mon, 03 Aug 2026 08:30:05 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "China's CIPS payment system expanding adoption across Mongolian banking sector",
-          "brief": "Mongolia's second-largest bank, Golomt Bank, has connected to China's Cross-Border Interbank Payment System (CIPS), with expectations that most major Mongolian banks will join within two years as bilateral trade increasingly settles in yuan. This expansion of China's alternative payment infrastructure reduces reliance on traditional dollar-based settlement mechanisms and strengthens financial integration between the two countries. The shift reflects China's broader strategy to internationalize the yuan and establish alternative financial infrastructure independent of Western-dominated systems.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362529/chinas-cips-will-become-settlement-norm-mongolia-within-2-years-golomt-bank-says?utm_source=rss_feed",
-          "published": "Fri, 31 Jul 2026 08:25:39 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China intensifies insider trading crackdowns to restore market confidence",
-          "brief": "Chinese securities regulators have significantly escalated enforcement actions against corporate insiders, investigating at least 21 controlling shareholders and senior executives across 20 listed companies in the first half of 2026. The crackdown includes severe fines, criminal sentences, and market bans as Beijing attempts to address systemic trust deficits in China's stock markets. This regulatory intensification signals Beijing's prioritization of market integrity and investor confidence restoration amid ongoing economic challenges.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3362351/chinas-corporate-crackdown-insider-trading-fines-and-bans-intensify?utm_source=rss_feed",
-          "published": "Thu, 30 Jul 2026 07:00:05 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China Promotes Hong Kong as Financial Hub for Mainland Firms",
-          "brief": "Beijing is actively encouraging mainland financial institutions to use Hong Kong as a gateway for international expansion, with 103 mainland fund, securities, and futures companies already established in the city. The regulatory push aims to strengthen Hong Kong's role as a financial bridge between mainland China and global markets, while also promoting Hong Kong-listed companies to expand onto mainland exchanges. This policy initiative signals China's commitment to leveraging Hong Kong's financial infrastructure for capital outflow and cross-border investment.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/article/3362734/treasury-bond-futures-milestone-boost-hong-kongs-bridgehead-role-csrc-chairman?utm_source=rss_feed",
-          "published": "Mon, 03 Aug 2026 01:54:24 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong launches Chinese government bond futures trading",
-          "brief": "Hong Kong Exchanges and Clearing is launching 5-year China government bond futures contracts with strong international investor interest from asset managers, pension funds, and insurance companies. The new instruments feature a low minimum margin requirement of 7,980 yuan, designed to facilitate offshore trading and potentially enhance Hong Kong's role as a financial hub for Chinese assets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/markets/article/3362586/global-institutional-investors-eager-trade-chinese-bond-futures-hong-kong-hkex-says?utm_source=rss_feed",
-          "published": "Mon, 03 Aug 2026 00:00:23 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "AIIB explores digital payments, positions Hong Kong as fintech hub",
-          "brief": "The Asian Infrastructure Investment Bank is modernizing its capital market operations by exploring tokenized payments and digital settlement systems, leveraging Hong Kong's digital finance ecosystem. This initiative, announced by AIIB's treasurer, represents the bank's strategic pivot toward blockchain-based financial infrastructure while the institution raises record funding levels.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362580/aiib-explores-digital-payments-eyes-hong-kong-hub-it-raises-record-funds?utm_source=rss_feed",
-          "published": "Sun, 02 Aug 2026 13:00:13 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese households shift assets from real estate to cash reserves",
-          "brief": "Chinese families are significantly reducing real estate holdings, with property's share of household assets declining from 67% in mid-2021 to 52% in Q1 2026, while cash reserves increased from 16% to 25% over the same period. This reflects a fundamental reallocation of household wealth away from the property sector, with families adopting a cautious approach to stock market investments. The shift contrasts sharply with South Korean retail investors' aggressive equity positioning and signals declining confidence in China's real estate market as a wealth storage vehicle.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3362203/chinese-families-turn-cash-and-cautious-stock-bets-real-estate-avenues-narrow?utm_source=rss_feed",
-          "published": "Sat, 01 Aug 2026 01:00:08 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China faces economic headwinds amid shifting US strategy",
-          "brief": "China is experiencing economic weakness that creates strategic opportunities for the United States to reassess its bilateral relationship. The convergence of domestic economic challenges in China and evolving American strategic interests may reshape competitive dynamics between the two powers. This represents a potential inflection point in US-China economic and strategic positioning.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
-          "published": "Thu, 23 Jul 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 4,
-        "articles_total": 19,
-        "high_priority": 2,
-        "by_category": {
-          "military": 1,
-          "foreign_relations": 8,
-          "economy": 10
-        },
-        "updated_at": "2026-08-03T12:49:39.011703Z"
       }
     }
   ]
