@@ -1,20 +1,31 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "metrics": {
-    "sources_scanned": 7,
-    "articles_total": 23,
-    "high_priority": 2,
+    "sources_scanned": 5,
+    "articles_total": 19,
+    "high_priority": 5,
     "by_category": {
-      "foreign_relations": 15,
-      "economy": 6,
-      "military": 2
+      "foreign_relations": 10,
+      "economy": 9
     },
-    "updated_at": "2026-11-02T19:53:40.671020Z"
+    "updated_at": "2026-11-03T17:26:19.165742Z"
   },
   "articles": [
     {
-      "headline": "China developing air base in Laos as Southeast Asian military outpost",
-      "brief": "China is reportedly establishing a military air base at Ban Keun in Laos, potentially mirroring its strategic presence at Cambodia's Ream Naval Base. Analysts suggest the facility could serve as a forward operating position, expanding Beijing's military footprint and influence across Southeast Asia. This development reflects China's broader strategy to secure strategic assets and power projection capabilities in the region.",
+      "headline": "China could pressure Taiwan's Pratas Island through supply restrictions",
+      "brief": "Analysts assess that China could erode Taiwan's control of the remote Pratas Island through supply restriction tactics rather than military invasion, potentially gaining strategic leverage in the Taiwan Strait. However, forcing a Taiwanese withdrawal risks escalating into a broader regional crisis. This approach represents a lower-risk alternative for Beijing to challenge Taiwan's territorial holdings.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/",
+      "published": "Tue, 03 Nov 2026 03:30:37 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China expanding military presence in Southeast Asia through Laos base",
+      "brief": "China is establishing a military air base at Ban Keun in Laos, following a similar pattern to its activities at Ream Naval Base in Cambodia. Analysts assess this development as part of Beijing's strategy to expand its forward military presence and regional influence in Southeast Asia.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
@@ -25,8 +36,20 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Philippine military alleges China uses elite bribery strategy",
-      "brief": "Philippine authorities have launched national security investigations into alleged Chinese influence operations, with military officials claiming Beijing employs bribery of local elites as a strategic tool. The allegations emerge amid political tensions surrounding former President Duterte's impeachment proceedings. This suggests growing concern within Philippine defense and security establishments regarding Chinese interference in domestic political matters.",
+      "headline": "US AI Dominance Relies on Taiwan's Critical Chip Manufacturing",
+      "brief": "The article discusses the US-China competition for artificial intelligence dominance, noting that US leadership in AI models is supported by an ecosystem encompassing energy, servers, and chip infrastructure. Taiwan's role in semiconductor manufacturing is identified as critical to sustaining American technological advantages in the AI race against China.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung",
+      "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "Philippines launches security probes into Chinese influence operations",
+      "brief": "Philippine government has initiated national security investigations into alleged Chinese influence activities, with military officials characterizing bribery of elites as a key strategy. The probes coincide with impeachment proceedings and reflect growing concerns about Beijing's political interference in the Philippines. This suggests China may be employing financial inducements to penetrate Philippine decision-making circles.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
@@ -37,68 +60,32 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Kim Jong Un visits Chinese war memorial, shifts historical narrative",
-      "brief": "North Korean leader Kim Jong Un made an unprecedented day trip to China to visit a Korean War memorial, publicly acknowledging China's military role in the 1950-1953 conflict. This visit represents a significant departure from North Korea's historical narrative, which has traditionally minimized Chinese contributions to the war. The shift suggests either improved China-North Korea relations or a willingness by Pyongyang to realign its official historical positioning.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/",
-      "published": "Mon, 26 Oct 2026 20:13:24 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China uses Sun Yat-sen legacy to advance reunification messaging",
-      "brief": "China is leveraging shared historical reverence for Sun Yat-sen, the founder of the Republic of China, as a tool to promote cross-strait reunification with Taiwan. Analysts assess that this messaging strategy primarily resonates with audiences already sympathetic to Beijing rather than shifting broader Taiwanese public opinion. The approach reflects China's continued use of historical and cultural narratives in its diplomatic efforts toward Taiwan.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/",
-      "published": "Wed, 28 Oct 2026 23:44:08 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China closes three Tibetan schools in Qinghai province",
-      "brief": "Chinese authorities have closed three schools in the Golog region of Qinghai province within a three-month period following the implementation of an \"ethnic unity law\" on July 1. The closures raise concerns regarding the preservation of Tibetan language and cultural education. This action reflects intensified centralized control over minority educational institutions in Tibet.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/",
-      "published": "Fri, 23 Oct 2026 21:25:52 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "U.S. calls on China to halt interference in Tibetan religious practices",
-      "brief": "The United States has objected to reported demolitions of monks' quarters in Tibet, which sources indicate are intended to reduce the monastic population and facilitate cultural assimilation. The U.S. statement underscores ongoing tensions between Washington and Beijing over religious freedom and minority rights in Tibet, a longstanding point of diplomatic friction.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
-      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Expands Economic Leverage Beyond Rare Earths",
-      "brief": "China is strengthening its strategic position by making other nations dependent on its production of solar technology, drones, and pharmaceuticals, extending beyond rare earth minerals. This dependency creates asymmetric economic leverage that rivals cannot easily circumvent. The move signals China's intent to use critical technology supply chains as a geopolitical instrument.",
+      "headline": "FBI Links North Korea to Record $6B Cryptocurrency Theft",
+      "brief": "The FBI attributed the largest cryptocurrency heist on record to North Korean state-sponsored hackers, with cash-out operations significantly dependent on Chinese financial infrastructure. This incident highlights North Korea's sophisticated use of cybercrime as a state revenue mechanism and reveals potential vulnerabilities in China's financial oversight of illicit cryptocurrency flows.",
       "category": "economy",
-      "severity": "medium",
+      "severity": "high",
       "sources_used": [
-        "NYT > World News"
+        "The Diplomat"
       ],
-      "original_link": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
-      "published": "Mon, 02 Nov 2026 16:21:25 +0000",
-      "raw_source": "NYT > World News"
+      "original_link": "https://thediplomat.com/2026/11/6b-binance-heist-exposes-how-north-korea-turned-hacking-into-a-state-revenue-stream/",
+      "published": "Mon, 02 Nov 2026 23:42:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "U.S. Considers Economic Security Alliance Against China",
-      "brief": "The article discusses potential U.S. strategies to counter Chinese economic coercion through the formation of an economic security alliance. This approach reflects growing concerns about China's use of economic leverage as a geopolitical tool and suggests a coordinated multilateral response may be more effective than unilateral measures.",
+      "headline": "China recalls teachers from Philippines amid South China Sea tensions",
+      "brief": "China has recalled teachers from the Philippines in response to ongoing South China Sea disputes, according to Radio Free Asia reporting. Experts warn against xenophobic reactions while noting that educational exchanges may serve as platforms for advancing China's territorial claims. The move signals the use of soft power mechanisms as a pressure tool in bilateral relations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+      "published": "Wed, 28 Oct 2026 00:24:12 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "U.S. considers economic security alliance to counter Chinese coercion",
+      "brief": "The article discusses strategies for the United States to establish an economic security alliance as a counterbalance to Chinese economic coercion tactics. Such an alliance would aim to reduce U.S. vulnerability to Chinese economic pressure through coordinated international economic policy. This reflects growing concerns among policymakers about China's use of economic leverage as a foreign policy tool.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -109,184 +96,148 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "China's Food Insecurity Constrains Military and Foreign Policy Options",
-      "brief": "China's inability to achieve complete food self-sufficiency creates strategic vulnerabilities that could limit its capacity to engage in major military conflicts, including a potential Taiwan scenario. Dependence on food imports makes China susceptible to supply disruptions that could constrain decision-making during international crises. This economic constraint represents a significant structural limitation on Beijing's strategic flexibility.",
+      "headline": "U.S. Condemns Chinese Demolition of Tibetan Monks' Quarters",
+      "brief": "The U.S. State Department has criticized China's reported demolition of monks' quarters in Tibet, alleging the action is intended to reduce the monastic population and facilitate cultural assimilation. The incident reflects ongoing tensions between Washington and Beijing over religious freedom and ethnic minority rights in Tibet, a persistent point of contention in U.S.-China relations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
+      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Kim Jong Un visits Chinese war memorial in unprecedented day-trip",
+      "brief": "North Korean leader Kim Jong Un made an unusual day-trip to China to visit a Korean War army memorial, marking an acknowledgment of China's military role in the 1950-1953 conflict. This visit represents a significant departure from North Korea's historical narrative, which has traditionally downplayed Chinese contributions to the war. The gesture suggests a potential diplomatic shift in how Pyongyang frames its relationship with Beijing and may indicate efforts to strengthen bilateral ties.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/",
+      "published": "Mon, 26 Oct 2026 20:13:24 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "PBOC Governor Pledges Additional Support for Struggling Chinese Stock Market",
+      "brief": "China's central bank governor Pan Gongsheng has committed to additional rescue measures for the country's declining stock market, which has resisted previous intervention efforts. The PBOC plans to deploy further monetary policy tools to address financial risks in the capital market and property sector. The continued market decline despite existing rescue measures suggests underlying structural challenges in China's financial system.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3373166/pboc-pledges-support-stocks-chinas-market-slide-defies-rescue-efforts",
+      "published": "Tue, 03 Nov 2026 12:50:16 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "PBOC raises forex reserve requirements to manage yuan appreciation",
+      "brief": "China's central bank announced a 2 percentage point increase in banks' foreign exchange reserve requirements, raising the ratio to 6 percent effective November 15. The measure aims to strengthen liquidity management and reduce upward pressure on the yuan by tightening onshore forex supply. This policy reflects Beijing's effort to manage currency volatility while maintaining financial stability.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/article/3373053/pboc-raise-reserve-requirement-ratio-foreign-exchange-deposits-2-percentage-points",
+      "published": "Tue, 03 Nov 2026 01:13:12 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China expands forex settlement services to reduce cross-border trade costs",
+      "brief": "China's State Administration of Foreign Exchange released draft measures to streamline foreign exchange settlements and simplify cross-border payment procedures. The nine proposed initiatives aim to broaden applicable scenarios and reduce transaction costs for international commerce. This move signals Beijing's effort to enhance the competitiveness of Chinese businesses in global trade and potentially strengthen the yuan's role in international settlements.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/economy/policy/article/3373093/china-moves-simplify-forex-settlements-and-make-cross-border-business-easier",
+      "published": "Tue, 03 Nov 2026 07:00:08 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Global bankers affirm Hong Kong's importance as China's financial gateway",
+      "brief": "Global financial executives have expressed confidence in Hong Kong's strategic role as a bridge between mainland China and international markets amid geopolitical uncertainty. Banking leaders are adapting business strategies to navigate shifting capital flows and global tensions, positioning Hong Kong as a critical intermediary for cross-border investment and financial operations.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3373156/amid-global-uncertainty-top-bankers-back-hong-kongs-role-mainland-chinas-gateway",
+      "published": "Tue, 03 Nov 2026 11:08:20 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Vice-Premier Outlines Strategy for Hong Kong Financial Growth",
+      "brief": "Chinese Vice-Premier He Lifeng reaffirmed Hong Kong's strategic importance to Beijing, calling for the city to strengthen its role as an international financial center and offshore yuan hub while addressing cyber risks. He emphasized Hong Kong should support technological innovation and align with China's 15th five-year plan. This statement reflects Beijing's continued prioritization of Hong Kong as a key economic asset despite geopolitical sensitivities.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/plus/news/hong-kong/hong-kong-economy/article/3373123/hong-kong-seeks-balance-finance-growth-against-cyber-risks",
+      "published": "Tue, 03 Nov 2026 09:01:17 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Beijing pledges enhanced support for Hong Kong financial center status",
+      "brief": "Vice-Premier He Lifeng announced that Beijing will introduce additional measures to strengthen Hong Kong's position as an international financial centre, emphasizing finance as central to Hong Kong's strategic agenda. The commitment signals continued central government backing for Hong Kong's economic role despite recent geopolitical tensions, potentially aimed at stabilizing the financial hub's competitiveness in the global market.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/article/3373105/vice-premier-he-lifeng-vows-support-hong-kong-international-financial-centre",
+      "published": "Tue, 03 Nov 2026 07:59:18 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Analysis warns against escalating hawkish approach to China policy",
+      "brief": "An opinion piece cautions against reversing diplomatic and economic engagement strategies with China, characterizing a more aggressive policy stance as counterproductive. The article suggests that hawkish restoration could negatively impact economic relations and bilateral stability. The significance lies in ongoing policy debate regarding optimal U.S.-China economic and diplomatic strategy.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
-      "original_link": "https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency",
-      "published": "Mon, 02 Nov 2026 04:00:00 -0500",
+      "original_link": "https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy",
+      "published": "Thu, 29 Oct 2026 04:00:00 -0400",
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Xi consolidates control through record party discipline purges",
-      "brief": "Xi Jinping has conducted a record number of purges within the Communist Party, framing them as anti-corruption measures while observers assess them as tools for consolidating authority. The campaign reflects ongoing personnel restructuring within China's military and security apparatus, with implications for leadership cohesion and policy consistency. This pattern suggests Xi is prioritizing loyalty and centralized control within party and military hierarchies.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 30 Oct 2026 03:24:12 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Chinese students reportedly call for Xi term limits restoration online",
-      "brief": "An online post purportedly authored by Chinese students advocating for the restoration of presidential term limits for Xi Jinping appeared on a website registered in South Korea with a Singapore mailing address, according to RFA investigation. The post's circulation through international servers suggests potential circumvention of Chinese censorship mechanisms. This signals continued domestic dissent over Xi's consolidation of indefinite power, though the post's authenticity and reach within China remain unclear.",
+      "headline": "Myanmar military releases photos of detained Aung San Suu Kyi",
+      "brief": "Myanmar's military junta released rare photographs of former leader Aung San Suu Kyi in detention, showing her receiving books and correspondence from British King Charles. The images have reignited international calls for her release, indicating continued diplomatic pressure on Myanmar regarding her imprisonment. The release of such photos suggests the junta may be responding to sustained foreign engagement on the issue.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
-      "published": "Mon, 26 Oct 2026 21:08:41 +0000",
+      "original_link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/",
+      "published": "Mon, 19 Oct 2026 23:06:17 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China sanctions Taiwan allies Paraguay and Belize officials",
-      "brief": "China imposed sanctions against officials from Paraguay and Belize in response to their countries' continued diplomatic recognition of Taiwan. Despite Beijing's punitive measures, both nations remain aligned with Taipei, indicating limited practical effectiveness of China's coercive strategy. The action demonstrates China's willingness to project power through sanctions while highlighting the persistence of Taiwan's diplomatic relationships.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/",
-      "published": "Fri, 23 Oct 2026 13:22:42 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Japan-Taiwan Relations Strengthen Despite Emerging Political Constraints",
-      "brief": "Economic, technological, and societal ties between Japan and Taiwan have reached unprecedented levels, indicating deepening bilateral integration. However, political constraints are increasingly limiting the relationship's expansion, suggesting potential friction points that could affect regional stability and coordination on security matters.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/10/japan-taiwan-relations-enter-deep-waters-will-they-sink-or-swim/",
-      "published": "Sat, 31 Oct 2026 02:02:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "India seeks reduced economic dependence on China through selective engagement",
-      "brief": "India is pursuing a strategy to decrease its reliance on Chinese firms and investment, with policymakers indicating that participation by Chinese companies is conditional on tangible benefits to India's economy. The approach suggests New Delhi views economic interdependence as a strategic vulnerability that requires mitigation through diversified partnerships and increased domestic capability.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/10/indias-china1-dilemma-it-may-need-china-to-depend-less-on-china/",
-      "published": "Fri, 30 Oct 2026 23:28:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "India's Siang River hydropower project faces local opposition amid border tensions",
-      "brief": "India is advancing a major hydroelectric project on the Siang River in Arunachal Pradesh despite local protests, with New Delhi citing national security concerns amid ongoing border tensions with China. The project highlights India's strategic infrastructure development in disputed border regions, though domestic resistance may complicate implementation timelines.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/10/amid-india-china-border-tensions-mega-hydel-project-in-arunachal-pradesh-faces-local-heat/",
-      "published": "Fri, 30 Oct 2026 22:11:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "South African authorities investigate firebombing of Dalai Lama office",
-      "brief": "Police in South Africa are investigating a firebombing attack on the residential office of the Dalai Lama's representative in the country. A Tibetan rights group has attributed the incident to transnational repression by the Chinese Communist Party, suggesting Beijing may be extending its pressure tactics beyond its borders to suppress Tibetan advocacy activities.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/16/tibet-south-africa-attack-fire-dalai-lama/",
-      "published": "Fri, 16 Oct 2026 15:16:54 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Uyghur activists call on Rubio to address rights issues in Central Asia",
-      "brief": "Uyghur activists are urging U.S. Secretary of State Marco Rubio to raise human rights concerns regarding Uyghur communities during his visit to Uzbekistan and engagement with Central Asian officials. The activists view the diplomatic engagement as an opportunity for the U.S. to demonstrate commitment to human rights advocacy in the region. This reflects ongoing tensions between U.S. human rights priorities and diplomatic relations with Central Asian nations.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/uyghur/2026/10/16/uyghur-uzbekistan-rubio-trip-c5/",
-      "published": "Fri, 16 Oct 2026 18:31:29 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Hong Kong positioned as hub for digital yuan internationalization",
-      "brief": "Beijing has designated Hong Kong as a strategic center for promoting the digital yuan's global adoption, with the city testing interoperability between the e-CNY and other digital assets. This initiative represents a key component of China's broader currency internationalization strategy and aims to expand the yuan's international usage beyond mainland China. The move has significant implications for Hong Kong's financial role and China's efforts to establish alternative financial infrastructure independent of Western systems.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3372448/beijing-wants-hong-kong-sow-seeds-digital-yuan-will-its-plans-bear-fruit",
-      "published": "Wed, 28 Oct 2026 22:00:10 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China's Yulan bond debuts in Dubai with strong investor demand",
-      "brief": "Bank of China successfully launched a 2 billion yuan Yulan bond in Dubai, with investor orders exceeding five times the offering amount, demonstrating continued global appetite for yuan-denominated assets. This debut reflects Beijing's broader strategy to internationalize the renminbi and establish financial infrastructure in key Middle Eastern markets amid geopolitical complexities in the region.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/economy/china-economy/article/3372411/yulan-bond-debuts-dubai-amid-beijings-yuan-denominated-asset-push",
-      "published": "Wed, 28 Oct 2026 07:07:07 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Beijing Calls for Improved Governance Talent Selection in Hong Kong",
-      "brief": "China's State Council Hong Kong and Macau Affairs Office has issued guidance urging Hong Kong to strengthen its systems for recruiting and managing government officials with integrity and competence. The directive emphasizes that economic development depends on maintaining national security, signaling Beijing's continued focus on governance alignment and institutional control over Hong Kong's administrative apparatus.",
+      "headline": "UK Exempts BN(O) Visa Holders from Extended Settlement Timeline",
+      "brief": "The United Kingdom will exempt Hong Kong British National (Overseas) visa holders from proposed 10-year settlement requirements, though they remain subject to enhanced English-language proficiency and criminal record scrutiny. This exemption reflects the UK's continued commitment to the BN(O) scheme established following Hong Kong's 2020 National Security Law, while maintaining baseline integration standards. The policy signals ongoing UK-China tensions over Hong Kong governance and migration rights.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3372991/beijing-urges-hong-kong-bring-more-governance-talent-integrity-competence",
-      "published": "Mon, 02 Nov 2026 09:11:58 +0000",
+      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3373178/hong-kong-bno-visa-holders-exempt-uks-proposed-10-year-settlement-wait",
+      "published": "Tue, 03 Nov 2026 14:27:09 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Unidroit opens first Asia-Pacific office in Hong Kong",
-      "brief": "The International Institute for the Unification of Private Law (Unidroit) has officially established its first regional office in Hong Kong, with Chief Executive John Lee positioning this as validation of the city's global legal hub status. The office is expected to facilitate international legal cooperation, attract international organizations and talent to the region, and strengthen legal frameworks across Asia-Pacific. This development reflects efforts to maintain Hong Kong's role as an international financial and legal center.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372946/launch-global-legal-bodys-office-hong-kong-seals-citys-law-hub-status-john-lee",
-      "published": "Mon, 02 Nov 2026 05:48:05 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong Fire Prompts Resignations But Raises Accountability Questions",
-      "brief": "A deadly 2025 fire in Hong Kong triggered ministerial resignations and official apologies, but key accountability mechanisms remain limited to what the government voluntarily offers. The incident highlights structural constraints on citizen-driven oversight and raises questions about the effectiveness of Hong Kong's accountability mechanisms. This reflects ongoing governance challenges in the territory.",
+      "headline": "Xi Jinping's Anti-Corruption Campaign Continues as Core Party Policy",
+      "brief": "China's Communist Party maintains its sustained anti-corruption crusade, now in its 14th year as a defining feature of Xi Jinping's leadership. The campaign reflects ongoing party discipline efforts and potential concerns about internal loyalty among cadres. This sustained focus suggests anti-corruption remains central to Xi's governance strategy and party consolidation.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/10/hong-kongs-deadly-2025-fire-accountability-on-lees-terms/",
-      "published": "Sat, 31 Oct 2026 03:05:00 +0900",
+      "original_link": "https://thediplomat.com/2026/11/the-5th-plenum-and-the-ccps-dark-warning-to-the-unfaithful/",
+      "published": "Tue, 03 Nov 2026 03:57:00 +0900",
       "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Hong Kong releases first national security law convict early",
-      "brief": "Leon Tong Ying-kit, the first person convicted under Hong Kong's Beijing-imposed national security law, has been released early along with three others from related high-profile cases. Tong was sentenced to nine years in July 2021 for inciting secession and terrorist activities. The early release may signal shifting enforcement priorities regarding the contentious security law that has significantly impacted Hong Kong's political freedoms.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3373012/hong-kongs-first-national-security-law-convict-among-4-released-early-sources-say",
-      "published": "Mon, 02 Nov 2026 11:52:51 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -305,52 +256,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "Relations remain strained over trade disputes, technology competition, Taiwan, and strategic rivalry in the Indo-Pacific."
+      "summary": "China-U.S. relations remain competitive and strained over trade, technology, Taiwan, and geopolitical influence, with limited cooperation on specific issues."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China maintains a strategic partnership with Russia centered on counterbalancing Western influence, though economic ties remain limited."
+      "summary": "China and Russia maintain a strategic partnership with deepening military and energy cooperation, though without formal alliance commitments."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "Relations are mixed, combining economic interdependence with growing EU concerns over human rights, market access, and geopolitical alignment."
+      "summary": "EU-China relations balance economic interdependence with growing concerns over human rights, economic coercion, and geopolitical competition."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and pursues military coercion and political pressure to prevent independence and international recognition."
+      "summary": "China views Taiwan as a breakaway province and has increased military pressure, while Taiwan maintains democratic independence with U.S. support."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "Historical disputes over territory, trade friction, and security alliance with the United States complicate otherwise economically significant relations."
+      "summary": "China-Japan relations are complicated by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, military clashes, and strategic competition in Asia have created significant tensions despite historical cultural ties."
+      "summary": "China-India relations are strained by unresolved border disputes, military confrontations, and competition for regional influence in South Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China prioritizes energy security and investment partnerships with Saudi Arabia while maintaining pragmatic relations despite differing governance models."
+      "summary": "China and Saudi Arabia maintain strong economic and energy ties, with cooperation on regional security despite differing strategic interests."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "Relations fluctuate based on South China Sea disputes and the Philippines' balancing act between China's economic influence and security ties to the United States."
+      "summary": "China-Philippines relations oscillate between cooperation on economic issues and tensions over South China Sea territorial claims and fishing rights."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China is Brazil's largest trading partner, and relations focus on economic cooperation, trade, and investment despite occasional diplomatic differences."
+      "summary": "China and Brazil maintain substantial trade relations and economic cooperation, with pragmatic engagement despite occasional diplomatic differences."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Relations have deteriorated significantly due to Australian calls for COVID-19 investigations, trade disputes, and security concerns over Chinese influence."
+      "summary": "China-Australia relations remain strained following Australia's calls for COVID-19 inquiries and security concerns, with limited trade normalization."
     }
   ]
 }
