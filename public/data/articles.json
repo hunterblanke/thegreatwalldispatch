@@ -1,44 +1,31 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "metrics": {
-    "sources_scanned": 5,
-    "articles_total": 21,
-    "high_priority": 5,
+    "sources_scanned": 4,
+    "articles_total": 12,
+    "high_priority": 2,
     "by_category": {
-      "foreign_relations": 10,
-      "economy": 9,
-      "military": 2
+      "economy": 3,
+      "foreign_relations": 9
     },
-    "updated_at": "2026-11-07T15:58:41.794181Z"
+    "updated_at": "2026-11-08T16:27:21.373880Z"
   },
   "articles": [
     {
-      "headline": "China could pressure Taiwan via Pratas Island supply restrictions",
-      "brief": "Analysts suggest China could erode Taiwan's control of the remote Pratas Island through supply restrictions rather than military invasion, potentially leveraging the island's isolation for political gains. While such an approach would provide Beijing with negotiating leverage, forcibly compelling a Taiwanese withdrawal could escalate into a broader regional crisis. The strategy represents a lower-risk alternative to direct military confrontation but carries significant implications for Taiwan's territorial integrity and regional stability.",
-      "category": "foreign_relations",
+      "headline": "US-China AI Competition Hinges on Taiwan's Semiconductor Dominance",
+      "brief": "The United States and China are engaged in strategic competition over artificial intelligence leadership, with the US currently maintaining technological superiority in AI models and research investment. However, American AI advancement depends on a complex technology ecosystem including semiconductors, power generation, and infrastructure, creating potential vulnerabilities in the supply chain. Taiwan's critical role in semiconductor production makes it a strategic chokepoint in this competition for AI dominance between democratic and autocratic systems.",
+      "category": "economy",
       "severity": "high",
       "sources_used": [
-        "Radio Free Asia"
+        "FA RSS"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/",
-      "published": "Tue, 03 Nov 2026 03:30:37 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung",
+      "published": "Tue, 03 Nov 2026 00:00:00 -0500",
+      "raw_source": "FA RSS"
     },
     {
-      "headline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years",
-      "brief": "Joshua Wong, a prominent Hong Kong pro-democracy activist, has been sentenced to 10 years imprisonment under Hong Kong's national security law, joining hundreds of others detained under the controversial legislation. The sentencing reflects Beijing's continued enforcement of security measures in Hong Kong and signals an intensified crackdown on political dissent. This development underscores the erosion of Hong Kong's autonomous governance and potential implications for international relations regarding democratic freedoms in the territory.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 13:51:03 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Joshua Wong receives 10-year sentence for foreign collusion charges",
-      "brief": "Hong Kong democracy activist Joshua Wong was sentenced to 10 years imprisonment on foreign collusion charges, with release expected in 2036 when he reaches age 40. The sentencing has drawn international condemnation and reflects ongoing tensions between Hong Kong authorities and the global community regarding freedom of expression and judicial independence. The case underscores China's strict enforcement of national security laws in Hong Kong and potential friction with democratic nations over human rights concerns.",
+      "headline": "Joshua Wong sentenced to 10 years on foreign collusion charges",
+      "brief": "Hong Kong democracy activist Joshua Wong received a 10-year prison sentence for foreign collusion charges, with expected release in 2036 at age 40. The international community has condemned the sentencing, highlighting ongoing tensions between Beijing's national security enforcement and Western concerns over Hong Kong's autonomy and civil liberties.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
@@ -49,128 +36,8 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "US and Allies Face Critical Minerals Investment Gap with China",
-      "brief": "The article highlights that China maintains a significant advantage in critical minerals production and investment, which are essential for advanced technology and energy transition. To compete strategically, the United States and allied nations must substantially increase domestic mining and mineral processing capabilities. This investment gap represents a potential vulnerability in supply chain resilience and technological competition.",
-      "category": "economy",
-      "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/united-states/missing-critical-minerals-investment",
-      "published": "Wed, 04 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Philippine military alleges China uses bribery to influence political elites",
-      "brief": "A Philippine military official has accused China of employing bribery as a strategic tool to influence Filipino political leadership, coinciding with national security investigations into Chinese influence. The allegation emerges amid impeachment proceedings and reflects growing concerns in Manila about Beijing's political interference operations. This suggests China is pursuing elite capture strategies to advance its interests in the Philippines.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/",
-      "published": "Wed, 21 Oct 2026 20:23:58 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China Recalls Teachers from Philippines Amid South China Sea Tensions",
-      "brief": "China has reportedly recalled teachers from the Philippines in connection with escalating South China Sea disputes. Experts suggest the educational exchange program may have been linked to advocacy of China's territorial claims in the region. The move signals potential instrumentalization of cultural and educational initiatives in service of China's geopolitical objectives.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
-      "published": "Wed, 28 Oct 2026 00:24:12 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China closes three Tibetan schools in Qinghai province within three months",
-      "brief": "Chinese authorities have shut down three schools in the Golog region of Qinghai province, following implementation of an 'ethnic unity law' on July 1. The closures raise concerns about preservation of Tibetan language and cultural education, potentially affecting minority communities' access to mother-tongue instruction.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/",
-      "published": "Fri, 23 Oct 2026 21:25:52 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "U.S. Considers Economic Security Alliance Against Chinese Coercion",
-      "brief": "The article discusses proposals for the United States to establish an economic security alliance as a counterweight to Chinese economic coercion tactics. Such an alliance would aim to reduce vulnerabilities to pressure from Beijing's control over critical supply chains and economic leverage. The significance lies in potential shifts toward coordinated Western economic strategies to mitigate asymmetric economic risks posed by China.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/japan/how-america-can-counter-chinese-coercion",
-      "published": "Mon, 02 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China Expands Naval-Air Capabilities to Counter Malacca Strait Vulnerability",
-      "brief": "China continues to face potential maritime disruption through the Malacca Strait but is offsetting this strategic vulnerability by expanding its regional military reach. The enhancement of China's naval and air power increases the military and political costs for any actor seeking to exploit this chokepoint dependency. This capability development reflects Beijing's broader strategy to reduce its reliance on critical sea lanes.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/how-chinas-naval-air-reach-is-offsetting-the-malacca-dilemma/",
-      "published": "Sat, 07 Nov 2026 01:25:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China disputes PNG claims regarding mysterious 32kg object found",
-      "brief": "Papua New Guinea police discovered a 32kg object and initially dismissed speculation it was a dummy, while China has disputed reports characterizing it as an artillery shell. The incident highlights regional tensions and questions about military materiel in the Pacific, with implications for great power competition in the Indo-Pacific region.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 03:46:10 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Kim Jong Un visits Chinese war memorial in unprecedented trip",
-      "brief": "North Korean leader Kim Jong Un made an unusual day trip to China to visit a Korean War memorial, marking an acknowledgment of China's military role in the conflict that Pyongyang historically downplayed. The visit signals a potential shift in how North Korea publicly recognizes China's contributions to the 1950-53 war, suggesting closer alignment between the two nations or a recalibration of official historical narratives.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/",
-      "published": "Mon, 26 Oct 2026 20:13:24 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "U.S. criticizes China over Tibetan monastery demolitions",
-      "brief": "The United States has called on China to cease interference in Tibetan religious affairs following reports of demolitions of monks' quarters at monasteries. According to sources cited by Radio Free Asia, the demolitions are intended to reduce the monastic population and facilitate cultural assimilation. The criticism underscores ongoing U.S.-China tensions over religious freedom and minority rights in Tibet.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
-      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China pursues alternative economic narrative amid structural challenges",
-      "brief": "Beijing is employing a strategy of reframing economic setbacks as successes, potentially masking underlying structural vulnerabilities in growth models and debt management. This approach to denial may delay necessary policy corrections and create asymmetries between official narratives and ground-level economic conditions. The strategy's sustainability remains uncertain given persistent deflationary pressures and slowing growth indicators.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/chinas-economics-denial",
-      "published": "Thu, 05 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China's Food Insecurity Constrains Strategic Options",
-      "brief": "China faces significant food security vulnerabilities that limit its capacity for military action, including potential conflict over Taiwan. Dependence on agricultural imports creates economic constraints that could prevent Beijing from sustaining prolonged military operations. This structural limitation represents a key strategic vulnerability in China's geopolitical positioning.",
+      "headline": "China's Food Insecurity May Constrain Military Adventurism",
+      "brief": "China's dependence on food imports creates strategic vulnerabilities that could limit its ability to sustain military conflict, particularly regarding Taiwan. Food insecurity constrains Beijing's options for extended military operations due to reliance on global supply chains. This economic dependency represents a significant structural constraint on China's geopolitical assertiveness.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -181,68 +48,68 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "China expands digital yuan access to foreign banks and firms",
-      "brief": "The People's Bank of China is extending its e-CNY digital currency network to offshore institutions, including Hong Kong bank branches, and exploring local e-CNY wallets for foreign companies. This expansion aims to deepen cross-border financial integration beyond the current 30 domestic bank operators. The move signals Beijing's strategy to internationalize its central bank digital currency and facilitate foreign participation in China's digital payment ecosystem.",
-      "category": "economy",
+      "headline": "Macau enforces national security law with first conviction",
+      "brief": "Pro-democracy campaigner Au Kam San received a 12.5-year sentence under Macau's national security legislation for subversion charges, marking the city's first prosecution under these laws. This enforcement demonstrates Beijing's expanding application of security statutes in semi-autonomous territories and signals reduced political space for dissent in Macau.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "BBC News"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3373264/chinese-banks-explore-local-e-cny-wallets-foreign-firms-upgraded-platform",
-      "published": "Thu, 05 Nov 2026 02:00:11 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 06:46:21 GMT",
+      "raw_source": "BBC News"
     },
     {
-      "headline": "Analysis Cautions Against Hawkish Shift in U.S. China Policy",
-      "brief": "Foreign Affairs commentary argues against adopting more aggressive approaches toward China, suggesting such policies may be counterproductive. The piece implies risks to economic and diplomatic relationships if hardline positions are implemented without strategic consideration. The significance lies in the ongoing policy debate regarding optimal U.S.-China engagement strategies.",
+      "headline": "U.S. Condemns Chinese Demolition of Tibetan Monastery Quarters",
+      "brief": "The United States has protested China's demolition of monks' quarters at Tibetan monasteries, which sources indicate is intended to reduce the monastic population and facilitate cultural assimilation. The incident represents renewed tension over religious freedom and autonomy in Tibet, a persistent point of contention in U.S.-China relations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
+      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China uses Sun Yat-sen legacy to advance reunification messaging",
+      "brief": "China is leveraging historical reverence for Sun Yat-sen, the founder of the Republic of China, as part of its cross-strait political messaging to promote reunification with Taiwan. Analysts assess that this strategy primarily resonates with audiences already sympathetic to Beijing's position rather than shifting broader Taiwanese public opinion. The approach reflects Beijing's efforts to frame reunification through shared historical and cultural narratives.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/",
+      "published": "Wed, 28 Oct 2026 23:44:08 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Maintains Economic Narrative Despite Underlying Performance Challenges",
+      "brief": "Chinese leadership continues to project economic success narratives despite facing significant structural headwinds and performance indicators suggesting economic slowdown. This disconnect between official messaging and underlying economic realities may obscure policy vulnerabilities and delay necessary structural reforms. The divergence between stated and actual economic conditions presents risks for accurate assessment of China's medium-term economic trajectory and policy decision-making.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
-      "original_link": "https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy",
-      "published": "Thu, 29 Oct 2026 04:00:00 -0400",
+      "original_link": "https://www.foreignaffairs.com/china/chinas-economics-denial",
+      "published": "Thu, 05 Nov 2026 04:00:00 -0500",
       "raw_source": "FA RSS"
     },
     {
-      "headline": "Beijing's asset scrutiny creates tension for Hong Kong wealth sector",
-      "brief": "Global financial leaders convened in Hong Kong this week largely avoided publicly discussing Beijing's offshore trust tax crackdown, which represents a near-term challenge to the city's wealth management expansion. The muted response suggests industry caution regarding China's increased scrutiny of wealthy families' overseas assets, potentially impacting Hong Kong's positioning as a premier wealth management hub despite otherwise positive growth trends.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/money/wealth/article/3373542/financial-leaders-tiptoe-around-beijings-asset-scrutiny-hail-hong-kongs-wealth-boom",
-      "published": "Sat, 07 Nov 2026 06:00:18 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "Europe Grapples with Regulating Chinese E-Commerce Platforms",
-      "brief": "European regulators face the challenge of implementing oversight mechanisms for Chinese e-commerce giants while maintaining market openness as cross-border commercial networks become increasingly integrated. The core issue centers on balancing regulatory requirements with preserving fair market access amid growing economic interdependence. Effective resolution will shape how Western economies manage technology sector competition with Beijing-based companies.",
-      "category": "economy",
+      "headline": "China Faces Uncertainty With Democratic U.S. Congress Following Midterms",
+      "brief": "China had adapted to Trump's transactional diplomatic approach, but a Democratic-controlled Congress may alter Beijing's strategic calculations regarding U.S. policy. The shift could reinforce democratic governance as a counterweight to authoritarian approaches and complicate Beijing's near-term diplomatic planning.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/11/can-europe-regulate-chinas-e-commerce-giants-without-closing-its-market/",
-      "published": "Sat, 07 Nov 2026 03:28:00 +0900",
+      "original_link": "https://thediplomat.com/2026/11/beijing-has-little-reason-to-welcome-americas-midterm-results/",
+      "published": "Sat, 07 Nov 2026 03:19:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "Hong Kong wealth managers seek expanded mainland China tech market access",
-      "brief": "Hong Kong's private wealth management industry is seeking broader access to mainland China's Nasdaq-style stock exchanges to capitalize on continued investor interest in hard-tech firms, according to a survey by the Private Wealth Management Association and KPMG China. Expanded market access would strengthen Hong Kong's position as a regional wealth management hub and facilitate capital flows between Hong Kong financial institutions and mainland Chinese growth sectors.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "Banking & Finance - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3373269/why-hong-kong-wealth-managers-want-broader-access-mainland-chinas-nasdaq-style-markets",
-      "published": "Thu, 05 Nov 2026 01:00:12 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
-    },
-    {
-      "headline": "China Reassesses Strategic Approach to U.S. Political Transition",
-      "brief": "Chinese leadership faces strategic uncertainty regarding how to engage with the incoming U.S. Congress, weighing whether to maintain current diplomatic cultivation efforts or shift tactics. The decision reflects Beijing's broader challenge in adapting its U.S. policy amid shifting American political dynamics. This reassessment has implications for military-related negotiations, trade relations, and regional security stability in the coming period.",
+      "headline": "China Reassesses U.S. Political Strategy Under Democratic Congress",
+      "brief": "Chinese leadership faces strategic uncertainty regarding how to approach the Trump administration amid a Democratic-controlled Congress, questioning whether to treat Trump as politically weakened or continue diplomatic investment. The situation reflects Beijing's need to adapt its U.S. engagement strategy to navigate divided American political institutions and shifting power dynamics. This reassessment carries significant implications for bilateral military, trade, and technological competition between the two powers.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -253,15 +120,39 @@
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China imposes sanctions on Paraguay and Belize officials",
-      "brief": "China sanctioned officials from Paraguay and Belize in an apparent demonstration of coercive power, though both nations have maintained their diplomatic recognition of Taiwan. The action reflects Beijing's ongoing pressure campaign against Taiwan's remaining allies, though its practical effectiveness remains limited as targeted countries have not altered their diplomatic positions.",
+      "headline": "Trump-Xi Summit Agenda Remains Unchanged Despite U.S. Midterms",
+      "brief": "The article argues that U.S. midterm election results do not alter the substantive issues requiring discussion between Trump and Xi Jinping at their planned Shenzhen summit. Key bilateral topics including military tensions, trade disputes, and strategic competition are expected to remain the primary focus regardless of domestic political shifts in Washington.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/after-the-midterms-what-xi-and-trump-should-discuss-in-shenzhen/",
+      "published": "Sat, 07 Nov 2026 00:30:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Taiwan Election Results Should Not Be Interpreted as China Policy Mandate",
+      "brief": "According to The Diplomat, Taiwan's recent election outcomes should not be viewed as a clear public mandate on independence versus unification with China. The analysis suggests Taiwanese voters are focused on domestic issues rather than cross-strait relations, complicating external interpretation of electoral results as indicators of Taiwan's China policy direction.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/the-taipei-mayor-election-is-not-about-china/",
+      "published": "Sat, 07 Nov 2026 03:44:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Anonymous Chinese Students Call for Xi Term Limits Online",
+      "brief": "An online post purportedly from Chinese students calling for the restoration of presidential term limits for Xi Jinping appeared on a website with South Korea registration and Singapore mailing address, according to RFA investigation. The letter's origin and authenticity remain unclear given its offshore hosting. The post reflects potential domestic discontent regarding Xi's indefinite tenure, though its significance is difficult to assess without verification of authorship.",
       "category": "foreign_relations",
       "severity": "low",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/",
-      "published": "Fri, 23 Oct 2026 13:22:42 +0000",
+      "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
+      "published": "Mon, 26 Oct 2026 21:08:41 +0000",
       "raw_source": "Radio Free Asia"
     }
   ],
@@ -281,52 +172,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, and strategic disagreements over Taiwan, the South China Sea, and human rights."
+      "summary": "Relations remain adversarial with competition over technology, trade, and geopolitical influence, though both sides maintain diplomatic channels and economic interdependence."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership characterized by energy cooperation, military coordination, and shared opposition to Western influence."
+      "summary": "China and Russia maintain strategic partnership with alignment on opposing Western influence, though cooperation is pragmatic rather than ideological."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are pragmatic but increasingly cautious, balancing economic interdependence with concerns over human rights, intellectual property, and geopolitical competition."
+      "summary": "EU-China relations are mixed, balancing trade interdependence with growing concerns over human rights, intellectual property, and China's geopolitical assertiveness."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure while refusing to renounce force, creating a fundamental point of conflict."
+      "summary": "China views Taiwan as a breakaway province and has intensified military pressure while maintaining zero tolerance for independence movements."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan ties are strained by territorial disputes over the Senkaku Islands, historical grievances, and competition for regional influence despite significant economic links."
+      "summary": "Relations are strained due to maritime disputes, historical grievances, and Japan's security alignment with the United States."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Relations remain contentious due to unresolved border disputes, the 2020 Galwan Valley clash, and strategic competition in South Asia and the Indian Ocean."
+      "summary": "Border tensions and competing regional influence make relations contentious despite significant bilateral trade and occasional diplomatic engagement."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains strong energy and economic ties with Saudi Arabia, including significant oil imports and investment partnerships with limited political friction."
+      "summary": "China maintains strong energy partnerships and investment ties with Saudi Arabia while supporting its regional position."
     },
     {
       "country": "Philippines",
-      "status": "Neutral",
-      "summary": "Philippines-China relations fluctuate between cooperation on economic projects and tension over South China Sea territorial claims and the Second Thomas Shoal."
+      "status": "Tense",
+      "summary": "Relations fluctuate between pragmatic engagement and tension over South China Sea territorial disputes and competing maritime claims."
     },
     {
       "country": "Brazil",
-      "status": "Cooperative",
-      "summary": "China and Brazil maintain pragmatic economic and trade relations with Brazil as a major commodity supplier, though with occasional political and diplomatic differences."
+      "status": "Neutral",
+      "summary": "China is Brazil's largest trading partner, and relations are primarily economic-focused with generally cordial diplomatic ties."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Relations remain strained following Australia's security concerns about Chinese influence, calls for COVID-19 investigations, and trade tensions, though showing modest signs of stabilization."
+      "summary": "Relations deteriorated significantly due to Australia's support for COVID-19 investigation, security concerns, and foreign interference allegations, with limited high-level engagement."
     }
   ]
 }
