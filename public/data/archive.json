@@ -1,6 +1,214 @@
 {
   "entries": [
     {
+      "date": "2026-11-15",
+      "articles": [
+        {
+          "headline": "China could pressure Taiwan's Pratas Island through supply restrictions",
+          "brief": "Analysts assess that China could erode Taiwan's control of the remote Pratas Island through supply blockades rather than military invasion, potentially creating strategic leverage without triggering wider conflict. However, forcing Taiwan's withdrawal through coercive means would carry significant risks of escalation and regional instability.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/",
+          "published": "Tue, 03 Nov 2026 03:30:37 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Potential Trump-Xi-Putin Summit Planned at APEC Meeting",
+          "brief": "A three-way summit between U.S., Chinese, and Russian leaders may occur during next week's Asia-Pacific Economic Cooperation meeting in Shenzhen, with Ukraine peace discussions as a stated objective. The prospect has drawn international concern, particularly from Polish officials citing historical precedent of major powers negotiating spheres of influence at the expense of smaller nations. No formal announcement has been made, though the initiative reportedly originated from Putin.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
+          "published": "Fri, 13 Nov 2026 00:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Israeli strike kills Hamas commander in Gaza camp",
+          "brief": "Israeli Defense Forces conducted a strike on a Gaza camp that resulted in the death of Samir Abu Younis, commander of Hamas's Rafah Brigade, according to confirmations from both Hamas and IDF officials. The killing of a senior Hamas military commander represents a significant operational success in Israel's campaign against the organization. This development may escalate tensions in the region and influence ongoing diplomatic negotiations.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 08:17:41 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Suspected Chinese spy linked to Nvidia executive departure in 2025",
+          "brief": "A suspected Chinese intelligence operative connected to Nvidia's former leadership departed in 2025, according to Megaspeed. The incident has intensified concerns regarding potential circumvention of U.S. export controls on advanced AI semiconductors to China. This development underscores ongoing risks to sensitive technology transfer despite existing regulatory restrictions.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 14:56:21 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Taiwan Crisis Risk Escalates Amid Economic Pressures",
+          "brief": "Growing economic vulnerabilities in Taiwan are increasing the risk of regional crisis, according to Foreign Affairs analysis. The deteriorating situation reflects broader cross-strait tensions with potential implications for regional stability and global supply chains. Economic fragility could complicate Taiwan's ability to manage geopolitical pressures from Beijing.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
+          "published": "Mon, 09 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US-sanctioned Chinese facility continues acquiring restricted Nvidia chips",
+          "brief": "The Jinan Supercomputing Center, subject to US sanctions, has reportedly continued obtaining advanced Nvidia AI products despite export control restrictions intended to limit Chinese access to cutting-edge semiconductor technology. This indicates potential gaps in enforcement of US export controls or circumvention methods being employed by Chinese entities. The development underscores ongoing challenges in preventing advanced technology transfer to sanctioned Chinese research facilities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
+          "published": "Fri, 13 Nov 2026 00:41:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China recalls teachers from Philippines amid South China Sea disputes",
+          "brief": "China has recalled teachers from the Philippines in response to escalating South China Sea tensions, according to reporting from Radio Free Asia. Experts suggest the educational exchange program has been linked to advocacy of China's territorial claims in the region. The move indicates Beijing's willingness to leverage cultural and educational ties as pressure tools in territorial disputes.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
+          "published": "Wed, 28 Oct 2026 00:24:12 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "NATO Should Address Chinese Concerns Despite Disagreements",
+          "brief": "According to The Diplomat, NATO should consider engaging with Beijing's perspectives on the alliance despite finding them questionable or exaggerated. The article suggests that dialogue on China's concerns could be more productive than dismissing them outright. This implies NATO may need to balance its security posture with diplomatic engagement to manage strategic competition with China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/nato-is-not-the-right-forum-to-discuss-china/",
+          "published": "Fri, 13 Nov 2026 23:07:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "North Korea Confiscates Approximately 90% of Workers' Wages Abroad",
+          "brief": "Internal North Korean ledgers obtained by Radio Free Asia reveal that Pyongyang appropriates roughly 90 percent of wages earned by its workers employed in China, representing systematic wage theft on a significant scale. This practice generates substantial illicit revenue for the regime while demonstrating the exploitative nature of North Korea's overseas labor programs. The documentation provides concrete evidence of economic coercion mechanisms used by the regime to fund state operations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
+          "published": "Sat, 14 Nov 2026 23:35:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "U.S. Condemns China Over Tibetan Monastery Demolitions",
+          "brief": "The United States has called on China to cease interfering in Tibetan religious practices following reports of demolitions targeting monks' quarters. According to sources cited by Radio Free Asia, the demolitions appear designed to reduce the monastic population and facilitate cultural assimilation. The incident reflects ongoing tensions between Washington and Beijing over religious freedom and minority rights in Tibet.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
+          "published": "Thu, 29 Oct 2026 23:37:51 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "CSIS hosts forum with China's Foreign Minister Wang Yi",
+          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for the Chinese government to present its strategic perspectives on bilateral relations during a period of ongoing geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Ex-Nvidia CEO Jensen Huang faces Congressional testimony over alleged security breach",
+          "brief": "Jensen Huang abruptly resigned as CEO of Nvidia following revelations of extramarital affairs, with one allegedly involving a Chinese national. Congressional summons suggests potential counterintelligence concerns regarding the exposure of sensitive information at a critical semiconductor company. The incident highlights vulnerabilities in leadership security protocols at strategically important technology firms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Hong Kong official warns of AI-driven export slowdown, urges trade diversification",
+          "brief": "Hong Kong's commerce secretary has cautioned that the city's record September export growth, driven largely by AI-related re-exports, may not be sustainable as AI development slows. Officials are advocating for proactive expansion of trade networks to reduce dependence on the current AI boom and build economic resilience. This signals Hong Kong's recognition of vulnerability to sector-specific export concentration.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374472/hong-kong-must-expand-trade-not-wait-luck-ai-exports-could-slow-commerce-chief",
+          "published": "Sun, 15 Nov 2026 05:20:11 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong MTR warns of cash flow pressures despite government land grants",
+          "brief": "Hong Kong's MTR Corporation has cautioned that it will face significant cash flow pressures in coming years despite receiving eight new sites for the Northern Link rail project in the Northern Metropolis. Analysts question the sustainability of MTR's property development model for funding rail construction, noting that approximately one-third of granted sites remain idle due to developer reluctance. The warning signals potential constraints on Hong Kong's infrastructure expansion plans and raises questions about public-private development financing mechanisms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant",
+          "published": "Sat, 14 Nov 2026 12:12:49 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+          "brief": "China is advancing 'Internet sovereignty' as a key governing concept for the global Internet, representing a strategic initiative to reshape international digital governance frameworks. This approach has significant implications for global cybersecurity, data protection standards, and international relations regarding information control and access.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "CSIS"
+          ],
+          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+          "raw_source": "CSIS"
+        },
+        {
+          "headline": "Online post by purported Chinese students questions Xi leadership term limits",
+          "brief": "An anonymous online post attributed to Chinese students calls for restoring term limits on China's leadership, appearing on a website with South Korean registration and Singapore mailing address according to RFA investigation. The post's authenticity and actual origin remain unclear, though it signals potential internal dissent regarding Xi Jinping's indefinite tenure. Such challenges to leadership structures, even if originating outside mainland China, may indicate growing concerns among certain segments about governance concentration.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
+          "published": "Mon, 26 Oct 2026 21:08:41 +0000",
+          "raw_source": "Radio Free Asia"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 16,
+        "high_priority": 4,
+        "by_category": {
+          "economy": 5,
+          "foreign_relations": 10,
+          "military": 1
+        },
+        "updated_at": "2026-11-15T16:42:11.709787Z"
+      }
+    },
+    {
       "date": "2026-11-14",
       "articles": [
         {
@@ -21193,286 +21401,6 @@
           "military": 1
         },
         "updated_at": "2026-08-18T10:18:11.678712Z"
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "articles": [
-        {
-          "headline": "China Increases Military Presence East of Taiwan Waters",
-          "brief": "China is systematically normalizing its military and law enforcement presence in waters east of Taiwan through repeated operations and accidents, effectively establishing de facto control in the region. This strategy incrementally integrates the disputed waters into China's sphere of influence while avoiding direct military confrontation. The normalization approach represents a significant shift in Beijing's assertiveness and has implications for regional stability and Taiwan's security.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/how-china-is-normalizing-its-presence-in-the-waters-east-of-taiwan/",
-          "published": "Mon, 17 Aug 2026 07:39:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China Secures International Support for Strict One China Interpretation",
-          "brief": "China is leveraging diplomatic relationships across Indonesia, Africa, and Oceania to gain foreign validation of its increasingly strict interpretation of the One China principle, which effectively supports China's claims over Taiwan. This coordinated diplomatic effort represents a significant strategic initiative to isolate Taiwan internationally and strengthen China's political position on the issue. The campaign's success in enlisting countries across multiple regions demonstrates China's expanding influence over Taiwan-related sovereignty narratives.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/indonesia-is-the-latest-country-to-validate-chinas-claim-to-taiwan-unwittingly-or-not/",
-          "published": "Sat, 15 Aug 2026 00:49:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "U.S. Investment Restrictions on China May Reduce American Competitiveness",
-          "brief": "Washington's restrictive policies toward Chinese investment are creating economic costs for American competitiveness according to Foreign Affairs analysis. The article argues that defensive postures aimed at limiting Chinese capital flows may undermine U.S. economic performance relative to global competitors. This reflects ongoing tensions between national security concerns and economic openness in U.S.-China relations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/cost-keeping-china-out",
-          "published": "Mon, 17 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China's Industrial Overcapacity Poses Global Economic Risk",
-          "brief": "China faces significant overcapacity challenges across multiple industrial sectors that could trigger broader economic instability. The resolution of this overcapacity situation has potential implications for global markets and economic growth. Chinese overcapacity can create deflationary pressures and competitive distortions affecting international trade.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
-          "published": "Thu, 13 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Navigates Strategic Challenges Managing North Korean Assertiveness",
-          "brief": "China faces complications in its efforts to manage North Korea's increasingly assertive foreign policy and nuclear capabilities. Beijing's ability to influence Pyongyang's behavior has significant implications for regional stability and China's strategic interests in East Asia. The divergence between Chinese and North Korean policy objectives presents ongoing challenges to China's regional influence and economic interests.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/why-china-worries-about-north-korea",
-          "published": "Mon, 10 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Exports AI Data to Shape Global Chatbot Narratives",
-          "brief": "China is actively exporting datasets alongside AI models to influence the development and outputs of global artificial intelligence systems. This strategy aims to embed Beijing's narratives into widely-used chatbots and AI applications worldwide, potentially affecting information flows across international markets. The effort represents a significant shift in technological competition, with implications for information warfare and geopolitical influence beyond traditional military domains.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-          "published": "Mon, 17 Aug 2026 04:01:07 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "China's Foreign Minister to Discuss US-China Relations at CSIS Forum",
-          "brief": "Chinese Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum webcast in February 2016 to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for direct dialogue on strategic issues between the two powers during a period of significant geopolitical tensions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "Indonesia participates in China naval exercise near Taiwan",
-          "brief": "Indonesia joined China in a naval exercise conducted in waters east of Taiwan, an area of strategic importance near Japan and the Philippines. Taiwan has questioned Indonesia's participation, reflecting concern about expanding Chinese military activities and regional coalition-building. The exercise signals growing military coordination between Beijing and Southeast Asian partners, intensifying tensions in a contested maritime zone.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/taiwan-wants-to-know-why-indonesia-joined-china-in-a-naval-exercise-east-of-taiwan/",
-          "published": "Fri, 14 Aug 2026 23:50:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China Pressures Nepal to Cancel International Tibetan Studies Conference",
-          "brief": "China successfully coerced Nepal into canceling an international academic conference on Tibetan studies, demonstrating Beijing's expanding extraterritorial influence over Tibet-related discourse. The incident indicates China's systematic efforts to control Tibetan Buddhist affairs and religious narrative beyond its borders, extending diplomatic pressure to neighboring states. This reveals a significant shift in Beijing's approach to managing Tibet-related activities through foreign policy mechanisms.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/china-forced-nepal-to-cancel-an-international-conference-on-tibetan-studies/",
-          "published": "Fri, 14 Aug 2026 22:21:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Former Premier Zhu Rongji's Western Development Strategy Integrated Tibet Economically",
-          "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy used economic integration as a policy tool to align Tibetan populations with central government objectives. The approach represents Beijing's historical use of economic incentives and development projects to consolidate administrative control over ethnic minority regions. This strategy reflects China's broader pattern of employing economic leverage alongside governance measures in Tibet.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
-          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan deprioritizes Scarborough Shoal claim to strengthen Philippines ties",
-          "brief": "Taiwan has softened its sovereignty claims over Scarborough Shoal, a disputed maritime feature, as the Philippines filed a UN submission on the matter. This shift reflects Taiwan's strategic prioritization of strengthening security cooperation with Manila over asserting competing territorial claims in the South China Sea. The move highlights the tension between Taiwan's formal sovereignty positions and its pragmatic foreign policy objectives in maintaining regional partnerships.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
-          "published": "Tue, 11 Aug 2026 02:45:29 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Papua New Guinea closes Taiwan trade office, signals China realignment",
-          "brief": "Papua New Guinea has closed its Taiwan trade office, a move experts characterize as diplomatically ambiguous but indicative of strengthening economic ties with China. The closure suggests PNG is repositioning its foreign relations toward Beijing in exchange for anticipated Chinese investment and financial assistance. This represents a strategic shift in the Pacific region's geopolitical alignment.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
-          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan leverages economic tools after PNG diplomatic setback",
-          "brief": "Taiwan is testing economic leverage following Papua New Guinea's closure of Taipei's representative office, with analysts noting a review of liquefied natural gas deals as a potential response. The move reflects Taiwan's limited but evolving diplomatic toolkit as it faces continued erosion of formal recognition to China. While this represents a gradual strategic shift, analysts assess Taipei's overall leverage in economic coercion remains constrained.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China enacts ethnic unity law with extraterritorial reach",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and entities internationally. The law's extraterritorial scope represents an expansion of Beijing's regulatory authority and may have implications for diaspora communities, foreign businesses, and international relations. This development signals China's intent to enforce domestic policies globally, raising questions about compliance obligations for foreign actors.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China-North Korea bridge nearing opening after 12-year delay",
-          "brief": "Satellite imagery indicates the completed bridge connecting China and North Korea is approaching operational status, potentially transforming bilateral trade patterns. The infrastructure project's opening could significantly expand economic ties between the two nations and alter regional trade dynamics on the Korean Peninsula.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/korea/2026/07/21/north-korea-china-new-yalu-bridge/",
-          "published": "Tue, 21 Jul 2026 20:41:21 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China sanctions Philippine defense chief amid South China Sea tensions",
-          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts noting Beijing is leveraging historical references to Japan's wartime conduct to undermine Manila's South China Sea territorial claims. The move reflects Beijing's strategy to isolate the Philippines diplomatically and complicate its regional partnerships, particularly with Japan. This escalation indicates intensifying great power competition in Southeast Asia over maritime territorial disputes.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
-          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Philippines commemorates decade-old South China Sea court ruling",
-          "brief": "The Philippines marked the 10-year anniversary of a significant international court decision on South China Sea disputes, though China continues to reject the ruling. Persistent disagreements over resolution mechanisms underscore ongoing tensions in the region, with no consensus emerging between claimant states on how to address territorial and maritime claims.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/",
-          "published": "Sat, 11 Jul 2026 14:57:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Philippines-China Joint Energy Exploration Possible Before 2028",
-          "brief": "Philippine President Ferdinand Marcos Jr. indicated that Manila and Beijing have achieved progress in energy negotiations and stated joint resource exploration could occur before 2028, despite persistent South China Sea tensions. This development suggests potential economic cooperation channels between the two nations despite ongoing maritime disputes. The initiative could have significant implications for regional geopolitical dynamics and resource access in contested waters.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/joint-resource-exploration-with-china-a-possibility-before-2028-philippine-president-says/",
-          "published": "Mon, 17 Aug 2026 11:29:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Chinese pharma contractors gain as US supply chain strategy faces industry pushback",
-          "brief": "China's pharmaceutical contract manufacturers are demonstrating financial resilience despite US government efforts to reduce American dependence on Chinese pharmaceutical suppliers. Industry stakeholders are resisting the supply chain shift due to China's significant cost advantages, with major contractors like WuXi AppTec seeing positive investor sentiment. This resistance suggests structural barriers may limit the effectiveness of Washington's decoupling strategy in the pharmaceutical sector.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/companies/article/3364303/chinas-pharma-contractors-rally-us-supply-chain-pressures-face-industry-resistance?utm_source=rss_feed",
-          "published": "Mon, 17 Aug 2026 10:00:32 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese chipmaker Ingenic launches Hong Kong IPO for expansion funding",
-          "brief": "Ingenic Semiconductor, already listed on Shenzhen's ChiNext board, is raising up to HK$3.22 billion through a Hong Kong IPO offering, exemplifying a broader trend of mainland Chinese chipmakers utilizing Hong Kong capital markets. This capital-raising activity reflects China's strategic efforts to fund international expansion of its semiconductor industry amid global competition and potential supply chain constraints.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/tech-trends/article/3364263/ingenic-launches-ipo-join-wave-mainland-china-chipmakers-raising-funds-hong-kong?utm_source=rss_feed",
-          "published": "Mon, 17 Aug 2026 06:40:22 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China Pursues Legal Framework to Counter U.S. Dominance",
-          "brief": "China is developing alternative legal mechanisms and institutions to challenge the United States' traditional dominance in international legal systems and standards-setting. This effort reflects Beijing's broader strategy to create parallel global structures that reduce American influence over international commerce, dispute resolution, and regulatory frameworks. The initiative has significant implications for the future structure of international economic governance and dispute settlement processes.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
-          "published": "Fri, 07 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Promotes Internet Sovereignty as Global Governance Model",
-          "brief": "China is advancing an 'Internet sovereignty' initiative to establish a governing concept for the global Internet, representing a strategic effort to reshape international norms around digital governance. This initiative reflects China's broader ambition to challenge Western-led Internet governance standards and promote state control over digital infrastructure. The initiative carries significant implications for cybersecurity, international relations, and the future structure of global Internet governance.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-          "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-          "raw_source": "CSIS"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 22,
-        "high_priority": 2,
-        "by_category": {
-          "economy": 6,
-          "foreign_relations": 14,
-          "military": 2
-        },
-        "updated_at": "2026-08-17T10:21:53.207016Z"
       }
     }
   ]

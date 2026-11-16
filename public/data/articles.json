@@ -1,105 +1,177 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "metrics": {
-    "sources_scanned": 6,
-    "articles_total": 16,
+    "sources_scanned": 7,
+    "articles_total": 18,
     "high_priority": 4,
     "by_category": {
-      "economy": 5,
-      "foreign_relations": 10,
-      "military": 1
+      "military": 4,
+      "foreign_relations": 8,
+      "economy": 6
     },
-    "updated_at": "2026-11-15T16:42:11.709787Z"
+    "updated_at": "2026-11-16T19:56:19.858768Z"
   },
   "articles": [
     {
-      "headline": "China could pressure Taiwan's Pratas Island through supply restrictions",
-      "brief": "Analysts assess that China could erode Taiwan's control of the remote Pratas Island through supply blockades rather than military invasion, potentially creating strategic leverage without triggering wider conflict. However, forcing Taiwan's withdrawal through coercive means would carry significant risks of escalation and regional instability.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/",
-      "published": "Tue, 03 Nov 2026 03:30:37 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Potential Trump-Xi-Putin Summit Planned at APEC Meeting",
-      "brief": "A three-way summit between U.S., Chinese, and Russian leaders may occur during next week's Asia-Pacific Economic Cooperation meeting in Shenzhen, with Ukraine peace discussions as a stated objective. The prospect has drawn international concern, particularly from Polish officials citing historical precedent of major powers negotiating spheres of influence at the expense of smaller nations. No formal announcement has been made, though the initiative reportedly originated from Putin.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
-      "published": "Fri, 13 Nov 2026 00:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Israeli strike kills Hamas commander in Gaza camp",
-      "brief": "Israeli Defense Forces conducted a strike on a Gaza camp that resulted in the death of Samir Abu Younis, commander of Hamas's Rafah Brigade, according to confirmations from both Hamas and IDF officials. The killing of a senior Hamas military commander represents a significant operational success in Israel's campaign against the organization. This development may escalate tensions in the region and influence ongoing diplomatic negotiations.",
+      "headline": "AI Development May Destabilize Nuclear Deterrence With North Korea",
+      "brief": "Advanced artificial intelligence, particularly artificial general intelligence, could disrupt the current asymmetric nuclear deterrence balance that has underpinned strategic stability on the Korean Peninsula. The traditional security model relies on mutual vulnerability, which AGI development could fundamentally alter by giving one side decisive advantages in detection, decision-making, or defense systems. This technological shift raises questions about whether existing nuclear deterrence frameworks remain effective against Pyongyang.",
       "category": "military",
       "severity": "high",
       "sources_used": [
-        "BBC News"
+        "The Diplomat"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 08:17:41 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://thediplomat.com/2026/11/will-ai-change-north-koreas-nuclear-calculus/",
+      "published": "Sat, 14 Nov 2026 03:23:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "Suspected Chinese spy linked to Nvidia executive departure in 2025",
-      "brief": "A suspected Chinese intelligence operative connected to Nvidia's former leadership departed in 2025, according to Megaspeed. The incident has intensified concerns regarding potential circumvention of U.S. export controls on advanced AI semiconductors to China. This development underscores ongoing risks to sensitive technology transfer despite existing regulatory restrictions.",
+      "headline": "Hong Kong activist Joshua Wong sentenced to 10 years on foreign collusion charges",
+      "brief": "Hong Kong democracy activist Joshua Wong has been sentenced to 10 years imprisonment on foreign collusion charges, with international condemnation following the verdict. Wong, imprisoned since age 23, is expected to remain incarcerated until approximately 2036. The sentencing reflects ongoing tensions between Hong Kong authorities and pro-democracy movements, with significant implications for international perceptions of judicial independence and human rights in Hong Kong.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/",
+      "published": "Thu, 05 Nov 2026 19:47:12 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Former Nvidia CEO summoned to testify on alleged Chinese espionage connection",
+      "brief": "Jensen Huang resigned from his position as CEO of Nvidia following revelations of alleged extramarital affairs, with Congress now seeking his testimony regarding potential connections to a Chinese national. The incident raises counterintelligence concerns regarding access to sensitive technology at a major U.S. semiconductor company during a period of heightened U.S.-China technological competition. The situation highlights potential security vulnerabilities within critical technology sectors.",
       "category": "economy",
       "severity": "high",
       "sources_used": [
         "BBC News"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "original_link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "Taiwan Crisis Risk Escalates Amid Economic Pressures",
-      "brief": "Growing economic vulnerabilities in Taiwan are increasing the risk of regional crisis, according to Foreign Affairs analysis. The deteriorating situation reflects broader cross-strait tensions with potential implications for regional stability and global supply chains. Economic fragility could complicate Taiwan's ability to manage geopolitical pressures from Beijing.",
+      "headline": "Trump to Meet Xi, Putin During Asia Trip With Regional Leaders",
+      "brief": "President Trump will conduct diplomatic meetings with Chinese leader Xi Jinping and Russian President Putin during an upcoming Asia trip, alongside meetings with regional leaders including Australia's prime minister. Regional partners are emphasizing the need for de-escalation in ongoing conflicts. The simultaneous engagement with both Beijing and Moscow represents a significant diplomatic initiative addressing major geopolitical tensions.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "published": "Mon, 16 Nov 2026 19:05:52 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "Philippines and Australia Strengthen Defense Ties With New Agreement",
+      "brief": "The Philippines and Australia have signed a new Defense Cooperation Agreement, expanding upon existing bilateral defense arrangements including the 2007 Status of Visiting Forces Agreement. This agreement occurs amid regional tensions related to Chinese pressure, potentially enhancing military coordination and interoperability between the two nations. The accord reflects a strategic alignment between Manila and Canberra to strengthen their defense posture in the Indo-Pacific region.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure/",
+      "published": "Mon, 16 Nov 2026 09:10:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Philippines seeks South China Sea conduct code during ASEAN meetings",
+      "brief": "The Philippines will pursue finalization of a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to Filipino fishermen's concerns about territorial water access. The initiative addresses longstanding disputes over fishing rights and maritime boundaries in the region. Successful codification could establish multilateral guidelines governing conduct among claimant states and affect regional stability.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
+      "published": "Fri, 13 Nov 2026 02:17:07 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "PNG calls for restraint as China and US undermine local authority",
+      "brief": "Papua New Guinea observers have expressed concern that statements from Beijing and Washington regarding a disputed shell incident are undermining PNG's sovereign jurisdiction. The competing claims by the two powers over the matter highlight broader tensions in the region and PNG's challenge in maintaining autonomy amid great power competition. The incident underscores how local disputes can become flashpoints for US-China strategic competition in the Indo-Pacific.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/",
+      "published": "Thu, 12 Nov 2026 19:30:15 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "China Signals Openness to Nuclear Restraint with United States",
+      "brief": "China has indicated it does not seek an escalatory nuclear arms race with the United States, suggesting potential diplomatic openings on strategic weapons control. This positioning carries implications for bilateral relations and regional stability, though implementation mechanisms remain unclear. The statement reflects Beijing's preference for managing great power competition within defined strategic boundaries.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+      "published": "Mon, 16 Nov 2026 04:00:00 -0500",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "China uses Sun Yat-sen legacy to promote Taiwan reunification narrative",
+      "brief": "China is leveraging the historical reverence both mainland and Taiwan share for Sun Yat-sen to advance reunification messaging across the Taiwan Strait. Intelligence analysts assess that this cultural and historical framing primarily resonates with audiences already sympathetic to Beijing's position, with limited persuasive impact on broader populations.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/",
+      "published": "Wed, 28 Oct 2026 23:44:08 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Hong Kong leader attends Apec summit to strengthen regional economic ties",
+      "brief": "Hong Kong Chief Executive John Lee will attend the Apec CEO Summit and Economic Leaders' Meeting in Shenzhen, emphasizing connectivity with other member economies. Apec members represent approximately 87 percent of Hong Kong's trading partners, underscoring the city's economic dependence on regional engagement and development initiatives.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3374558/hong-kongs-john-lee-pledges-stronger-regional-ties-ahead-apec-summit-trip",
+      "published": "Mon, 16 Nov 2026 06:01:14 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Beijing ambassador urges Hong Kong role in China-US cooperation",
+      "brief": "China's ambassador to Washington called on Hong Kong to leverage its unique position to strengthen interpersonal exchanges and deepen China-US cooperation as a hub for bilateral partnerships. Hong Kong's Chief Executive echoed support for expanding US-Hong Kong ties across business and people-to-people engagement. The statements reflect Beijing's strategic interest in using Hong Kong as a bridge for diplomatic and economic cooperation amid broader US-China tensions.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3374554/chinas-envoy-us-calls-hong-kong-foster-cooperation-between-2-superpowers",
+      "published": "Mon, 16 Nov 2026 05:21:56 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "China advances strategic positioning through artificial intelligence diplomacy",
+      "brief": "China is leveraging artificial intelligence cooperation as a diplomatic tool to strengthen international relationships and economic influence. This approach contrasts with U.S. strategy and suggests Beijing is effectively using AI partnerships to enhance its geopolitical standing. The trend indicates AI has become a significant dimension of great power competition beyond technology markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
-      "original_link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
-      "published": "Mon, 09 Nov 2026 04:00:00 -0500",
+      "original_link": "https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working",
+      "published": "Tue, 10 Nov 2026 04:00:00 -0500",
       "raw_source": "FA RSS"
     },
     {
-      "headline": "US-sanctioned Chinese facility continues acquiring restricted Nvidia chips",
-      "brief": "The Jinan Supercomputing Center, subject to US sanctions, has reportedly continued obtaining advanced Nvidia AI products despite export control restrictions intended to limit Chinese access to cutting-edge semiconductor technology. This indicates potential gaps in enforcement of US export controls or circumvention methods being employed by Chinese entities. The development underscores ongoing challenges in preventing advanced technology transfer to sanctioned Chinese research facilities.",
-      "category": "foreign_relations",
+      "headline": "China's Economic Stimulus Measures Fail to Produce Expected Results",
+      "brief": "China has implemented new central and provincial-level spending measures aimed at boosting economic growth, yet measurable economic indicators have shown limited improvement. The disconnect between policy implementation and economic outcomes suggests structural challenges in China's current stimulus approach and raises questions about the effectiveness of traditional spending mechanisms.",
+      "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Radio Free Asia"
+        "The Diplomat"
       ],
-      "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
-      "published": "Fri, 13 Nov 2026 00:41:32 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://thediplomat.com/2026/11/why-chinas-push-to-boost-spending-is-falling-short/",
+      "published": "Fri, 13 Nov 2026 22:37:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "China recalls teachers from Philippines amid South China Sea disputes",
-      "brief": "China has recalled teachers from the Philippines in response to escalating South China Sea tensions, according to reporting from Radio Free Asia. Experts suggest the educational exchange program has been linked to advocacy of China's territorial claims in the region. The move indicates Beijing's willingness to leverage cultural and educational ties as pressure tools in territorial disputes.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
-      "published": "Wed, 28 Oct 2026 00:24:12 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "NATO Should Address Chinese Concerns Despite Disagreements",
-      "brief": "According to The Diplomat, NATO should consider engaging with Beijing's perspectives on the alliance despite finding them questionable or exaggerated. The article suggests that dialogue on China's concerns could be more productive than dismissing them outright. This implies NATO may need to balance its security posture with diplomatic engagement to manage strategic competition with China.",
-      "category": "foreign_relations",
+      "headline": "NATO Should Address Beijing's Concerns Outside Alliance Forum",
+      "brief": "According to The Diplomat, NATO should consider engaging with China's perspectives on the alliance through appropriate channels rather than within the NATO framework itself. The article suggests that while NATO may find Chinese viewpoints exaggerated, direct dialogue on Beijing's concerns could reduce misunderstandings and improve strategic communication between the alliance and China.",
+      "category": "military",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
@@ -109,164 +181,116 @@
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "North Korea Confiscates Approximately 90% of Workers' Wages Abroad",
-      "brief": "Internal North Korean ledgers obtained by Radio Free Asia reveal that Pyongyang appropriates roughly 90 percent of wages earned by its workers employed in China, representing systematic wage theft on a significant scale. This practice generates substantial illicit revenue for the regime while demonstrating the exploitative nature of North Korea's overseas labor programs. The documentation provides concrete evidence of economic coercion mechanisms used by the regime to fund state operations.",
+      "headline": "Trump's Asia visits test willingness of regional partners post-midterms",
+      "brief": "President Trump's planned trips to Manila and Shenzhen will gauge the commitment of ASEAN and APEC members to engage with the U.S. following significant midterm election losses. The diplomatic engagements carry implications for U.S. regional influence and alliance credibility amid questions about Trump's political standing domestically.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "Radio Free Asia"
+        "The Diplomat"
       ],
-      "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
-      "published": "Sat, 14 Nov 2026 23:35:35 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://thediplomat.com/2026/11/asean-and-apec-trumps-real-lame-duck-test-is-in-asia/",
+      "published": "Mon, 16 Nov 2026 06:20:00 +0900",
+      "raw_source": "The Diplomat"
     },
     {
-      "headline": "U.S. Condemns China Over Tibetan Monastery Demolitions",
-      "brief": "The United States has called on China to cease interfering in Tibetan religious practices following reports of demolitions targeting monks' quarters. According to sources cited by Radio Free Asia, the demolitions appear designed to reduce the monastic population and facilitate cultural assimilation. The incident reflects ongoing tensions between Washington and Beijing over religious freedom and minority rights in Tibet.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
-      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "CSIS hosts forum with China's Foreign Minister Wang Yi",
-      "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for the Chinese government to present its strategic perspectives on bilateral relations during a period of ongoing geopolitical tensions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Ex-Nvidia CEO Jensen Huang faces Congressional testimony over alleged security breach",
-      "brief": "Jensen Huang abruptly resigned as CEO of Nvidia following revelations of extramarital affairs, with one allegedly involving a Chinese national. Congressional summons suggests potential counterintelligence concerns regarding the exposure of sensitive information at a critical semiconductor company. The incident highlights vulnerabilities in leadership security protocols at strategically important technology firms.",
+      "headline": "Yuan surpasses dollar in Hong Kong bond issuance for first time",
+      "brief": "Offshore yuan (dim sum) bond issuance in Hong Kong reached 342 billion yuan ($51 billion) in the first ten months of the year, exceeding US dollar-denominated sales for the first time and accounting for 42% of total listed bond issuance. This milestone reflects Beijing's strategic efforts to internationalize the yuan and strengthen Hong Kong's position as the world's leading offshore yuan financial hub. The shift indicates growing institutional and corporate adoption of yuan-denominated instruments in global capital markets.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3374585/yuan-overtakes-us-dollar-hong-kong-bond-listings-beijing-pushes-currencys-global-role",
+      "published": "Mon, 16 Nov 2026 11:00:09 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Hong Kong official warns of AI-driven export slowdown, urges trade diversification",
-      "brief": "Hong Kong's commerce secretary has cautioned that the city's record September export growth, driven largely by AI-related re-exports, may not be sustainable as AI development slows. Officials are advocating for proactive expansion of trade networks to reduce dependence on the current AI boom and build economic resilience. This signals Hong Kong's recognition of vulnerability to sector-specific export concentration.",
+      "headline": "HKEX launches offshore yuan bond index to boost internationalisation",
+      "brief": "Hong Kong Exchanges and Clearing (HKEX) has launched the HKEX Offshore RMB Bond Index to track the performance of offshore yuan-denominated bonds, commonly known as dim sum bonds. The initiative supports China's broader strategy to internationalize the yuan and reinforces Hong Kong's position as a global financial center. This development facilitates greater integration of China's financial markets with international capital flows.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374472/hong-kong-must-expand-trade-not-wait-luck-ai-exports-could-slow-commerce-chief",
-      "published": "Sun, 15 Nov 2026 05:20:11 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3374420/hkex-launches-first-dim-sum-bond-index-push-expand-global-use-yuan",
+      "published": "Sun, 15 Nov 2026 23:00:13 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Hong Kong MTR warns of cash flow pressures despite government land grants",
-      "brief": "Hong Kong's MTR Corporation has cautioned that it will face significant cash flow pressures in coming years despite receiving eight new sites for the Northern Link rail project in the Northern Metropolis. Analysts question the sustainability of MTR's property development model for funding rail construction, noting that approximately one-third of granted sites remain idle due to developer reluctance. The warning signals potential constraints on Hong Kong's infrastructure expansion plans and raises questions about public-private development financing mechanisms.",
+      "headline": "China's securities regulator warns of market risks amid global turmoil",
+      "brief": "China's Securities Regulatory Commission chairman Wu Qing has warned of potential \"black swan\" and \"grey rhino\" events as global capital markets undergo asset repricing and rebalancing. The regulator is calling for enhanced regulatory certainty and international cooperation to strengthen market resilience. This signals Beijing's concern about systemic financial risks stemming from global market instability.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374441/hong-kong-rail-giant-warns-cash-crunch-despite-northern-metropolis-land-grant",
-      "published": "Sat, 14 Nov 2026 12:12:49 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "China Promotes Internet Sovereignty as Global Governance Model",
-      "brief": "China is advancing 'Internet sovereignty' as a key governing concept for the global Internet, representing a strategic initiative to reshape international digital governance frameworks. This approach has significant implications for global cybersecurity, data protection standards, and international relations regarding information control and access.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
-      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Online post by purported Chinese students questions Xi leadership term limits",
-      "brief": "An anonymous online post attributed to Chinese students calls for restoring term limits on China's leadership, appearing on a website with South Korean registration and Singapore mailing address according to RFA investigation. The post's authenticity and actual origin remain unclear, though it signals potential internal dissent regarding Xi Jinping's indefinite tenure. Such challenges to leadership structures, even if originating outside mainland China, may indicate growing concerns among certain segments about governance concentration.",
-      "category": "foreign_relations",
-      "severity": "low",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/10/26/xi-jinping-term-limits-open-letter/",
-      "published": "Mon, 26 Oct 2026 21:08:41 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil",
+      "published": "Sun, 15 Nov 2026 13:45:38 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     }
   ],
   "deep_dive": {
-    "headline": "Taiwan Crisis Risk Escalates: Cross-Strait Tensions Reach Critical Threshold",
+    "headline": "Sanctioned Chinese Supercomputing Center Circumvents Nvidia Chip Restrictions",
     "category": "foreign_relations",
-    "overview": "Growing risk factors are converging to create conditions for a potential Taiwan crisis, with multiple destabilizing dynamics intensifying simultaneously. This represents a significant shift in cross-strait stability that warrants urgent policy attention from regional stakeholders and the international community.",
-    "background": "Taiwan's status remains unresolved since the 1949 Chinese Civil War split, with the PRC viewing reunification as inevitable and the island maintaining de facto independence under democratic governance. Historical precedent shows that periods of perceived weakness or political transition have previously triggered PRC pressure campaigns and military posturing.",
-    "key_players": "The primary actors are Beijing (seeking to advance reunification objectives), Taipei (defending democratic autonomy), and Washington (committed to maintaining cross-strait stability through the Taiwan Relations Act). Secondary actors include regional powers Japan and South Korea, which face direct security implications from any Taiwan contingency.",
-    "implications": "A Taiwan crisis would disrupt global semiconductor supply chains, destabilize the Indo-Pacific security architecture, and potentially trigger direct U.S.-China military confrontation. Long-term consequences could reshape regional alliances, accelerate military buildups among Asian democracies, and fundamentally alter the post-Cold War international order.",
-    "risk_assessment": "Risk assessment indicates elevated but not imminent crisis probability, with critical variables including PRC military readiness, Taiwan political developments, and U.S. commitment signaling. Key indicators to monitor: PRC military exercise frequency and scale, Taiwan electoral outcomes, and any changes to U.S. arms sales or diplomatic positioning.",
-    "source": "FA RSS",
-    "week_of": "2026-11-09",
-    "original_link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper"
+    "overview": "Despite US export controls targeting the Jinan Supercomputing Center, the facility continues acquiring advanced Nvidia AI products through apparent circumvention methods. This breach demonstrates persistent gaps in enforcement of semiconductor restrictions aimed at limiting Chinese AI and military computational capabilities. The incident highlights ongoing tensions in US-China technological competition and the effectiveness of current control mechanisms.",
+    "background": "The US has implemented multiple rounds of export controls on advanced semiconductors and AI chips since 2022, designating specific Chinese research institutions including supercomputing centers as entities of concern. These measures aim to restrict China's access to cutting-edge computing technology critical for both civilian AI development and military applications. Despite sanctions, Chinese entities have employed various acquisition strategies including third-party procurement and offshore purchasing networks.",
+    "key_players": "The Jinan Supercomputing Center, a state-affiliated research facility, seeks to maintain AI and computational capabilities essential for Chinese scientific and strategic objectives. Nvidia faces pressure to enforce compliance while managing market access in China. The US government seeks to enforce technology containment while balancing diplomatic and economic considerations.",
+    "implications": "This circumvention suggests Chinese entities have developed effective workarounds to US restrictions, potentially accelerating Chinese AI development timelines. Long-term, repeated enforcement failures may necessitate broader or more stringent export controls, escalating technological decoupling between US and Chinese ecosystems. The incident may prompt congressional pressure for stricter verification mechanisms and sanctions escalation.",
+    "risk_assessment": "Risk level: HIGH. Monitor for additional circumvention cases, US enforcement responses, and potential Nvidia compliance actions. Watch for congressional reaction and whether this triggers expanded export control measures or sanctions against procurement intermediaries.",
+    "source": "Radio Free Asia",
+    "week_of": "2026-11-16",
+    "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/"
   },
   "relations": [
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technology competition, Taiwan concerns, and strategic rivalry in the Indo-Pacific."
+      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, geopolitical rivalry, and disputes over Taiwan and the South China Sea."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership strengthened by shared opposition to US-led hegemony, though with underlying economic asymmetries."
+      "summary": "China and Russia maintain a strategic partnership with deepening military, energy, and diplomatic cooperation, though China remains officially neutral on the Ukraine conflict."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are characterized by mixed interests including trade engagement, competition in technology and investment, and divergence on human rights and geopolitical issues."
+      "summary": "EU-China relations are mixed, combining economic interdependence with growing strategic competition over technology, human rights concerns, and geopolitical influence."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a breakaway province and pursues military, political, and economic pressure to prevent formal independence while blocking its international participation."
+      "summary": "China maintains a hostile stance toward Taiwan, viewing it as a breakaway province and increasing military pressure while opposing any form of Taiwanese independence."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are complicated by territorial disputes over the Senkaku Islands, historical grievances, economic competition, and Japan's security alliance with the United States."
+      "summary": "China-Japan relations are tense due to historical disputes, competing territorial claims in the East China Sea, and strategic competition in the region."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "China-India relations are strained by unresolved border disputes, military clashes, and competing regional influence in South Asia and the Indian Ocean."
+      "summary": "China-India relations remain tense following the 2020 border clash in Ladakh, with unresolved boundary disputes and strategic rivalry in Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains strong energy and investment ties with Saudi Arabia while avoiding direct involvement in Middle Eastern conflicts despite growing strategic engagement."
+      "summary": "China-Saudi Arabia relations are cooperative, characterized by significant energy trade, investment partnerships, and coordinated positions on regional issues."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "China-Philippines relations fluctuate between cooperation on economic issues and tension over South China Sea territorial disputes, with Manila balancing China engagement against US alliance commitments."
+      "summary": "China-Philippines relations fluctuate between cooperation on economic issues and tensions over South China Sea territorial disputes, with the Philippines balancing Beijing and Washington."
     },
     {
       "country": "Brazil",
-      "status": "Cooperative",
-      "summary": "China and Brazil maintain substantial trade and investment relationships while cooperating through BRICS, though with some Brazilian concerns about trade imbalances."
+      "status": "Neutral",
+      "summary": "China-Brazil relations are pragmatic and economically focused, with China being Brazil's largest trading partner, though without deep strategic alignment."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "China-Australia relations have improved from previous lows but remain strained due to Australia's security concerns, alignment with the US and Japan, and lingering trade restrictions."
+      "summary": "China-Australia relations remain tense following Australia's advocacy for COVID-19 investigations, security concerns, and trade restrictions China imposed on Australian goods."
     }
   ]
 }
