@@ -1,6 +1,238 @@
 {
   "entries": [
     {
+      "date": "2026-11-16",
+      "articles": [
+        {
+          "headline": "AI Development May Destabilize Nuclear Deterrence With North Korea",
+          "brief": "Advanced artificial intelligence, particularly artificial general intelligence, could disrupt the current asymmetric nuclear deterrence balance that has underpinned strategic stability on the Korean Peninsula. The traditional security model relies on mutual vulnerability, which AGI development could fundamentally alter by giving one side decisive advantages in detection, decision-making, or defense systems. This technological shift raises questions about whether existing nuclear deterrence frameworks remain effective against Pyongyang.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/will-ai-change-north-koreas-nuclear-calculus/",
+          "published": "Sat, 14 Nov 2026 03:23:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong activist Joshua Wong sentenced to 10 years on foreign collusion charges",
+          "brief": "Hong Kong democracy activist Joshua Wong has been sentenced to 10 years imprisonment on foreign collusion charges, with international condemnation following the verdict. Wong, imprisoned since age 23, is expected to remain incarcerated until approximately 2036. The sentencing reflects ongoing tensions between Hong Kong authorities and pro-democracy movements, with significant implications for international perceptions of judicial independence and human rights in Hong Kong.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/",
+          "published": "Thu, 05 Nov 2026 19:47:12 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Former Nvidia CEO summoned to testify on alleged Chinese espionage connection",
+          "brief": "Jensen Huang resigned from his position as CEO of Nvidia following revelations of alleged extramarital affairs, with Congress now seeking his testimony regarding potential connections to a Chinese national. The incident raises counterintelligence concerns regarding access to sensitive technology at a major U.S. semiconductor company during a period of heightened U.S.-China technological competition. The situation highlights potential security vulnerabilities within critical technology sectors.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Trump to Meet Xi, Putin During Asia Trip With Regional Leaders",
+          "brief": "President Trump will conduct diplomatic meetings with Chinese leader Xi Jinping and Russian President Putin during an upcoming Asia trip, alongside meetings with regional leaders including Australia's prime minister. Regional partners are emphasizing the need for de-escalation in ongoing conflicts. The simultaneous engagement with both Beijing and Moscow represents a significant diplomatic initiative addressing major geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+          "published": "Mon, 16 Nov 2026 19:05:52 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Philippines and Australia Strengthen Defense Ties With New Agreement",
+          "brief": "The Philippines and Australia have signed a new Defense Cooperation Agreement, expanding upon existing bilateral defense arrangements including the 2007 Status of Visiting Forces Agreement. This agreement occurs amid regional tensions related to Chinese pressure, potentially enhancing military coordination and interoperability between the two nations. The accord reflects a strategic alignment between Manila and Canberra to strengthen their defense posture in the Indo-Pacific region.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure/",
+          "published": "Mon, 16 Nov 2026 09:10:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Philippines seeks South China Sea conduct code during ASEAN meetings",
+          "brief": "The Philippines will pursue finalization of a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to Filipino fishermen's concerns about territorial water access. The initiative addresses longstanding disputes over fishing rights and maritime boundaries in the region. Successful codification could establish multilateral guidelines governing conduct among claimant states and affect regional stability.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
+          "published": "Fri, 13 Nov 2026 02:17:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "PNG calls for restraint as China and US undermine local authority",
+          "brief": "Papua New Guinea observers have expressed concern that statements from Beijing and Washington regarding a disputed shell incident are undermining PNG's sovereign jurisdiction. The competing claims by the two powers over the matter highlight broader tensions in the region and PNG's challenge in maintaining autonomy amid great power competition. The incident underscores how local disputes can become flashpoints for US-China strategic competition in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/",
+          "published": "Thu, 12 Nov 2026 19:30:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Signals Openness to Nuclear Restraint with United States",
+          "brief": "China has indicated it does not seek an escalatory nuclear arms race with the United States, suggesting potential diplomatic openings on strategic weapons control. This positioning carries implications for bilateral relations and regional stability, though implementation mechanisms remain unclear. The statement reflects Beijing's preference for managing great power competition within defined strategic boundaries.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+          "published": "Mon, 16 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China uses Sun Yat-sen legacy to promote Taiwan reunification narrative",
+          "brief": "China is leveraging the historical reverence both mainland and Taiwan share for Sun Yat-sen to advance reunification messaging across the Taiwan Strait. Intelligence analysts assess that this cultural and historical framing primarily resonates with audiences already sympathetic to Beijing's position, with limited persuasive impact on broader populations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/",
+          "published": "Wed, 28 Oct 2026 23:44:08 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong leader attends Apec summit to strengthen regional economic ties",
+          "brief": "Hong Kong Chief Executive John Lee will attend the Apec CEO Summit and Economic Leaders' Meeting in Shenzhen, emphasizing connectivity with other member economies. Apec members represent approximately 87 percent of Hong Kong's trading partners, underscoring the city's economic dependence on regional engagement and development initiatives.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3374558/hong-kongs-john-lee-pledges-stronger-regional-ties-ahead-apec-summit-trip",
+          "published": "Mon, 16 Nov 2026 06:01:14 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Beijing ambassador urges Hong Kong role in China-US cooperation",
+          "brief": "China's ambassador to Washington called on Hong Kong to leverage its unique position to strengthen interpersonal exchanges and deepen China-US cooperation as a hub for bilateral partnerships. Hong Kong's Chief Executive echoed support for expanding US-Hong Kong ties across business and people-to-people engagement. The statements reflect Beijing's strategic interest in using Hong Kong as a bridge for diplomatic and economic cooperation amid broader US-China tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3374554/chinas-envoy-us-calls-hong-kong-foster-cooperation-between-2-superpowers",
+          "published": "Mon, 16 Nov 2026 05:21:56 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China advances strategic positioning through artificial intelligence diplomacy",
+          "brief": "China is leveraging artificial intelligence cooperation as a diplomatic tool to strengthen international relationships and economic influence. This approach contrasts with U.S. strategy and suggests Beijing is effectively using AI partnerships to enhance its geopolitical standing. The trend indicates AI has become a significant dimension of great power competition beyond technology markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working",
+          "published": "Tue, 10 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China's Economic Stimulus Measures Fail to Produce Expected Results",
+          "brief": "China has implemented new central and provincial-level spending measures aimed at boosting economic growth, yet measurable economic indicators have shown limited improvement. The disconnect between policy implementation and economic outcomes suggests structural challenges in China's current stimulus approach and raises questions about the effectiveness of traditional spending mechanisms.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/why-chinas-push-to-boost-spending-is-falling-short/",
+          "published": "Fri, 13 Nov 2026 22:37:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "NATO Should Address Beijing's Concerns Outside Alliance Forum",
+          "brief": "According to The Diplomat, NATO should consider engaging with China's perspectives on the alliance through appropriate channels rather than within the NATO framework itself. The article suggests that while NATO may find Chinese viewpoints exaggerated, direct dialogue on Beijing's concerns could reduce misunderstandings and improve strategic communication between the alliance and China.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/nato-is-not-the-right-forum-to-discuss-china/",
+          "published": "Fri, 13 Nov 2026 23:07:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Trump's Asia visits test willingness of regional partners post-midterms",
+          "brief": "President Trump's planned trips to Manila and Shenzhen will gauge the commitment of ASEAN and APEC members to engage with the U.S. following significant midterm election losses. The diplomatic engagements carry implications for U.S. regional influence and alliance credibility amid questions about Trump's political standing domestically.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/asean-and-apec-trumps-real-lame-duck-test-is-in-asia/",
+          "published": "Mon, 16 Nov 2026 06:20:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Yuan surpasses dollar in Hong Kong bond issuance for first time",
+          "brief": "Offshore yuan (dim sum) bond issuance in Hong Kong reached 342 billion yuan ($51 billion) in the first ten months of the year, exceeding US dollar-denominated sales for the first time and accounting for 42% of total listed bond issuance. This milestone reflects Beijing's strategic efforts to internationalize the yuan and strengthen Hong Kong's position as the world's leading offshore yuan financial hub. The shift indicates growing institutional and corporate adoption of yuan-denominated instruments in global capital markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3374585/yuan-overtakes-us-dollar-hong-kong-bond-listings-beijing-pushes-currencys-global-role",
+          "published": "Mon, 16 Nov 2026 11:00:09 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "HKEX launches offshore yuan bond index to boost internationalisation",
+          "brief": "Hong Kong Exchanges and Clearing (HKEX) has launched the HKEX Offshore RMB Bond Index to track the performance of offshore yuan-denominated bonds, commonly known as dim sum bonds. The initiative supports China's broader strategy to internationalize the yuan and reinforces Hong Kong's position as a global financial center. This development facilitates greater integration of China's financial markets with international capital flows.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3374420/hkex-launches-first-dim-sum-bond-index-push-expand-global-use-yuan",
+          "published": "Sun, 15 Nov 2026 23:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China's securities regulator warns of market risks amid global turmoil",
+          "brief": "China's Securities Regulatory Commission chairman Wu Qing has warned of potential \"black swan\" and \"grey rhino\" events as global capital markets undergo asset repricing and rebalancing. The regulator is calling for enhanced regulatory certainty and international cooperation to strengthen market resilience. This signals Beijing's concern about systemic financial risks stemming from global market instability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3374505/black-swans-and-grey-rhinos-chinas-regulator-warns-risks-amid-global-turmoil",
+          "published": "Sun, 15 Nov 2026 13:45:38 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 18,
+        "high_priority": 4,
+        "by_category": {
+          "military": 4,
+          "foreign_relations": 8,
+          "economy": 6
+        },
+        "updated_at": "2026-11-16T19:56:19.858768Z"
+      }
+    },
+    {
       "date": "2026-11-15",
       "articles": [
         {
@@ -21157,250 +21389,6 @@
           "economy": 9
         },
         "updated_at": "2026-08-19T10:18:49.859367Z"
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "articles": [
-        {
-          "headline": "China Leverages Rare-Earth Dominance as Strategic Economic Tool",
-          "brief": "China has consolidated control over rare-earth element production and processing, establishing a critical competitive advantage in global supply chains. This dominance enables Beijing to influence technology sectors, manufacturing capabilities, and geopolitical negotiations involving dependent nations and industries. The strategic significance lies in rare-earth materials' essential role in defense systems, renewable energy, and advanced electronics, making supply control a leverage point in economic and diplomatic relations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
-          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Seeks Global AI Influence Through Data Exports",
-          "brief": "China is strategically exporting datasets alongside AI models to shape the narratives embedded in global chatbots and AI systems. This approach enables Beijing to potentially influence how AI systems worldwide represent Chinese perspectives and positions, raising concerns about information control and technological influence projection.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-          "published": "Mon, 17 Aug 2026 11:10:29 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "Taiwan Integrates Urban Resilience Drills Into Military Deterrence Strategy",
-          "brief": "Taiwan's Han Kuang exercises are incorporating urban resilience training as a core component of the island's deterrence posture. The drills aim to strengthen Taiwan's ability to withstand potential crisis scenarios, though analysts suggest more measurable assessments of operational readiness are needed. This approach represents an evolution in Taiwan's defense strategy to include civilian infrastructure and urban population resilience alongside traditional military capabilities.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/taiwans-urban-resilience-drills-are-becoming-a-core-part-of-deterrence/",
-          "published": "Tue, 18 Aug 2026 00:44:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Solomon Islands signs security pact with US while maintaining Beijing ties",
-          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its commitment to neutrality and continued engagement with China. Regional experts characterize simultaneous engagement with both Washington and Beijing as standard diplomatic practice for Pacific nations. This development reflects broader geopolitical competition in the Indo-Pacific region, where countries are balancing relationships between major powers.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
-          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan leverages LNG review after Papua New Guinea diplomatic loss",
-          "brief": "Papua New Guinea closed its representative office in Taipei, reflecting Beijing's continued diplomatic pressure on Taiwan's remaining allies. In response, Taiwan is reviewing liquefied natural gas imports from PNG, demonstrating limited economic countermeasures. Analysts indicate this represents a gradual shift in Taiwan's approach, though its overall diplomatic and economic leverage remains constrained.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Enacts Law Extending Ethnic Unity Mandates Beyond Borders",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law with extraterritorial reach, potentially affecting individuals and organizations outside Chinese territory. The law's broad jurisdictional scope represents an expansion of Beijing's regulatory authority and may have implications for diaspora communities and international entities. This development signals China's intent to enforce ethnic policy compliance globally, which could affect foreign relations and international business operations.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Uses Music Video to Assert South China Sea Territorial Claims",
-          "brief": "China has released a music video featuring a love song that experts assess is designed to humanize the Chinese coast guard while reinforcing Beijing's disputed claims in the South China Sea. The cultural messaging approach reflects China's broader strategy to normalize its position in the contested waters through soft power alongside its military and administrative presence. This represents China's continued effort to shape international and domestic narratives regarding its South China Sea territorial assertions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
-          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China sanctions Philippine defense chief over Japan ties",
-          "brief": "China has imposed sanctions on the Philippine defense chief, with analysts suggesting Beijing is leveraging historical grievances against Japan to undermine Manila's South China Sea territorial claims. This move reflects China's strategy of using diplomatic pressure and historical narratives to delegitimize rival claimants' positions in disputed waters. The action indicates escalating tensions in the region and China's willingness to target Philippine leadership over security partnerships.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/14/philippines-teodoro-china-sanctions-japan/",
-          "published": "Tue, 14 Jul 2026 18:23:28 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Hong Kong launches offshore yuan bond futures, strengthening financial hub status",
-          "brief": "Hong Kong's stock exchange introduced five-year China government bond futures on August 3, establishing the only offshore exchange-traded tool for international investors to hedge yuan interest rate exposure. The launch enhances Hong Kong's capabilities in yuan asset pricing, risk management, and serving global investors, reinforcing its position as a premier offshore yuan trading center.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364103/chinese-treasury-futures-launch-cements-hong-kong-premier-yuan-hub?utm_source=rss_feed",
-          "published": "Tue, 18 Aug 2026 08:30:20 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's State Grid breaks dim sum bond issuance record",
-          "brief": "State Grid Corporation of China raised 14.9 billion yuan through offshore yuan-denominated bonds in Hong Kong's largest single issuance by a Chinese state-owned enterprise. The record-breaking deal reflects growing investor confidence in Hong Kong's dim sum bond market as a financing platform for major Chinese corporations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/china-business/article/3364407/hong-kongs-dim-sum-bond-market-hits-new-heights-state-grid-deal-draws-record-orders?utm_source=rss_feed",
-          "published": "Tue, 18 Aug 2026 08:00:08 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese banks achieve modest NIM improvement amid weak loan demand",
-          "brief": "Chinese commercial banks recorded their first quarterly net interest margin expansion since 2022 in Q2 2026, with NIM rising marginally to 1.41 percent. However, the gains are constrained by subdued underlying loan demand, suggesting limited sustainability of banking sector profitability recovery. This indicates potential headwinds for China's financial system as weak credit demand may signal broader economic slowdown concerns.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364361/chinese-commercial-banks-gain-margin-relief-subdued-lending-dims-outlook?utm_source=rss_feed",
-          "published": "Tue, 18 Aug 2026 06:00:11 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong proposes tax incentives to attract multinational treasury centers",
-          "brief": "Hong Kong's government is implementing tax reforms to increase incentives for corporate treasury centers, expected to attract both multinational and mainland Chinese firms to the financial hub. Public consultation runs through September 4, 2024, with legislative submission planned for the first half of 2027. The initiative aims to strengthen Hong Kong's competitive position in regional financial services and corporate management activities.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364223/hong-kong-tax-reforms-treasury-centres-will-lure-multinationals-mainland-firms-pwc?utm_source=rss_feed",
-          "published": "Mon, 17 Aug 2026 00:16:57 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong lists first Shanghai free-trade zone bond amid yuan hub competition",
-          "brief": "Hong Kong Exchanges and Clearing announced the listing of a 1.5 billion yuan green bond from Shanghai Electric Global Capital, marking Hong Kong's first such offshore bond offering from Shanghai's free-trade zone. The move signals Hong Kong's effort to maintain its position as the global offshore yuan trading hub amid intensifying competition from mainland Chinese financial centers. This development reflects broader competitive dynamics in China's financial market structure and offshore currency operations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3363995/hong-kong-list-first-shanghai-free-trade-zone-bond-defend-yuan-hub-status?utm_source=rss_feed",
-          "published": "Fri, 14 Aug 2026 04:52:38 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong accountants seek tax breaks for Northern Metropolis development",
-          "brief": "The Hong Kong Institute of Certified Public Accountants has submitted recommendations for Hong Kong's first five-year plan, urging tax incentives for investors funding Northern Metropolis startups and listing regime reforms. These proposals aim to strengthen Hong Kong's position as an international financial hub while supporting the development of the cross-border Northern Metropolis region.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364438/hong-kong-5-year-plan-should-have-northern-metropolis-tax-breaks-listing-reforms-hkicpa?utm_source=rss_feed",
-          "published": "Tue, 18 Aug 2026 10:00:53 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese police arrest Uyghur family for sending goods to Turkey",
-          "brief": "Chinese authorities in Urumqi arrested a Uyghur mother and two daughters for sending goods to Turkey, with police citing counterterrorism concerns. The arrests highlight Beijing's surveillance and enforcement practices in Xinjiang and may complicate China's relations with Turkey, a key regional partner with significant Uyghur diaspora communities.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/uyghur/2026/07/17/urumqi-xinjiang-china-police-turkey-arrest-mother-sisters/",
-          "published": "Fri, 17 Jul 2026 03:58:30 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China restricts mourning at former premier's funeral amid political concerns",
-          "brief": "Chinese authorities have censored public expressions of grief during former Premier Zhu Rongji's funeral, reflecting concerns that nostalgia for his tenure could generate criticism of Xi Jinping's current leadership. The controlled response indicates Beijing's sensitivity to comparisons between past and present governance. This suggests underlying tensions within China's political establishment regarding Xi's rule and historical legacies.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 18 Aug 2026 07:17:07 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Zhu Rongji's Funeral Highlights Gap Between Past and Present China",
-          "brief": "Former Premier Zhu Rongji's funeral has become an occasion for Beijing to invoke his era of economic growth and reform, yet public sentiment reveals widespread disappointment with current conditions. The contrast between the optimism of Zhu's tenure and contemporary Chinese experience underscores growing concerns about economic stagnation and declining public confidence in leadership. This divergence suggests potential internal tensions within China's political narrative regarding development and prosperity.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-          "published": "Tue, 18 Aug 2026 09:11:52 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "Geely Auto founder Li Shufu steps down as chairman",
-          "brief": "Chinese billionaire Li Shufu has resigned as chairman of Geely Auto, China's second-largest carmaker, with executive director Andy An Conghui assuming the role. The succession occurs following Geely's announcement of record first-half revenue, suggesting a planned generational leadership transition. This management change signals the company's strategic shift toward sustainable growth in China's competitive automotive sector.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/china-business/article/3364318/billionaire-geely-auto-head-li-shufu-steps-down-profit-slips?utm_source=rss_feed",
-          "published": "Mon, 17 Aug 2026 11:32:39 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese pharma contractors show resilience against US supply chain restrictions",
-          "brief": "China's pharmaceutical contractors are demonstrating financial resilience despite US government efforts to reduce American reliance on Chinese pharmaceutical supplies. Industry analysts attribute this strength to resistance from pharmaceutical companies unwilling to abandon China's significant cost advantages. This dynamic suggests that economic incentives may limit the effectiveness of US supply chain decoupling initiatives in the pharmaceutical sector.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/companies/article/3364303/chinas-pharma-contractors-rally-us-supply-chain-pressures-face-industry-resistance?utm_source=rss_feed",
-          "published": "Mon, 17 Aug 2026 10:00:32 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 19,
-        "high_priority": 0,
-        "by_category": {
-          "economy": 10,
-          "foreign_relations": 8,
-          "military": 1
-        },
-        "updated_at": "2026-08-18T10:18:11.678712Z"
       }
     }
   ]
