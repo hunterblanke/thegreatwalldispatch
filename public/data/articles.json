@@ -1,58 +1,22 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "metrics": {
-    "sources_scanned": 8,
-    "articles_total": 21,
-    "high_priority": 3,
+    "sources_scanned": 7,
+    "articles_total": 19,
+    "high_priority": 4,
     "by_category": {
-      "economy": 5,
+      "economy": 7,
       "military": 3,
-      "foreign_relations": 13
+      "foreign_relations": 9
     },
-    "updated_at": "2026-11-17T18:52:19.342623Z"
+    "updated_at": "2026-11-18T18:30:42.058739Z"
   },
   "articles": [
     {
-      "headline": "China Signals Opposition to Nuclear Arms Race with US",
-      "brief": "China has stated it does not seek to engage in a nuclear arms race with the United States, suggesting openness to restraint in strategic weapons competition. The position indicates potential for diplomatic engagement on nuclear policy, though underlying strategic competition between the two powers remains significant.",
+      "headline": "US expands chip export restrictions targeting China's access",
+      "brief": "The United States has implemented new restrictions on semiconductor exports and computing power access to Southeast Asian countries, limiting China's ability to obtain advanced chips through alternative supply routes. These measures aim to constrain China's technological advancement and military modernization capabilities by disrupting its procurement networks. The restrictions represent a significant escalation in US efforts to maintain technological superiority and slow China's development of advanced defense systems.",
       "category": "military",
       "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
-      "published": "Mon, 16 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Taiwan Crisis Risk Escalates Amid Economic and Political Tensions",
-      "brief": "The article examines growing factors contributing to increased instability in the Taiwan strait, with implications for regional economic disruption and supply chain vulnerabilities. Rising cross-strait tensions present significant risks to global markets, particularly semiconductors and technology sectors dependent on Taiwan's production capacity. The escalating crisis potential warrants monitoring for impacts on international trade and investment flows.",
-      "category": "economy",
-      "severity": "high",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
-      "published": "Mon, 09 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Beijing pursues Taiwan reunification driven by core CCP interests",
-      "brief": "China's determination to reunify with Taiwan extends beyond strategic concerns about the First Island Chain or semiconductor access, according to analysis from The Diplomat. The CCP's fundamental interest in reunification appears rooted in deeper political and ideological imperatives rather than purely military or economic calculations. This suggests Beijing views Taiwan's political status as central to its core governance legitimacy.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/why-is-beijing-so-determined-to-pursue-reunification-with-taiwan/",
-      "published": "Mon, 16 Nov 2026 22:54:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "US Extends Chip Export Restrictions to Southeast Asia Targeting China",
-      "brief": "New US restrictions limit chip exports and computing power access through Southeast Asian channels, disrupting supply routes China has relied upon. The measures aim to constrain China's access to advanced semiconductor technology and computing capabilities essential for its technological advancement. This represents an escalation of US efforts to control critical technology flows to China beyond direct bilateral restrictions.",
-      "category": "economy",
-      "severity": "medium",
       "sources_used": [
         "BBC News"
       ],
@@ -61,208 +25,220 @@
       "raw_source": "BBC News"
     },
     {
-      "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade War Pause",
-      "brief": "The U.S.-China trade tensions have temporarily eased ahead of President Trump's meeting with Xi Jinping at the Asia-Pacific Economic Cooperation summit, with both nations announcing a framework of 'constructive strategic stability.' However, underlying fractures in the relationship are becoming apparent despite the surface-level cooperation, raising questions about the sustainability of the current d\u00e9tente.",
+      "headline": "Quad Alliance Addresses China's Strategic Mineral Supply Dominance",
+      "brief": "The Quad (Australia, India, Japan, United States) is positioning itself as the primary multilateral framework to counter China's control over critical mineral supply chains. China's dominance in mineral production and processing represents a strategic vulnerability for Western nations and their allies. This coordinated response aims to reduce dependence on Chinese mineral resources for defense and technology applications.",
+      "category": "economy",
+      "severity": "high",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/quad-moves-to-counter-chinas-mineral-monopoly/",
+      "published": "Tue, 17 Nov 2026 23:13:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Trump meets Putin and Xi at historic trilateral summit in China",
+      "brief": "U.S. President Trump held meetings with Russian President Putin and Chinese President Xi Jinping ahead of a three-way summit scheduled for Thursday\u2014the first such trilateral gathering among the three leaders. The summit represents a significant diplomatic development with potential implications for U.S.-China-Russia relations and global geopolitical alignment. The meeting's outcomes could impact ongoing trade disputes, regional security concerns, and strategic competition among the three powers.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "International community condemns Joshua Wong's decade-long prison sentence",
+      "brief": "Hong Kong democracy activist Joshua Wong has been sentenced to 10 years imprisonment on foreign collusion charges, with release expected in 2036 when he reaches age 40. The international community has condemned the sentence, which highlights escalating tensions between Hong Kong authorities and pro-democracy advocates, while raising concerns among Western nations regarding judicial independence and political freedoms in Hong Kong.",
+      "category": "foreign_relations",
+      "severity": "high",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/",
+      "published": "Thu, 05 Nov 2026 19:47:12 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Nvidia scandal threatens to accelerate US chip export restrictions to China",
+      "brief": "China faces growing concern that the Nvidia espionage scandal could prompt the US to impose stricter controls on advanced semiconductor exports, further constraining Beijing's artificial intelligence development capabilities. The incident occurs amid high-level US-China diplomatic engagement and threatens to complicate technology trade relations between the two powers. Tighter restrictions would significantly impact China's ability to develop competitive AI systems and maintain technological advancement.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "FA RSS"
+        "BBC News"
       ],
-      "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
-      "published": "Tue, 17 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
+      "original_link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+      "raw_source": "BBC News"
     },
     {
-      "headline": "China Escalates Rhetorical Campaign Against Japan's Military",
-      "brief": "Beijing is conducting a sustained propaganda effort to characterize Japan as an aggressive and militarizing threat, according to New York Times analysis. This campaign reflects intensifying strategic competition in the region and suggests China is using information warfare to influence regional perceptions of Japanese military intentions and capabilities.",
+      "headline": "Xi, Trump, Putin Meet at China Regional Summit",
+      "brief": "Chinese leader Xi Jinping welcomed President Trump to a regional summit in Shenzhen, with the two expected to hold trilateral talks with Russian President Putin on Thursday. The three-way meeting represents a significant diplomatic engagement among major powers with competing strategic interests. The gathering's military implications warrant monitoring regarding discussions on regional security, arms control, or geopolitical alignment.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "published": "Wed, 18 Nov 2026 17:52:34 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China and Japan Leaders Meet Despite Taiwan-Related Tensions",
+      "brief": "Chinese President Xi Jinping met with Japanese Prime Minister Sanae Takaichi in Shenzhen, marking a diplomatic engagement following China's punitive measures against Japan over statements regarding Taiwan. The meeting suggests potential de-escalation in bilateral tensions that have strained relations over the past year. The encounter indicates both nations may be seeking to manage their strategic rivalry despite fundamental disagreements on regional security issues.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
+      "published": "Wed, 18 Nov 2026 13:46:45 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China Escalates Rhetorical Campaign Portraying Japan as Military Threat",
+      "brief": "Beijing is conducting a coordinated campaign to characterize Japan as an aggressive and resurgent military power, according to New York Times analysis. This intensification of rhetoric represents an escalation in China-Japan tensions and may reflect broader strategic competition in the Indo-Pacific region.",
       "category": "military",
       "severity": "medium",
       "sources_used": [
         "NYT > World News"
       ],
       "original_link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
-      "published": "Tue, 17 Nov 2026 15:02:05 +0000",
+      "published": "Wed, 18 Nov 2026 08:14:28 +0000",
       "raw_source": "NYT > World News"
     },
     {
-      "headline": "Canada and China Announce Trade Pact Amid U.S. Relations Strain",
-      "brief": "Canada and China have announced a new trade agreement, with their leaders displaying improved diplomatic relations. The development underscores a potential shift in Canadian trade priorities away from the United States, signaling evolving North American economic alignment during a period of U.S.-Canada tensions.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
-      "published": "Tue, 17 Nov 2026 17:19:20 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "Chinese Foreign Minister Wang Yi addresses US-China relations",
-      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for high-level dialogue on strategic issues between the two powers during a period of significant geopolitical tensions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "China Premier Courts ASEAN Amid U.S. Trade Policy Uncertainty",
-      "brief": "Chinese Premier Li Qiang addressed ASEAN leaders, emphasizing opposition to protectionism and describing China-ASEAN relations as 'extraordinary.' His remarks appear strategically calibrated to address regional concerns about potential shifts in U.S. foreign policy under the Trump administration. The overture suggests China is positioning itself as a stable economic partner amid uncertainty in regional trade dynamics.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/chinas-premier-denounces-protectionism-hails-extraordinary-state-of-relations-with-asean/",
-      "published": "Tue, 17 Nov 2026 09:45:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Quad Leaders' Manila Summit Signals Unified Stance Against China",
-      "brief": "The Quad group held a leadership meeting in Manila despite China's longstanding opposition to the alliance. The summit's primary significance lies in its political messaging to Beijing, demonstrating coordinated resolve among the four member states. China's concern over the meeting underscores the alliance's strategic importance in regional geopolitics.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/just-by-meeting-quad-leaders-send-a-signal-to-beijing/",
-      "published": "Mon, 16 Nov 2026 22:25:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Trump visits Asia, signals openness to Putin bilateral meeting",
-      "brief": "US President Trump arrived in Asia and expressed willingness to hold a one-on-one meeting with Russian President Vladimir Putin if the opportunity arises. The statement indicates potential diplomatic engagement with Russia during the Asia visit, which may also include discussions with Chinese leadership. This signals a possible shift toward direct dialogue with major powers on the administration's foreign policy agenda.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 12:54:32 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "US investigates Singapore firm for alleged illegal chip exports to China",
-      "brief": "The US government is investigating Megaspeed, a Singapore-based company, for allegedly violating American export controls by facilitating shipments of advanced Nvidia AI chips to China. The case highlights ongoing US efforts to enforce semiconductor export restrictions aimed at limiting China's access to cutting-edge technology, reflecting broader tensions in US-China technology competition and supply chain security.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 11:17:32 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Xi to Host Trump at Shenzhen APEC Summit",
-      "brief": "Chinese President Xi Jinping will meet with Trump during the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen. The bilateral meeting at a major multilateral economic forum signals potential diplomatic engagement between the two countries on trade and regional issues. The venue choice underscores China's emphasis on technological development and economic integration in the Asia-Pacific region.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 06:23:51 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Hong Kong establishes port partnership with mainland China's Qingdao",
-      "brief": "Hong Kong has formalized a port partnership with Qingdao to enhance collaboration on shipping logistics, smart ports, and green corridors. The move reflects efforts to strengthen regional maritime infrastructure while local analysts recommend developing marine insurance and arbitration capabilities to build sectoral resilience against geopolitical disruptions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374784/hong-kong-partners-qingdao-port-think-tank-urges-maritime-resilience",
-      "published": "Tue, 17 Nov 2026 13:20:34 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong Student Enrollment in US Declines 27% Over Decade",
-      "brief": "Hong Kong student enrollment in US universities has declined 27 percent over the past ten years, though a modest 0.5 percent year-on-year increase occurred in the most recent school year. The slight recovery was driven primarily by undergraduate enrollment growth of 4.1 percent, despite US visa restrictions targeting mainland Chinese and Hong Kong students. This trend reflects shifting educational migration patterns and potential impacts on US-Hong Kong academic and cultural ties.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years",
-      "published": "Tue, 17 Nov 2026 05:59:43 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "North Korea Confiscates 90% of Workers' Wages Earned in China",
-      "brief": "Internal financial documents obtained by Radio Free Asia reveal that North Korea appropriates approximately 90% of wages earned by its citizens working in China, retaining only minimal compensation for workers. This practice represents a significant source of hard currency for Pyongyang and underscores the regime's systematic exploitation of its labor force abroad. The documented evidence provides rare confirmation of North Korea's wage confiscation mechanism, which has implications for understanding the regime's revenue generation and worker treatment.",
+      "headline": "Laos could influence South China Sea code of conduct negotiations",
+      "brief": "ASEAN meetings have again failed to produce a code of conduct for the South China Sea, with analysts noting that landlocked Laos may hold significant influence in future negotiations. Laos's position within ASEAN could affect the terms and timeline of maritime governance discussions in the region.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
-      "published": "Sat, 14 Nov 2026 23:35:35 +0000",
+      "original_link": "https://rfa.org/english/southchinasea/2026/11/18/asean-south-china-sea-code-of-conduct/",
+      "published": "Wed, 18 Nov 2026 03:34:47 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "US-sanctioned Chinese supercomputing center continues acquiring Nvidia chips",
-      "brief": "Despite US export controls, the sanctioned Jinan Supercomputing Center has continued obtaining advanced Nvidia AI products, indicating potential enforcement gaps in technology restrictions. This development suggests Chinese research facilities are circumventing US semiconductor export controls designed to limit China's artificial intelligence capabilities. The situation highlights ongoing tensions in US-China technology competition and the difficulty in implementing comprehensive export restrictions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
-      "published": "Fri, 13 Nov 2026 00:41:32 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China could pressure Taiwan on Pratas Island through supply restrictions",
-      "brief": "Analysts suggest China could erode Taiwan's control of the remote Pratas Island by restricting supply deliveries rather than through military invasion, potentially leveraging logistical pressure to force a withdrawal. While this approach would avoid direct armed conflict, forcibly compelling Taiwan's withdrawal carries significant risk of escalating into a broader regional crisis. The assessment highlights Beijing's potential use of economic and logistical coercion as an alternative to kinetic military action.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/",
-      "published": "Tue, 03 Nov 2026 03:30:37 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "U.S. condemns China over Tibetan monastery demolitions",
-      "brief": "The United States has protested China's demolition of monks' quarters at Tibetan monasteries, alleging the action targets religious population reduction and cultural assimilation. According to sources cited by Radio Free Asia, the demolitions represent state interference in Tibetan religious autonomy. The incident underscores ongoing U.S.-China tensions over religious freedom and minority rights in Tibet.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/tibet/2026/10/29/tibet-monastery-demolition-sershul-buddhism-china/",
-      "published": "Thu, 29 Oct 2026 23:37:51 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "China recalls teachers from Philippines amid South China Sea tensions",
-      "brief": "China has recalled teachers from the Philippines in response to escalating South China Sea tensions, according to Radio Free Asia reporting. Experts note potential links between educational exchange programs and promotion of China's territorial claims, though they caution against attributing the recall solely to xenophobic motivations. The move reflects broader deterioration in China-Philippines relations and signals potential weaponization of cultural and educational ties in maritime disputes.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/10/28/china-teachers-philippines-return-south-china-sea/",
-      "published": "Wed, 28 Oct 2026 00:24:12 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Asset managers recommend Asian gold vaults amid Western finance concerns",
-      "brief": "Jupiter Asset Management suggests ultra-high-net-worth investors diversify physical gold holdings into Hong Kong and Singapore vaults as a hedge against Western financial market risks. The recommendation reflects growing concerns about geopolitical tensions and inflation affecting the stability of traditional Western financial centers. This trend could strengthen Asia's position as an alternative financial hub and increase capital flows to regional financial infrastructure.",
+      "headline": "Yuan surpasses dollar in Hong Kong bond issuance for first time",
+      "brief": "Hong Kong's offshore yuan (dim sum) bond issuance reached 342 billion yuan ($51 billion) in the first 10 months of the year, exceeding US dollar-denominated sales for the first time and representing 42% of total listed bond issuance. This milestone reflects Beijing's strategic efforts to internationalize the yuan and consolidate Hong Kong's position as the leading offshore yuan trading hub. The shift signals growing confidence in yuan-denominated assets and potential implications for global currency markets and China's financial influence.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/commodities/article/3374589/fears-over-western-finance-grow-could-hong-kong-and-singapore-win-worlds-gold",
-      "published": "Tue, 17 Nov 2026 02:00:12 +0000",
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3374585/yuan-overtakes-us-dollar-hong-kong-bond-listings-beijing-pushes-currencys-global-role",
+      "published": "Mon, 16 Nov 2026 11:00:09 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "HKEX launches first offshore yuan bond index to boost internationalization",
+      "brief": "Hong Kong Exchanges and Clearing (HKEX) has launched the HKEX Offshore RMB Bond Index to track the performance of dim sum bonds, offshore yuan-denominated securities. This initiative aims to promote the internationalization of the Chinese yuan and reinforce Hong Kong's position as a global financial center. The index represents China's continued strategic effort to increase offshore use of its currency and develop alternative financial benchmarks.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3374420/hkex-launches-first-dim-sum-bond-index-push-expand-global-use-yuan",
+      "published": "Sun, 15 Nov 2026 23:00:13 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "China Advances Strategic Position Through AI Diplomatic Engagement",
+      "brief": "China is leveraging artificial intelligence cooperation as a diplomatic tool to strengthen international relationships and economic partnerships. This approach demonstrates Beijing's strategic use of technology sectors to expand geopolitical influence, with potential implications for U.S.-China technological competition and global AI governance frameworks. The success of China's AI diplomacy may reshape technology partnerships and standards-setting among developing nations.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "FA RSS"
+      ],
+      "original_link": "https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working",
+      "published": "Tue, 10 Nov 2026 04:00:00 -0500",
+      "raw_source": "FA RSS"
+    },
+    {
+      "headline": "China showcases AI capabilities while concealing underlying economic challenges",
+      "brief": "China is hosting world leaders in Shenzhen to demonstrate its artificial intelligence sector advancement, presenting a curated view of technological progress. However, the visit obscures broader economic difficulties facing Xi Jinping's administration beyond the city's tech-focused surface. The selective presentation suggests China aims to project technological prowess while managing international perceptions of domestic vulnerabilities.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Nov 2026 23:07:20 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "China Promotes Internet Sovereignty as Global Governance Model",
+      "brief": "China is advancing an 'Internet sovereignty' initiative to establish national control as a key governing principle for the global Internet. This represents China's strategic effort to reshape international norms around digital governance and reduce external influence over its information environment. The initiative has significant implications for cybersecurity, international relations, and the future architecture of global Internet governance.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "PNG calls for restraint as China and US dispute escalates",
+      "brief": "Beijing and Washington have made competing statements regarding a disputed shell incident in Papua New Guinea, with observers noting that both powers' rhetoric undermines PNG's sovereign authority to investigate and adjudicate the matter. The incident highlights growing great power competition in the Pacific region and tensions over whose claims take precedence in third-party territories. PNG authorities are seeking restraint from both nations to preserve their investigative independence.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/",
+      "published": "Thu, 12 Nov 2026 19:30:15 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "Beijing intensifies oversight of automaker payment practices amid sales decline",
+      "brief": "China's Ministry of Industry and Information Technology has tasked the China Association of Automobile Manufacturers with assessing payment cycles of 17 major carmakers to ensure regulatory compliance. This regulatory action reflects Beijing's effort to stabilize the automotive sector during a period of domestic sales contraction and intense price competition. The measure indicates government concern about supply chain financial stress and market destabilization from predatory pricing practices.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3374715/beijing-keeps-tight-oversight-carmaker-payment-cycles-domestic-sales-slump",
+      "published": "Tue, 17 Nov 2026 08:00:13 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "CSIS hosts discussion on Indo-Asia-Pacific strategic priorities",
+      "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The event reflects continued U.S. focus on regional engagement and military posture in a strategically significant area.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
+      "published": "Tue, 26 Jan 2016 16:20:53 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Rare-earth mining spill in Laos raises China environmental concerns",
+      "brief": "A rare-earth pond spill at a Chinese-financed mining operation in northern Laos has prompted local residents to avoid river water despite official assurances of safety, following reported animal deaths in the area. The incident reflects broader concerns about environmental oversight and Chinese mining practices in Southeast Asia. The credibility gap between authorities and residents underscores potential friction points in China-Laos bilateral relations and regional resource extraction dynamics.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/laos/2026/11/16/laos-water-rare-earth-contamination-china/",
+      "published": "Mon, 16 Nov 2026 23:11:43 +0000",
+      "raw_source": "Radio Free Asia"
+    },
+    {
+      "headline": "US Peace Strategy in Myanmar Aims to Counter Chinese Influence",
+      "brief": "The United States is pursuing a peacemaking framework in Myanmar that opposition forces view as potentially effective in resolving the country's conflict. The strategy serves broader U.S. interests in increasing regional influence and securing access to rare earth materials. This represents a significant geopolitical competition with China over Myanmar's strategic position and natural resources.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Radio Free Asia"
+      ],
+      "original_link": "https://rfa.org/english/myanmar/2026/11/04/myanmar-washington-strategy-strategy-rare-earth-burma/",
+      "published": "Wed, 04 Nov 2026 02:15:38 +0000",
+      "raw_source": "Radio Free Asia"
     }
   ],
   "deep_dive": {
@@ -281,52 +257,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained over trade, technology competition, Taiwan, and strategic rivalry despite periodic diplomatic engagement."
+      "summary": "China-US relations remain strained over trade, technology competition, Taiwan, and strategic rivalry in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a partnership of convenience with deepened economic and military ties, though with underlying strategic limitations."
+      "summary": "China and Russia maintain close strategic partnership with deepened ties in energy, defense, and opposition to Western dominance."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, technology, and geopolitical assertiveness."
+      "summary": "EU-China relations are mixed, balancing economic interdependence with concerns over human rights, market access, and geopolitical alignment."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China considers Taiwan a breakaway province and maintains military pressure while rejecting its independent political status."
+      "summary": "China maintains a hostile stance toward Taiwan, asserting sovereignty claims while increasing military pressure and diplomatic isolation efforts."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
+      "summary": "China-Japan relations are strained due to territorial disputes over the Senkaku Islands, historical grievances, and strategic competition in East Asia."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "China-India relations are adversarial following their 2020 border clash, with ongoing military tensions and regional rivalry."
+      "summary": "China-India relations remain tense following border clashes and unresolved territorial disputes along the LAC, with military posturing persisting."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China maintains strong economic and energy ties with Saudi Arabia while avoiding direct involvement in Middle Eastern political disputes."
+      "summary": "China maintains cooperative relations with Saudi Arabia centered on oil trade, investment in Vision 2030, and shared interest in countering US influence."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "China-Philippines relations fluctuate between cooperation and tension due to competing South China Sea claims and Manila's balancing act between Beijing and Washington."
+      "summary": "China-Philippines relations fluctuate between cooperation and tension, with disputes over South China Sea resources offset by economic interdependence and diplomatic pragmatism."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China and Brazil maintain pragmatic economic and trade relations while managing different geopolitical interests in global affairs."
+      "summary": "China-Brazil relations are cooperative, anchored by significant trade in commodities and investment, though Brazil maintains strategic autonomy."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "China-Australia relations have deteriorated significantly due to Australia's security concerns, trade restrictions, and alignment with Western allies on China-related issues."
+      "summary": "China-Australia relations remain strained following Australia's national security concerns, trade restrictions, and alignment with the US-led Indo-Pacific strategy."
     }
   ]
 }
