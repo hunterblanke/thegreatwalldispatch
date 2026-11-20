@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-11-19",
+      "articles": [
+        {
+          "headline": "Trump and Putin Meet in China; Russia Rejects Ukraine Ceasefire",
+          "brief": "President Trump and Russian President Putin held a summit meeting in China that appeared largely symbolic in nature. Following the meeting, Putin announced that Russia would not negotiate a ceasefire with Ukraine, signaling continued Russian intransigence on conflict resolution. The meeting demonstrates alignment between Trump and Putin while indicating no near-term resolution to the Ukraine conflict.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+          "published": "Thu, 19 Nov 2026 18:06:02 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Trump, Xi, Putin conclude summit addressing nuclear arms control",
+          "brief": "A trilateral summit among US, Chinese, and Russian leaders concluded with nuclear arms control discussions as a central agenda item. The meeting occurred amid ongoing US-China competition over artificial intelligence development and persistent uncertainties regarding Taiwan's status. The summit's focus on nuclear negotiations suggests potential diplomatic engagement on strategic stability despite underlying geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/19/trump-xi-putin-apec-summit/",
+          "published": "Thu, 19 Nov 2026 15:07:24 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US-sanctioned Chinese supercomputing center obtains restricted Nvidia chips",
+          "brief": "The Jinan Supercomputing Center, subject to US sanctions, has continued acquiring advanced Nvidia AI products despite export control restrictions designed to limit China's technological capabilities. This suggests potential gaps in enforcement of US export controls or alternative acquisition channels. The development indicates ongoing challenges to US efforts to restrict Chinese access to cutting-edge semiconductor technology.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
+          "published": "Fri, 13 Nov 2026 00:41:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Signals Openness to Nuclear Restraint with United States",
+          "brief": "China has indicated it does not seek to engage in a nuclear arms race with the United States, suggesting potential for diplomatic de-escalation. The statement implies Beijing views arms control agreements as preferable to competitive nuclear buildup, which could have significant implications for global security and strategic stability. This positioning may reflect China's preference to focus resources on economic competition rather than military escalation.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+          "published": "Mon, 16 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Xi navigates diplomatic engagement with Putin and Trump amid constraints",
+          "brief": "China's Xi Jinping is engaged in a significant diplomatic moment with both Putin and Trump, though certain topics appear off-limits in these discussions. The strategic engagement reflects China's complex balancing act between major powers, with selective dialogue parameters potentially limiting resolution of key bilateral issues. This selective diplomatic approach suggests Beijing is managing multiple great power relationships with carefully defined boundaries.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Trump Engages Xi and Putin at Summit Following Midterm Losses",
+          "brief": "President Trump met with Chinese and Russian leaders while weakened by midterm election results, adopting a conciliatory diplomatic approach toward both autocrats. The contrast between Trump's diplomatic posture abroad and adversarial rhetoric toward domestic political opponents suggests potential shifts in U.S. foreign policy positioning. This engagement with major powers carries implications for U.S. strategic competition and alliance management.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+          "published": "Thu, 19 Nov 2026 17:05:18 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Analysis examines potential 'Finlandization' scenario for Taiwan",
+          "brief": "The Diplomat publishes analysis by Pekka Virkki exploring what a 'Finlandization' of Taiwan could entail, referencing the historical model of Finland's Cold War relationship with the Soviet Union. The concept suggests Taiwan could potentially adopt a status of political independence with constrained foreign policy autonomy under Chinese pressure. This analysis reflects ongoing strategic discussions about Taiwan's possible political arrangements amid cross-strait tensions.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/what-would-the-finlandization-of-taiwan-look-like/",
+          "published": "Thu, 19 Nov 2026 00:26:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "ASEAN South China Sea Code of Conduct Negotiations Stall at 80% Completion",
+          "brief": "ASEAN concluded another summit without finalizing a Code of Conduct (CoC) for the South China Sea, despite reaching approximately 80% agreement on the accord's terms. Singapore is positioning itself to lead efforts toward completing negotiations in 2027, with the unresolved 20% of outstanding issues remaining a potential obstacle to regional maritime governance and dispute resolution mechanisms.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/can-singapore-get-the-south-china-sea-coc-over-the-finish-line-in-2027/",
+          "published": "Wed, 18 Nov 2026 23:20:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "ASEAN fails to reach South China Sea code of conduct agreement",
+          "brief": "ASEAN member states have again failed to conclude negotiations on a code of conduct for the South China Sea, with analysts noting that landlocked Laos may play an influential role in future discussions. Laos's position within ASEAN could affect the trajectory and terms of ongoing negotiations over maritime governance in the disputed region. The repeated inability to reach consensus underscores persistent divisions among member states on South China Sea issues.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/18/asean-south-china-sea-code-of-conduct/",
+          "published": "Wed, 18 Nov 2026 03:34:47 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade Truce",
+          "brief": "The U.S.-China trade war has entered a temporary pause with both nations declaring a relationship of \"constructive strategic stability,\" with President Trump scheduled to meet Xi Jinping at the Asia-Pacific Economic Cooperation summit. However, underlying tensions are emerging that threaten the fragility of this d\u00e9tente, with potential implications for global trade relations and economic stability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
+          "published": "Tue, 17 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US Restricts Advanced AI Chip Access in Southeast Asia",
+          "brief": "The United States is implementing restrictions on the rental of advanced AI computing capacity to Chinese companies operating in Singapore, Malaysia, Thailand, and Indonesia. This policy aims to limit China's access to cutting-edge semiconductor technology through regional intermediaries. The measure could significantly impact Southeast Asian tech development initiatives while potentially straining US relations with regional partners dependent on AI infrastructure.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/could-new-us-chip-restrictions-torpedo-southeast-asias-ai-ambitions/",
+          "published": "Thu, 19 Nov 2026 10:30:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "US chip restrictions may impact Southeast Asia M&A as China activity declines",
+          "brief": "New US export restrictions on AI chips could dampen valuations in Southeast Asia's growing mergers and acquisitions market, which has benefited from capital flowing away from China's cooling economy. China's M&A activity reached only $225 billion by August 2024, significantly below the $484 billion recorded for all of 2023, indicating a broader shift in regional investment patterns. The restrictions may further redirect deal-making activity and valuations across the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3375015/new-us-chip-restrictions-could-cool-southeast-asias-booming-ma-market-bankers-warn",
+          "published": "Thu, 19 Nov 2026 06:00:06 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China-US Establishes AI Communication Channel Amid Strategic Competition",
+          "brief": "The United States and China are implementing a new hotline dedicated to artificial intelligence issues to prevent miscalculation between the two powers. The article emphasizes that previous US-China crisis communication mechanisms have proven ineffective during critical moments, highlighting the need for a functional AI-specific diplomatic channel. Establishing reliable communication on AI development represents a significant shift in managing great power competition in emerging military-relevant technologies.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/the-china-us-ai-hotline-needs-to-be-different/",
+          "published": "Thu, 19 Nov 2026 00:07:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese overseas financial investments projected to reach $10 trillion by 2035",
+          "brief": "Morgan Stanley forecasts Chinese households' overseas financial investments will more than double to $10 trillion by 2035, driven by sustained diversification appetite despite Beijing's regulatory restrictions. This capital outflow is expected to benefit international financial institutions, particularly HSBC and Standard Chartered, as well as Hong Kong's exchange through increased trading and listing activity. The projection indicates China's continued integration into global financial markets despite domestic regulatory pressures.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3374811/chinese-investors-overseas-holdings-double-2035-morgan-stanley",
+          "published": "Wed, 18 Nov 2026 01:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "China strengthens automotive supply chain payment oversight amid sales decline",
+          "brief": "Beijing has escalated regulatory scrutiny of major carmakers' payment cycles through the China Association of Automobile Manufacturers, requiring 17 leading manufacturers to demonstrate compliance with payment standards. This intervention addresses persistent price wars and payment delays within China's automotive sector, reflecting government concerns about supply chain stability as domestic vehicle sales continue to weaken.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3374715/beijing-keeps-tight-oversight-carmaker-payment-cycles-domestic-sales-slump",
+          "published": "Tue, 17 Nov 2026 08:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "North Korea Confiscates Approximately 90% of Workers' Wages Abroad",
+          "brief": "Internal financial documents obtained by Radio Free Asia provide documentary evidence that North Korea retains approximately 90% of wages earned by its workers employed in China, with only minimal compensation reaching the workers themselves. This practice represents a significant revenue extraction mechanism for Pyongyang and underscores the economic exploitation inherent in North Korea's overseas labor export programs. The discovery has implications for understanding North Korea's foreign currency acquisition strategies and potential sanctions evasion activities.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
+          "published": "Sat, 14 Nov 2026 23:35:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines to advance South China Sea code of conduct at ASEAN",
+          "brief": "The Philippines is prioritizing finalization of a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to pressure from Filipino fishermen concerned about territorial waters and fishing rights. The diplomatic initiative reflects ongoing regional tensions over maritime claims and resource access in the disputed waters. Successfully concluding the code could establish multilateral frameworks for managing competing territorial interests among Southeast Asian nations and China.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
+          "published": "Fri, 13 Nov 2026 02:17:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China hosts 33rd APEC summit in Shenzhen amid diplomatic engagement",
+          "brief": "China is preparing to host the 33rd APEC summit in Shenzhen, its technology hub, with expectations of high-level diplomatic meetings involving major world leaders. The summit represents a significant platform for multilateral engagement in the Asia-Pacific region, potentially addressing trade, economic cooperation, and regional stability issues. The event signals China's continued efforts to maintain diplomatic channels and project soft power through regional economic forums.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
+          "published": "Wed, 18 Nov 2026 15:36:49 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Hong Kong leader pledges deeper Greater Bay Area integration",
+          "brief": "Hong Kong Chief Executive John Lee outlined strategies to deepen the territory's integration into the Greater Bay Area through infrastructure development, regulatory alignment, and cross-border mobility following an APEC meeting where he met with President Xi Jinping. The commitment signals continued alignment between Hong Kong and mainland China on regional development priorities and represents an acceleration of integration efforts that strengthen Beijing's control over the semi-autonomous territory.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375026/greater-bay-area-potential-enormous-john-lee-tells-xi-apec-ceo-summit",
+          "published": "Thu, 19 Nov 2026 06:32:02 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "China Leverages APEC Summit to Promote Greater Bay Area Development",
+          "brief": "Beijing is using the APEC Summit as a platform to demonstrate its vision for the \"Greater Bay Area,\" a regional economic and technology initiative centered on Shenzhen. The showcase reflects China's strategic focus on advancing technological innovation and economic integration as part of its next phase of growth. This regional development initiative represents a significant component of China's long-term economic strategy.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/with-apec-summit-beijing-showcases-its-vision-for-a-new-tech-megapolis/",
+          "published": "Thu, 19 Nov 2026 05:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "WIPO pledges expanded cooperation with Hong Kong on intellectual property",
+          "brief": "The UN's World Intellectual Property Organization (WIPO) has committed to deepening collaboration with Hong Kong on IP dispute resolution, education, and commercialization. The agreement supports Hong Kong's initiative to expand a pilot lending scheme backed by intangible assets, positioning the city as a regional hub for IP-related financial services. This cooperation reflects efforts to strengthen Hong Kong's role in international IP governance and finance.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375029/un-intellectual-property-agency-pledges-deeper-cooperation-hong-kong",
+          "published": "Thu, 19 Nov 2026 06:42:23 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 21,
+        "high_priority": 3,
+        "by_category": {
+          "military": 3,
+          "foreign_relations": 12,
+          "economy": 6
+        },
+        "updated_at": "2026-11-19T18:45:01.917371Z"
+      }
+    },
+    {
       "date": "2026-11-18",
       "articles": [
         {
@@ -21205,250 +21473,6 @@
           "economy": 5
         },
         "updated_at": "2026-08-22T10:13:13.939752Z"
-      }
-    },
-    {
-      "date": "2026-08-21",
-      "articles": [
-        {
-          "headline": "Hong Kong court convicts three Tiananmen activists under national security law",
-          "brief": "Three Hong Kong activists were convicted of inciting subversion of state power under China's National Security Law, which was imposed on the territory in 2020. The convictions demonstrate Beijing's continued enforcement of security legislation to suppress political dissent and commemoration of sensitive historical events. This reflects the significant erosion of Hong Kong's judicial independence and highlights growing restrictions on political expression.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 05:47:32 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Hong Kong court convicts Tiananmen vigil organizers of subversion",
-          "brief": "A Hong Kong court has found the disbanded alliance organizing Hong Kong's annual Tiananmen Square vigil and two former leaders guilty of inciting subversion under the national security law for advocating an end to one-party rule in mainland China. The ruling establishes that attempts to overthrow or undermine Communist Party leadership constitute subversion offenses, significantly broadening the scope of prosecutable speech and political advocacy in Hong Kong. This conviction reflects ongoing tensions between Beijing's national security enforcement and Hong Kong's traditionally protected civil liberties.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364747/hong-kong-tiananmen-vigil-organiser-former-leaders-guilty-inciting-subversion?utm_source=rss_feed",
-          "published": "Fri, 21 Aug 2026 02:28:28 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        },
-        {
-          "headline": "China enacts ethnic unity law with extraterritorial reach",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law with provisions that extend beyond its borders, potentially affecting individuals and organizations internationally. The law's extraterritorial scope raises significant implications for foreign relations and compliance obligations for entities operating across multiple jurisdictions. This represents an expansion of Beijing's regulatory authority beyond traditional geographic and legal boundaries.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Global Efforts to Reduce Chinese Rare Earth Dependence Face Strategic Challenges",
-          "brief": "Despite international attempts to diversify supply chains away from China's rare earth minerals, these hedging strategies have largely failed due to tensions between friendshoring initiatives and strategic autonomy goals. China maintains dominant control over critical mineral supplies, limiting the effectiveness of alternative sourcing arrangements. This continued dependence has significant implications for military supply chains and technological competition among major powers.",
-          "category": "economy",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/why-the-worlds-hedging-responses-to-chinas-rare-earth-dominance-have-failed/",
-          "published": "Fri, 21 Aug 2026 01:24:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China resumes demolition of Tibetan Buddhist monastery complex",
-          "brief": "Satellite imagery shows China has resumed demolition activities at a major Tibetan Buddhist academy, according to Radio Free Asia. Advocates claim the demolitions are intended to restrict religious freedom and expand the reach of China's ethnic unity policies in Tibet. The resumption of construction activity signals continued state pressure on Tibetan religious institutions and autonomous cultural practices.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
-          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
-          "brief": "According to an Alliance Futures Initiative report, China likely ran a coordinated diplomatic campaign to align Pacific nations with its 15th Five-Year Plan. The initiative represents Beijing's effort to extend influence over regional development priorities and economic alignment. This reflects China's broader strategy to shape geopolitical partnerships in strategically important regions.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
-          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Papua New Guinea closes Taiwan trade office, signals China alignment",
-          "brief": "Papua New Guinea has closed its Taiwan trade office, a move analysts describe as diplomatically unclear but likely to result in increased Chinese economic investment. The closure represents another diplomatic shift away from Taiwan toward Beijing and reflects China's expanding economic influence in the Pacific region. This development signals potential realignment of PNG's foreign relations and economic partnerships.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
-          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Praises Malaysia's PM for Taiwan-Supportive Statements",
-          "brief": "Malaysian Prime Minister Anwar Ibrahim made comments supportive of China's position on Taiwan, earning Beijing's praise. Taiwan responded with concern that the remarks could deter Taiwanese business investment in Malaysia, highlighting the economic implications of diplomatic positioning on the Taiwan issue.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/china-praises-malaysian-pm-anwar-ibrahim-for-supportive-comments-on-taiwan/",
-          "published": "Thu, 20 Aug 2026 10:19:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Taiwan deprioritizes Scarborough Shoal claim amid Philippines relations",
-          "brief": "Taiwan has softened its sovereignty claims over Scarborough Shoal following a Philippine UN filing, revealing tensions between maintaining territorial assertions and strengthening bilateral security partnerships. This strategic adjustment underscores Taiwan's prioritization of practical diplomatic relations with Manila over competing maritime claims in the South China Sea. The development highlights how regional powers are balancing sovereignty positions with pragmatic alliance-building amid broader geopolitical pressures.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
-          "published": "Tue, 11 Aug 2026 02:45:29 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Hong Kong court convicts three Tiananmen activists under national security law",
-          "brief": "Three activists were found guilty of inciting subversion of state power under Hong Kong's National Security Law, which was introduced by Beijing in 2020. The convictions demonstrate continued enforcement of the security legislation against political activists and commemoration of sensitive historical events. This reflects Beijing's expanding control over Hong Kong's legal system and suppression of political dissent.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 05:47:32 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Chinese court accepts liquidation petition for Evergrande's main unit",
-          "brief": "A Guangdong provincial court formally accepted a bankruptcy liquidation petition against Hengda Real Estate, the onshore unit of China Evergrande Group, marking the final stage of the country's largest property developer's collapse. The liquidation proceeding was initiated by Guangzhou Rural Commercial Bank's Huaxia branch, which met legal criteria under China's Enterprise Bankruptcy Law. This development signals the end of Evergrande's operations and represents a significant conclusion to China's most prominent real estate sector failure.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/companies/article/3364786/chinese-court-accepts-evergrande-liquidation-petition-1-day-after-founders-life-sentence?utm_source=rss_feed",
-          "published": "Fri, 21 Aug 2026 06:21:11 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China builds Southeast Asian digital infrastructure without establishing governance rules",
-          "brief": "China is investing heavily in digital infrastructure development across Southeast Asia but has not yet established the regulatory framework or standards that would allow it to control the digital order in the region. This represents a significant phase in Beijing's strategic expansion, as infrastructure dominance could eventually translate into political influence over regional digital governance. The current gap between infrastructure deployment and rule-setting presents both an opportunity and vulnerability for China's long-term digital hegemony objectives.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/china-isnt-winning-the-digital-order-yet/",
-          "published": "Fri, 21 Aug 2026 05:01:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Bangladesh navigates diplomatic balance among India, China, US post-election",
-          "brief": "Bangladesh faces strategic pressures from multiple powers following its first post-uprising election six months ago. The country's foreign policy positioning relative to India, China, and the United States carries implications for regional military alignments and security partnerships in South Asia.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/dhakas-balancing-act-post-election-bangladesh-between-india-china-and-the-us/",
-          "published": "Thu, 20 Aug 2026 23:13:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China's Foreign Minister Discusses Beijing's Foreign Policy Priorities",
-          "brief": "China's Minister of Foreign Affairs Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and US-China relations. The forum provided a platform for direct dialogue on bilateral and regional strategic issues between senior Chinese diplomatic leadership and American analysts.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "US Designates American Held in China as Wrongfully Detained",
-          "brief": "The U.S. State Department designated Min Zin, an American heading a Myanmar-focused think tank in Thailand, as wrongfully detained by China, which accuses him of espionage and endangering national security. The designation occurs ahead of a scheduled Xi Jinping visit and signals U.S. concern over detention practices. This move may complicate diplomatic engagement and reflects ongoing tensions over human rights and detention policies between Washington and Beijing.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/ahead-of-xi-visit-us-designates-american-held-in-china-as-wrongfully-detained/",
-          "published": "Fri, 21 Aug 2026 09:09:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Opportunities",
-          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. military focus on regional engagement and strategic positioning in the Asia-Pacific.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
-          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "Congress Leadership Required for Long-Term U.S.-China Competition",
-          "brief": "The article emphasizes that sustained Congressional engagement is necessary to effectively compete with China strategically. The piece underscores that U.S. competitiveness requires consistent, coordinated government leadership across both branches and timeframes that extend beyond single administrations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
-          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Economist Eichengreen discusses China's preparation for dollar decline",
-          "brief": "Leading economist Barry Eichengreen addresses how China should prepare for the potential end of dollar dominance in the international monetary system. The analysis suggests current de-dollarization discussions represent a meaningfully different trajectory than historical episodes, with implications for global economic restructuring.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/economy/china-economy/article/3364644/top-economist-how-china-should-prep-dollar-eras-end?utm_source=rss_feed",
-          "published": "Thu, 20 Aug 2026 05:03:28 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "HKEX gold futures hit record deliveries amid US trade restrictions",
-          "brief": "Hong Kong Exchanges and Clearing achieved record-breaking physical gold deliveries and trading volumes in its US dollar-denominated gold futures contract, reflecting increased activity as US sanctions reshape global trade flows. The surge indicates Hong Kong's strategic positioning as an alternative precious metals trading hub amid widening American trade restrictions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364790/hkex-gold-futures-smash-delivery-record-us-sanctions-reshape-trade?utm_source=rss_feed",
-          "published": "Fri, 21 Aug 2026 08:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 7,
-        "articles_total": 19,
-        "high_priority": 4,
-        "by_category": {
-          "foreign_relations": 13,
-          "economy": 5,
-          "military": 1
-        },
-        "updated_at": "2026-08-21T10:19:57.747649Z"
       }
     }
   ]
