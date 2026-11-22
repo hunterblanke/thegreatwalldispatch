@@ -1,6 +1,250 @@
 {
   "entries": [
     {
+      "date": "2026-11-21",
+      "articles": [
+        {
+          "headline": "China Signals Openness to Nuclear Arms Control Dialogue",
+          "brief": "China has expressed reluctance to engage in a nuclear arms race with the United States, suggesting diplomatic channels remain open for arms control negotiations. The statement indicates potential opportunity for bilateral agreement to manage nuclear competition and reduce escalation risks. De-escalation in nuclear posturing could have significant implications for regional security dynamics and global strategic stability.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+          "published": "Mon, 16 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US-sanctioned Chinese supercomputing center obtains Nvidia AI chips",
+          "brief": "Despite US export controls, the Jinan Supercomputing Center has continued acquiring advanced Nvidia AI products, suggesting enforcement gaps in technology restrictions. This development indicates Chinese research facilities are circumventing sanctions, potentially undermining US efforts to limit Beijing's access to cutting-edge computing capabilities for AI and scientific applications.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
+          "published": "Fri, 13 Nov 2026 00:41:32 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Xi Navigates Diplomatic Engagement with Putin and Trump",
+          "brief": "Chinese leader Xi Jinping is engaging in a significant diplomatic moment involving meetings with Putin and Trump, though notable discussion limitations exist. The engagement presents both diplomatic opportunities and strategic constraints, with certain topics appearing off-limits in Xi's bilateral discussions. This positioning reflects China's complex balancing act between major powers amid ongoing geopolitical tensions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Laos could influence South China Sea conduct negotiations",
+          "brief": "ASEAN meetings concluded without reaching agreement on a South China Sea code of conduct, with analysts noting that landlocked Laos may hold disproportionate influence in future negotiations. Laos's potential pivotal role reflects deeper divisions within ASEAN over maritime governance and suggests that progress on this critical regional issue may depend on consensus-building among non-claimant states.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/18/asean-south-china-sea-code-of-conduct/",
+          "published": "Wed, 18 Nov 2026 03:34:47 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Philippines to advance South China Sea code of conduct negotiations",
+          "brief": "The Philippines plans to finalize a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to concerns from Filipino fishermen about territorial waters access. The initiative reflects Manila's diplomatic efforts to establish multilateral agreements governing disputed maritime territories. Successfully concluding such a code could establish clearer rules for regional resource access and reduce tensions among competing claimants.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
+          "published": "Fri, 13 Nov 2026 02:17:07 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "PNG calls for restraint as China and US dispute escalates",
+          "brief": "Beijing and Washington have made competing statements regarding a disputed shell incident in Papua New Guinea, with local observers expressing concern that both powers are undermining PNG's sovereignty and authority. The incident highlights tensions between major powers over regional influence and their tendency to bypass local governance structures. This dynamic raises questions about China and the US's respect for smaller nations' jurisdictional autonomy in their respective spheres of influence.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/",
+          "published": "Thu, 12 Nov 2026 19:30:15 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Trump, Xi, Putin discuss nuclear risk reduction at Shenzhen meeting",
+          "brief": "A trilateral meeting between Trump, Xi Jinping, and Putin in Shenzhen produced a consensus on nuclear risk reduction and non-use protocols. Pakistan views this agreement as validation of its longstanding concerns about nuclear confrontation risks between major powers. The agreement potentially signals a shift toward de-escalation mechanisms among nuclear-armed states.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/what-the-trump-xi-putin-meeting-at-shenzhen-means-for-pakistan/",
+          "published": "Fri, 20 Nov 2026 19:29:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China hosts 33rd APEC summit in Shenzhen amid leadership meetings",
+          "brief": "China's technology hub Shenzhen is preparing to host the 33rd APEC summit, with expectations of high-level meetings between Trump, Xi, and Putin. The event represents a significant diplomatic engagement opportunity for China to demonstrate regional leadership and facilitate multilateral economic discussions. The summit's timing and high-profile attendees suggest efforts to shape Asia-Pacific economic cooperation and bilateral relations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
+          "published": "Wed, 18 Nov 2026 15:36:49 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade War Pause",
+          "brief": "The U.S.-China trade tensions have temporarily eased ahead of Trump and Xi's fourth meeting at the Asia-Pacific Economic Cooperation summit, with both sides agreeing to \"constructive strategic stability.\" However, underlying cracks in the d\u00e9tente are emerging, suggesting the respite may be fragile and subject to renewed friction.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
+          "published": "Tue, 17 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China, US, Russia issue joint peace declaration at APEC summit",
+          "brief": "China, the US, and Russia issued a joint peace declaration at the Asia-Pacific Economic Cooperation summit, signaling agreement on conflict resolution and promoting economic stability. Hong Kong's commerce chief characterized the development positively but urged cautious optimism, noting that substantive economic and geopolitical challenges require sustained effort beyond symbolic declarations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
+          "published": "Sat, 21 Nov 2026 03:55:19 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Chinese Companies Expand Manufacturing Investment Across Africa",
+          "brief": "Chinese firms are significantly increasing manufacturing and processing investments throughout Africa, potentially positioning the continent as a new production hub. The sustainability of these investments depends on whether Chinese companies establish local supply chains and develop African engineering talent, which could have lasting economic implications for the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/china-is-investing-in-africas-factory-moment-will-it-stay/",
+          "published": "Fri, 20 Nov 2026 23:43:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China's Unilateral Dam Construction Raises Downstream Nation Concerns",
+          "brief": "China is constructing major infrastructure projects, including mega-dams in Tibet, without consulting downstream nations across Asian river basins. This unilateral approach creates potential water security and resource management risks for neighboring countries dependent on these waterways. The pattern suggests a need for downstream states to coordinate diplomatic responses to protect their interests.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/chinas-downstream-nations-need-a-collective-voice/",
+          "published": "Fri, 20 Nov 2026 22:59:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Chinese overseas financial investments projected to double to $10 trillion by 2035",
+          "brief": "Morgan Stanley projects Chinese households' overseas financial investments could exceed $10 trillion by 2035, driven by sustained diversification appetite despite Beijing's regulatory constraints. The anticipated capital outflow would significantly benefit international financial hubs, particularly Hong Kong's securities market and Western banking institutions including HSBC and Standard Chartered, indicating continued Chinese investor engagement with global markets.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3374811/chinese-investors-overseas-holdings-double-2035-morgan-stanley",
+          "published": "Wed, 18 Nov 2026 01:00:11 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "North Korea Confiscates Approximately 90% of Workers' Wages Earned in China",
+          "brief": "Internal financial documents obtained by Radio Free Asia provide documented evidence that the North Korean government systematically retains approximately 90% of wages earned by its citizens working in China, with workers receiving only minimal compensation. This practice represents a significant revenue stream for Pyongyang and illustrates the regime's exploitative control over its labor force abroad. The disclosure underscores concerns about North Korean human rights practices and the regime's reliance on external income generation.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
+          "published": "Sat, 14 Nov 2026 23:35:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Switzerland and China sign upgraded free-trade agreement eliminating tariffs",
+          "brief": "Switzerland and mainland China have signed an upgraded bilateral free-trade agreement that eliminates tariffs on nearly all Swiss exports, following presidential-level talks last month. Swiss officials expect the agreement to benefit Hong Kong's finance, logistics, and legal sectors while facilitating increased research and development collaboration in China's Northern Metropolis development initiative. The deal represents Switzerland's effort to deepen economic and technological ties with China amid broader European engagement with Beijing.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
+          "published": "Sat, 21 Nov 2026 05:08:48 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Hong Kong commits $20M to AIIB fund, hosts new bank office",
+          "brief": "Hong Kong has pledged an additional US$20 million to a special fund of the Asian Infrastructure Investment Bank (AIIB) following an agreement to establish an AIIB office in the city. Hong Kong officials characterized the arrangement as validation of the territory's status as an international financial center. This development represents China's expanding influence over regional financial infrastructure through AIIB operations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375343/hong-kong-pledges-extra-us20m-aiib-special-fund-bank-sets-city-office",
+          "published": "Sat, 21 Nov 2026 15:01:14 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Chinese EV Technology Advances Position Beijing for North American Market",
+          "brief": "Prime Minister Mark Carney visited Shenzhen's electric vehicle hub, highlighting China's leading role in EV manufacturing and technology. The visit suggests potential Chinese EV exports to Canada, reflecting Beijing's expanding influence in North American automotive markets and energy transition sectors.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
+          "published": "Sat, 21 Nov 2026 11:00:08 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Hong Kong leader mobilizes voters for Election Committee poll",
+          "brief": "Hong Kong Chief Executive John Lee Ka-chiu has launched a voter mobilization campaign ahead of Sunday's Election Committee election, with Beijing reportedly expecting higher turnout than 2021. The push aims to increase the legitimacy of the Election Committee body, which selects Hong Kong's chief executive, by narrowing the perception gap between the institution and the general public.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3375285/tycoons-campaign-streets-hong-kong-election-committee-vote-nears",
+          "published": "Sat, 21 Nov 2026 01:00:11 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Beijing official visits CUHK-Shenzhen, emphasizes Greater Bay Area integration",
+          "brief": "Xia Baolong, director of the Hong Kong and Macau Affairs Office, visited the Shenzhen campus of Chinese University of Hong Kong to encourage the institution to leverage its strengths for Greater Bay Area development. The visit reflects Beijing's continued emphasis on institutional integration and regional economic cooperation between Hong Kong and mainland China.",
+          "category": "foreign_relations",
+          "severity": "low",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3375276/beijings-hong-kong-point-man-hopes-cuhk-shenzhen-uses-unique-strengths-gba-growth",
+          "published": "Fri, 20 Nov 2026 13:14:15 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 19,
+        "high_priority": 2,
+        "by_category": {
+          "military": 2,
+          "foreign_relations": 13,
+          "economy": 4
+        },
+        "updated_at": "2026-11-21T17:01:05.490256Z"
+      }
+    },
+    {
       "date": "2026-11-20",
       "articles": [
         {
@@ -21253,214 +21497,6 @@
           "economy": 6
         },
         "updated_at": "2026-08-24T10:28:21.217108Z"
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "articles": [
-        {
-          "headline": "Hong Kong activists convicted under national security law",
-          "brief": "Three Hong Kong activists commemorating the 1989 Tiananmen Square incident were convicted of inciting subversion of state power under China's 2020 National Security Law. The convictions demonstrate Beijing's continued enforcement of security legislation to suppress politically sensitive commemorations and activism in Hong Kong. This reflects the ongoing erosion of Hong Kong's autonomous governance and potential chilling effects on civil liberties and freedom of expression.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 21 Aug 2026 05:47:32 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "China resumes demolition of Tibetan Buddhist monastery complex",
-          "brief": "Satellite imagery shows Chinese authorities have resumed demolition activities at a major Tibetan Buddhist academy, according to Radio Free Asia reporting. Advocates contend the destruction targets monks' residences and restricts religious freedom as part of broader ethnic unity policies in Tibet. The action reflects ongoing tensions between Beijing's governance objectives and international concerns over religious autonomy in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
-          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Enacts Ethnic Unity Law with Extraterritorial Reach",
-          "brief": "China has passed an 'ethnic unity and progress promotion' law that asserts jurisdiction beyond its borders, potentially affecting overseas individuals and organizations. The law's extraterritorial scope represents an expansion of Beijing's regulatory authority and raises significant implications for international relations and governance norms. This development suggests China is seeking to enforce domestic policies on ethnic and social matters globally.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/07/24/explainer-china-ethnic-unity-law-tibet-uyghur/",
-          "published": "Fri, 24 Jul 2026 20:33:19 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
-          "brief": "According to a report by the Alliance Futures Initiative, China likely executed a coordinated diplomatic initiative to align Pacific island nations with its 15th Five-Year Plan (2026-2030). The campaign represents Beijing's strategic effort to expand regional alignment with its economic and development priorities, potentially increasing Chinese influence over Pacific policy and economic partnerships.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
-          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan leverages LNG review after Papua New Guinea diplomatic loss",
-          "brief": "Taiwan is employing economic tools, including a liquefied natural gas review, in response to Papua New Guinea's closure of its representative office, reflecting Beijing's continued diplomatic pressure in the Indo-Pacific region. Analysts suggest this represents a gradual shift in Taiwan's strategy to use economic leverage, though its overall diplomatic influence remains constrained. The incident underscores Taiwan's vulnerability to further diplomatic losses as China expands its engagement in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "PNG closes Taiwan trade office amid deepening China economic ties",
-          "brief": "Papua New Guinea has closed its Taiwan trade office, a move analysts characterize as diplomatically ambiguous but likely indicative of expanding economic engagement with China. The closure suggests PNG anticipates significant Chinese financial investment and reflects China's continued efforts to isolate Taiwan diplomatically in the Indo-Pacific region. This development underscores Beijing's strategic use of economic incentives to reshape diplomatic alignments among regional partners.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
-          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Wall Street access to China's top leadership diminishes amid market opening",
-          "brief": "High-profile American financiers who historically enjoyed rare direct access to China's senior leadership are experiencing significantly fewer private meetings, despite maintaining commercial ties and Beijing's gradual capital market liberalization. This shift suggests China may be recalibrating its engagement with Western financial institutions even as it expands market access, potentially indicating evolving strategic priorities regarding foreign capital involvement.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364838/wall-street-helped-build-modern-china-it-now-being-cast-aside?utm_source=rss_feed",
-          "published": "Sun, 23 Aug 2026 10:00:08 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Congress Urged to Develop Long-Term China Competition Strategy",
-          "brief": "The article calls for Congressional leadership in formulating a sustained strategic approach to compete with China across economic and technological domains. The emphasis on durability suggests concerns about inconsistent or reactive U.S. policy responses to Chinese economic competition. A coherent long-term strategy is framed as essential for maintaining competitive advantage against Beijing.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
-          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Leverages Rare-Earth Dominance as Strategic Economic Tool",
-          "brief": "China has consolidated control over rare-earth element production and supply chains, establishing a dominant position in a critical resource sector. This dominance provides Beijing with significant leverage in international negotiations and technological competition, as rare earths are essential for electronics, defense systems, and renewable energy technologies. The strategic implications extend to both economic and geopolitical dimensions of great power competition.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
-          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "U.S. Pacific Command Discusses Indo-Asia-Pacific Strategic Opportunities",
-          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. military focus on regional engagement and strategic positioning in a critical geopolitical area.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
-          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "China's Myanmar Influence: Scholar Arrest Signals Pressure on Scrutiny",
-          "brief": "The arrest of Burmese-American academic U Min Zin underscores China's efforts to limit external scrutiny of its political and economic role in Myanmar. This incident suggests Beijing is willing to leverage its influence over Myanmar's government to suppress criticism and oversight of Chinese interests. The case demonstrates potential constraints on independent scholarship and journalism regarding China's regional activities.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/how-an-academic-became-collateral-damage-to-chinas-interests-in-myanmar/",
-          "published": "Fri, 21 Aug 2026 21:43:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Nepal Cancels Tibet Conference Due to Political Sensitivities",
-          "brief": "Nepal cancelled an in-person Tibet conference, reflecting both Chinese pressure and Kathmandu's limited capacity to manage politically sensitive events without diplomatic complications. The cancellation demonstrates Nepal's vulnerability to external pressure on Tibet-related issues and its institutional constraints in hosting contentious discussions. This incident underscores China's continued influence over Nepal's domestic political space and event management.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/nepals-tibet-conference-controversy-is-about-more-than-chinese-pressure/",
-          "published": "Fri, 21 Aug 2026 20:21:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "HKEX Gold Futures Hit Record Deliveries Amid US Trade Restrictions",
-          "brief": "Hong Kong Exchanges and Clearing reported record-breaking physical gold deliveries and trading volume in its US dollar-denominated gold futures contract, reflecting increased activity as US sanctions reshape global trade patterns. The development underscores Hong Kong's strategic positioning as an alternative precious metals trading hub amid widening American trade restrictions. This shift suggests a potential reorientation of commodity trading flows away from traditional Western markets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364790/hkex-gold-futures-smash-delivery-record-us-sanctions-reshape-trade?utm_source=rss_feed",
-          "published": "Fri, 21 Aug 2026 08:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China fines Guotai Haitong Securities subsidiary $7.8M for capital flow violations",
-          "brief": "Chinese regulators imposed penalties totaling 52.5 million yuan on Guotai Haitong Securities Asset Management for breaching foreign-exchange rules in its offshore investment operations. The action reflects Beijing's intensifying oversight of cross-border capital flows and enforcement of regulations governing Qualified Domestic Institutional Investor programs. This enforcement signals continued regulatory tightening on financial institutions' international operations.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown?utm_source=rss_feed",
-          "published": "Fri, 21 Aug 2026 05:00:06 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Prominent economist discusses China's preparation for dollar decline",
-          "brief": "Leading monetary systems expert Barry Eichengreen examines current de-dollarization trends and argues they differ meaningfully from historical episodes. The analysis suggests China should prepare for potential restructuring of the international monetary system as the dollar's dominance faces challenges.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/economy/china-economy/article/3364644/top-economist-how-china-should-prep-dollar-eras-end?utm_source=rss_feed",
-          "published": "Thu, 20 Aug 2026 05:03:28 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Criminal Networks Exploit Gaps in Chinese Economic System",
-          "brief": "Chinese economic structures create opportunities for criminal organizations to operate with limited enforcement impediments. Beijing's regulatory constraints or unwillingness to implement comprehensive crackdowns enable illicit financial activities to persist within the economy. This situation presents ongoing risks to financial integrity and suggests potential limitations in central government control mechanisms.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy",
-          "published": "Fri, 21 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 16,
-        "high_priority": 1,
-        "by_category": {
-          "foreign_relations": 8,
-          "economy": 7,
-          "military": 1
-        },
-        "updated_at": "2026-08-23T10:13:30.468877Z"
       }
     }
   ]

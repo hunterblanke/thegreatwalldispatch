@@ -1,22 +1,46 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "metrics": {
-    "sources_scanned": 7,
-    "articles_total": 19,
+    "sources_scanned": 8,
+    "articles_total": 16,
     "high_priority": 2,
     "by_category": {
-      "military": 2,
-      "foreign_relations": 13,
-      "economy": 4
+      "military": 4,
+      "foreign_relations": 9,
+      "economy": 3
     },
-    "updated_at": "2026-11-21T17:01:05.490256Z"
+    "updated_at": "2026-11-22T17:29:28.356310Z"
   },
   "articles": [
     {
-      "headline": "China Signals Openness to Nuclear Arms Control Dialogue",
-      "brief": "China has expressed reluctance to engage in a nuclear arms race with the United States, suggesting diplomatic channels remain open for arms control negotiations. The statement indicates potential opportunity for bilateral agreement to manage nuclear competition and reduce escalation risks. De-escalation in nuclear posturing could have significant implications for regional security dynamics and global strategic stability.",
+      "headline": "China's Intelligence Agency Targets Advanced A.I. Chip Acquisition",
+      "brief": "China's espionage apparatus has been conducting a sustained campaign to obtain advanced artificial intelligence chips and gather sector intelligence, according to U.S. officials. This effort predates recent scrutiny of Nvidia chip sales and indicates a long-term strategic focus on closing technological gaps in AI capabilities. The campaign suggests China views AI chip access as critical to national competitiveness and security interests.",
       "category": "military",
       "severity": "high",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+      "published": "Sun, 22 Nov 2026 11:03:04 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "UN Unable to Establish Binding Lethal Autonomous Weapons Restrictions",
+      "brief": "The United Nations failed to reach agreement on binding regulations for lethal autonomous weapons systems, with major military powers including the United States and Russia blocking restrictive measures. The body plans to continue negotiations on the issue. The failure to establish international constraints on autonomous weapons represents a significant gap in global arms control architecture amid advancing military technology.",
+      "category": "military",
+      "severity": "high",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+      "published": "Sat, 21 Nov 2026 13:35:19 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "China Signals Opposition to Nuclear Arms Escalation with US",
+      "brief": "China has stated it does not seek a nuclear arms race with the United States, suggesting openness to preventing weapons escalation. The statement implies potential diplomatic room for bilateral negotiation on nuclear policy, though the underlying military competition remains significant. This positioning could affect broader US-China strategic calculations regarding defense spending and arms control agreements.",
+      "category": "military",
+      "severity": "medium",
       "sources_used": [
         "FA RSS"
       ],
@@ -25,56 +49,20 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "US-sanctioned Chinese supercomputing center obtains Nvidia AI chips",
-      "brief": "Despite US export controls, the Jinan Supercomputing Center has continued acquiring advanced Nvidia AI products, suggesting enforcement gaps in technology restrictions. This development indicates Chinese research facilities are circumventing sanctions, potentially undermining US efforts to limit Beijing's access to cutting-edge computing capabilities for AI and scientific applications.",
-      "category": "foreign_relations",
-      "severity": "high",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/",
-      "published": "Fri, 13 Nov 2026 00:41:32 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Xi Navigates Diplomatic Engagement with Putin and Trump",
-      "brief": "Chinese leader Xi Jinping is engaging in a significant diplomatic moment involving meetings with Putin and Trump, though notable discussion limitations exist. The engagement presents both diplomatic opportunities and strategic constraints, with certain topics appearing off-limits in Xi's bilateral discussions. This positioning reflects China's complex balancing act between major powers amid ongoing geopolitical tensions.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Nov 2026 04:42:52 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "Laos could influence South China Sea conduct negotiations",
-      "brief": "ASEAN meetings concluded without reaching agreement on a South China Sea code of conduct, with analysts noting that landlocked Laos may hold disproportionate influence in future negotiations. Laos's potential pivotal role reflects deeper divisions within ASEAN over maritime governance and suggests that progress on this critical regional issue may depend on consensus-building among non-claimant states.",
+      "headline": "Trump, Xi, Putin trilateral meeting produces minimal concrete outcomes",
+      "brief": "Leaders of the United States, China, and Russia convened to discuss nuclear tensions, AI competition, and Taiwan's political status, but the meeting resulted in no significant policy shifts or agreements. Analysts assess the gathering as largely symbolic, with the status quo remaining unchanged across major geopolitical flashpoints. The lack of substantive progress reflects the deep structural divisions between the three powers on critical strategic issues.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/18/asean-south-china-sea-code-of-conduct/",
-      "published": "Wed, 18 Nov 2026 03:34:47 +0000",
+      "original_link": "https://rfa.org/english/china/2026/11/19/trump-xi-putin-apec-summit/",
+      "published": "Thu, 19 Nov 2026 15:07:24 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Philippines to advance South China Sea code of conduct negotiations",
-      "brief": "The Philippines plans to finalize a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to concerns from Filipino fishermen about territorial waters access. The initiative reflects Manila's diplomatic efforts to establish multilateral agreements governing disputed maritime territories. Successfully concluding such a code could establish clearer rules for regional resource access and reduce tensions among competing claimants.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
-      "published": "Fri, 13 Nov 2026 02:17:07 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "PNG calls for restraint as China and US dispute escalates",
-      "brief": "Beijing and Washington have made competing statements regarding a disputed shell incident in Papua New Guinea, with local observers expressing concern that both powers are undermining PNG's sovereignty and authority. The incident highlights tensions between major powers over regional influence and their tendency to bypass local governance structures. This dynamic raises questions about China and the US's respect for smaller nations' jurisdictional autonomy in their respective spheres of influence.",
+      "headline": "PNG calls for China, US restraint over disputed shell incident",
+      "brief": "Papua New Guinea observers have called for both China and the United States to exercise restraint following statements regarding a disputed 'wine bottle' shell, citing concerns that great power positioning undermines PNG's sovereign authority. The incident highlights competing interests in the region and the challenge smaller nations face in maintaining jurisdictional control when major powers make unilateral declarations. The dispute underscores ongoing tensions between Beijing and Washington over influence in the Pacific.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -85,160 +73,136 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Trump, Xi, Putin discuss nuclear risk reduction at Shenzhen meeting",
-      "brief": "A trilateral meeting between Trump, Xi Jinping, and Putin in Shenzhen produced a consensus on nuclear risk reduction and non-use protocols. Pakistan views this agreement as validation of its longstanding concerns about nuclear confrontation risks between major powers. The agreement potentially signals a shift toward de-escalation mechanisms among nuclear-armed states.",
-      "category": "military",
+      "headline": "Xi Jinping navigates diplomatic engagement amid selective dialogue constraints",
+      "brief": "China's leader Xi Jinping is engaging in a significant diplomatic moment involving meetings with Putin and Trump, though certain topics appear to be excluded from discussion. The selective nature of these discussions suggests strategic limitations in China's diplomatic positioning. This reflects ongoing tensions and divergent interests among the three major powers.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "BBC News"
+      ],
+      "original_link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+      "raw_source": "BBC News"
+    },
+    {
+      "headline": "Major Asian Summits Feature Significant Bilateral and Multilateral Meetings",
+      "brief": "Recent Asian summitry in Manila and Shenzhen included a Quad leaders meeting and a trilateral engagement involving Putin, Trump, and Xi. These high-level diplomatic gatherings represent significant strategic positioning among major powers in the Asia-Pacific region, with key negotiations occurring in bilateral and small-group formats rather than formal multilateral settings.",
+      "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/11/what-the-trump-xi-putin-meeting-at-shenzhen-means-for-pakistan/",
-      "published": "Fri, 20 Nov 2026 19:29:00 +0900",
+      "original_link": "https://thediplomat.com/2026/11/from-asean-to-apec-highlights-from-a-busy-week-of-asian-summitry/",
+      "published": "Fri, 20 Nov 2026 22:21:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China hosts 33rd APEC summit in Shenzhen amid leadership meetings",
-      "brief": "China's technology hub Shenzhen is preparing to host the 33rd APEC summit, with expectations of high-level meetings between Trump, Xi, and Putin. The event represents a significant diplomatic engagement opportunity for China to demonstrate regional leadership and facilitate multilateral economic discussions. The summit's timing and high-profile attendees suggest efforts to shape Asia-Pacific economic cooperation and bilateral relations.",
+      "headline": "Taiwan closes Port Moresby office amid PNG-China relations shift",
+      "brief": "Taiwan has withdrawn its office from Papua New Guinea, where analysts note PNG has the legal authority to close Taiwan's diplomatic presence. The move reflects PNG's potential pivot toward closer Chinese engagement, with analysts debating the trade-offs between Beijing's economic incentives and the costs of reducing Taiwan ties.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
-      "published": "Wed, 18 Nov 2026 15:36:49 +0000",
+      "original_link": "https://rfa.org/english/pacific/2026/11/20/taiwan-representative-office-png-closure/",
+      "published": "Fri, 20 Nov 2026 07:20:44 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade War Pause",
-      "brief": "The U.S.-China trade tensions have temporarily eased ahead of Trump and Xi's fourth meeting at the Asia-Pacific Economic Cooperation summit, with both sides agreeing to \"constructive strategic stability.\" However, underlying cracks in the d\u00e9tente are emerging, suggesting the respite may be fragile and subject to renewed friction.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
-      "published": "Tue, 17 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "China, US, Russia issue joint peace declaration at APEC summit",
-      "brief": "China, the US, and Russia issued a joint peace declaration at the Asia-Pacific Economic Cooperation summit, signaling agreement on conflict resolution and promoting economic stability. Hong Kong's commerce chief characterized the development positively but urged cautious optimism, noting that substantive economic and geopolitical challenges require sustained effort beyond symbolic declarations.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375308/hong-kong-commerce-chief-cautiously-optimistic-after-china-us-russia-peace-declaration",
-      "published": "Sat, 21 Nov 2026 03:55:19 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Chinese Companies Expand Manufacturing Investment Across Africa",
-      "brief": "Chinese firms are significantly increasing manufacturing and processing investments throughout Africa, potentially positioning the continent as a new production hub. The sustainability of these investments depends on whether Chinese companies establish local supply chains and develop African engineering talent, which could have lasting economic implications for the region.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/china-is-investing-in-africas-factory-moment-will-it-stay/",
-      "published": "Fri, 20 Nov 2026 23:43:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "China's Unilateral Dam Construction Raises Downstream Nation Concerns",
-      "brief": "China is constructing major infrastructure projects, including mega-dams in Tibet, without consulting downstream nations across Asian river basins. This unilateral approach creates potential water security and resource management risks for neighboring countries dependent on these waterways. The pattern suggests a need for downstream states to coordinate diplomatic responses to protect their interests.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "The Diplomat"
-      ],
-      "original_link": "https://thediplomat.com/2026/11/chinas-downstream-nations-need-a-collective-voice/",
-      "published": "Fri, 20 Nov 2026 22:59:00 +0900",
-      "raw_source": "The Diplomat"
-    },
-    {
-      "headline": "Chinese overseas financial investments projected to double to $10 trillion by 2035",
-      "brief": "Morgan Stanley projects Chinese households' overseas financial investments could exceed $10 trillion by 2035, driven by sustained diversification appetite despite Beijing's regulatory constraints. The anticipated capital outflow would significantly benefit international financial hubs, particularly Hong Kong's securities market and Western banking institutions including HSBC and Standard Chartered, indicating continued Chinese investor engagement with global markets.",
+      "headline": "US chip restrictions threaten Southeast Asia M&A growth amid China slowdown",
+      "brief": "US export restrictions on artificial intelligence chips may dampen valuations in Southeast Asia's surging mergers and acquisitions market, which has benefited from capital fleeing China's weaker economy. China's M&A activity reached only $225 billion through August, significantly below 2025's full-year total of $484 billion, indicating a substantial shift in regional investment patterns. The convergence of these factors suggests potential headwinds for deal-making across the region.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
         "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/banking-finance/article/3374811/chinese-investors-overseas-holdings-double-2035-morgan-stanley",
-      "published": "Wed, 18 Nov 2026 01:00:11 +0000",
+      "original_link": "https://www.scmp.com/business/banking-finance/article/3375015/new-us-chip-restrictions-could-cool-southeast-asias-booming-ma-market-bankers-warn",
+      "published": "Thu, 19 Nov 2026 06:00:06 +0000",
       "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "North Korea Confiscates Approximately 90% of Workers' Wages Earned in China",
-      "brief": "Internal financial documents obtained by Radio Free Asia provide documented evidence that the North Korean government systematically retains approximately 90% of wages earned by its citizens working in China, with workers receiving only minimal compensation. This practice represents a significant revenue stream for Pyongyang and illustrates the regime's exploitative control over its labor force abroad. The disclosure underscores concerns about North Korean human rights practices and the regime's reliance on external income generation.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
-      "published": "Sat, 14 Nov 2026 23:35:35 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "Switzerland and China sign upgraded free-trade agreement eliminating tariffs",
-      "brief": "Switzerland and mainland China have signed an upgraded bilateral free-trade agreement that eliminates tariffs on nearly all Swiss exports, following presidential-level talks last month. Swiss officials expect the agreement to benefit Hong Kong's finance, logistics, and legal sectors while facilitating increased research and development collaboration in China's Northern Metropolis development initiative. The deal represents Switzerland's effort to deepen economic and technological ties with China amid broader European engagement with Beijing.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375311/deal-duty-free-swiss-exports-china-boon-hong-kong-top-diplomat-says",
-      "published": "Sat, 21 Nov 2026 05:08:48 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Hong Kong commits $20M to AIIB fund, hosts new bank office",
-      "brief": "Hong Kong has pledged an additional US$20 million to a special fund of the Asian Infrastructure Investment Bank (AIIB) following an agreement to establish an AIIB office in the city. Hong Kong officials characterized the arrangement as validation of the territory's status as an international financial center. This development represents China's expanding influence over regional financial infrastructure through AIIB operations.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Hong Kong - South China Morning Post"
-      ],
-      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375343/hong-kong-pledges-extra-us20m-aiib-special-fund-bank-sets-city-office",
-      "published": "Sat, 21 Nov 2026 15:01:14 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
-    },
-    {
-      "headline": "Chinese EV Technology Advances Position Beijing for North American Market",
-      "brief": "Prime Minister Mark Carney visited Shenzhen's electric vehicle hub, highlighting China's leading role in EV manufacturing and technology. The visit suggests potential Chinese EV exports to Canada, reflecting Beijing's expanding influence in North American automotive markets and energy transition sectors.",
+      "headline": "Financial Street Securities chairman detained in mainland anti-corruption probe",
+      "brief": "Zhu Yanhui, chairman of Hong Kong-listed Financial Street Securities, has been placed under investigation and detained by mainland Chinese authorities. The detention is part of an ongoing anti-corruption campaign targeting senior financial executives. This development may signal potential governance concerns at the brokerage and could impact investor confidence in mainland financial institutions.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "NYT > World News"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.nytimes.com/2026/11/21/world/canada/carney-china-electric-vehicles-tariffs.html",
-      "published": "Sat, 21 Nov 2026 11:00:08 +0000",
-      "raw_source": "NYT > World News"
+      "original_link": "https://www.scmp.com/business/china-business/article/3375144/financial-street-securities-says-chairman-detained-and-under-investigation-mainland",
+      "published": "Fri, 20 Nov 2026 02:14:01 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     },
     {
-      "headline": "Hong Kong leader mobilizes voters for Election Committee poll",
-      "brief": "Hong Kong Chief Executive John Lee Ka-chiu has launched a voter mobilization campaign ahead of Sunday's Election Committee election, with Beijing reportedly expecting higher turnout than 2021. The push aims to increase the legitimacy of the Election Committee body, which selects Hong Kong's chief executive, by narrowing the perception gap between the institution and the general public.",
+      "headline": "China Advances Internet Sovereignty as Global Internet Governance Model",
+      "brief": "China is promoting 'Internet sovereignty' as a foundational concept for global Internet governance, challenging existing international norms around digital access and control. This initiative has significant implications for international cybersecurity, information control, and the balance of power in cyberspace governance. The concept represents China's effort to establish state-centric authority over digital infrastructure and content within national borders.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Taiwan's local elections signal early positioning for 2028 presidential race",
+      "brief": "Taiwan is holding local elections with several competitive races that could influence the 2028 presidential election landscape. The outcomes may reshape political dynamics and provide indicators of voter sentiment on cross-strait relations and security issues heading into the next presidential cycle.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/taiwans-local-elections-the-races-to-watch/",
+      "published": "Sat, 21 Nov 2026 00:35:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China's Population Data Manipulation Complicates Long-Term Planning",
+      "brief": "China's government has relied on falsified population statistics, making it increasingly difficult to publicly correct the record. Demographic challenges, compounded by years of inaccurate data, pose significant constraints on military manpower, economic planning, and social sustainability. This credibility gap between official figures and actual demographic realities creates strategic vulnerabilities for long-term national planning.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/demography-is-the-achilles-heel-of-dictatorships-including-china/",
+      "published": "Sat, 21 Nov 2026 00:53:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Chinese Foreign Minister Wang Yi Discusses US-China Relations",
+      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum to discuss Chinese foreign policy and bilateral US-China relations. The forum provided a platform for high-level dialogue on strategic issues between the two powers during a period of significant geopolitical tension.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "CSIS"
+      ],
+      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
+      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
+      "raw_source": "CSIS"
+    },
+    {
+      "headline": "Hong Kong Election Committee voting concludes with record 99% turnout",
+      "brief": "Hong Kong held voting for 723 of 1,500 Election Committee seats across 31 subsectors, with record 99% turnout among 856 candidates. The elected committee members, combined with ex officio and nominated representatives, will form the electoral college responsible for selecting Hong Kong's next leader in the coming year. The high participation rate reflects the committee's critical role in determining Hong Kong's political leadership.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3375285/tycoons-campaign-streets-hong-kong-election-committee-vote-nears",
-      "published": "Sat, 21 Nov 2026 01:00:11 +0000",
+      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+      "published": "Sun, 22 Nov 2026 02:26:45 +0000",
       "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Beijing official visits CUHK-Shenzhen, emphasizes Greater Bay Area integration",
-      "brief": "Xia Baolong, director of the Hong Kong and Macau Affairs Office, visited the Shenzhen campus of Chinese University of Hong Kong to encourage the institution to leverage its strengths for Greater Bay Area development. The visit reflects Beijing's continued emphasis on institutional integration and regional economic cooperation between Hong Kong and mainland China.",
-      "category": "foreign_relations",
-      "severity": "low",
+      "headline": "Hong Kong launches five-year plan to digitalize share market operations",
+      "brief": "Hong Kong has initiated a transition to a fully digitalized share market, with Beijing Sinotau International Pharmaceutical Technology becoming the first IPO to forgo physical share certificates. The shift aims to modernize market infrastructure and reduce operational costs, with three listed companies including the Hong Kong bourse operator beginning the transition process. This digitalization effort reflects Hong Kong's broader push to enhance financial market efficiency and competitiveness in the region.",
+      "category": "economy",
+      "severity": "medium",
       "sources_used": [
-        "Hong Kong - South China Morning Post"
+        "Banking & Finance - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/news/hong-kong/politics/article/3375276/beijings-hong-kong-point-man-hopes-cuhk-shenzhen-uses-unique-strengths-gba-growth",
-      "published": "Fri, 20 Nov 2026 13:14:15 +0000",
-      "raw_source": "Hong Kong - South China Morning Post"
+      "original_link": "https://www.scmp.com/business/markets/article/3374744/hong-kong-begins-shift-towards-fully-digitalised-share-market-5-year-transition-plan",
+      "published": "Tue, 17 Nov 2026 23:00:06 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -257,52 +221,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained due to trade tensions, technology competition, and geopolitical rivalry over Taiwan and regional influence."
+      "summary": "China-U.S. relations remain strained due to trade tensions, technology competition, Taiwan concerns, and strategic rivalry in the Indo-Pacific."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership based on shared interests in countering Western influence, though cooperation remains selective and pragmatic."
+      "summary": "China and Russia maintain a strategic partnership with deepening defense, energy, and trade cooperation, though China maintains some strategic distance on Ukraine."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, market access, and security issues."
+      "summary": "China-EU relations involve significant trade interdependence balanced against growing EU concerns over human rights, economic coercion, and strategic competition."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure, while Taiwan's de facto independence creates persistent cross-strait tensions."
+      "summary": "China views Taiwan as a breakaway province and maintains military pressure and political opposition to Taiwanese independence, with no formal diplomatic relations."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are complicated by historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
+      "summary": "China-Japan relations remain tense due to historical disputes, territorial disagreements over the Senkaku Islands, competing regional influence, and security concerns."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes and military clashes since 2020 have strained China-India relations, overshadowing economic ties and creating regional security concerns."
+      "summary": "China-India relations are strained following the 2020 border clash in Ladakh, with unresolved territorial disputes and strategic competition in South Asia."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain pragmatic relations centered on oil exports, investment, and mutual interest in regional stability without democratic alignment pressures."
+      "summary": "China and Saudi Arabia maintain cooperative relations centered on energy trade, investment, and military partnerships, with shared interest in regional stability."
     },
     {
       "country": "Philippines",
       "status": "Neutral",
-      "summary": "China-Philippines relations fluctuate between cooperation on economic issues and tensions over South China Sea territorial disputes and fishing rights."
+      "summary": "China-Philippines relations fluctuate between cooperation on economic issues and tensions over South China Sea territorial disputes and Chinese coast guard activities."
     },
     {
       "country": "Brazil",
       "status": "Cooperative",
-      "summary": "China-Brazil relations are primarily economic and cooperative, with China as Brazil's largest trading partner despite occasional diplomatic differences."
+      "summary": "China and Brazil maintain cooperative economic and trade relations as major commodity trading partners, though with limited strategic alignment."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "China-Australia relations have deteriorated since 2020 due to Australian calls for COVID-19 investigations, security concerns, and trade restrictions by Beijing."
+      "summary": "China-Australia relations remain strained following Australia's security concerns, calls for COVID-19 investigations, and Chinese retaliatory trade measures."
     }
   ]
 }
