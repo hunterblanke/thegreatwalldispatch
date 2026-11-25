@@ -1,6 +1,226 @@
 {
   "entries": [
     {
+      "date": "2026-11-24",
+      "articles": [
+        {
+          "headline": "US to blacklist Megaspeed over alleged China AI chip diversion",
+          "brief": "The U.S. government plans to blacklist Asian AI firm Megaspeed following allegations that the company illegally funneled advanced AI chips to China, with the case connected to a scandal involving Nvidia executive Jensen Huang. This action reflects ongoing U.S. efforts to restrict China's access to cutting-edge semiconductor technology through enforcement of export controls. The incident highlights vulnerabilities in supply chain security and enforcement mechanisms protecting sensitive dual-use technologies.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 23 Nov 2026 23:16:08 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "NATO addresses Russian nuclear satellite threat to space security",
+          "brief": "German media reported that Russia plans to launch a satellite equipped with a nuclear warhead within weeks, prompting NATO's chief to pledge defensive measures against emerging space-based threats. The development represents a significant escalation in military capabilities and signifies growing concerns among Western allies regarding the weaponization of space. This incident underscores heightened tensions between NATO and Russia, with potential implications for international space security protocols and strategic stability.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 10:58:51 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Investigates Shanghai Party Leader Chen Jining in Xi Purge",
+          "brief": "Chen Jining, Shanghai's party leader and viewed as a potential future national leader, faces investigation as part of Xi Jinping's broader political purges. The investigation signals continued consolidation of power through removal of potential rivals from key positions. This development underscores ongoing factional tensions within China's leadership hierarchy and Xi's efforts to eliminate perceived threats to his authority.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+          "published": "Tue, 24 Nov 2026 14:42:31 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "China's Cold Reception Signals Deteriorating Japan-China Relations",
+          "brief": "China provided a notably cool diplomatic reception to Japan's prime minister in Shenzhen, creating domestic political pressure on both leaders that complicates efforts toward reconciliation. The public snub reduces diplomatic flexibility for either side to pursue normalized relations without appearing weak domestically. This escalation in bilateral tensions has implications for regional stability and U.S.-aligned security arrangements in the Indo-Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/japans-shenzhen-snub-why-a-thaw-looks-unlikely-under-takaichi-and-xi/",
+          "published": "Mon, 23 Nov 2026 23:45:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Laos Position May Influence Future South China Sea Code Negotiations",
+          "brief": "ASEAN discussions on a South China Sea code of conduct again concluded without agreement, with analysts noting that landlocked Laos could play an influential role in future negotiations. Laos's strategic positioning within ASEAN and its relationships with key stakeholders may affect the outcome of ongoing regional maritime governance discussions.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/southchinasea/2026/11/18/asean-south-china-sea-code-of-conduct/",
+          "published": "Wed, 18 Nov 2026 03:34:47 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan closes Port Moresby office as PNG strengthens China ties",
+          "brief": "Taiwan has withdrawn its office from Papua New Guinea's capital, following PNG's legal assertion of its right to close the mission. The move reflects PNG's strategic shift toward closer relations with China, raising questions about the geopolitical implications for Taiwan's regional diplomatic presence and China's expanding influence in the Pacific.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/11/20/taiwan-representative-office-png-closure/",
+          "published": "Fri, 20 Nov 2026 07:20:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Signals Opposition to Nuclear Arms Escalation with US",
+          "brief": "China has publicly stated its opposition to entering into a nuclear arms race with the United States, suggesting diplomatic alternatives to military competition. The statement indicates Beijing's preference for managed strategic competition over unchecked nuclear proliferation. This positioning carries implications for US-China bilateral relations and broader arms control frameworks.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+          "published": "Mon, 16 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "Nvidia CEO Return May Accelerate China's Semiconductor Independence",
+          "brief": "Jensen Huang's reinstatement as Nvidia CEO could benefit Beijing's access to advanced AI chips, as Huang has advocated for sales to China despite U.S. export restrictions. However, analysts suggest the leadership transition may paradoxically strengthen China's resolve to develop domestic semiconductor capabilities independent of U.S. suppliers. This dynamic reflects ongoing U.S.-China technological competition and Beijing's strategic emphasis on self-reliance in critical industries.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+          "published": "Tue, 24 Nov 2026 11:55:30 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Nvidia leadership change signals uncertain outlook for China chip access",
+          "brief": "Jensen Huang's return as Nvidia CEO does not guarantee relief from U.S. export restrictions on advanced semiconductors to China. The article suggests Beijing cannot rely on corporate leadership changes to circumvent Trump administration policies limiting China's access to critical semiconductor technology. This underscores China's continued vulnerability to U.S. regulatory controls over advanced computing capabilities essential for military and technological development.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 07:26:27 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "U.S. AI Export Controls May Inadvertently Benefit Chinese Industry",
+          "brief": "Tightened U.S. export controls on advanced semiconductors, highlighted by recent scrutiny of Jensen Huang and Nvidia, present short-term challenges but could create opportunities for China's domestic AI development. The restrictions may accelerate China's self-sufficiency in AI chip manufacturing and reduce dependence on U.S. technology. This development has implications for the technological competition between the U.S. and China in the AI sector.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/could-the-jensen-huang-scandal-help-chinas-ai-industry/",
+          "published": "Tue, 24 Nov 2026 00:53:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Trump, Xi, Putin summit produces limited diplomatic outcomes",
+          "brief": "A trilateral meeting between the leaders of the United States, China, and Russia addressed nuclear tensions, AI competition, and Taiwan's status, but resulted in no substantive policy changes or agreements. Analysts assess the summit as primarily ceremonial, with fundamental positions on key disputes remaining unchanged. The lack of concrete progress suggests continued strategic competition among the three powers on critical global issues.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/19/trump-xi-putin-apec-summit/",
+          "published": "Thu, 19 Nov 2026 15:07:24 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Financial Street Securities chairman detained in mainland anti-corruption probe",
+          "brief": "Zhu Yanhui, chairman of Hong Kong-listed Financial Street Securities, has been placed under investigation and detained by mainland Chinese authorities. This represents the latest in a series of detentions targeting senior financial executives as part of an ongoing anti-corruption campaign. The development signals continued regulatory pressure on China's financial sector and potential governance risks for Hong Kong-listed companies with mainland operations.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3375144/financial-street-securities-says-chairman-detained-and-under-investigation-mainland",
+          "published": "Fri, 20 Nov 2026 02:14:01 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "North Korea Allegedly Confiscates 90% of Workers' Wages Abroad",
+          "brief": "Internal financial documents obtained by Radio Free Asia indicate that North Korea's government retains approximately 90% of wages earned by its workers deployed in China, keeping minimal compensation for the laborers themselves. This practice represents a significant revenue stream for Pyongyang and illustrates the regime's systematic economic extraction from its own citizens working overseas. The documentation provides concrete evidence of North Korea's reliance on foreign labor exploitation to generate hard currency.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
+          "published": "Sat, 14 Nov 2026 23:35:35 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Chinese rare-earth mining spill in Laos raises environmental concerns",
+          "brief": "A rare-earth mining pond spill in northern Laos has prompted local residents to avoid using river water despite assurances from government and Chinese mining operators that it is safe. Animal deaths in the area have fueled public skepticism about official safety claims. The incident highlights environmental risks associated with Chinese-financed mining operations in Southeast Asia and potential friction in China-Laos relations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/laos/2026/11/16/laos-water-rare-earth-contamination-china/",
+          "published": "Mon, 16 Nov 2026 23:11:43 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Indonesia's Prabowo Nominates Cabinet Members as VP Candidates",
+          "brief": "Indonesian President Prabowo has nominated Agriculture Minister Andi Amran Sulaiman and former Foreign Minister Sugiono as potential vice-presidential candidates to replace Gibran Rakabuming Raka, who resigned on November 12. The selection of a new vice president could affect Indonesia's foreign policy alignment and military leadership dynamics in the region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/indonesias-prabowo-names-2-cabinet-members-as-vice-presidential-candidates/",
+          "published": "Tue, 24 Nov 2026 08:01:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong MPF investors shift from US stocks amid market volatility",
+          "brief": "Manulife, Hong Kong's largest MPF provider with 28% market share, reports that some members are reallocating investments away from US stock funds due to recent market volatility. Members are redirecting capital toward healthcare, Asia-Pacific, and Japan-focused funds, suggesting reduced confidence in US equities and a preference for regional alternatives.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/banking-finance/article/3375606/mpf-members-hitting-panic-switch-ditch-us-stocks-amid-volatility-manulife",
+          "published": "Tue, 24 Nov 2026 08:52:16 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "JPMorgan Projects Hong Kong IPO Market Recovery in 2027",
+          "brief": "JPMorgan's head of equity capital markets expects Hong Kong's IPO market to rebound in 2027 despite current volatility and a slowdown in new listings during Q3 and Q4. The recovery projection is supported by a robust pipeline of companies preparing for capital raises, suggesting the recent decline in IPO activity is temporary. This forecast indicates confidence in Hong Kong's medium-term financial market stabilization and capital formation capacity.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3375137/jpmorgan-sees-hong-kong-ipo-market-rebounding-2027-despite-volatility",
+          "published": "Fri, 20 Nov 2026 02:00:27 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 6,
+        "articles_total": 17,
+        "high_priority": 2,
+        "by_category": {
+          "foreign_relations": 7,
+          "military": 3,
+          "economy": 7
+        },
+        "updated_at": "2026-11-24T20:26:14.395933Z"
+      }
+    },
+    {
       "date": "2026-11-23",
       "articles": [
         {
@@ -21241,250 +21461,6 @@
           "economy": 8
         },
         "updated_at": "2026-08-27T20:04:05.806646Z"
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "articles": [
-        {
-          "headline": "China Prioritizes Space Logistics for Military Advantage",
-          "brief": "China is developing space superiority capabilities focused on establishing space logistics and supporting infrastructure to enable future military operations. This strategic approach indicates China views space-based systems as critical enablers for potential conflict scenarios. The emphasis on logistics infrastructure suggests long-term commitment to sustained space operations capabilities.",
-          "category": "military",
-          "severity": "high",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/chinas-strategic-plan-for-space-superiority/",
-          "published": "Tue, 25 Aug 2026 04:40:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Philippines Uses Education to Reinforce South China Sea Territorial Claims",
-          "brief": "The Philippines is leveraging educational initiatives to build domestic support for its South China Sea territorial positions, according to experts cited by Radio Free Asia. While education can create lasting public backing for claims, analysts warn this approach may constrain future diplomatic flexibility and negotiation options with China.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/08/19/philippines-south-china-sea-education/",
-          "published": "Wed, 19 Aug 2026 21:08:37 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan deprioritizes Scarborough Shoal claim to strengthen Philippines ties",
-          "brief": "Taiwan has softened its sovereignty position regarding Scarborough Shoal as the Philippines filed a UN submission, reflecting Taipei's strategic shift toward prioritizing security cooperation with Manila over territorial claims. This adjustment reveals a significant gap between Taiwan's formal sovereignty assertions and its practical foreign policy interests, indicating that expanding the Philippines partnership takes precedence in Taiwan's current strategic calculus.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/08/11/taiwan-philippines-scarborough-shoal-filing/",
-          "published": "Tue, 11 Aug 2026 02:45:29 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Taiwan leverages LNG review after PNG closes representative office",
-          "brief": "Taiwan is using economic measures, including a liquefied natural gas review, in response to Papua New Guinea's closure of its representative office, signaling a shift in Taiwan's strategic approach to diplomatic setbacks. Analysts indicate this reflects Taipei's attempt to exercise economic leverage, though its overall capacity to influence regional outcomes remains constrained. The incident highlights Taiwan's vulnerability to diplomatic losses as countries realign with Beijing.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/07/29/taiwan-png-lng-trade-office-closure/",
-          "published": "Wed, 29 Jul 2026 02:33:25 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Papua New Guinea closes Taiwan trade office, signals deepening China ties",
-          "brief": "Papua New Guinea has closed its Taiwan trade office, a move analysts characterize as diplomatically ambiguous but potentially motivated by anticipated Chinese economic investment. The closure represents another instance of Taiwan losing diplomatic space in the Indo-Pacific region as Beijing expands its economic influence through targeted aid and investment commitments.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
-          "published": "Wed, 05 Aug 2026 02:52:06 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Former Premier Zhu Rongji Used Economic Strategy to Consolidate Control Over Tibet",
-          "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy employed economic mechanisms to advance Beijing's integration policies in Tibet. The approach represents China's use of economic incentives and development initiatives as tools for political control in ethnic minority regions. This strategy has implications for understanding Beijing's broader approach to governing autonomous regions through economic rather than exclusively coercive means.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
-          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China uses music video to assert South China Sea territorial claims",
-          "brief": "China released a music video featuring a love song that experts say is designed to humanize the Chinese coast guard while reinforcing Beijing's position in the disputed South China Sea. The propaganda effort reflects China's ongoing strategy to legitimize its territorial claims through cultural messaging. This represents Beijing's continued use of soft power alongside its military presence to strengthen its narrative in the contested waters.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/07/22/south-china-sea-music-video-song/",
-          "published": "Wed, 22 Jul 2026 20:38:57 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China Consolidates Rare-Earth Market Dominance Through Strategic Control",
-          "brief": "China has established dominant control over global rare-earth element production and processing, leveraging historical advantages in mining, refining, and supply chain integration. This control provides Beijing with significant economic leverage and potential influence over technology-dependent industries worldwide, including defense, renewable energy, and electronics sectors.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
-          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China denounces US sanctions targeting Iran oil trade partners",
-          "brief": "The US has implemented sanctions threatening to isolate nations conducting business with Iran, directly affecting China's oil imports from Tehran. China has characterized these sanctions as illegal, highlighting escalating US-China economic friction over Iran policy. This represents a significant point of contention in US-China relations with implications for global energy markets and sanctions enforcement.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-          "published": "Tue, 25 Aug 2026 11:53:36 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "EU Strengthens Functional Strategic Partnership with Taiwan",
-          "brief": "The European Union is developing increasingly robust economic and strategic ties with Taiwan despite the absence of formal diplomatic relations. This de facto partnership reflects EU efforts to diversify economic partnerships and establish strategic cooperation in a region of growing geopolitical significance. The relationship's expansion carries implications for EU-China relations and the stability of cross-strait dynamics.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/taiwan-a-growing-economic-partner-for-the-eu-in-troubled-times/",
-          "published": "Tue, 25 Aug 2026 22:54:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "Congress Must Develop Sustained Strategy to Compete with China",
-          "brief": "The article emphasizes the need for Congress to establish a long-term, coordinated strategy to address China's competitive challenges across economic and technological domains. Sustained congressional leadership is presented as essential for maintaining U.S. competitiveness against Beijing's strategic initiatives.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
-          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "China Seeks Expanded Defense Sector Influence in Indonesia",
-          "brief": "China is actively pursuing greater influence over Indonesia's defense sector through bilateral 2+2 dialogue mechanisms. The development signals Beijing's strategic interest in strengthening military ties with a key Southeast Asian nation, while Indonesia faces the challenge of balancing Chinese engagement with its broader national security interests. This engagement reflects China's broader regional defense diplomacy efforts in Southeast Asia.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/what-the-latest-22-dialogue-tells-us-about-china-indonesia-relations/",
-          "published": "Tue, 25 Aug 2026 22:04:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "PRC Foreign Minister Wang Yi discusses China-US relations at CSIS",
-          "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum webcast to discuss Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for high-level dialogue on bilateral relations between the two major powers during a period of strategic competition.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-          "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "Hang Seng Bank expands wealth management amid Beijing capital controls",
-          "brief": "Hang Seng Bank is expanding its wealth management center network in Hong Kong despite increased Beijing scrutiny of mainland Chinese cross-border investments. The bank opened its second major wealth hub in Causeway Bay, signaling confidence in continued demand from high-net-worth clients despite regulatory uncertainty. This expansion reflects tension between Hong Kong's wealth management sector growth and mainland China's tightening capital flow restrictions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/money/wealth/article/3365071/hang-seng-bank-doubles-down-wealth-hubs-despite-beijings-tighter-investment-scrutiny?utm_source=rss_feed",
-          "published": "Mon, 24 Aug 2026 10:00:29 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Wall Street influence in China diminishes despite market opening",
-          "brief": "High-profile American financiers who historically maintained close relationships with Chinese leadership are experiencing reduced access to top officials, even as Beijing gradually liberalizes its capital markets. This shift reflects evolving dynamics in U.S.-China financial relations and suggests Beijing's changing approach to foreign financial engagement. The development may signal China's reduced reliance on Western financial expertise or a deliberate recalibration of foreign influence in strategic economic sectors.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364838/wall-street-helped-build-modern-china-it-now-being-cast-aside?utm_source=rss_feed",
-          "published": "Sun, 23 Aug 2026 10:00:08 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Alibaba raises $10.2 billion in record Hong Kong secondary offering",
-          "brief": "Alibaba completed a record HK$80 billion (US$10.2 billion) secondary stock sale in Hong Kong, with all proceeds directed toward artificial intelligence development. The pricing at an 8.4 percent discount to market close reflects strong investor demand and signals continued confidence in the company's AI strategy. This capital raise underscores China's major technology firms' commitment to AI investment amid competitive global pressures.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-          "published": "Mon, 24 Aug 2026 09:09:53 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "DeepSeek raises $7.4 billion pre-IPO funding round ahead of 2027 listing",
-          "brief": "Chinese AI startup DeepSeek is completing a funding round valuing the company at approximately $74 billion, with plans for a Shanghai Stock Exchange listing around 2027. The company is raising roughly $7.4 billion in this pre-IPO round, positioning it as a major player in China's artificial intelligence sector. This development reflects growing investor confidence in Chinese AI ventures and signals intensifying competition in the global AI industry.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
-          "published": "Wed, 26 Aug 2026 05:01:09 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China's YMTC parent company prepares record semiconductor IPO",
-          "brief": "CCSH Corporation, parent of China's leading NAND flash memory manufacturer Yangtze Memory Technologies Corporation (YMTC), is preparing to list on Shanghai's Star Market, potentially setting a new record for semiconductor stock offerings. The company plans to sell 1.98-2.43 billion shares representing 10-12 percent of enlarged capital, with an overallotment option available. This IPO reflects China's strategic push to develop domestic semiconductor capabilities and reduce reliance on foreign chip suppliers.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/big-tech/article/3365017/can-chinas-flash-memory-giant-ymtc-smash-shanghai-star-market-ipo-records?utm_source=rss_feed",
-          "published": "Mon, 24 Aug 2026 04:34:59 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China and Hong Kong boost yuan, dollar bond issuance amid US cost rises",
-          "brief": "Bond issuers in Hong Kong and mainland China are increasingly shifting away from US dollar-denominated bonds toward yuan and Hong Kong dollar alternatives to reduce borrowing costs as US dollar funding becomes more expensive. This trend is expected to continue through the remainder of the year, signaling a structural shift in regional financing preferences and reduced reliance on US dollar markets.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3364976/yuan-hong-kong-dollar-bonds-surge-issuers-seek-cheaper-funding-amid-rising-us-costs?utm_source=rss_feed",
-          "published": "Mon, 24 Aug 2026 00:00:21 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 6,
-        "articles_total": 19,
-        "high_priority": 1,
-        "by_category": {
-          "foreign_relations": 9,
-          "economy": 8,
-          "military": 2
-        },
-        "updated_at": "2026-08-26T10:24:56.035212Z"
       }
     }
   ]
