@@ -1,92 +1,68 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "metrics": {
-    "sources_scanned": 7,
-    "articles_total": 20,
+    "sources_scanned": 8,
+    "articles_total": 17,
     "high_priority": 4,
     "by_category": {
-      "economy": 7,
-      "military": 4,
-      "foreign_relations": 9
+      "economy": 5,
+      "foreign_relations": 10,
+      "military": 2
     },
-    "updated_at": "2026-11-25T19:40:22.567617Z"
+    "updated_at": "2026-11-26T19:21:03.781623Z"
   },
   "articles": [
     {
-      "headline": "Solomon Islands replaces China security pact with Australian treaty",
-      "brief": "Solomon Islands Prime Minister Matthew Wale announced the country will terminate its controversial security agreement with China in favor of a treaty with Australia. This shift represents a significant realignment in Indo-Pacific security dynamics, reducing China's military footprint in the region and strengthening Australian strategic influence. The move reflects growing regional concerns about China's security agreements and their implications for regional stability.",
+      "headline": "AI-Generated Fake Videos Target Taiwan's Political Leadership",
+      "brief": "A coordinated network has distributed deepfake videos attacking key figures in Taiwan's ruling Democratic Progressive Party, including President Lai and a mayoral candidate. The campaign represents an escalation in information warfare tactics against Taiwan, with attribution to China suggesting sophisticated efforts to undermine political stability through synthetic media. This demonstrates evolving asymmetric military-adjacent tactics designed to influence Taiwan's political landscape ahead of key electoral periods.",
       "category": "military",
       "severity": "high",
       "sources_used": [
         "BBC News"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 03:15:12 GMT",
+      "original_link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 23:05:11 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "Solomon Islands Security Treaty With Australia Blocks Chinese Military Base",
-      "brief": "Solomon Islands has signed a security agreement with Australia that explicitly prevents the establishment of foreign military bases on the island, directly countering concerns raised by a 2022 security pact with China. The accord represents a significant diplomatic shift in the Pacific region, reducing Beijing's potential to expand its military footprint in strategically important territory. This development reflects broader competition between China and Western powers for influence in the Indo-Pacific region.",
-      "category": "military",
-      "severity": "high",
-      "sources_used": [
-        "NYT > World News"
-      ],
-      "original_link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-      "published": "Wed, 25 Nov 2026 05:24:36 +0000",
-      "raw_source": "NYT > World News"
-    },
-    {
-      "headline": "China Develops Qianfan Satellite System Rivaling U.S. Starlink",
-      "brief": "China has developed Qianfan, a satellite constellation system positioned as a competitor to the U.S. Starlink network, signaling Beijing's intent to challenge American technological and strategic dominance in space-based communications. The emergence of this Chinese alternative represents a significant erosion of the United States' historical advantage in satellite technology and infrastructure. This development has implications for global communications capabilities, space competition, and potential dual-use military applications.",
-      "category": "military",
+      "headline": "China Exploits Interpol Red Notices to Target Political Opponents",
+      "brief": "According to The Diplomat, China has systematically abused Interpol's Red Notice system over the past decade to pursue critics and political opponents residing abroad. This misuse of international law enforcement mechanisms undermines Interpol's credibility and poses risks to legitimate security operations globally. The practice represents a significant foreign policy concern regarding the weaponization of international institutions for political persecution.",
+      "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
         "The Diplomat"
       ],
-      "original_link": "https://thediplomat.com/2026/11/with-qianfan-china-has-its-answer-to-starlink/",
-      "published": "Tue, 24 Nov 2026 22:57:00 +0900",
+      "original_link": "https://thediplomat.com/2026/11/chinas-abuse-of-interpol-puts-us-all-in-danger/",
+      "published": "Wed, 25 Nov 2026 22:05:00 +0900",
       "raw_source": "The Diplomat"
     },
     {
-      "headline": "China investigates Shanghai party chief, fourth Politburo member under probe",
-      "brief": "Chen Jining, Shanghai's party chief, is the fourth member of the Communist Party's current Politburo to come under investigation. The investigation raises questions about potential instability within China's top leadership and succession planning under Xi Jinping. The targeting of multiple senior officials suggests possible internal power consolidation efforts or anti-corruption actions within the party hierarchy.",
+      "headline": "China Advances Internet Sovereignty as Global Governing Concept",
+      "brief": "China is promoting 'Internet sovereignty' as a key governing principle for the global Internet, representing a significant shift from current international norms toward greater state control over digital infrastructure. This initiative has implications for cybersecurity, information operations, and the future structure of international digital governance. The concept prioritizes national control over cross-border data flows and content regulation.",
       "category": "foreign_relations",
       "severity": "high",
       "sources_used": [
-        "Radio Free Asia"
+        "CSIS"
       ],
-      "original_link": "https://rfa.org/english/china/2026/11/25/chen-jining-china-investigation-/",
-      "published": "Wed, 25 Nov 2026 17:13:29 +0000",
-      "raw_source": "Radio Free Asia"
+      "original_link": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "raw_source": "CSIS"
     },
     {
-      "headline": "US Announces Broad Tariffs on China, EU, and Other Partners",
-      "brief": "The United States has announced new tariff levies targeting multiple major trading partners, including China and the European Union. This action represents a significant escalation in trade tensions and could trigger retaliatory measures from affected economies, potentially disrupting global supply chains and increasing costs for American consumers and businesses.",
+      "headline": "Hong Kong Fire Kills 168 During Renovation Project",
+      "brief": "A major fire in Hong Kong killed 168 people during a residential renovation, marking one of the territory's deadliest disasters. One year after the incident, affected families continue awaiting justice and accountability for the tragedy.",
       "category": "economy",
-      "severity": "medium",
+      "severity": "high",
       "sources_used": [
         "BBC News"
       ],
-      "original_link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+      "original_link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 23:26:50 GMT",
       "raw_source": "BBC News"
     },
     {
-      "headline": "Huawei convicted of trade secret theft in New York trial",
-      "brief": "A New York court found Chinese technology company Huawei guilty of stealing US trade secrets while acquitting it of racketeering charges following a months-long trial. The conviction underscores ongoing concerns about intellectual property protection and may further strain US-China technology relations. The ruling could have implications for Huawei's business operations and broader US-China technology competition.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 10:52:09 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "China Anticipates Shift Toward More Hawkish U.S. Policy",
-      "brief": "China is reportedly preparing for a more confrontational relationship with the United States following the Trump administration's return to office. The shift signals expectations of increased trade tensions and reduced diplomatic cooperation, requiring strategic economic and policy adjustments. This anticipation reflects broader concerns about the end of the current period of relative restraint in U.S.-China relations.",
+      "headline": "China Anticipates Increased U.S. Hawkishness After Trump Administration",
+      "brief": "China is reportedly preparing for a more confrontational U.S. policy stance following the Trump administration's approach to bilateral relations. This shift suggests Beijing expects heightened economic and strategic competition, potentially including tariffs, technology restrictions, or expanded military posturing. The anticipated policy change carries significant implications for global trade, technology supply chains, and regional stability in Asia.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
@@ -97,32 +73,8 @@
       "raw_source": "FA RSS"
     },
     {
-      "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade Truce",
-      "brief": "The temporary pause in US-China trade tensions is beginning to deteriorate beneath surface appearances, despite announcements of \"constructive strategic stability\" and planned high-level meetings between Trump, Xi, and Putin. The underlying fragility of the d\u00e9tente suggests economic pressures and strategic divergences remain unresolved, with potential implications for renewed trade conflict and regional stability.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "FA RSS"
-      ],
-      "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
-      "published": "Tue, 17 Nov 2026 04:00:00 -0500",
-      "raw_source": "FA RSS"
-    },
-    {
-      "headline": "Xi's anti-corruption campaign removes senior Communist Party official",
-      "brief": "Chen Jining, a rising star in the Chinese Communist Party, has been ensnared in Xi Jinping's anti-corruption campaign, marking part of the widest purge of the party's Politburo in several decades. This significant personnel action reflects ongoing internal party consolidation and potential shifts in China's power dynamics at senior leadership levels.",
-      "category": "military",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 05:37:25 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "China Uses Tourist Cruises to Assert Paracel Islands Sovereignty",
-      "brief": "China is employing civilian cruise tourism as a soft power tool to reinforce its territorial claims over the disputed Paracel Islands in the South China Sea. This strategy occurs amid Vietnam's concurrent efforts to strengthen bilateral relations with China, potentially indicating shifting regional dynamics around contested maritime territories. The approach represents China's use of non-military instruments to consolidate de facto control and normalize its sovereignty narrative.",
+      "headline": "China advances Paracel Islands sovereignty claims via tourism",
+      "brief": "China is organizing patriotic cruises to the disputed Paracel Islands as a soft power strategy to reinforce its sovereignty claims in the South China Sea. This initiative coincides with Vietnam's efforts to improve bilateral relations with China, potentially affecting the regional balance of power and territorial dispute dynamics. The move demonstrates Beijing's multifaceted approach to asserting control over disputed territories beyond military means.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -133,20 +85,8 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Taiwan closes Port Moresby office amid PNG-China relations shift",
-      "brief": "Taiwan has withdrawn its office from Papua New Guinea's capital, following PNG's legal authority to close foreign diplomatic missions. The move reflects PNG's strategic realignment toward closer ties with China, with analysts assessing potential economic and geopolitical trade-offs for the Pacific nation.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "Radio Free Asia"
-      ],
-      "original_link": "https://rfa.org/english/pacific/2026/11/20/taiwan-representative-office-png-closure/",
-      "published": "Fri, 20 Nov 2026 07:20:44 +0000",
-      "raw_source": "Radio Free Asia"
-    },
-    {
-      "headline": "ASEAN fails to agree South China Sea conduct code again",
-      "brief": "ASEAN member states concluded discussions without reaching consensus on a South China Sea code of conduct, with analysts suggesting that landlocked Laos may play an influential role in future negotiations. Laos's potential leverage in talks could significantly impact the timeline and terms of any agreement governing disputed maritime activities in the region.",
+      "headline": "Laos could influence South China Sea code of conduct negotiations",
+      "brief": "ASEAN has again failed to reach consensus on a South China Sea code of conduct, with landlocked Laos potentially holding strategic influence in future negotiations. Analysts suggest Laos's position within ASEAN could become a determining factor in breakthrough discussions, highlighting the complex diplomatic dynamics within the regional bloc.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
@@ -157,100 +97,124 @@
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "Philippines to advance South China Sea conduct code at ASEAN meetings",
-      "brief": "The Philippines will pursue finalization of a South China Sea code of conduct during upcoming ASEAN meetings in Manila, responding to concerns from Filipino fishermen about territorial water access. The initiative represents Manila's diplomatic effort to establish multilateral frameworks governing disputed maritime areas and protecting fishing communities' economic interests. Success in codifying conduct rules could significantly influence regional stability and resource access disputes.",
+      "headline": "Planned U.S.-China AI Dialogue Meeting Fails to Materialize",
+      "brief": "A scheduled meeting between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng in Shenzhen to advance bilateral AI dialogue did not take place as anticipated. The cancellation represents a setback in U.S.-China efforts to establish communication channels on artificial intelligence governance, a technology with significant implications for both economic competitiveness and military capabilities.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/what-happened-to-the-china-us-ai-talks/",
+      "published": "Wed, 25 Nov 2026 22:41:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "China Pursues Legal Technology Acquisitions Beyond High-Profile Cases",
+      "brief": "Beyond publicized incidents like the Nvidia scandal, China systematically acquires foreign technology through routine, often legal channels that escape public scrutiny. This broader pattern of technology transfer poses strategic implications for Western technological advantage, as the majority of acquisitions occur through mundane mechanisms rather than dramatic espionage operations.",
+      "category": "military",
+      "severity": "medium",
+      "sources_used": [
+        "The Diplomat"
+      ],
+      "original_link": "https://thediplomat.com/2026/11/chinas-soft-espionage-the-technology-transfers-that-dont-make-headlines/",
+      "published": "Thu, 26 Nov 2026 02:31:00 +0900",
+      "raw_source": "The Diplomat"
+    },
+    {
+      "headline": "Japan PM reportedly receives different welcome at China summit",
+      "brief": "Japanese Prime Minister Sanae Takaichi allegedly received a noticeably different reception compared to other world leaders attending a major summit in Shenzhen, with photographic evidence prompting complaints from Japanese officials. The apparent diplomatic slight reflects ongoing tensions in Japan-China relations and may signal Beijing's strategic positioning toward Tokyo. The incident underscores the symbolic importance of diplomatic protocols in high-level international engagements.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "NYT > World News"
+      ],
+      "original_link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
+      "published": "Thu, 26 Nov 2026 09:14:29 +0000",
+      "raw_source": "NYT > World News"
+    },
+    {
+      "headline": "Chinese rare-earth mining spill in Laos raises environmental concerns",
+      "brief": "A rare-earth mining pond operated by a Chinese-financed company in northern Laos has spilled, prompting local residents to avoid using river water despite government and company assurances of safety. Animal deaths reported by villagers have created skepticism about official water safety claims. The incident reflects broader concerns about environmental oversight and Chinese mining operations' impact on neighboring countries.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/southchinasea/2026/11/13/fishermen-philippines-asean-apec-scarborough-shoal-china/",
-      "published": "Fri, 13 Nov 2026 02:17:07 +0000",
+      "original_link": "https://rfa.org/english/laos/2026/11/16/laos-water-rare-earth-contamination-china/",
+      "published": "Mon, 16 Nov 2026 23:11:43 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "North Korea Expels Swiss Diplomat Amid Sanctions Dispute",
-      "brief": "North Korea has expelled a Swiss diplomat in an apparent escalation of tensions over sanctions. Switzerland indicated it will maintain diplomatic relations through its embassy in Beijing and North Korea's embassy in Bern. This move signals deteriorating direct channels of communication between Pyongyang and Western nations, potentially complicating future diplomatic engagement.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 19:19:06 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "China's Foreign Minister to Discuss US-China Relations at CSIS",
-      "brief": "China's Foreign Minister Wang Yi participated in a CSIS Statesmen's Forum discussion on Chinese foreign policy and US-China relations in February 2016. The forum provided a platform for high-level dialogue on bilateral relations during a period of strategic importance between the two powers.",
-      "category": "foreign_relations",
-      "severity": "medium",
-      "sources_used": [
-        "CSIS"
-      ],
-      "original_link": "https://www.csis.org/events/statesmens-forum-wang-yi-minister-foreign-affairs-prc",
-      "published": "Fri, 19 Feb 2016 22:13:26 +0000",
-      "raw_source": "CSIS"
-    },
-    {
-      "headline": "Nvidia leadership change unlikely to ease China semiconductor restrictions",
-      "brief": "Jensen Huang's return as Nvidia CEO does not guarantee relief from U.S. export controls on advanced semiconductors to China. The article suggests that geopolitical and strategic considerations under the Trump administration will continue to constrain Chinese access to critical semiconductor technology regardless of corporate leadership changes. This indicates persistent structural challenges to Beijing's technological advancement ambitions despite personnel shifts in key U.S. tech companies.",
-      "category": "economy",
-      "severity": "medium",
-      "sources_used": [
-        "BBC News"
-      ],
-      "original_link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 07:26:27 GMT",
-      "raw_source": "BBC News"
-    },
-    {
-      "headline": "China hosts 33rd APEC summit in Shenzhen amid leadership meetings",
-      "brief": "China is hosting the 33rd APEC summit in Shenzhen, its technology hub, with anticipated high-level meetings between Trump, Xi, and Putin. The summit represents a significant diplomatic engagement opportunity in the Asia-Pacific region during a period of great power competition.",
+      "headline": "North Korea Confiscates 90% of Workers' Wages Earned in China",
+      "brief": "Internal North Korean ledgers obtained by Radio Free Asia provide documentary evidence that Pyongyang systematically retains approximately 90% of wages earned by its workers deployed in China. This practice represents a significant revenue extraction mechanism for the North Korean regime and raises concerns about labor exploitation. The discovery underscores ongoing economic dependencies and illicit financial flows between North Korea and China.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
         "Radio Free Asia"
       ],
-      "original_link": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
-      "published": "Wed, 18 Nov 2026 15:36:49 +0000",
+      "original_link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/",
+      "published": "Sat, 14 Nov 2026 23:35:35 +0000",
       "raw_source": "Radio Free Asia"
     },
     {
-      "headline": "China launches Shenzhou-24 mission with Pakistani astronaut",
-      "brief": "China successfully launched its Shenzhou-24 crewed mission to its Tiangong space station, carrying three astronauts including Pakistan's first astronaut. This mission represents expanded international participation in China's space program and demonstrates China's advancement in human spaceflight capabilities. The inclusion of a Pakistani astronaut signals China's efforts to strengthen space cooperation ties within Asia.",
+      "headline": "Financial Street Securities Chairman Detained in China Anti-Corruption Campaign",
+      "brief": "Zhu Yanhui, chairman of Hong Kong-listed mainland Chinese brokerage Financial Street Securities, has been detained and placed under investigation by Beijing authorities as part of an ongoing anti-corruption campaign. This represents the latest case of a senior financial executive being targeted, with potential implications for investor confidence in Chinese financial institutions and regulatory stability.",
+      "category": "economy",
+      "severity": "medium",
+      "sources_used": [
+        "Banking & Finance - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/business/china-business/article/3375144/financial-street-securities-says-chairman-detained-and-under-investigation-mainland",
+      "published": "Fri, 20 Nov 2026 02:14:01 +0000",
+      "raw_source": "Banking & Finance - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong court sentences six men for child sexual abuse via dating app",
+      "brief": "A Hong Kong court sentenced six men to 20 months to 4.5 years imprisonment for unlawful sexual conduct with a 14-year-old girl they met on the dating app Heymandi in 2023. The case highlights vulnerabilities in online platforms regarding child safety and the risks minors face when seeking relationships through anonymous digital channels. The judge's sympathetic remarks toward the victim underscore emerging judicial considerations regarding adolescent internet usage and protection.",
       "category": "foreign_relations",
       "severity": "medium",
       "sources_used": [
-        "BBC News"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 03:28:37 GMT",
-      "raw_source": "BBC News"
+      "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375903/4-1/2-years-jail-6-men-who-had-sex-14-year-old-girl-they-met-dating-app",
+      "published": "Thu, 26 Nov 2026 08:42:23 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "Hong Kong stocks recover from AI selloff-driven lows",
-      "brief": "Hong Kong's stock market rebounded Monday after a US technology sector rout initially drove the Hang Seng Tech Index to its lowest level in 19 months, with losses pared to near-flat closing. The tech-focused gauge remains down over one-third for the year, indicating persistent weakness in Hong Kong's technology sector amid broader market volatility tied to US artificial intelligence stock performance.",
+      "headline": "Hong Kong lawmakers defend CUHK governance ordinance amendments",
+      "brief": "Hong Kong legislators have defended proposed amendments to the Chinese University of Hong Kong's ordinance, arguing the changes are necessary to modernize institutional governance and align with current legislative requirements. The amendments represent efforts by Beijing-aligned authorities to update university governance structures, with potential implications for institutional autonomy and regulatory oversight in Hong Kong's education sector.",
+      "category": "foreign_relations",
+      "severity": "medium",
+      "sources_used": [
+        "Hong Kong - South China Morning Post"
+      ],
+      "original_link": "https://www.scmp.com/news/hong-kong/education/article/3375946/hong-kong-lawmakers-defend-cuhk-ordinance-changes-move-boost-governance",
+      "published": "Thu, 26 Nov 2026 12:53:09 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
+    },
+    {
+      "headline": "Hong Kong exports surge 65.6% on AI chip demand amid tariff concerns",
+      "brief": "Hong Kong's exports reached record levels in October 2024, posting 65.6% year-on-year growth\u2014the fastest pace in over 70 years\u2014driven primarily by demand for AI-related electronic goods and semiconductors. This export boom reflects strong global demand for AI infrastructure but faces headwinds from new US tariffs, which could constrain future growth. The development underscores Hong Kong's strategic role in global AI supply chains and emerging US-China trade tensions.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/markets/article/3375424/new-19-month-low-hong-kong-stocks-plunge-ai-sell-spreads-asia",
-      "published": "Mon, 23 Nov 2026 04:20:57 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods",
+      "published": "Thu, 26 Nov 2026 09:23:24 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     },
     {
-      "headline": "China Lowers Stock Trading Requirements to Boost Market Liquidity",
-      "brief": "China's securities regulator approved reductions in minimum margin requirements from 100% to 80% for Shanghai and Shenzhen exchanges, effective November 30, to stimulate trading activity and counter market decline. This measure reduces barriers for leveraged investors and signals government efforts to stabilize equity markets amid global market pressures. The policy change reflects concerns about persistent weakness in China's domestic stock markets.",
+      "headline": "Hong Kong authorities address cybersecurity threats affecting over 1 million users",
+      "brief": "Hong Kong's Privacy Commissioner has called on businesses to strengthen cybersecurity defenses following breaches affecting more than 1 million people, citing AI-enhanced hacking methods that accelerate attack capabilities. The statement underscores growing vulnerabilities in Hong Kong's digital infrastructure and the increasing sophistication of cyber threats, with implications for data protection standards across the region.",
       "category": "economy",
       "severity": "medium",
       "sources_used": [
-        "Banking & Finance - South China Morning Post"
+        "Hong Kong - South China Morning Post"
       ],
-      "original_link": "https://www.scmp.com/business/markets/article/3375388/mainland-china-stock-exchanges-make-moves-raise-liquidity-and-activity-stem-decline",
-      "published": "Mon, 23 Nov 2026 00:00:13 +0000",
-      "raw_source": "Banking & Finance - South China Morning Post"
+      "original_link": "https://www.scmp.com/news/hong-kong/society/article/3375941/hong-kong-privacy-watchdog-urges-businesses-ramp-investment-data-security",
+      "published": "Thu, 26 Nov 2026 11:42:41 +0000",
+      "raw_source": "Hong Kong - South China Morning Post"
     }
   ],
   "deep_dive": {
@@ -269,52 +233,52 @@
     {
       "country": "United States",
       "status": "Tense",
-      "summary": "China-US relations remain strained over trade disputes, technology competition, Taiwan, and strategic rivalry despite some diplomatic engagement."
+      "summary": "China-US relations remain strained due to competition over technology, trade, Taiwan, and regional influence, with ongoing tariffs and strategic rivalry."
     },
     {
       "country": "Russia",
       "status": "Cooperative",
-      "summary": "China and Russia maintain a strategic partnership with deepening energy ties and military cooperation, though China remains officially neutral on Ukraine."
+      "summary": "China and Russia maintain a partnership of convenience with deepening energy and defense ties, though without formal military alliance commitments."
     },
     {
       "country": "European Union",
       "status": "Neutral",
-      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over human rights, technology standards, and strategic competition."
+      "summary": "EU-China relations are mixed, balancing economic interdependence with growing concerns over intellectual property, market access, and geopolitical alignment with the US."
     },
     {
       "country": "Taiwan",
       "status": "Hostile",
-      "summary": "China views Taiwan as a renegade province and maintains military pressure while rejecting its independent political status."
+      "summary": "China maintains a hostile stance toward Taiwan, refusing to renounce use of force and conducting military exercises while increasing political and economic pressure."
     },
     {
       "country": "Japan",
       "status": "Tense",
-      "summary": "China-Japan relations are strained due to historical grievances, territorial disputes over the Senkaku Islands, and strategic competition in East Asia."
+      "summary": "China-Japan ties remain tense over territorial disputes in the East China Sea, historical grievances, and Japan's alignment with US security interests."
     },
     {
       "country": "India",
       "status": "Tense",
-      "summary": "Border disputes, particularly in the Ladakh region, military clashes, and strategic rivalry have created persistent tensions despite trade relations."
+      "summary": "China-India relations are strained following the 2020 border clash and ongoing military standoff in Ladakh, compounded by broader strategic competition."
     },
     {
       "country": "Saudi Arabia",
       "status": "Cooperative",
-      "summary": "China and Saudi Arabia maintain pragmatic economic and energy relations, with China being a major customer of Saudi oil and arms importer."
+      "summary": "China and Saudi Arabia maintain cooperative relations centered on energy trade, infrastructure investment, and mutual strategic interests in the Middle East."
     },
     {
       "country": "Philippines",
-      "status": "Neutral",
-      "summary": "China-Philippines relations fluctuate between cooperation on economic issues and tensions over South China Sea territorial claims and maritime disputes."
+      "status": "Tense",
+      "summary": "China-Philippines relations fluctuate between cooperation and tension due to competing South China Sea claims and Philippine security ties with the United States."
     },
     {
       "country": "Brazil",
-      "status": "Cooperative",
-      "summary": "China-Brazil relations are strong, with significant trade and investment ties, though Brazil maintains independent foreign policy positions."
+      "status": "Neutral",
+      "summary": "China-Brazil relations are pragmatically neutral, based primarily on trade in commodities and agricultural products with limited strategic coordination."
     },
     {
       "country": "Australia",
       "status": "Tense",
-      "summary": "Relations have been strained since 2020 due to Australian calls for COVID-19 investigations, trade tensions, and security concerns over Chinese influence."
+      "summary": "China-Australia relations remain tense following Australia's alignment with US security interests and Chinese economic coercion measures over trade."
     }
   ]
 }
