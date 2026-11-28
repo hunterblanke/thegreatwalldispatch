@@ -1,6 +1,274 @@
 {
   "entries": [
     {
+      "date": "2026-11-27",
+      "articles": [
+        {
+          "headline": "U.S. and China Navigate Strategic AI Competition Risks",
+          "brief": "The article examines the competitive dynamics between the United States and China in artificial intelligence development and the potential risks of an unchecked technology race. The analysis suggests both nations face strategic incentives to establish frameworks preventing AI-related escalation and technological catastrophe. This competition has significant implications for global economic leadership, technological standards, and international stability.",
+          "category": "economy",
+          "severity": "high",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/ai-us-china-endgame-tech-catastrophe-sheehan-singer",
+          "published": "Fri, 27 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China investigates Shanghai party chief amid succession uncertainty",
+          "brief": "Chen Jining, Shanghai's party chief, is under investigation, marking the fourth current Politburo member to face such action. The development raises questions about potential power realignments within China's leadership and potential implications for Xi Jinping's succession planning. This pattern of high-level investigations suggests significant internal political dynamics at the top levels of the Chinese Communist Party.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/25/chen-jining-china-investigation-/",
+          "published": "Wed, 25 Nov 2026 17:13:29 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Allegedly Behind AI Deepfake Campaign Targeting Taiwan Leadership",
+          "brief": "A network of AI-generated fake videos has targeted key figures in Taiwan's ruling Democratic Progressive Party, including President Lai and mayoral candidate Shen. The campaign represents an escalation in information warfare tactics potentially originating from China, demonstrating the emerging threat of synthetic media as a tool for political interference during critical periods.",
+          "category": "military",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 24 Nov 2026 23:05:11 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Huawei convicted on 10 counts in US trial; China advances space diplomacy",
+          "brief": "Huawei faced significant legal setbacks in the United States with conviction on 10 counts, while China simultaneously advanced space cooperation through its Shenzhou-24 mission, which included the space station's first foreign crew member interaction. These parallel developments underscore ongoing US-China technological competition and China's efforts to expand international space partnerships despite bilateral tensions.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+          "published": "Fri, 27 Nov 2026 04:15:06 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Xi's Anti-Corruption Campaign Removes Senior Party Official",
+          "brief": "Chen Jining, a rising figure in China's Communist Party, has been removed as part of the widest purge of the Politburo in several decades under Xi Jinping's anti-corruption campaign. This represents a significant consolidation of power within party leadership and suggests ongoing internal political instability at senior levels. The extensive nature of the purge indicates potential rifts within the party hierarchy regarding governance and policy direction.",
+          "category": "foreign_relations",
+          "severity": "high",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 05:37:25 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "China Anticipates Shift Toward More Adversarial U.S. Relations",
+          "brief": "China is preparing for a more confrontational approach to U.S.-China relations following the Trump administration's anticipated return to office. The shift represents a departure from recent d\u00e9tente, with Chinese policymakers expecting heightened trade tensions and geopolitical competition. This positioning reflects Beijing's strategic reassessment of bilateral economic and security dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/china/china-preparing-end-detente-trump-yun-sun",
+          "published": "Wed, 25 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "US announces new tariffs targeting China and other major trading partners",
+          "brief": "The United States has announced new tariff measures affecting multiple countries, with China and the European Union among the primary targets. This action represents an escalation in trade tensions and could significantly impact global supply chains and international economic relationships. The move may prompt retaliatory measures from affected nations and could influence broader geopolitical dynamics.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 26 Nov 2026 04:10:58 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "Planned U.S.-China AI Talks in Shenzhen Cancelled Without Explanation",
+          "brief": "A scheduled meeting between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng in Shenzhen to advance bilateral artificial intelligence dialogue did not occur as planned. The cancellation marks a setback in efforts to establish communication channels on AI governance between the world's two largest economies, potentially indicating deteriorating diplomatic engagement on technology policy.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/what-happened-to-the-china-us-ai-talks/",
+          "published": "Wed, 25 Nov 2026 22:41:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "China Uses Patriotic Tourism to Assert Paracel Islands Sovereignty",
+          "brief": "China is employing civilian cruise tourism to the disputed Paracel Islands as a soft power strategy to reinforce its territorial claims in the South China Sea. This initiative occurs amid Vietnam's concurrent efforts to improve bilateral relations with China, potentially affecting regional maritime tensions and competing sovereignty assertions in the contested waters.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/vietnam/2026/11/25/vietnam-china-paracels-south-china-sea/",
+          "published": "Wed, 25 Nov 2026 08:07:22 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Escalates Sophisticated Interference in Taiwan Elections",
+          "brief": "Beijing is employing increasingly sophisticated tactics to interfere with Taiwan's democratic processes ahead of local elections. The escalation in interference sophistication presents a significant challenge to Taiwan's electoral integrity and democratic institutions. This represents a broader pattern of Chinese efforts to shape political outcomes across the Taiwan Strait.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/ahead-of-taiwans-local-elections-chinas-interference-looms-large/",
+          "published": "Thu, 26 Nov 2026 03:09:00 +0900",
+          "raw_source": "The Diplomat"
+        },
+        {
+          "headline": "Hong Kong completes legal overhaul removing colonial-era provisions early",
+          "brief": "Hong Kong authorities have completed a comprehensive revision of the city's legal framework by removing colonial-era references and outdated provisions, finishing seven months ahead of the 30th anniversary of the 1997 handover. Beijing has characterized the completion as a symbolic milestone demonstrating Hong Kong's fulfillment of its constitutional obligations under the Basic Law. The move reflects continued efforts to align Hong Kong's legal system with mainland governance standards.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Hong Kong - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376093/hong-kong-completes-historic-overhaul-colonial-era-laws-7-months-early",
+          "published": "Fri, 27 Nov 2026 14:41:55 +0000",
+          "raw_source": "Hong Kong - South China Morning Post"
+        },
+        {
+          "headline": "Taiwan closes Port Moresby office amid PNG-China relations shift",
+          "brief": "Taiwan has withdrawn its office from Papua New Guinea's capital, following PNG's legal authority to close foreign representative offices. The move reflects PNG's strategic realignment toward closer ties with China, with analysts assessing both the benefits and costs of this geopolitical shift in the Indo-Pacific region.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/pacific/2026/11/20/taiwan-representative-office-png-closure/",
+          "published": "Fri, 20 Nov 2026 07:20:44 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Taiwan Opposition Figure Sanctioned by China Eyes Taipei Mayoralty",
+          "brief": "Puma Shen, a critic of China who has organized civilian defense preparations against potential invasion, is a potential candidate for Taipei's next mayor. His political rise could signal Taiwan's increasing focus on military preparedness and civil defense. China has already imposed sanctions on Shen for his defense mobilization efforts.",
+          "category": "military",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/27/world/asia/puma-shen-taiwan-election-china.html",
+          "published": "Fri, 27 Nov 2026 13:33:49 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Trump, Xi, Putin trilateral meeting produces minimal substantive progress",
+          "brief": "Leaders of the United States, China, and Russia convened to discuss nuclear tensions, AI competition, and Taiwan's political status, though no significant agreements emerged from the talks. The meeting maintained existing geopolitical positions without advancing resolution on key contentious issues, suggesting limited near-term breakthroughs in U.S.-China-Russia relations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/19/trump-xi-putin-apec-summit/",
+          "published": "Thu, 19 Nov 2026 15:07:24 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "China Lowers Stock Trading Barriers to Reverse Market Decline",
+          "brief": "China's securities regulator approved Shanghai and Shenzhen exchanges to reduce minimum margin requirements from 100% to 80%, effective November 30, lowering barriers for leveraged stock trading. The measure aims to stimulate liquidity and counter ongoing market declines amid global market turbulence. This regulatory shift signals Beijing's concern about domestic equity market weakness and willingness to ease trading conditions to attract investor participation.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/markets/article/3375388/mainland-china-stock-exchanges-make-moves-raise-liquidity-and-activity-stem-decline",
+          "published": "Mon, 23 Nov 2026 00:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "US Tariffs on China Amid Tech Stock Volatility and AI Trade Concerns",
+          "brief": "US capital markets experienced volatility this week as proposed 20-40% tariffs on China and other major economies weighed on investor sentiment, despite Nvidia's significant 31% stock surge following leadership changes. The tariff uncertainty reflects broader concerns about US-China trade tensions and their potential impact on the AI industry and global supply chains. These developments signal mounting economic headwinds for US-China relations and technology sector profitability.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "Banking & Finance - South China Morning Post"
+          ],
+          "original_link": "https://www.scmp.com/business/china-business/article/3375991/nvidias-31-surge-20-40-us-tariffs-china-5-figures-investors-are-watching-week",
+          "published": "Fri, 27 Nov 2026 07:00:13 +0000",
+          "raw_source": "Banking & Finance - South China Morning Post"
+        },
+        {
+          "headline": "North Korea expels Swiss diplomat over sanctions dispute",
+          "brief": "North Korea has expelled a Swiss diplomat in a sanctions-related dispute, though Switzerland will maintain diplomatic channels through its embassy in Beijing and North Korea's embassy in Bern. The expulsion reflects escalating tensions over international sanctions enforcement, with potential implications for future diplomatic mediation efforts on the Korean peninsula.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "BBC News"
+          ],
+          "original_link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 25 Nov 2026 21:51:17 GMT",
+          "raw_source": "BBC News"
+        },
+        {
+          "headline": "US-China D\u00e9tente Shows Signs of Strain Despite Trade War Pause",
+          "brief": "The United States and China have announced a pause in their 2025 trade conflict and declared a relationship of \"constructive strategic stability,\" with President Trump and Xi Jinping scheduled to meet at the Asia-Pacific Economic Cooperation summit. However, underlying tensions suggest the d\u00e9tente between Washington and Beijing is beginning to deteriorate beneath the surface. The apparent rapprochement carries significant implications for global trade and economic relationships, particularly concerning American allies in the region.",
+          "category": "economy",
+          "severity": "medium",
+          "sources_used": [
+            "FA RSS"
+          ],
+          "original_link": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
+          "published": "Tue, 17 Nov 2026 04:00:00 -0500",
+          "raw_source": "FA RSS"
+        },
+        {
+          "headline": "China hosts 33rd APEC summit in Shenzhen amid diplomatic engagement",
+          "brief": "China's Shenzhen is preparing to host the 33rd APEC summit, suggesting high-level diplomatic engagement among major powers including the United States, China, and Russia. The summit represents a significant multilateral economic and political forum, with potential implications for regional trade, strategic alignment, and bilateral relations among participating nations.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "Radio Free Asia"
+          ],
+          "original_link": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
+          "published": "Wed, 18 Nov 2026 15:36:49 +0000",
+          "raw_source": "Radio Free Asia"
+        },
+        {
+          "headline": "Russia Removes Gulag Memorials as Stalin Rehabilitation Accelerates",
+          "brief": "The Kremlin is systematically removing plaques and memorials commemorating Soviet labor camp atrocities as part of an accelerated rehabilitation of Stalin's historical legacy during the Ukraine conflict. This effort to reshape historical narratives may indicate Moscow's intent to consolidate domestic support and nationalist sentiment as the war continues. The erasure of Gulag memory represents a significant shift in how Russia officially characterizes its Soviet past.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "NYT > World News"
+          ],
+          "original_link": "https://www.nytimes.com/2026/11/27/world/europe/russia-gulag-memory.html",
+          "published": "Fri, 27 Nov 2026 10:00:10 +0000",
+          "raw_source": "NYT > World News"
+        },
+        {
+          "headline": "Philippines navigates divergent China policy within ASEAN consensus",
+          "brief": "The Philippines appears to be adopting a distinct approach toward China compared to other ASEAN members, balancing contention with accommodation while taking a subtly different stance from Japan. This divergence may indicate potential fractures in ASEAN unity regarding regional security and China policy. The Philippines' isolated position could complicate coordinated ASEAN responses to regional maritime and geopolitical challenges.",
+          "category": "foreign_relations",
+          "severity": "medium",
+          "sources_used": [
+            "The Diplomat"
+          ],
+          "original_link": "https://thediplomat.com/2026/11/is-the-philippines-isolated-within-asean/",
+          "published": "Thu, 26 Nov 2026 15:12:00 +0900",
+          "raw_source": "The Diplomat"
+        }
+      ],
+      "metrics": {
+        "sources_scanned": 7,
+        "articles_total": 21,
+        "high_priority": 5,
+        "by_category": {
+          "economy": 6,
+          "foreign_relations": 12,
+          "military": 3
+        },
+        "updated_at": "2026-11-27T19:15:41.771067Z"
+      }
+    },
+    {
       "date": "2026-11-26",
       "articles": [
         {
@@ -21253,214 +21521,6 @@
           "military": 1
         },
         "updated_at": "2026-08-30T14:35:06.683080Z"
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "articles": [
-        {
-          "headline": "Russia Escalates Rhetoric While Avoiding Direct NATO Conflict",
-          "brief": "Western officials assess that Russia is increasing inflammatory rhetoric toward NATO but aims to avoid direct military confrontation with the alliance. Moscow is expected to continue hybrid warfare activities\u2014including cyber attacks, disinformation, and other operations below the threshold of conventional warfare\u2014against NATO members. This strategy suggests Russia seeks to maintain pressure and destabilization while calculating the risks of overt military engagement remain prohibitive.",
-          "category": "foreign_relations",
-          "severity": "high",
-          "sources_used": [
-            "BBC News"
-          ],
-          "original_link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-          "published": "Fri, 28 Aug 2026 19:05:23 GMT",
-          "raw_source": "BBC News"
-        },
-        {
-          "headline": "Indonesia-China naval drills may normalize Beijing's maritime presence",
-          "brief": "China and Indonesia conducted a joint naval exercise east of Taiwan, which experts assessed as not immediately threatening but potentially significant for establishing precedent. Repeated military cooperation with third parties in the region could strengthen China's claims to expanded maritime influence and normalize its operational presence in strategically contested waters.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/",
-          "published": "Tue, 25 Aug 2026 01:22:34 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China conducted targeted campaign promoting five-year plan in Pacific",
-          "brief": "According to the Alliance Futures Initiative, China likely executed a coordinated regional campaign to align Pacific nations with its 15th Five-Year Plan objectives. The effort represents Beijing's strategic approach to advancing its developmental and geopolitical priorities across the region. This indicates China's sustained focus on gaining diplomatic support and regional alignment for its domestic policy agenda.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/",
-          "published": "Thu, 20 Aug 2026 22:45:31 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Solomon Islands Signs Security Pact with US, Maintains Beijing Ties",
-          "brief": "The Solomon Islands has signed a security agreement with the United States while reaffirming its neutral stance toward China, reflecting a regional pattern of engaging both major powers. Regional experts characterize this dual engagement as standard diplomatic practice for Pacific nations. The development illustrates ongoing great power competition in the Indo-Pacific region as the US seeks to strengthen security partnerships while China maintains economic and strategic presence.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/pacific/2026/08/01/solomon-islands-security-agreement-usa/",
-          "published": "Sat, 01 Aug 2026 02:41:56 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "China resumes demolition of major Tibetan Buddhist monastery complex",
-          "brief": "Satellite imagery confirms Beijing has resumed demolition operations at a significant Tibetan Buddhist academy, according to Radio Free Asia reporting. Religious advocates claim the demolitions target monks' residences as part of efforts to restrict religious freedom and expand ethnic unity policies in Tibet. The resumption of construction activities suggests continued enforcement of Beijing's religious and ethnic policies in the region.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/19/larung-gar-china-demolition-buddhist-monks/",
-          "published": "Wed, 19 Aug 2026 03:01:35 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "Former Premier Zhu's Development Strategy Enhanced Beijing's Tibet Control",
-          "brief": "Former Chinese Premier Zhu Rongji's Western Development Strategy utilized economic policies as a mechanism to align Tibetan populations with central government directives. The approach demonstrates Beijing's use of economic development initiatives as tools for political consolidation in ethnic regions. This strategy has significant implications for understanding China's long-term approach to governance and integration of minority territories.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Radio Free Asia"
-          ],
-          "original_link": "https://rfa.org/english/tibet/2026/08/12/china-zhu-rongji-obituary-tibet-influence/",
-          "published": "Wed, 12 Aug 2026 21:48:20 +0000",
-          "raw_source": "Radio Free Asia"
-        },
-        {
-          "headline": "TTP Escalates Operations Along China-Pakistan Economic Corridor",
-          "brief": "The Tehrik-i-Taliban Pakistan (TTP) has increased its militant presence along the Karakoram Highway, a critical infrastructure route connecting China and Pakistan. This buildup threatens the security of a $1.8 billion China-Pakistan Economic Corridor project aimed at upgrading the Thakot-Raikot highway section. The escalation poses significant risks to Chinese economic interests and bilateral infrastructure investments in the region.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "The Diplomat"
-          ],
-          "original_link": "https://thediplomat.com/2026/08/militant-buildup-in-areas-critical-to-chinas-economic-interests-in-pakistan/",
-          "published": "Fri, 28 Aug 2026 15:19:00 +0900",
-          "raw_source": "The Diplomat"
-        },
-        {
-          "headline": "China leverages rare-earth dominance as strategic economic weapon",
-          "brief": "China has consolidated control over rare-earth element production and supply chains, establishing a dominant market position that provides significant geopolitical leverage. This dominance enables Beijing to influence global technology, defense, and renewable energy sectors dependent on these critical materials. The development represents a strategic advantage with implications for international supply chain resilience and technology competition.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
-          "published": "Tue, 18 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "Congress Urged to Develop Sustained Strategy for China Competition",
-          "brief": "A Foreign Affairs article emphasizes that Congress must take the lead in formulating a durable, long-term strategy to compete with China economically. The piece argues that sustained legislative action is critical to maintaining competitive advantage against Beijing. The focus on congressional leadership suggests concerns about continuity and coordination in U.S.-China economic competition.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "FA RSS"
-          ],
-          "original_link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
-          "published": "Wed, 19 Aug 2026 00:00:00 -0400",
-          "raw_source": "FA RSS"
-        },
-        {
-          "headline": "PACOM Commander Discusses Indo-Asia-Pacific Strategic Priorities",
-          "brief": "Admiral Harry B. Harris, Commander of U.S. Pacific Command, participated in a CSIS discussion on strategic opportunities in the Indo-Asia-Pacific region. The briefing reflects U.S. military focus on regional engagement and strategic positioning in the Asia-Pacific theater during a period of evolving geopolitical dynamics.",
-          "category": "military",
-          "severity": "medium",
-          "sources_used": [
-            "CSIS"
-          ],
-          "original_link": "https://www.csis.org/events/strategic-opportunities-indo-asia-pacific-admiral-harry-b-harris",
-          "published": "Tue, 26 Jan 2016 16:20:53 +0000",
-          "raw_source": "CSIS"
-        },
-        {
-          "headline": "Trump Administration Shifts Iran Strategy to Economic Pressure",
-          "brief": "The Trump administration has replaced military confrontation with Iran with heightened economic measures, though analysts indicate this shift is unlikely to alter Iran's strategic posture. The policy appears primarily focused on economic pressure rather than achieving defined strategic objectives, with potential humanitarian consequences for the Iranian population.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "NYT > World News"
-          ],
-          "original_link": "https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html",
-          "published": "Fri, 28 Aug 2026 19:43:42 +0000",
-          "raw_source": "NYT > World News"
-        },
-        {
-          "headline": "JPMorgan: Beijing investment curbs won't weaken Hong Kong wealth hub",
-          "brief": "Beijing's recent cross-border investment restrictions and tax measures on overseas insurance gains may create near-term uncertainty for Hong Kong's financial sector. However, JPMorgan Chase's Asia leadership assesses that these measures will not fundamentally undermine Hong Kong's long-term position as a major wealth management center.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/banking-finance/article/3365613/hong-kongs-long-term-wealth-hub-status-safe-mainland-investment-curbs-jpmorgan-exec?utm_source=rss_feed",
-          "published": "Sat, 29 Aug 2026 02:00:20 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "US surgical robotics firm seeks Hong Kong IPO for China expansion",
-          "brief": "SoftBank-backed Noah Medical is preparing a Hong Kong initial public offering targeting over US$100 million to fund its expansion into mainland China. The move reflects broader trends of international technology companies leveraging Hong Kong's capital markets to access the Chinese market. This indicates continued foreign investor interest in China's healthcare technology sector despite geopolitical tensions.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/companies/article/3365539/softbank-backed-surgical-robotics-firm-eyes-hong-kong-listing-power-mainland-china-push?utm_source=rss_feed",
-          "published": "Fri, 28 Aug 2026 05:00:12 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "China Life Insurance posts record profits, increases tech sector investments",
-          "brief": "China Life Insurance, the country's largest life insurer, reported first-half 2024 revenue of 434.3 billion yuan (up 81.5% year-on-year) and net profit surge of over 228%, with plans to significantly scale investments in AI, semiconductors, and biotech sectors. The insurer's strategic pivot toward technology and innovative enterprises reflects broader Chinese capital allocation trends and positions major financial institutions as key investors in domestic technological advancement.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/business/companies/article/3365549/china-lifes-revenue-surges-top-insurer-ramps-investment-ai-chips-and-biotech?utm_source=rss_feed",
-          "published": "Fri, 28 Aug 2026 06:00:07 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Chinese AI firm MiniMax shows strong growth but lags full-year targets",
-          "brief": "MiniMax reported 283% first-half revenue growth to $116.6 million, driven by enterprise business expansion, but current pace suggests it will fall short of full-year analyst forecasts of $363.77 million. The shortfall underscores intensifying competition in China's AI sector and questions about whether emerging Chinese AI companies can sustain growth projections in a rapidly saturating market.",
-          "category": "economy",
-          "severity": "medium",
-          "sources_used": [
-            "Banking & Finance - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/tech/big-tech/article/3365341/minimax-revenue-surges-283-remains-behind-pace-meet-forecast-amid-crowded-ai-race?utm_source=rss_feed",
-          "published": "Wed, 26 Aug 2026 10:52:43 +0000",
-          "raw_source": "Banking & Finance - South China Morning Post"
-        },
-        {
-          "headline": "Hong Kong pledges HK$50m aid for Nepal-Tibet flood relief",
-          "brief": "Hong Kong's government has committed HK$50 million from its Disaster Relief Fund to support victims of deadly flash floods at the Nepal-Tibet border, with the advisory committee expediting application processing. Local Nepalese community groups and organizations have simultaneously launched independent fundraising initiatives. The coordinated relief response demonstrates Hong Kong's humanitarian engagement with neighboring regions and its diaspora communities.",
-          "category": "foreign_relations",
-          "severity": "medium",
-          "sources_used": [
-            "Hong Kong - South China Morning Post"
-          ],
-          "original_link": "https://www.scmp.com/news/hong-kong/society/article/3365696/hong-kong-sets-aside-hk50-million-relief-fund-nepal-tibet-flood-victims?utm_source=rss_feed",
-          "published": "Sat, 29 Aug 2026 07:56:01 +0000",
-          "raw_source": "Hong Kong - South China Morning Post"
-        }
-      ],
-      "metrics": {
-        "sources_scanned": 8,
-        "articles_total": 16,
-        "high_priority": 1,
-        "by_category": {
-          "foreign_relations": 8,
-          "military": 2,
-          "economy": 6
-        },
-        "updated_at": "2026-08-29T14:48:24.248872Z"
       }
     }
   ]
